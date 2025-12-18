@@ -1,6 +1,0 @@
-type,id,lat,lon,tag:description,tag:man_made,tag:name,tag:natural,tag:ref,tag:source:ref,tag:source:url,tag:volcano:status,tag:volcano:type,tag:wikidata
-node,13200943487,50.2923379,6.5064981,,,Dehner Maar,volcano,,,https://kulturdb.de/einobjekt.php?id=8502,extinct,maar,Q134466523
-node,13200955773,50.2775941,6.5933215,,,Auel Maar,volcano,,,https://kulturdb.de/einobjekt.php?id=23391,extinct,maar,Q134466471
-node,13386703821,50.2824961,6.5951003,bore hole for geoscientific research,bore_hole,AU3,,AU3,doi=10.3390/quat7020017,https://kulturdb.de/einobjekt.php?id=23391,,,
-node,13386723672,50.2927959,6.5065854,bore hole for geoscientific research,bore_hole,DE4,,DE4,doi=10.3390/quat7020017,https://kulturdb.de/einobjekt.php?id=8502,,,
-node,13386786938,50.2821054,6.5949806,bore hole for geoscientific research,bore_hole,AU4,,AU4,doi=10.3390/quat7020017,https://kulturdb.de/einobjekt.php?id=23391,,,

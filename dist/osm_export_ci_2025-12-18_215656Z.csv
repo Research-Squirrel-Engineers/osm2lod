@@ -1,0 +1,10 @@
+type,id,lat,lon,tag:name,tag:natural,tag:tourism,tag:wikidata,tag:wikipedia,tag:int_name,tag:name:de,tag:name:en,tag:historic,tag:access,tag:archaeological_site,tag:historic:civilization,tag:ele,tag:name:sr,tag:source_ref
+node,337519639,40.495534,15.2091978,Grotte di Castelcivita,cave_entrance,attraction,Q3777120,it:Grotte di Castelcivita,,,,,,,,,,
+node,369821847,43.0892646,23.3849053,Темната дупка,cave_entrance,,Q12296153,,Temnata dupka,Temnata dupka (Dunkles Loch),Temnata dupka,,,,,,,
+node,1221172611,37.422578,23.1311076,,,,Q1441331,en:Franchthi Cave,,,Franchthi Cave,archaeological_site,,,,,,
+node,2293681037,41.654115,15.6149763,Grotta Paglicci,,,Q3777010,it:Grotta Paglicci,,,,archaeological_site,no,rock_painting,prehistoric,,,
+node,7778324735,32.9001953,22.0515628,Haua Fteah Cave,cave_entrance,,Q25226810,en:Haua Fteah,,,,archaeological_site,,,,67,,
+node,8814442373,43.6518818,22.7024397,Козарника,cave_entrance,,Q2037533,,,,,,,,,,,
+node,10879170567,42.7789851,18.4814542,Crvena stijena,,,Q121418883,bs:Crvena stijena (Crna Gora),,,Red wall,archaeological_site,,megalith,neolithic,,Црвена стијена,
+node,11107939919,41.8117124,21.1617392,Голема Пеш,,,Q20565511,mk:Голема Пеш,,,Golema Pesht,archaeological_site,,settlement,prehistoric,,,
+node,11109379095,43.1907029,24.0052556,Toplitsa Cave,cave_entrance,,Q61788595,,,,,,,,,300,,10.1016/j.jasrep.2021.102912

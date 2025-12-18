@@ -367,7 +367,7 @@ def df_to_rdf(df: pd.DataFrame) -> Graph:
         record_uri = _osm_record_uri(el_type, el_id)
         entity_uri = _entity_uri(el_type, el_id)
 
-        g.add((record_uri, RDF.type, DCAT.CatalogRecord))
+        g.add((record_uri, RDF.type, DCAT.Dataset))
         g.add((record_uri, RDF.type, ENTITY_BASE_CLASS))
 
         g.add((record_uri, DCTERMS.created, Literal(ISO_TIME, datatype=XSD.dateTime)))

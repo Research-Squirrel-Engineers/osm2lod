@@ -1,0 +1,98 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "prov": "http://www.w3.org/ns/prov#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "geosparql": "http://www.opengis.net/ont/geosparql#",
+    "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
+    "osmtag": "https://research-squirrel-engineers.github.io/osm2lod/osmtag/"
+  },
+  "exportType": "drillcores",
+  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/dataset/osm-export/drillcores/2025-12-18_215714Z",
+  "dcterms:title": "OSM Overpass Export",
+  "dcterms:created": "2025-12-18T21:57:14.047402+00:00",
+  "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
+  "overpassEndpointCandidates": [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.openstreetmap.ru/api/interpreter"
+  ],
+  "overpassQuery": "[out:json][timeout:25];\n(\n  node(13386703821);\n  node(13386786938);\n  node(13386723672);\n  node(13200955773);\n  node(13200943487);\n);\nout geom;",
+  "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+  "recordUriPattern": "http://openstreetmap.org/{type}/{id}",
+  "primaryTopicPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}/{id}",
+  "geometry": {
+    "type": "GeoSPARQL WKT Point",
+    "crs": "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "wktExample": "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(lon lat)"
+  },
+  "coreTagKeys": [
+    "name",
+    "alt_name",
+    "int_name",
+    "loc_name",
+    "description",
+    "note",
+    "source",
+    "source:ref",
+    "source:url",
+    "ref",
+    "access",
+    "operator",
+    "historic",
+    "historic:civilization",
+    "place_of_worship",
+    "religion",
+    "denomination",
+    "natural",
+    "man_made",
+    "water",
+    "water_source",
+    "tourism",
+    "archaeological_site",
+    "ele",
+    "wikidata",
+    "wikipedia",
+    "wikimedia_commons",
+    "image",
+    "website",
+    "url"
+  ],
+  "extraTagKeys": [
+    "volcano:status",
+    "volcano:type"
+  ],
+  "recordCount": 5,
+  "columns": [
+    "type",
+    "id",
+    "lat",
+    "lon",
+    "tag:name",
+    "tag:natural",
+    "tag:source:url",
+    "tag:volcano:status",
+    "tag:volcano:type",
+    "tag:wikidata",
+    "tag:description",
+    "tag:man_made",
+    "tag:ref",
+    "tag:source:ref"
+  ],
+  "dcat:distribution": [
+    {
+      "dcat:mediaType": "text/csv",
+      "dcat:downloadURL": "osm_export_drillcores_2025-12-18_215714Z.csv",
+      "dcat:byteSize": 905
+    },
+    {
+      "dcat:mediaType": "text/turtle",
+      "dcat:downloadURL": "osm_export_drillcores_2025-12-18_215714Z.ttl",
+      "dcat:byteSize": 6537
+    }
+  ],
+  "output": {
+    "csv": "osm_export_drillcores_2025-12-18_215714Z.csv",
+    "ttl": "osm_export_drillcores_2025-12-18_215714Z.ttl"
+  }
+}
