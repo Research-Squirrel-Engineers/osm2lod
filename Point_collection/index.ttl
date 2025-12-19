@@ -1,3 +1,4 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
@@ -7,7 +8,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Point Instances Collection"@en ;
     void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    rdfs:member <http://research-squirrel-engineers.github.io/osm2lod/10009186152_geom>,
+    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/10009186152_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10009450906_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10019017329_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10040750611_geom>,
@@ -116,6 +117,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/10790982519_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10805837721_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10815448825_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/10879170567_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10896922795_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10930582485_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/10957536331_geom>,
@@ -130,6 +132,8 @@
         <http://research-squirrel-engineers.github.io/osm2lod/11065786745_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/11071324384_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/11071361392_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/11107939919_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/11109379095_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/11121622331_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/11121637179_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/11123956952_geom>,
@@ -300,6 +304,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/12157449637_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1217189886_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1217631637_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/1221172611_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12213841421_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12242106206_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12249148045_geom>,
@@ -423,6 +428,8 @@
         <http://research-squirrel-engineers.github.io/osm2lod/13123649622_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13197433619_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13197438363_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/13200943487_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/13200955773_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13256638255_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13265073086_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13275404912_geom>,
@@ -432,6 +439,9 @@
         <http://research-squirrel-engineers.github.io/osm2lod/13333479519_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13359398696_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13364444319_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/13386703821_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/13386723672_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/13386786938_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1341943789_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1357572622_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1421326327_geom>,
@@ -450,6 +460,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/1867143308_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/2005208928_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/2092725716_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/2293681037_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/2311772172_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/2312124462_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/2321270952_geom>,
@@ -503,6 +514,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/3184138036_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3220290865_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3234606193_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/337519639_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3382128850_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3433695110_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3451742209_geom>,
@@ -512,6 +524,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/3663314804_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3666261589_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3669219617_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/369821847_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3772645105_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/379721841_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/3922603503_geom>,
@@ -584,6 +597,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/7416988427_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/757974170_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7627043038_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/7778324735_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7869869204_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7925063785_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7926390758_geom>,
@@ -694,6 +708,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/8777762652_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/8783730699_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/8787913024_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/8814442373_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/8814582965_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/8846861791_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/8872903963_geom>,

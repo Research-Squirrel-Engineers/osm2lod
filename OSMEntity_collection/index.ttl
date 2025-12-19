@@ -1,3 +1,4 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
@@ -7,7 +8,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "OSMEntity Instances Collection"@en ;
     void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    rdfs:member <http://research-squirrel-engineers.github.io/osm2lod/node_10009186152>,
+    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/node_10009186152>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_10009450906>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_10019017329>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_10040750611>,

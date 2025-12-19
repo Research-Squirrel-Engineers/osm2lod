@@ -29,114 +29,130 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod> a void:Dataset,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod> a void:Dataset,
         <http://www.w3.org/ns/adms#Asset>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "osm2lod"@en ;
     ns1:averageLiteralLength 0 ;
-    ns1:averageObjectIRILength 0 ;
-    ns1:averagePropertyIRILength 50,
-        52,
-        56,
-        57 ;
-    ns1:averageSubjectIRILength 0 ;
+    ns1:averageObjectIRILength 41,
+        42,
+        43,
+        45 ;
+    ns1:averagePropertyIRILength 49,
+        51,
+        55,
+        56 ;
+    ns1:averageSubjectIRILength 68,
+        69,
+        70 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 86,
-        137,
-        978,
-        5320 ;
+    ns1:distinctIRIReferences 111,
+        166,
+        1104,
+        6052 ;
     ns1:distinctLiterals 0 ;
-    ns1:distinctRDFNodes 86,
-        137,
-        978,
-        5320 ;
+    ns1:distinctRDFNodes 111,
+        166,
+        1104,
+        6052 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T16:25:03"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T16:30:32"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
     dcterms:title "osm2lod"@en ;
-    vann:preferredNamespacePrefix "crm"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.cidoc-crm.org/cidoc-crm/"^^xsd:anyURI ;
-    void:classPartition <http://www.cidoc-crm.org/cidoc-crm/osm2lod_Dataset>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E22_Human_Made_Object>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E26_Physical_Feature>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E55_Place>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_OSMEntity>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_Point> ;
-    void:classes 5 ;
+    vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
+    vann:preferredNamespaceUri "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
+    void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E22_Human_Made_Object>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E26_Physical_Feature>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E55_Place>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_FeatureCollection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_GeometryCollection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_OSMEntity>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Point>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_SpatialObjectCollection> ;
+    void:classes 10 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
-    void:distinctObjects 50,
-        93,
-        732,
-        3859 ;
-    void:distinctSubjects 11,
-        19,
-        213,
-        1425 ;
-    void:entities 1 ;
+    void:distinctObjects 64,
+        111,
+        847,
+        4580 ;
+    void:distinctSubjects 19,
+        27,
+        221,
+        1433 ;
+    void:entities 16,
+        24,
+        218,
+        1430 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 25,
-        33,
-        36 ;
-    void:propertyPartition <http://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_created>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_label>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__denomination>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ele>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__int_name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__man_made>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__natural>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__operator>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__place_of_worship>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__religion>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__url>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__status>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__type>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water_source>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_rights>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_source>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_title>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_type> ;
-    void:triples 106,
-        171,
-        1711,
-        12136 ;
-    void:uriSpace "http://www.cidoc-crm.org/cidoc-crm/"^^xsd:string ;
+    void:properties 28,
+        36,
+        39 ;
+    void:propertyPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_asWKT>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_created>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dataset>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_exportType>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_hasGeometry>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_identifier>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_isPartOf>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_label>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_member>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__access>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__alt_name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__archaeological_site>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__denomination>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__description>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__ele>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__historic>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__historic__civilization>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__image>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__int_name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__loc_name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__man_made>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__natural>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__note>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__operator>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__place_of_worship>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__ref>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__religion>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__url>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__tourism>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__url>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__volcano__status>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__volcano__type>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__water>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__water_source>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__website>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikidata>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikimedia_commons>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikipedia>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_primaryTopic>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_provenance>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_rights>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_sameAs>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_source>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_subClassOf>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_title>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> ;
+    void:triples 155,
+        244,
+        2366,
+        16427 ;
+    void:uriSpace "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,
         dcmitype:,
@@ -169,7 +185,7 @@
         brick:,
         schema:,
         wgs: ;
-    dcat:distribution <http://www.cidoc-crm.org/cidoc-crm/osm2lod_dist_ttl> ;
+    dcat:distribution <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dist_ttl> ;
     dcat:keyword "Location"@en,
         "OGC GeoSPARQL"@en,
         "Person"@en,

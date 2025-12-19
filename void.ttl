@@ -31,138 +31,246 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://www.cidoc-crm.org/cidoc-crm/adms_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/adms_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/brick_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/brick_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/csvw_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/csvw_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/dc_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/dc_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/dcam_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/dcam_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/dcat_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/dcat_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    voaf:occurrences 216 .
 
-<http://www.cidoc-crm.org/cidoc-crm/dcmitype_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/dcmitype_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/dcterms_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/dcterms_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/doap_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/doap_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/foaf_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/foaf_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/geo_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/geo_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    voaf:occurrences 6 .
 
-<http://www.cidoc-crm.org/cidoc-crm/odrl_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/odrl_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/org_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/org_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/owl_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_flic.kr_p_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - p"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://flic.kr/p/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_megalithicireland.com_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - megalithicireland.com"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:objectsTarget <http://megalithicireland.com/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 2 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_ogham.celt.dias.ie_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - ogham.celt.dias.ie"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:objectsTarget <https://ogham.celt.dias.ie/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 3 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_ogham.celt.dias.ie_resources_sites_Dromore_266._Dromore_I_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - 266._Dromore_I"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_openstreetmap.org_node_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - node"@en ;
+    void:linkPredicate foaf:primaryTopic ;
+    void:objectsTarget <http://openstreetmap.org/node/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 105 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_openstreetmap.org_way_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - way"@en ;
+    void:linkPredicate foaf:primaryTopic ;
+    void:objectsTarget <http://openstreetmap.org/way/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_wikidata.org_entity_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - wd:"@en ;
+    void:linkPredicate owl:sameAs ;
+    void:objectsTarget <http://wikidata.org/entity/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 58 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.cidoc-crm.org_cidoc-crm_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - CIDOC CRM Ontology (crm:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.cidoc-crm.org/cidoc-crm/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.flickr.com_photos_196367420@N05_52324823400_in_album-72177720301745883_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - album-72177720301745883"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://www.flickr.com/photos/196367420@N05/52324823400/in/album-72177720301745883/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.megalithicireland.com_Ogham%20stones_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - Ogham%20stones"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <http://www.megalithicireland.com/Ogham%20stones/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.megalithicmonumentsofireland.com_COUNTIES_KERRY_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - KERRY"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
+    void:objectsTarget <https://www.megalithicmonumentsofireland.com/COUNTIES/KERRY/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.opengis.net_ont_geosparql_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - The GeoSPARQL Ontology (gsp:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget geo: ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 3 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.opengis.net_ont_sf_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - Simple Features Vocabulary (sf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.opengis.net/ont/sf#> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.w3.org_2004_02_skos_core_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - skos:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget skos: ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.w3.org_ns_dcat_> a void:Linkset ;
+    rdfs:label "Linkset: osm2lod - DCAT Vocabulary (dcat:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget dcat: ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 108 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/owl_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/prof_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/prof_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/prov_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/prov_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/qb_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/qb_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/rdf_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/rdf_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/rdfs_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/rdfs_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/schema_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/schema_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary https://schema.org/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/sh_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/sh_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/skos_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/skos_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    voaf:occurrences 2 .
 
-<http://www.cidoc-crm.org/cidoc-crm/sosa_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/sosa_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/ssn_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/ssn_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/time_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/time_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/vann_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/vann_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/vext_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/vext_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/voaf_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/voaf_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/void_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/void_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/wgs_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/wgs_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/xml_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/xml_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
-<http://www.cidoc-crm.org/cidoc-crm/xsd_osm2lod_occ> a voaf:DatasetOccurrence ;
+<http://research-squirrel-engineers.github.io/osm2lod/xsd_osm2lod_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in osm2lod" ;
-    voaf:inDataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    voaf:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
 <https://github.com/Research-Squirrel-Engineers/osm2lod> a adms:AssetRepository ;
     rdfs:label "Repository for osm2lod"@en ;
     dcat:accessURL "https://github.com/Research-Squirrel-Engineers/osm2lod"^^xsd:anyURI ;
-    dcat:dataset <http://www.cidoc-crm.org/cidoc-crm/osm2lod> .
+    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 
 <http://dbpedia.org/resource/Location> rdfs:label "Location"@en .
 
@@ -224,209 +332,239 @@ void: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "http://rdfs.org/ns/void#"^^xsd:anyURI ;
     voaf:usageInDataset void:_osm2lod_occ .
 
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog> a void:Dataset ;
+    rdfs:label "Class Partition: Catalog"@en ;
+    void:class dcat:Catalog ;
+    void:entities 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection> a void:Dataset ;
+    rdfs:label "Class Partition: Collection"@en ;
+    void:class skos:Collection ;
+    void:entities 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset> a void:Dataset ;
+    rdfs:label "Class Partition: Dataset"@en ;
+    void:class <http://research-squirrel-engineers.github.io/osm2lod/Dataset>,
+        dcat:Dataset ;
+    void:entities 1,
+        107 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E22_Human_Made_Object> a void:Dataset ;
+    rdfs:label "Class Partition: E22_Human_Made_Object"@en ;
+    void:class <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> ;
+    void:entities 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_FeatureCollection> a void:Dataset ;
+    rdfs:label "Class Partition: FeatureCollection"@en ;
+    void:class geo:FeatureCollection ;
+    void:entities 2 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_GeometryCollection> a void:Dataset ;
+    rdfs:label "Class Partition: GeometryCollection"@en ;
+    void:class geo:GeometryCollection ;
+    void:entities 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_OSMEntity> a void:Dataset ;
+    rdfs:label "Class Partition: OSMEntity"@en ;
+    void:class <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+    void:entities 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Point> a void:Dataset ;
+    rdfs:label "Class Partition: Point"@en ;
+    void:class <http://www.opengis.net/ont/sf#Point> ;
+    void:entities 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_SpatialObjectCollection> a void:Dataset ;
+    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
+    void:class geo:SpatialObjectCollection .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_asWKT> a void:Dataset ;
+    rdfs:label "Property Partition: asWKT"@en ;
+    void:property geo:asWKT ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_created> a void:Dataset ;
+    rdfs:label "Property Partition: created"@en ;
+    void:property dcterms:created ;
+    void:triples 107 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dataset> a void:Dataset ;
+    rdfs:label "Property Partition: dataset"@en ;
+    void:property dcat:dataset ;
+    void:triples 319 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "osm2lod TTL Distribution"@en ;
+    dcat:downloadURL "https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl"^^xsd:anyURI ;
+    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_exportType> a void:Dataset ;
+    rdfs:label "Property Partition: exportType"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/exportType> ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_hasGeometry> a void:Dataset ;
+    rdfs:label "Property Partition: hasGeometry"@en ;
+    void:property geo:hasGeometry ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_identifier> a void:Dataset ;
+    rdfs:label "Property Partition: identifier"@en ;
+    void:property dcterms:identifier ;
+    void:triples 107 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_isPartOf> a void:Dataset ;
+    rdfs:label "Property Partition: isPartOf"@en ;
+    void:property dcterms:isPartOf ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_label> a void:Dataset ;
+    rdfs:label "Property Partition: label"@en ;
+    void:property rdfs:label ;
+    void:triples 111 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_member> a void:Dataset ;
+    rdfs:label "Property Partition: member"@en ;
+    void:property rdfs:member ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__access> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__access"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__access> ;
+    void:triples 7 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__alt_name> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__alt_name"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name> ;
+    void:triples 2 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__archaeological_site> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__archaeological_site"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
+    void:triples 2 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__description> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__description"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
+    void:triples 11 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__historic> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__historic"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic> ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__historic__civilization> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__historic__civilization"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__image> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__image"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:triples 4 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__loc_name> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__loc_name"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__name> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__name"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
+    void:triples 73 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__note> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__note"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
+    void:triples 8 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__ref> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__ref"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__source"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
+    void:triples 55 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__source__ref"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__tourism> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__tourism"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism> ;
+    void:triples 2 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__url> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__url"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__website> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__website"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:triples 5 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikidata> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__wikidata"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
+    void:triples 58 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikimedia_commons> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__wikimedia_commons"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
+    void:triples 15 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikipedia> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__wikipedia"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
+    void:triples 19 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_primaryTopic> a void:Dataset ;
+    rdfs:label "Property Partition: primaryTopic"@en ;
+    void:property foaf:primaryTopic ;
+    void:triples 106 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_provenance> a void:Dataset ;
+    rdfs:label "Property Partition: provenance"@en ;
+    void:property dcterms:provenance ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_rights> a void:Dataset ;
+    rdfs:label "Property Partition: rights"@en ;
+    void:property dcterms:rights ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_sameAs> a void:Dataset ;
+    rdfs:label "Property Partition: sameAs"@en ;
+    void:property owl:sameAs ;
+    void:triples 58 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_subClassOf> a void:Dataset ;
+    rdfs:label "Property Partition: subClassOf"@en ;
+    void:property rdfs:subClassOf ;
+    void:triples 4 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_title> a void:Dataset ;
+    rdfs:label "Property Partition: title"@en ;
+    void:property dcterms:title ;
+    void:triples 1 .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> a void:Dataset ;
+    rdfs:label "Property Partition: type"@en ;
+    void:property dcterms:type,
+        rdf:type ;
+    void:triples 1,
+        431 .
+
 doap: a voaf:Vocabulary ;
     rdfs:label "doap Vocabulary"@en ;
     vann:preferredNamespacePrefix "doap"^^xsd:string ;
     vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
     voaf:usageInDataset doap:_osm2lod_occ .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_Dataset> a void:Dataset ;
-    rdfs:label "Class Partition: Dataset"@en ;
-    void:class <http://research-squirrel-engineers.github.io/osm2lod/Dataset>,
-        dcat:Dataset .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_E22_Human_Made_Object> a void:Dataset ;
-    rdfs:label "Class Partition: E22_Human_Made_Object"@en ;
-    void:class <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_E26_Physical_Feature> a void:Dataset ;
-    rdfs:label "Class Partition: E26_Physical_Feature"@en ;
-    void:class <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature> .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_E55_Place> a void:Dataset ;
-    rdfs:label "Class Partition: E55_Place"@en ;
-    void:class <http://www.cidoc-crm.org/cidoc-crm/E55_Place> .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_OSMEntity> a void:Dataset ;
-    rdfs:label "Class Partition: OSMEntity"@en ;
-    void:class <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_Point> a void:Dataset ;
-    rdfs:label "Class Partition: Point"@en ;
-    void:class <http://www.opengis.net/ont/sf#Point> .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT> a void:Dataset ;
-    rdfs:label "Property Partition: asWKT"@en ;
-    void:property geo:asWKT ;
-    void:triples 106 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_created> a void:Dataset ;
-    rdfs:label "Property Partition: created"@en ;
-    void:property dcterms:created ;
-    void:triples 107 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_dist_ttl> a adms:AssetDistribution ;
-    rdfs:label "osm2lod TTL Distribution"@en ;
-    dcat:downloadURL "https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl"^^xsd:anyURI ;
-    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType> a void:Dataset ;
-    rdfs:label "Property Partition: exportType"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/exportType> ;
-    void:triples 106 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry> a void:Dataset ;
-    rdfs:label "Property Partition: hasGeometry"@en ;
-    void:property geo:hasGeometry ;
-    void:triples 106 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier> a void:Dataset ;
-    rdfs:label "Property Partition: identifier"@en ;
-    void:property dcterms:identifier ;
-    void:triples 107 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf> a void:Dataset ;
-    rdfs:label "Property Partition: isPartOf"@en ;
-    void:property dcterms:isPartOf ;
-    void:triples 106 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_label> a void:Dataset ;
-    rdfs:label "Property Partition: label"@en ;
-    void:property rdfs:label ;
-    void:triples 107 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__access"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__access> ;
-    void:triples 7 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__alt_name"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name> ;
-    void:triples 2 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__archaeological_site"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
-    void:triples 2 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__description"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
-    void:triples 11 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__historic"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic> ;
-    void:triples 106 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__historic__civilization"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization> ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__image"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
-    void:triples 4 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__loc_name"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__name"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
-    void:triples 73 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__note"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
-    void:triples 8 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__ref"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref> ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__source"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
-    void:triples 55 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__source__ref"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__tourism"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism> ;
-    void:triples 2 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__url"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__website"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
-    void:triples 5 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__wikidata"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
-    void:triples 58 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__wikimedia_commons"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
-    void:triples 15 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__wikipedia"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
-    void:triples 19 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic> a void:Dataset ;
-    rdfs:label "Property Partition: primaryTopic"@en ;
-    void:property foaf:primaryTopic ;
-    void:triples 106 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance> a void:Dataset ;
-    rdfs:label "Property Partition: provenance"@en ;
-    void:property dcterms:provenance ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_rights> a void:Dataset ;
-    rdfs:label "Property Partition: rights"@en ;
-    void:property dcterms:rights ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs> a void:Dataset ;
-    rdfs:label "Property Partition: sameAs"@en ;
-    void:property owl:sameAs ;
-    void:triples 58 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_title> a void:Dataset ;
-    rdfs:label "Property Partition: title"@en ;
-    void:property dcterms:title ;
-    void:triples 1 .
-
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod_type> a void:Dataset ;
-    rdfs:label "Property Partition: type"@en ;
-    void:property dcterms:type,
-        rdf:type ;
-    void:triples 1,
-        426 .
-
-geo: a voaf:Vocabulary ;
-    rdfs:label "The GeoSPARQL Ontology"@en ;
-    vann:preferredNamespacePrefix "geo"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
-    voaf:usageInDataset geo:_osm2lod_occ .
 
 rdf: a voaf:Vocabulary ;
     rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
@@ -452,12 +590,6 @@ owl: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
     voaf:usageInDataset owl:_osm2lod_occ .
 
-skos: a voaf:Vocabulary ;
-    rdfs:label "skos Vocabulary"@en ;
-    vann:preferredNamespacePrefix "skos"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
-    voaf:usageInDataset skos:_osm2lod_occ .
-
 time: a voaf:Vocabulary ;
     rdfs:label "time Vocabulary"@en ;
     vann:preferredNamespacePrefix "time"^^xsd:string ;
@@ -481,12 +613,6 @@ csvw: a voaf:Vocabulary ;
     vann:preferredNamespacePrefix "csvw"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
     voaf:usageInDataset csvw:_osm2lod_occ .
-
-dcat: a voaf:Vocabulary ;
-    rdfs:label "DCAT Vocabulary"@en ;
-    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
-    voaf:usageInDataset dcat:_osm2lod_occ .
 
 prof: a voaf:Vocabulary ;
     rdfs:label "prof Vocabulary"@en ;
@@ -558,78 +684,102 @@ wgs: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
     voaf:usageInDataset wgs:_osm2lod_occ .
 
-<http://www.cidoc-crm.org/cidoc-crm/osm2lod> a void:Dataset,
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset geo:_osm2lod_occ .
+
+skos: a voaf:Vocabulary ;
+    rdfs:label "skos Vocabulary"@en ;
+    vann:preferredNamespacePrefix "skos"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
+    voaf:usageInDataset skos:_osm2lod_occ .
+
+dcat: a voaf:Vocabulary ;
+    rdfs:label "DCAT Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
+    voaf:usageInDataset dcat:_osm2lod_occ .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod> a void:Dataset,
         adms:Asset ;
     rdfs:label "osm2lod"@en ;
     vext:averageLiteralLength 0 ;
-    vext:averageObjectIRILength 0 ;
-    vext:averagePropertyIRILength 56 ;
-    vext:averageSubjectIRILength 0 ;
+    vext:averageObjectIRILength 45 ;
+    vext:averagePropertyIRILength 55 ;
+    vext:averageSubjectIRILength 68 ;
     vext:datatypes 0 ;
     vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 978 ;
+    vext:distinctIRIReferences 1104 ;
     vext:distinctLiterals 0 ;
-    vext:distinctRDFNodes 978 ;
+    vext:distinctRDFNodes 1104 ;
     vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T16:25:03"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T16:30:32"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
     dcterms:title "osm2lod"@en ;
-    vann:preferredNamespacePrefix "crm"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.cidoc-crm.org/cidoc-crm/"^^xsd:anyURI ;
-    void:classPartition <http://www.cidoc-crm.org/cidoc-crm/osm2lod_Dataset>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E22_Human_Made_Object>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E26_Physical_Feature>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E55_Place>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_OSMEntity>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_Point> ;
-    void:classes 5 ;
+    vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
+    vann:preferredNamespaceUri "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
+    void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E22_Human_Made_Object>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_FeatureCollection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_GeometryCollection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_OSMEntity>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Point>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_SpatialObjectCollection> ;
+    void:classes 10 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
-    void:distinctObjects 732 ;
-    void:distinctSubjects 213 ;
-    void:entities 1 ;
+    void:distinctObjects 847 ;
+    void:distinctSubjects 221 ;
+    void:entities 218 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 33 ;
-    void:propertyPartition <http://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_created>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_label>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_rights>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_title>,
-        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_type> ;
-    void:triples 1711 ;
-    void:uriSpace "http://www.cidoc-crm.org/cidoc-crm/"^^xsd:string ;
+    void:properties 36 ;
+    void:propertyPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_asWKT>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_created>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dataset>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_exportType>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_hasGeometry>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_identifier>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_isPartOf>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_label>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_member>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__access>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__alt_name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__archaeological_site>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__description>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__historic>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__historic__civilization>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__image>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__loc_name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__name>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__note>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__ref>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__tourism>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__url>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__website>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikidata>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikimedia_commons>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikipedia>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_primaryTopic>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_provenance>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_rights>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_sameAs>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_subClassOf>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_title>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> ;
+    void:triples 2366 ;
+    void:uriSpace "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,
         dcmitype:,
@@ -662,7 +812,7 @@ wgs: a voaf:Vocabulary ;
         brick:,
         schema:,
         wgs: ;
-    dcat:distribution <http://www.cidoc-crm.org/cidoc-crm/osm2lod_dist_ttl> ;
+    dcat:distribution <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dist_ttl> ;
     dcat:keyword "Location"@en,
         "OGC GeoSPARQL"@en,
         "Person"@en,

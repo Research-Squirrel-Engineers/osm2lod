@@ -1,0 +1,9 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/10040757680_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-9.5543233 52.0767683)"^^geo:wktLiteral .
+

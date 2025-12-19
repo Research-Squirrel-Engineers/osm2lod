@@ -3,9 +3,9 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-19_115918Z> a dcat:Dataset,
+<http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-19_115918Z> a <http://research-squirrel-engineers.github.io/osm2lod/Dataset>,
+        dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
-        <https://research-squirrel-engineers.github.io/osm2lod/Dataset>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dcterms:created "2025-12-19T11:59:18.124466+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm2lod:drillcores:2025-12-19_115918Z" ;
@@ -21,5 +21,5 @@ out meta geom;""" ;
     dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
     dcterms:title "OSM Overpass Export"@en ;
     dcterms:type "drillcores" ;
-    void:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 

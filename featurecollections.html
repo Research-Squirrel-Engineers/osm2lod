@@ -2,10 +2,10 @@
   <head>
     <script>
       if (window.location.href.includes("index.html")) {
-        document.write("<title>Feature Collection Overview | osm2rdf</title>");
+        document.write("<title>Feature Collection Overview | osm2lod</title>");
       } else {
         document.write(
-          "<title>Index Page for osm2rdf by the Research Squirrel Engineers Network</title>"
+          "<title>Index Page for osm2lod by the Research Squirrel Engineers Network</title>"
         );
       }
     </script>
@@ -38,10 +38,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.2.2/d3.v3.min.js"></script>
     <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/situx/mini-vowl@master/docs/js/webVOWLGraphh.js"></script>
-    <script src="epsgdefs.js"></script>
+    <script src="{{epsgdefspath}}"></script>
     <script src="vowl_result.js"></script>
-    <script src="osm_search.js"></script>
-    <script src="osm_classtree.js"></script>
+    <script src="osm2lod_search.js"></script>
+    <script src="osm2lod_classtree.js"></script>
     <script src="proprelations.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.14/jstree.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/rdflib@2.2.19/dist/rdflib.min.js"></script>
@@ -62,14 +62,14 @@
   <script>
     var indexpage=true;
     var relativedepth=0;
-    var baseurl="http://openstreetmap.org/";
+    var baseurl="http://research-squirrel-engineers.github.io/osm2lod/";
     var iconprefixx="";
   </script>
 
   <body>
     <div id="headertop">
       <span class="header_pt1">
-        <b>Squirrel Data</b>&nbsp;|&nbsp;osm2rdf&nbsp;|&nbsp;
+        <b>Squirrel Data</b>&nbsp;|&nbsp;osm2lod&nbsp;|&nbsp;
         <i>powered by the Research Squirrel Engineers Network</i>
       </span>
       <span class="header_pt2">
@@ -88,7 +88,7 @@
           );
         } else {
           document.write(
-            '<h1 id="title">Index Page for osm2rdf by the Research Squirrels</h1>'
+            '<h1 id="title">Index Page for osm2lod by the Research Squirrels</h1>'
           );
         }
         if (window.location.href.includes("index.html")) {
