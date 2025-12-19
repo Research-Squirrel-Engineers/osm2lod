@@ -53,8 +53,7 @@
 
 <http://openstreetmap.org/dcat_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in osm2rdf" ;
-    voaf:inDataset <http://openstreetmap.org/osm2rdf> ;
-    voaf:occurrences 212 .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
 <http://openstreetmap.org/dcmitype_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in osm2rdf" ;
@@ -74,8 +73,7 @@
 
 <http://openstreetmap.org/geo_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in osm2rdf" ;
-    voaf:inDataset <http://openstreetmap.org/osm2rdf> ;
-    voaf:occurrences 6 .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
 <http://openstreetmap.org/odrl_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in osm2rdf" ;
@@ -84,92 +82,6 @@
 <http://openstreetmap.org/org_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in osm2rdf" ;
     voaf:inDataset <http://openstreetmap.org/osm2rdf> .
-
-<http://openstreetmap.org/osm2rdf_flic.kr_p_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - p"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
-    void:objectsTarget <https://flic.kr/p/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 1 .
-
-<http://openstreetmap.org/osm2rdf_megalithicireland.com_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - megalithicireland.com"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
-    void:objectsTarget <http://megalithicireland.com/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 2 .
-
-<http://openstreetmap.org/osm2rdf_ogham.celt.dias.ie_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - ogham.celt.dias.ie"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
-    void:objectsTarget <https://ogham.celt.dias.ie/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 3 .
-
-<http://openstreetmap.org/osm2rdf_ogham.celt.dias.ie_resources_sites_Dromore_266._Dromore_I_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - 266._Dromore_I"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
-    void:objectsTarget <https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 1 .
-
-<http://openstreetmap.org/osm2rdf_research-squirrel-engineers.github.io_osm2lod_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - osm2lod:"@en ;
-    void:linkPredicate dcterms:isPartOf,
-        geo:hasGeometry,
-        rdf:type ;
-    void:objectsTarget <https://research-squirrel-engineers.github.io/osm2lod/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 106 .
-
-<http://openstreetmap.org/osm2rdf_wikidata.org_entity_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - wd:"@en ;
-    void:linkPredicate owl:sameAs ;
-    void:objectsTarget <http://wikidata.org/entity/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 58 .
-
-<http://openstreetmap.org/osm2rdf_www.cidoc-crm.org_cidoc-crm_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - CIDOC CRM Ontology (crm:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget <http://www.cidoc-crm.org/cidoc-crm/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 106 .
-
-<http://openstreetmap.org/osm2rdf_www.flickr.com_photos_196367420@N05_52324823400_in_album-72177720301745883_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - album-72177720301745883"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
-    void:objectsTarget <https://www.flickr.com/photos/196367420@N05/52324823400/in/album-72177720301745883/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 1 .
-
-<http://openstreetmap.org/osm2rdf_www.megalithicireland.com_Ogham%20stones_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - Ogham%20stones"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
-    void:objectsTarget <http://www.megalithicireland.com/Ogham%20stones/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 1 .
-
-<http://openstreetmap.org/osm2rdf_www.megalithicmonumentsofireland.com_COUNTIES_KERRY_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - KERRY"@en ;
-    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
-    void:objectsTarget <https://www.megalithicmonumentsofireland.com/COUNTIES/KERRY/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 1 .
-
-<http://openstreetmap.org/osm2rdf_www.opengis.net_ont_geosparql_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - The GeoSPARQL Ontology (gsp:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget geo: ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 3 .
-
-<http://openstreetmap.org/osm2rdf_www.w3.org_ns_dcat_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - DCAT Vocabulary (dcat:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget dcat: ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
-    void:triples 106 .
 
 <http://openstreetmap.org/owl_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in osm2rdf" ;
@@ -267,31 +179,27 @@ vext: a voaf:Vocabulary ;
 <http://openstreetmap.org/osm2rdf_Dataset> a void:Dataset ;
     rdfs:label "Class Partition: Dataset"@en ;
     void:class dcat:Dataset,
-        <https://research-squirrel-engineers.github.io/osm2lod/Dataset> ;
-    void:entities 106 .
+        <https://research-squirrel-engineers.github.io/osm2lod/Dataset> .
 
 <http://openstreetmap.org/osm2rdf_E22_Human_Made_Object> a void:Dataset ;
     rdfs:label "Class Partition: E22_Human_Made_Object"@en ;
-    void:class <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> ;
-    void:entities 106 .
+    void:class <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> .
 
-<http://openstreetmap.org/osm2rdf_FeatureCollection> a void:Dataset ;
-    rdfs:label "Class Partition: FeatureCollection"@en ;
-    void:class geo:FeatureCollection ;
-    void:entities 3 .
+<http://openstreetmap.org/osm2rdf_E26_Physical_Feature> a void:Dataset ;
+    rdfs:label "Class Partition: E26_Physical_Feature"@en ;
+    void:class <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature> .
+
+<http://openstreetmap.org/osm2rdf_E55_Place> a void:Dataset ;
+    rdfs:label "Class Partition: E55_Place"@en ;
+    void:class <http://www.cidoc-crm.org/cidoc-crm/E55_Place> .
 
 <http://openstreetmap.org/osm2rdf_OSMEntity> a void:Dataset ;
     rdfs:label "Class Partition: OSMEntity"@en ;
-    void:class <https://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    void:entities 106 .
+    void:class <https://research-squirrel-engineers.github.io/osm2lod/OSMEntity> .
 
 <http://openstreetmap.org/osm2rdf_Point> a void:Dataset ;
     rdfs:label "Class Partition: Point"@en ;
     void:class <http://www.opengis.net/ont/sf#Point> .
-
-<http://openstreetmap.org/osm2rdf_SpatialObjectCollection> a void:Dataset ;
-    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
-    void:class geo:SpatialObjectCollection .
 
 <http://openstreetmap.org/osm2rdf_asWKT> a void:Dataset ;
     rdfs:label "Property Partition: asWKT"@en ;
@@ -514,6 +422,12 @@ doap: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
     voaf:usageInDataset doap:_osm2rdf_occ .
 
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset geo:_osm2rdf_occ .
+
 rdf: a voaf:Vocabulary ;
     rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
     vann:preferredNamespacePrefix "rdf"^^xsd:string ;
@@ -567,6 +481,12 @@ csvw: a voaf:Vocabulary ;
     vann:preferredNamespacePrefix "csvw"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
     voaf:usageInDataset csvw:_osm2rdf_occ .
+
+dcat: a voaf:Vocabulary ;
+    rdfs:label "DCAT Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
+    voaf:usageInDataset dcat:_osm2rdf_occ .
 
 prof: a voaf:Vocabulary ;
     rdfs:label "prof Vocabulary"@en ;
@@ -638,34 +558,22 @@ wgs: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
     voaf:usageInDataset wgs:_osm2rdf_occ .
 
-geo: a voaf:Vocabulary ;
-    rdfs:label "The GeoSPARQL Ontology"@en ;
-    vann:preferredNamespacePrefix "geo"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
-    voaf:usageInDataset geo:_osm2rdf_occ .
-
-dcat: a voaf:Vocabulary ;
-    rdfs:label "DCAT Vocabulary"@en ;
-    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
-    voaf:usageInDataset dcat:_osm2rdf_occ .
-
 <http://openstreetmap.org/osm2rdf> a void:Dataset,
         adms:Asset ;
     rdfs:label "osm2rdf"@en ;
-    vext:averageLiteralLength 17 ;
-    vext:averageObjectIRILength 48 ;
+    vext:averageLiteralLength 0 ;
+    vext:averageObjectIRILength 0 ;
     vext:averagePropertyIRILength 57 ;
-    vext:averageSubjectIRILength 40 ;
-    vext:datatypes 1 ;
+    vext:averageSubjectIRILength 0 ;
+    vext:datatypes 0 ;
     vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 983 ;
-    vext:distinctLiterals 341 ;
-    vext:distinctRDFNodes 1324 ;
-    vext:languages 3 ;
+    vext:distinctIRIReferences 978 ;
+    vext:distinctLiterals 0 ;
+    vext:distinctRDFNodes 978 ;
+    vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T11:54:01"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T12:02:16"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -676,15 +584,15 @@ dcat: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "http://openstreetmap.org/"^^xsd:anyURI ;
     void:classPartition <http://openstreetmap.org/osm2rdf_Dataset>,
         <http://openstreetmap.org/osm2rdf_E22_Human_Made_Object>,
-        <http://openstreetmap.org/osm2rdf_FeatureCollection>,
+        <http://openstreetmap.org/osm2rdf_E26_Physical_Feature>,
+        <http://openstreetmap.org/osm2rdf_E55_Place>,
         <http://openstreetmap.org/osm2rdf_OSMEntity>,
-        <http://openstreetmap.org/osm2rdf_Point>,
-        <http://openstreetmap.org/osm2rdf_SpatialObjectCollection> ;
-    void:classes 7 ;
+        <http://openstreetmap.org/osm2rdf_Point> ;
+    void:classes 5 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 732 ;
-    void:distinctSubjects 218 ;
-    void:entities 110 ;
+    void:distinctSubjects 213 ;
+    void:entities 1 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 33 ;
@@ -720,7 +628,7 @@ dcat: a voaf:Vocabulary ;
         <http://openstreetmap.org/osm2rdf_sameAs>,
         <http://openstreetmap.org/osm2rdf_title>,
         <http://openstreetmap.org/osm2rdf_type> ;
-    void:triples 2146 ;
+    void:triples 1711 ;
     void:uriSpace "http://openstreetmap.org/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,

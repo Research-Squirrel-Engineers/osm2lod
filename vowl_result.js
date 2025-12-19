@@ -1785,11 +1785,11 @@ var vowlresult={
  "propertyAttribute": [
   {
    "id": 0,
-   "iri": "http://openstreetmap.org/node/10040750611",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10040750611"
+    "IRI-based": "node_10040750611"
    },
    "annotations": {},
    "range": [],
@@ -1799,11 +1799,11 @@ var vowlresult={
   },
   {
    "id": 1,
-   "iri": "http://openstreetmap.org/node/10040757680",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10040757680"
+    "IRI-based": "node_10040757680"
    },
    "annotations": {},
    "range": [],
@@ -1813,11 +1813,11 @@ var vowlresult={
   },
   {
    "id": 2,
-   "iri": "http://openstreetmap.org/node/10041491619",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10041491619"
+    "IRI-based": "node_10041491619"
    },
    "annotations": {},
    "range": [],
@@ -1827,11 +1827,11 @@ var vowlresult={
   },
   {
    "id": 3,
-   "iri": "http://openstreetmap.org/node/10041927343",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10041927343"
+    "IRI-based": "node_10041927343"
    },
    "annotations": {},
    "range": [],
@@ -1841,11 +1841,11 @@ var vowlresult={
   },
   {
    "id": 4,
-   "iri": "http://openstreetmap.org/node/10560404607",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10560404607"
+    "IRI-based": "node_10560404607"
    },
    "annotations": {},
    "range": [],
@@ -1855,11 +1855,11 @@ var vowlresult={
   },
   {
    "id": 5,
-   "iri": "http://openstreetmap.org/node/10563395863",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10563395863"
+    "IRI-based": "node_10563395863"
    },
    "annotations": {},
    "range": [],
@@ -1869,11 +1869,11 @@ var vowlresult={
   },
   {
    "id": 6,
-   "iri": "http://openstreetmap.org/node/10594924965",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10594924965"
+    "IRI-based": "node_10594924965"
    },
    "annotations": {},
    "range": [],
@@ -1883,11 +1883,11 @@ var vowlresult={
   },
   {
    "id": 7,
-   "iri": "http://openstreetmap.org/node/10594973066",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10594973066"
+    "IRI-based": "node_10594973066"
    },
    "annotations": {},
    "range": [],
@@ -1897,11 +1897,11 @@ var vowlresult={
   },
   {
    "id": 8,
-   "iri": "http://openstreetmap.org/node/10601966811",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10601966811"
+    "IRI-based": "node_10601966811"
    },
    "annotations": {},
    "range": [],
@@ -1911,11 +1911,11 @@ var vowlresult={
   },
   {
    "id": 9,
-   "iri": "http://openstreetmap.org/node/10601966825",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10601966825"
+    "IRI-based": "node_10601966825"
    },
    "annotations": {},
    "range": [],
@@ -1925,11 +1925,11 @@ var vowlresult={
   },
   {
    "id": 10,
-   "iri": "http://openstreetmap.org/node/10633917137",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10633917137"
+    "IRI-based": "node_10633917137"
    },
    "annotations": {},
    "range": [],
@@ -1939,11 +1939,11 @@ var vowlresult={
   },
   {
    "id": 11,
-   "iri": "http://openstreetmap.org/node/10633917138",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10633917138"
+    "IRI-based": "node_10633917138"
    },
    "annotations": {},
    "range": [],
@@ -1953,11 +1953,11 @@ var vowlresult={
   },
   {
    "id": 12,
-   "iri": "http://openstreetmap.org/node/10639514250",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10639514250"
+    "IRI-based": "node_10639514250"
    },
    "annotations": {},
    "range": [],
@@ -1967,11 +1967,11 @@ var vowlresult={
   },
   {
    "id": 13,
-   "iri": "http://openstreetmap.org/node/10652133873",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10652133873"
+    "IRI-based": "node_10652133873"
    },
    "annotations": {},
    "range": [],
@@ -1981,11 +1981,11 @@ var vowlresult={
   },
   {
    "id": 14,
-   "iri": "http://openstreetmap.org/node/10652214543",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10652214543"
+    "IRI-based": "node_10652214543"
    },
    "annotations": {},
    "range": [],
@@ -1995,11 +1995,11 @@ var vowlresult={
   },
   {
    "id": 15,
-   "iri": "http://openstreetmap.org/node/10656139839",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10656139839"
+    "IRI-based": "node_10656139839"
    },
    "annotations": {},
    "range": [],
@@ -2009,11 +2009,11 @@ var vowlresult={
   },
   {
    "id": 16,
-   "iri": "http://openstreetmap.org/node/10709752679",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10709752679"
+    "IRI-based": "node_10709752679"
    },
    "annotations": {},
    "range": [],
@@ -2023,11 +2023,11 @@ var vowlresult={
   },
   {
    "id": 17,
-   "iri": "http://openstreetmap.org/node/11071324384",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11071324384"
+    "IRI-based": "node_11071324384"
    },
    "annotations": {},
    "range": [],
@@ -2037,11 +2037,11 @@ var vowlresult={
   },
   {
    "id": 18,
-   "iri": "http://openstreetmap.org/node/11071361392",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11071361392"
+    "IRI-based": "node_11071361392"
    },
    "annotations": {},
    "range": [],
@@ -2051,11 +2051,11 @@ var vowlresult={
   },
   {
    "id": 19,
-   "iri": "http://openstreetmap.org/node/11253027975",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11253027975"
+    "IRI-based": "node_11253027975"
    },
    "annotations": {},
    "range": [],
@@ -2065,11 +2065,11 @@ var vowlresult={
   },
   {
    "id": 20,
-   "iri": "http://openstreetmap.org/node/11269073312",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073312"
+    "IRI-based": "node_11269073312"
    },
    "annotations": {},
    "range": [],
@@ -2079,11 +2079,11 @@ var vowlresult={
   },
   {
    "id": 21,
-   "iri": "http://openstreetmap.org/node/11269073313",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073313"
+    "IRI-based": "node_11269073313"
    },
    "annotations": {},
    "range": [],
@@ -2093,11 +2093,11 @@ var vowlresult={
   },
   {
    "id": 22,
-   "iri": "http://openstreetmap.org/node/11269073314",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073314"
+    "IRI-based": "node_11269073314"
    },
    "annotations": {},
    "range": [],
@@ -2107,11 +2107,11 @@ var vowlresult={
   },
   {
    "id": 23,
-   "iri": "http://openstreetmap.org/node/11269073315",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073315"
+    "IRI-based": "node_11269073315"
    },
    "annotations": {},
    "range": [],
@@ -2121,11 +2121,11 @@ var vowlresult={
   },
   {
    "id": 24,
-   "iri": "http://openstreetmap.org/node/11269073316",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073316"
+    "IRI-based": "node_11269073316"
    },
    "annotations": {},
    "range": [],
@@ -2135,11 +2135,11 @@ var vowlresult={
   },
   {
    "id": 25,
-   "iri": "http://openstreetmap.org/node/11269119003",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119003"
+    "IRI-based": "node_11269119003"
    },
    "annotations": {},
    "range": [],
@@ -2149,11 +2149,11 @@ var vowlresult={
   },
   {
    "id": 26,
-   "iri": "http://openstreetmap.org/node/11269119004",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119004"
+    "IRI-based": "node_11269119004"
    },
    "annotations": {},
    "range": [],
@@ -2163,11 +2163,11 @@ var vowlresult={
   },
   {
    "id": 27,
-   "iri": "http://openstreetmap.org/node/11269119005",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119005"
+    "IRI-based": "node_11269119005"
    },
    "annotations": {},
    "range": [],
@@ -2177,11 +2177,11 @@ var vowlresult={
   },
   {
    "id": 28,
-   "iri": "http://openstreetmap.org/node/11269119006",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119006"
+    "IRI-based": "node_11269119006"
    },
    "annotations": {},
    "range": [],
@@ -2191,11 +2191,11 @@ var vowlresult={
   },
   {
    "id": 29,
-   "iri": "http://openstreetmap.org/node/11269119007",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119007"
+    "IRI-based": "node_11269119007"
    },
    "annotations": {},
    "range": [],
@@ -2205,11 +2205,11 @@ var vowlresult={
   },
   {
    "id": 30,
-   "iri": "http://openstreetmap.org/node/11269119008",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119008"
+    "IRI-based": "node_11269119008"
    },
    "annotations": {},
    "range": [],
@@ -2219,11 +2219,11 @@ var vowlresult={
   },
   {
    "id": 31,
-   "iri": "http://openstreetmap.org/node/11269119009",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119009"
+    "IRI-based": "node_11269119009"
    },
    "annotations": {},
    "range": [],
@@ -2233,11 +2233,11 @@ var vowlresult={
   },
   {
    "id": 32,
-   "iri": "http://openstreetmap.org/node/11269119010",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119010"
+    "IRI-based": "node_11269119010"
    },
    "annotations": {},
    "range": [],
@@ -2247,11 +2247,11 @@ var vowlresult={
   },
   {
    "id": 33,
-   "iri": "http://openstreetmap.org/node/11269119011",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119011"
+    "IRI-based": "node_11269119011"
    },
    "annotations": {},
    "range": [],
@@ -2261,11 +2261,11 @@ var vowlresult={
   },
   {
    "id": 34,
-   "iri": "http://openstreetmap.org/node/11269165789",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269165789"
+    "IRI-based": "node_11269165789"
    },
    "annotations": {},
    "range": [],
@@ -2275,11 +2275,11 @@ var vowlresult={
   },
   {
    "id": 35,
-   "iri": "http://openstreetmap.org/node/11269165790",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269165790"
+    "IRI-based": "node_11269165790"
    },
    "annotations": {},
    "range": [],
@@ -2289,11 +2289,11 @@ var vowlresult={
   },
   {
    "id": 36,
-   "iri": "http://openstreetmap.org/node/11558269687",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11558269687"
+    "IRI-based": "node_11558269687"
    },
    "annotations": {},
    "range": [],
@@ -2303,11 +2303,11 @@ var vowlresult={
   },
   {
    "id": 37,
-   "iri": "http://openstreetmap.org/node/11574593297",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11574593297"
+    "IRI-based": "node_11574593297"
    },
    "annotations": {},
    "range": [],
@@ -2317,11 +2317,11 @@ var vowlresult={
   },
   {
    "id": 38,
-   "iri": "http://openstreetmap.org/node/11575064111",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11575064111"
+    "IRI-based": "node_11575064111"
    },
    "annotations": {},
    "range": [],
@@ -2331,11 +2331,11 @@ var vowlresult={
   },
   {
    "id": 39,
-   "iri": "http://openstreetmap.org/node/11677109638",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11677109638"
+    "IRI-based": "node_11677109638"
    },
    "annotations": {},
    "range": [],
@@ -2345,11 +2345,11 @@ var vowlresult={
   },
   {
    "id": 40,
-   "iri": "http://openstreetmap.org/node/11677113764",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11677113764"
+    "IRI-based": "node_11677113764"
    },
    "annotations": {},
    "range": [],
@@ -2359,11 +2359,11 @@ var vowlresult={
   },
   {
    "id": 41,
-   "iri": "http://openstreetmap.org/node/11952692355",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11952692355"
+    "IRI-based": "node_11952692355"
    },
    "annotations": {},
    "range": [],
@@ -2373,11 +2373,11 @@ var vowlresult={
   },
   {
    "id": 42,
-   "iri": "http://openstreetmap.org/node/11955662684",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955662684"
+    "IRI-based": "node_11955662684"
    },
    "annotations": {},
    "range": [],
@@ -2387,11 +2387,11 @@ var vowlresult={
   },
   {
    "id": 43,
-   "iri": "http://openstreetmap.org/node/11955662685",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955662685"
+    "IRI-based": "node_11955662685"
    },
    "annotations": {},
    "range": [],
@@ -2401,11 +2401,11 @@ var vowlresult={
   },
   {
    "id": 44,
-   "iri": "http://openstreetmap.org/node/11955670771",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670771"
+    "IRI-based": "node_11955670771"
    },
    "annotations": {},
    "range": [],
@@ -2415,11 +2415,11 @@ var vowlresult={
   },
   {
    "id": 45,
-   "iri": "http://openstreetmap.org/node/11955670773",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670773"
+    "IRI-based": "node_11955670773"
    },
    "annotations": {},
    "range": [],
@@ -2429,11 +2429,11 @@ var vowlresult={
   },
   {
    "id": 46,
-   "iri": "http://openstreetmap.org/node/11955670774",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670774"
+    "IRI-based": "node_11955670774"
    },
    "annotations": {},
    "range": [],
@@ -2443,11 +2443,11 @@ var vowlresult={
   },
   {
    "id": 47,
-   "iri": "http://openstreetmap.org/node/11955670775",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670775"
+    "IRI-based": "node_11955670775"
    },
    "annotations": {},
    "range": [],
@@ -2457,11 +2457,11 @@ var vowlresult={
   },
   {
    "id": 48,
-   "iri": "http://openstreetmap.org/node/11955670776",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670776"
+    "IRI-based": "node_11955670776"
    },
    "annotations": {},
    "range": [],
@@ -2471,11 +2471,11 @@ var vowlresult={
   },
   {
    "id": 49,
-   "iri": "http://openstreetmap.org/node/11955670777",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670777"
+    "IRI-based": "node_11955670777"
    },
    "annotations": {},
    "range": [],
@@ -2485,11 +2485,11 @@ var vowlresult={
   },
   {
    "id": 50,
-   "iri": "http://openstreetmap.org/node/11955670778",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670778"
+    "IRI-based": "node_11955670778"
    },
    "annotations": {},
    "range": [],
@@ -2499,11 +2499,11 @@ var vowlresult={
   },
   {
    "id": 51,
-   "iri": "http://openstreetmap.org/node/11955670779",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670779"
+    "IRI-based": "node_11955670779"
    },
    "annotations": {},
    "range": [],
@@ -2513,11 +2513,11 @@ var vowlresult={
   },
   {
    "id": 52,
-   "iri": "http://openstreetmap.org/node/11955670780",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670780"
+    "IRI-based": "node_11955670780"
    },
    "annotations": {},
    "range": [],
@@ -2527,11 +2527,11 @@ var vowlresult={
   },
   {
    "id": 53,
-   "iri": "http://openstreetmap.org/node/11955670781",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670781"
+    "IRI-based": "node_11955670781"
    },
    "annotations": {},
    "range": [],
@@ -2541,11 +2541,11 @@ var vowlresult={
   },
   {
    "id": 54,
-   "iri": "http://openstreetmap.org/node/11955670784",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670784"
+    "IRI-based": "node_11955670784"
    },
    "annotations": {},
    "range": [],
@@ -2555,11 +2555,11 @@ var vowlresult={
   },
   {
    "id": 55,
-   "iri": "http://openstreetmap.org/node/11955670785",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670785"
+    "IRI-based": "node_11955670785"
    },
    "annotations": {},
    "range": [],
@@ -2569,11 +2569,11 @@ var vowlresult={
   },
   {
    "id": 56,
-   "iri": "http://openstreetmap.org/node/11955670786",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670786"
+    "IRI-based": "node_11955670786"
    },
    "annotations": {},
    "range": [],
@@ -2583,11 +2583,11 @@ var vowlresult={
   },
   {
    "id": 57,
-   "iri": "http://openstreetmap.org/node/11955670788",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670788"
+    "IRI-based": "node_11955670788"
    },
    "annotations": {},
    "range": [],
@@ -2597,11 +2597,11 @@ var vowlresult={
   },
   {
    "id": 58,
-   "iri": "http://openstreetmap.org/node/11955670789",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670789"
+    "IRI-based": "node_11955670789"
    },
    "annotations": {},
    "range": [],
@@ -2611,11 +2611,11 @@ var vowlresult={
   },
   {
    "id": 59,
-   "iri": "http://openstreetmap.org/node/11955670790",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670790"
+    "IRI-based": "node_11955670790"
    },
    "annotations": {},
    "range": [],
@@ -2625,11 +2625,11 @@ var vowlresult={
   },
   {
    "id": 60,
-   "iri": "http://openstreetmap.org/node/11955670791",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670791"
+    "IRI-based": "node_11955670791"
    },
    "annotations": {},
    "range": [],
@@ -2639,11 +2639,11 @@ var vowlresult={
   },
   {
    "id": 61,
-   "iri": "http://openstreetmap.org/node/11955670792",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670792"
+    "IRI-based": "node_11955670792"
    },
    "annotations": {},
    "range": [],
@@ -2653,11 +2653,11 @@ var vowlresult={
   },
   {
    "id": 62,
-   "iri": "http://openstreetmap.org/node/11955670793",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670793"
+    "IRI-based": "node_11955670793"
    },
    "annotations": {},
    "range": [],
@@ -2667,11 +2667,11 @@ var vowlresult={
   },
   {
    "id": 63,
-   "iri": "http://openstreetmap.org/node/11955670794",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670794"
+    "IRI-based": "node_11955670794"
    },
    "annotations": {},
    "range": [],
@@ -2681,11 +2681,11 @@ var vowlresult={
   },
   {
    "id": 64,
-   "iri": "http://openstreetmap.org/node/11955670796",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670796"
+    "IRI-based": "node_11955670796"
    },
    "annotations": {},
    "range": [],
@@ -2695,11 +2695,11 @@ var vowlresult={
   },
   {
    "id": 65,
-   "iri": "http://openstreetmap.org/node/11955670797",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670797"
+    "IRI-based": "node_11955670797"
    },
    "annotations": {},
    "range": [],
@@ -2709,11 +2709,11 @@ var vowlresult={
   },
   {
    "id": 66,
-   "iri": "http://openstreetmap.org/node/11955670798",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670798"
+    "IRI-based": "node_11955670798"
    },
    "annotations": {},
    "range": [],
@@ -2723,11 +2723,11 @@ var vowlresult={
   },
   {
    "id": 67,
-   "iri": "http://openstreetmap.org/node/11966423819",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11966423819"
+    "IRI-based": "node_11966423819"
    },
    "annotations": {},
    "range": [],
@@ -2737,11 +2737,11 @@ var vowlresult={
   },
   {
    "id": 68,
-   "iri": "http://openstreetmap.org/node/11966430251",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11966430251"
+    "IRI-based": "node_11966430251"
    },
    "annotations": {},
    "range": [],
@@ -2751,11 +2751,11 @@ var vowlresult={
   },
   {
    "id": 69,
-   "iri": "http://openstreetmap.org/node/11966441102",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11966441102"
+    "IRI-based": "node_11966441102"
    },
    "annotations": {},
    "range": [],
@@ -2765,11 +2765,11 @@ var vowlresult={
   },
   {
    "id": 70,
-   "iri": "http://openstreetmap.org/node/12276963607",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "12276963607"
+    "IRI-based": "node_12276963607"
    },
    "annotations": {},
    "range": [],
@@ -2779,11 +2779,11 @@ var vowlresult={
   },
   {
    "id": 71,
-   "iri": "http://openstreetmap.org/node/12276982960",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "12276982960"
+    "IRI-based": "node_12276982960"
    },
    "annotations": {},
    "range": [],
@@ -2793,11 +2793,11 @@ var vowlresult={
   },
   {
    "id": 72,
-   "iri": "http://openstreetmap.org/node/12661114455",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "12661114455"
+    "IRI-based": "node_12661114455"
    },
    "annotations": {},
    "range": [],
@@ -2807,11 +2807,11 @@ var vowlresult={
   },
   {
    "id": 73,
-   "iri": "http://openstreetmap.org/node/1275923177",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "1275923177"
+    "IRI-based": "node_1275923177"
    },
    "annotations": {},
    "range": [],
@@ -2821,11 +2821,11 @@ var vowlresult={
   },
   {
    "id": 74,
-   "iri": "http://openstreetmap.org/node/2428911148",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "2428911148"
+    "IRI-based": "node_2428911148"
    },
    "annotations": {},
    "range": [],
@@ -2835,11 +2835,11 @@ var vowlresult={
   },
   {
    "id": 75,
-   "iri": "http://openstreetmap.org/node/3220290865",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "3220290865"
+    "IRI-based": "node_3220290865"
    },
    "annotations": {},
    "range": [],
@@ -2849,11 +2849,11 @@ var vowlresult={
   },
   {
    "id": 76,
-   "iri": "http://openstreetmap.org/node/3621783646",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "3621783646"
+    "IRI-based": "node_3621783646"
    },
    "annotations": {},
    "range": [],
@@ -2863,11 +2863,11 @@ var vowlresult={
   },
   {
    "id": 77,
-   "iri": "http://openstreetmap.org/node/3663314804",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "3663314804"
+    "IRI-based": "node_3663314804"
    },
    "annotations": {},
    "range": [],
@@ -2877,11 +2877,11 @@ var vowlresult={
   },
   {
    "id": 78,
-   "iri": "http://openstreetmap.org/node/4395991496",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "4395991496"
+    "IRI-based": "node_4395991496"
    },
    "annotations": {},
    "range": [],
@@ -2891,11 +2891,11 @@ var vowlresult={
   },
   {
    "id": 79,
-   "iri": "http://openstreetmap.org/node/452289802",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_452289802",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "452289802"
+    "IRI-based": "node_452289802"
    },
    "annotations": {},
    "range": [],
@@ -2905,11 +2905,11 @@ var vowlresult={
   },
   {
    "id": 80,
-   "iri": "http://openstreetmap.org/node/473149586",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_473149586",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "473149586"
+    "IRI-based": "node_473149586"
    },
    "annotations": {},
    "range": [],
@@ -2919,11 +2919,11 @@ var vowlresult={
   },
   {
    "id": 81,
-   "iri": "http://openstreetmap.org/node/5111098877",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5111098877"
+    "IRI-based": "node_5111098877"
    },
    "annotations": {},
    "range": [],
@@ -2933,11 +2933,11 @@ var vowlresult={
   },
   {
    "id": 82,
-   "iri": "http://openstreetmap.org/node/5111098878",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5111098878"
+    "IRI-based": "node_5111098878"
    },
    "annotations": {},
    "range": [],
@@ -2947,11 +2947,11 @@ var vowlresult={
   },
   {
    "id": 83,
-   "iri": "http://openstreetmap.org/node/5145413640",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5145413640"
+    "IRI-based": "node_5145413640"
    },
    "annotations": {},
    "range": [],
@@ -2961,11 +2961,11 @@ var vowlresult={
   },
   {
    "id": 84,
-   "iri": "http://openstreetmap.org/node/5965037771",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5965037771"
+    "IRI-based": "node_5965037771"
    },
    "annotations": {},
    "range": [],
@@ -2975,11 +2975,11 @@ var vowlresult={
   },
   {
    "id": 85,
-   "iri": "http://openstreetmap.org/node/600221596",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_600221596",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "600221596"
+    "IRI-based": "node_600221596"
    },
    "annotations": {},
    "range": [],
@@ -2989,11 +2989,11 @@ var vowlresult={
   },
   {
    "id": 86,
-   "iri": "http://openstreetmap.org/node/6810674728",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "6810674728"
+    "IRI-based": "node_6810674728"
    },
    "annotations": {},
    "range": [],
@@ -3003,11 +3003,11 @@ var vowlresult={
   },
   {
    "id": 87,
-   "iri": "http://openstreetmap.org/node/7082266109",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7082266109"
+    "IRI-based": "node_7082266109"
    },
    "annotations": {},
    "range": [],
@@ -3017,11 +3017,11 @@ var vowlresult={
   },
   {
    "id": 88,
-   "iri": "http://openstreetmap.org/node/7082293699",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7082293699"
+    "IRI-based": "node_7082293699"
    },
    "annotations": {},
    "range": [],
@@ -3031,11 +3031,11 @@ var vowlresult={
   },
   {
    "id": 89,
-   "iri": "http://openstreetmap.org/node/7110849500",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7110849500"
+    "IRI-based": "node_7110849500"
    },
    "annotations": {},
    "range": [],
@@ -3045,11 +3045,11 @@ var vowlresult={
   },
   {
    "id": 90,
-   "iri": "http://openstreetmap.org/node/7110849501",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7110849501"
+    "IRI-based": "node_7110849501"
    },
    "annotations": {},
    "range": [],
@@ -3059,11 +3059,11 @@ var vowlresult={
   },
   {
    "id": 91,
-   "iri": "http://openstreetmap.org/node/7203972860",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7203972860"
+    "IRI-based": "node_7203972860"
    },
    "annotations": {},
    "range": [],
@@ -3073,11 +3073,11 @@ var vowlresult={
   },
   {
    "id": 92,
-   "iri": "http://openstreetmap.org/node/7925063785",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7925063785"
+    "IRI-based": "node_7925063785"
    },
    "annotations": {},
    "range": [],
@@ -3087,11 +3087,11 @@ var vowlresult={
   },
   {
    "id": 93,
-   "iri": "http://openstreetmap.org/node/8308921075",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8308921075"
+    "IRI-based": "node_8308921075"
    },
    "annotations": {},
    "range": [],
@@ -3101,11 +3101,11 @@ var vowlresult={
   },
   {
    "id": 94,
-   "iri": "http://openstreetmap.org/node/8355471227",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471227"
+    "IRI-based": "node_8355471227"
    },
    "annotations": {},
    "range": [],
@@ -3115,11 +3115,11 @@ var vowlresult={
   },
   {
    "id": 95,
-   "iri": "http://openstreetmap.org/node/8355471228",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471228"
+    "IRI-based": "node_8355471228"
    },
    "annotations": {},
    "range": [],
@@ -3129,11 +3129,11 @@ var vowlresult={
   },
   {
    "id": 96,
-   "iri": "http://openstreetmap.org/node/8355471229",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471229"
+    "IRI-based": "node_8355471229"
    },
    "annotations": {},
    "range": [],
@@ -3143,11 +3143,11 @@ var vowlresult={
   },
   {
    "id": 97,
-   "iri": "http://openstreetmap.org/node/8355471230",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471230"
+    "IRI-based": "node_8355471230"
    },
    "annotations": {},
    "range": [],
@@ -3157,11 +3157,11 @@ var vowlresult={
   },
   {
    "id": 98,
-   "iri": "http://openstreetmap.org/node/8355471231",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471231"
+    "IRI-based": "node_8355471231"
    },
    "annotations": {},
    "range": [],
@@ -3171,11 +3171,11 @@ var vowlresult={
   },
   {
    "id": 99,
-   "iri": "http://openstreetmap.org/node/8494707479",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8494707479"
+    "IRI-based": "node_8494707479"
    },
    "annotations": {},
    "range": [],
@@ -3185,11 +3185,11 @@ var vowlresult={
   },
   {
    "id": 100,
-   "iri": "http://openstreetmap.org/node/8520931982",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8520931982"
+    "IRI-based": "node_8520931982"
    },
    "annotations": {},
    "range": [],
@@ -3199,11 +3199,11 @@ var vowlresult={
   },
   {
    "id": 101,
-   "iri": "http://openstreetmap.org/node/8520962885",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8520962885"
+    "IRI-based": "node_8520962885"
    },
    "annotations": {},
    "range": [],
@@ -3213,11 +3213,11 @@ var vowlresult={
   },
   {
    "id": 102,
-   "iri": "http://openstreetmap.org/node/8584276628",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8584276628"
+    "IRI-based": "node_8584276628"
    },
    "annotations": {},
    "range": [],
@@ -3227,11 +3227,11 @@ var vowlresult={
   },
   {
    "id": 103,
-   "iri": "http://openstreetmap.org/node/9110402648",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "9110402648"
+    "IRI-based": "node_9110402648"
    },
    "annotations": {},
    "range": [],
@@ -3241,11 +3241,11 @@ var vowlresult={
   },
   {
    "id": 104,
-   "iri": "http://openstreetmap.org/node/9990835587",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "9990835587"
+    "IRI-based": "node_9990835587"
    },
    "annotations": {},
    "range": [],
@@ -3255,11 +3255,11 @@ var vowlresult={
   },
   {
    "id": 105,
-   "iri": "http://openstreetmap.org/way/1209135262",
-   "baseIRI": "http://openstreetmap.org/way",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "1209135262"
+    "IRI-based": "way_1209135262"
    },
    "annotations": {},
    "range": [],
@@ -3269,11 +3269,11 @@ var vowlresult={
   },
   {
    "id": 106,
-   "iri": "http://openstreetmap.org/node/10040750611",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10040750611"
+    "IRI-based": "node_10040750611"
    },
    "annotations": {},
    "range": [],
@@ -3283,11 +3283,11 @@ var vowlresult={
   },
   {
    "id": 107,
-   "iri": "http://openstreetmap.org/node/10040757680",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10040757680"
+    "IRI-based": "node_10040757680"
    },
    "annotations": {},
    "range": [],
@@ -3297,11 +3297,11 @@ var vowlresult={
   },
   {
    "id": 108,
-   "iri": "http://openstreetmap.org/node/10041491619",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10041491619"
+    "IRI-based": "node_10041491619"
    },
    "annotations": {},
    "range": [],
@@ -3311,11 +3311,11 @@ var vowlresult={
   },
   {
    "id": 109,
-   "iri": "http://openstreetmap.org/node/10041927343",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10041927343"
+    "IRI-based": "node_10041927343"
    },
    "annotations": {},
    "range": [],
@@ -3325,11 +3325,11 @@ var vowlresult={
   },
   {
    "id": 110,
-   "iri": "http://openstreetmap.org/node/10560404607",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10560404607"
+    "IRI-based": "node_10560404607"
    },
    "annotations": {},
    "range": [],
@@ -3339,11 +3339,11 @@ var vowlresult={
   },
   {
    "id": 111,
-   "iri": "http://openstreetmap.org/node/10563395863",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10563395863"
+    "IRI-based": "node_10563395863"
    },
    "annotations": {},
    "range": [],
@@ -3353,11 +3353,11 @@ var vowlresult={
   },
   {
    "id": 112,
-   "iri": "http://openstreetmap.org/node/10594924965",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10594924965"
+    "IRI-based": "node_10594924965"
    },
    "annotations": {},
    "range": [],
@@ -3367,11 +3367,11 @@ var vowlresult={
   },
   {
    "id": 113,
-   "iri": "http://openstreetmap.org/node/10594973066",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10594973066"
+    "IRI-based": "node_10594973066"
    },
    "annotations": {},
    "range": [],
@@ -3381,11 +3381,11 @@ var vowlresult={
   },
   {
    "id": 114,
-   "iri": "http://openstreetmap.org/node/10601966811",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10601966811"
+    "IRI-based": "node_10601966811"
    },
    "annotations": {},
    "range": [],
@@ -3395,11 +3395,11 @@ var vowlresult={
   },
   {
    "id": 115,
-   "iri": "http://openstreetmap.org/node/10601966825",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10601966825"
+    "IRI-based": "node_10601966825"
    },
    "annotations": {},
    "range": [],
@@ -3409,11 +3409,11 @@ var vowlresult={
   },
   {
    "id": 116,
-   "iri": "http://openstreetmap.org/node/10633917137",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10633917137"
+    "IRI-based": "node_10633917137"
    },
    "annotations": {},
    "range": [],
@@ -3423,11 +3423,11 @@ var vowlresult={
   },
   {
    "id": 117,
-   "iri": "http://openstreetmap.org/node/10633917138",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10633917138"
+    "IRI-based": "node_10633917138"
    },
    "annotations": {},
    "range": [],
@@ -3437,11 +3437,11 @@ var vowlresult={
   },
   {
    "id": 118,
-   "iri": "http://openstreetmap.org/node/10639514250",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10639514250"
+    "IRI-based": "node_10639514250"
    },
    "annotations": {},
    "range": [],
@@ -3451,11 +3451,11 @@ var vowlresult={
   },
   {
    "id": 119,
-   "iri": "http://openstreetmap.org/node/10652133873",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10652133873"
+    "IRI-based": "node_10652133873"
    },
    "annotations": {},
    "range": [],
@@ -3465,11 +3465,11 @@ var vowlresult={
   },
   {
    "id": 120,
-   "iri": "http://openstreetmap.org/node/10652214543",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10652214543"
+    "IRI-based": "node_10652214543"
    },
    "annotations": {},
    "range": [],
@@ -3479,11 +3479,11 @@ var vowlresult={
   },
   {
    "id": 121,
-   "iri": "http://openstreetmap.org/node/10656139839",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10656139839"
+    "IRI-based": "node_10656139839"
    },
    "annotations": {},
    "range": [],
@@ -3493,11 +3493,11 @@ var vowlresult={
   },
   {
    "id": 122,
-   "iri": "http://openstreetmap.org/node/10709752679",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "10709752679"
+    "IRI-based": "node_10709752679"
    },
    "annotations": {},
    "range": [],
@@ -3507,11 +3507,11 @@ var vowlresult={
   },
   {
    "id": 123,
-   "iri": "http://openstreetmap.org/node/11071324384",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11071324384"
+    "IRI-based": "node_11071324384"
    },
    "annotations": {},
    "range": [],
@@ -3521,11 +3521,11 @@ var vowlresult={
   },
   {
    "id": 124,
-   "iri": "http://openstreetmap.org/node/11071361392",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11071361392"
+    "IRI-based": "node_11071361392"
    },
    "annotations": {},
    "range": [],
@@ -3535,11 +3535,11 @@ var vowlresult={
   },
   {
    "id": 125,
-   "iri": "http://openstreetmap.org/node/11253027975",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11253027975"
+    "IRI-based": "node_11253027975"
    },
    "annotations": {},
    "range": [],
@@ -3549,11 +3549,11 @@ var vowlresult={
   },
   {
    "id": 126,
-   "iri": "http://openstreetmap.org/node/11269073312",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073312"
+    "IRI-based": "node_11269073312"
    },
    "annotations": {},
    "range": [],
@@ -3563,11 +3563,11 @@ var vowlresult={
   },
   {
    "id": 127,
-   "iri": "http://openstreetmap.org/node/11269073313",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073313"
+    "IRI-based": "node_11269073313"
    },
    "annotations": {},
    "range": [],
@@ -3577,11 +3577,11 @@ var vowlresult={
   },
   {
    "id": 128,
-   "iri": "http://openstreetmap.org/node/11269073314",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073314"
+    "IRI-based": "node_11269073314"
    },
    "annotations": {},
    "range": [],
@@ -3591,11 +3591,11 @@ var vowlresult={
   },
   {
    "id": 129,
-   "iri": "http://openstreetmap.org/node/11269073315",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073315"
+    "IRI-based": "node_11269073315"
    },
    "annotations": {},
    "range": [],
@@ -3605,11 +3605,11 @@ var vowlresult={
   },
   {
    "id": 130,
-   "iri": "http://openstreetmap.org/node/11269073316",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269073316"
+    "IRI-based": "node_11269073316"
    },
    "annotations": {},
    "range": [],
@@ -3619,11 +3619,11 @@ var vowlresult={
   },
   {
    "id": 131,
-   "iri": "http://openstreetmap.org/node/11269119003",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119003"
+    "IRI-based": "node_11269119003"
    },
    "annotations": {},
    "range": [],
@@ -3633,11 +3633,11 @@ var vowlresult={
   },
   {
    "id": 132,
-   "iri": "http://openstreetmap.org/node/11269119004",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119004"
+    "IRI-based": "node_11269119004"
    },
    "annotations": {},
    "range": [],
@@ -3647,11 +3647,11 @@ var vowlresult={
   },
   {
    "id": 133,
-   "iri": "http://openstreetmap.org/node/11269119005",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119005"
+    "IRI-based": "node_11269119005"
    },
    "annotations": {},
    "range": [],
@@ -3661,11 +3661,11 @@ var vowlresult={
   },
   {
    "id": 134,
-   "iri": "http://openstreetmap.org/node/11269119006",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119006"
+    "IRI-based": "node_11269119006"
    },
    "annotations": {},
    "range": [],
@@ -3675,11 +3675,11 @@ var vowlresult={
   },
   {
    "id": 135,
-   "iri": "http://openstreetmap.org/node/11269119007",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119007"
+    "IRI-based": "node_11269119007"
    },
    "annotations": {},
    "range": [],
@@ -3689,11 +3689,11 @@ var vowlresult={
   },
   {
    "id": 136,
-   "iri": "http://openstreetmap.org/node/11269119008",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119008"
+    "IRI-based": "node_11269119008"
    },
    "annotations": {},
    "range": [],
@@ -3703,11 +3703,11 @@ var vowlresult={
   },
   {
    "id": 137,
-   "iri": "http://openstreetmap.org/node/11269119009",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119009"
+    "IRI-based": "node_11269119009"
    },
    "annotations": {},
    "range": [],
@@ -3717,11 +3717,11 @@ var vowlresult={
   },
   {
    "id": 138,
-   "iri": "http://openstreetmap.org/node/11269119010",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119010"
+    "IRI-based": "node_11269119010"
    },
    "annotations": {},
    "range": [],
@@ -3731,11 +3731,11 @@ var vowlresult={
   },
   {
    "id": 139,
-   "iri": "http://openstreetmap.org/node/11269119011",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269119011"
+    "IRI-based": "node_11269119011"
    },
    "annotations": {},
    "range": [],
@@ -3745,11 +3745,11 @@ var vowlresult={
   },
   {
    "id": 140,
-   "iri": "http://openstreetmap.org/node/11269165789",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269165789"
+    "IRI-based": "node_11269165789"
    },
    "annotations": {},
    "range": [],
@@ -3759,11 +3759,11 @@ var vowlresult={
   },
   {
    "id": 141,
-   "iri": "http://openstreetmap.org/node/11269165790",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11269165790"
+    "IRI-based": "node_11269165790"
    },
    "annotations": {},
    "range": [],
@@ -3773,11 +3773,11 @@ var vowlresult={
   },
   {
    "id": 142,
-   "iri": "http://openstreetmap.org/node/11558269687",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11558269687"
+    "IRI-based": "node_11558269687"
    },
    "annotations": {},
    "range": [],
@@ -3787,11 +3787,11 @@ var vowlresult={
   },
   {
    "id": 143,
-   "iri": "http://openstreetmap.org/node/11574593297",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11574593297"
+    "IRI-based": "node_11574593297"
    },
    "annotations": {},
    "range": [],
@@ -3801,11 +3801,11 @@ var vowlresult={
   },
   {
    "id": 144,
-   "iri": "http://openstreetmap.org/node/11575064111",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11575064111"
+    "IRI-based": "node_11575064111"
    },
    "annotations": {},
    "range": [],
@@ -3815,11 +3815,11 @@ var vowlresult={
   },
   {
    "id": 145,
-   "iri": "http://openstreetmap.org/node/11677109638",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11677109638"
+    "IRI-based": "node_11677109638"
    },
    "annotations": {},
    "range": [],
@@ -3829,11 +3829,11 @@ var vowlresult={
   },
   {
    "id": 146,
-   "iri": "http://openstreetmap.org/node/11677113764",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11677113764"
+    "IRI-based": "node_11677113764"
    },
    "annotations": {},
    "range": [],
@@ -3843,11 +3843,11 @@ var vowlresult={
   },
   {
    "id": 147,
-   "iri": "http://openstreetmap.org/node/11952692355",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11952692355"
+    "IRI-based": "node_11952692355"
    },
    "annotations": {},
    "range": [],
@@ -3857,11 +3857,11 @@ var vowlresult={
   },
   {
    "id": 148,
-   "iri": "http://openstreetmap.org/node/11955662684",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955662684"
+    "IRI-based": "node_11955662684"
    },
    "annotations": {},
    "range": [],
@@ -3871,11 +3871,11 @@ var vowlresult={
   },
   {
    "id": 149,
-   "iri": "http://openstreetmap.org/node/11955662685",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955662685"
+    "IRI-based": "node_11955662685"
    },
    "annotations": {},
    "range": [],
@@ -3885,11 +3885,11 @@ var vowlresult={
   },
   {
    "id": 150,
-   "iri": "http://openstreetmap.org/node/11955670771",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670771"
+    "IRI-based": "node_11955670771"
    },
    "annotations": {},
    "range": [],
@@ -3899,11 +3899,11 @@ var vowlresult={
   },
   {
    "id": 151,
-   "iri": "http://openstreetmap.org/node/11955670773",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670773"
+    "IRI-based": "node_11955670773"
    },
    "annotations": {},
    "range": [],
@@ -3913,11 +3913,11 @@ var vowlresult={
   },
   {
    "id": 152,
-   "iri": "http://openstreetmap.org/node/11955670774",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670774"
+    "IRI-based": "node_11955670774"
    },
    "annotations": {},
    "range": [],
@@ -3927,11 +3927,11 @@ var vowlresult={
   },
   {
    "id": 153,
-   "iri": "http://openstreetmap.org/node/11955670775",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670775"
+    "IRI-based": "node_11955670775"
    },
    "annotations": {},
    "range": [],
@@ -3941,11 +3941,11 @@ var vowlresult={
   },
   {
    "id": 154,
-   "iri": "http://openstreetmap.org/node/11955670776",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670776"
+    "IRI-based": "node_11955670776"
    },
    "annotations": {},
    "range": [],
@@ -3955,11 +3955,11 @@ var vowlresult={
   },
   {
    "id": 155,
-   "iri": "http://openstreetmap.org/node/11955670777",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670777"
+    "IRI-based": "node_11955670777"
    },
    "annotations": {},
    "range": [],
@@ -3969,11 +3969,11 @@ var vowlresult={
   },
   {
    "id": 156,
-   "iri": "http://openstreetmap.org/node/11955670778",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670778"
+    "IRI-based": "node_11955670778"
    },
    "annotations": {},
    "range": [],
@@ -3983,11 +3983,11 @@ var vowlresult={
   },
   {
    "id": 157,
-   "iri": "http://openstreetmap.org/node/11955670779",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670779"
+    "IRI-based": "node_11955670779"
    },
    "annotations": {},
    "range": [],
@@ -3997,11 +3997,11 @@ var vowlresult={
   },
   {
    "id": 158,
-   "iri": "http://openstreetmap.org/node/11955670780",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670780"
+    "IRI-based": "node_11955670780"
    },
    "annotations": {},
    "range": [],
@@ -4011,11 +4011,11 @@ var vowlresult={
   },
   {
    "id": 159,
-   "iri": "http://openstreetmap.org/node/11955670781",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670781"
+    "IRI-based": "node_11955670781"
    },
    "annotations": {},
    "range": [],
@@ -4025,11 +4025,11 @@ var vowlresult={
   },
   {
    "id": 160,
-   "iri": "http://openstreetmap.org/node/11955670784",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670784"
+    "IRI-based": "node_11955670784"
    },
    "annotations": {},
    "range": [],
@@ -4039,11 +4039,11 @@ var vowlresult={
   },
   {
    "id": 161,
-   "iri": "http://openstreetmap.org/node/11955670785",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670785"
+    "IRI-based": "node_11955670785"
    },
    "annotations": {},
    "range": [],
@@ -4053,11 +4053,11 @@ var vowlresult={
   },
   {
    "id": 162,
-   "iri": "http://openstreetmap.org/node/11955670786",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670786"
+    "IRI-based": "node_11955670786"
    },
    "annotations": {},
    "range": [],
@@ -4067,11 +4067,11 @@ var vowlresult={
   },
   {
    "id": 163,
-   "iri": "http://openstreetmap.org/node/11955670788",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670788"
+    "IRI-based": "node_11955670788"
    },
    "annotations": {},
    "range": [],
@@ -4081,11 +4081,11 @@ var vowlresult={
   },
   {
    "id": 164,
-   "iri": "http://openstreetmap.org/node/11955670789",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670789"
+    "IRI-based": "node_11955670789"
    },
    "annotations": {},
    "range": [],
@@ -4095,11 +4095,11 @@ var vowlresult={
   },
   {
    "id": 165,
-   "iri": "http://openstreetmap.org/node/11955670790",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670790"
+    "IRI-based": "node_11955670790"
    },
    "annotations": {},
    "range": [],
@@ -4109,11 +4109,11 @@ var vowlresult={
   },
   {
    "id": 166,
-   "iri": "http://openstreetmap.org/node/11955670791",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670791"
+    "IRI-based": "node_11955670791"
    },
    "annotations": {},
    "range": [],
@@ -4123,11 +4123,11 @@ var vowlresult={
   },
   {
    "id": 167,
-   "iri": "http://openstreetmap.org/node/11955670792",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670792"
+    "IRI-based": "node_11955670792"
    },
    "annotations": {},
    "range": [],
@@ -4137,11 +4137,11 @@ var vowlresult={
   },
   {
    "id": 168,
-   "iri": "http://openstreetmap.org/node/11955670793",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670793"
+    "IRI-based": "node_11955670793"
    },
    "annotations": {},
    "range": [],
@@ -4151,11 +4151,11 @@ var vowlresult={
   },
   {
    "id": 169,
-   "iri": "http://openstreetmap.org/node/11955670794",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670794"
+    "IRI-based": "node_11955670794"
    },
    "annotations": {},
    "range": [],
@@ -4165,11 +4165,11 @@ var vowlresult={
   },
   {
    "id": 170,
-   "iri": "http://openstreetmap.org/node/11955670796",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670796"
+    "IRI-based": "node_11955670796"
    },
    "annotations": {},
    "range": [],
@@ -4179,11 +4179,11 @@ var vowlresult={
   },
   {
    "id": 171,
-   "iri": "http://openstreetmap.org/node/11955670797",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670797"
+    "IRI-based": "node_11955670797"
    },
    "annotations": {},
    "range": [],
@@ -4193,11 +4193,11 @@ var vowlresult={
   },
   {
    "id": 172,
-   "iri": "http://openstreetmap.org/node/11955670798",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11955670798"
+    "IRI-based": "node_11955670798"
    },
    "annotations": {},
    "range": [],
@@ -4207,11 +4207,11 @@ var vowlresult={
   },
   {
    "id": 173,
-   "iri": "http://openstreetmap.org/node/11966423819",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11966423819"
+    "IRI-based": "node_11966423819"
    },
    "annotations": {},
    "range": [],
@@ -4221,11 +4221,11 @@ var vowlresult={
   },
   {
    "id": 174,
-   "iri": "http://openstreetmap.org/node/11966430251",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11966430251"
+    "IRI-based": "node_11966430251"
    },
    "annotations": {},
    "range": [],
@@ -4235,11 +4235,11 @@ var vowlresult={
   },
   {
    "id": 175,
-   "iri": "http://openstreetmap.org/node/11966441102",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "11966441102"
+    "IRI-based": "node_11966441102"
    },
    "annotations": {},
    "range": [],
@@ -4249,11 +4249,11 @@ var vowlresult={
   },
   {
    "id": 176,
-   "iri": "http://openstreetmap.org/node/12276963607",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "12276963607"
+    "IRI-based": "node_12276963607"
    },
    "annotations": {},
    "range": [],
@@ -4263,11 +4263,11 @@ var vowlresult={
   },
   {
    "id": 177,
-   "iri": "http://openstreetmap.org/node/12276982960",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "12276982960"
+    "IRI-based": "node_12276982960"
    },
    "annotations": {},
    "range": [],
@@ -4277,11 +4277,11 @@ var vowlresult={
   },
   {
    "id": 178,
-   "iri": "http://openstreetmap.org/node/12661114455",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "12661114455"
+    "IRI-based": "node_12661114455"
    },
    "annotations": {},
    "range": [],
@@ -4291,11 +4291,11 @@ var vowlresult={
   },
   {
    "id": 179,
-   "iri": "http://openstreetmap.org/node/1275923177",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "1275923177"
+    "IRI-based": "node_1275923177"
    },
    "annotations": {},
    "range": [],
@@ -4305,11 +4305,11 @@ var vowlresult={
   },
   {
    "id": 180,
-   "iri": "http://openstreetmap.org/node/2428911148",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "2428911148"
+    "IRI-based": "node_2428911148"
    },
    "annotations": {},
    "range": [],
@@ -4319,11 +4319,11 @@ var vowlresult={
   },
   {
    "id": 181,
-   "iri": "http://openstreetmap.org/node/3220290865",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "3220290865"
+    "IRI-based": "node_3220290865"
    },
    "annotations": {},
    "range": [],
@@ -4333,11 +4333,11 @@ var vowlresult={
   },
   {
    "id": 182,
-   "iri": "http://openstreetmap.org/node/3621783646",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "3621783646"
+    "IRI-based": "node_3621783646"
    },
    "annotations": {},
    "range": [],
@@ -4347,11 +4347,11 @@ var vowlresult={
   },
   {
    "id": 183,
-   "iri": "http://openstreetmap.org/node/3663314804",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "3663314804"
+    "IRI-based": "node_3663314804"
    },
    "annotations": {},
    "range": [],
@@ -4361,11 +4361,11 @@ var vowlresult={
   },
   {
    "id": 184,
-   "iri": "http://openstreetmap.org/node/4395991496",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "4395991496"
+    "IRI-based": "node_4395991496"
    },
    "annotations": {},
    "range": [],
@@ -4375,11 +4375,11 @@ var vowlresult={
   },
   {
    "id": 185,
-   "iri": "http://openstreetmap.org/node/452289802",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_452289802",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "452289802"
+    "IRI-based": "node_452289802"
    },
    "annotations": {},
    "range": [],
@@ -4389,11 +4389,11 @@ var vowlresult={
   },
   {
    "id": 186,
-   "iri": "http://openstreetmap.org/node/473149586",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_473149586",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "473149586"
+    "IRI-based": "node_473149586"
    },
    "annotations": {},
    "range": [],
@@ -4403,11 +4403,11 @@ var vowlresult={
   },
   {
    "id": 187,
-   "iri": "http://openstreetmap.org/node/5111098877",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5111098877"
+    "IRI-based": "node_5111098877"
    },
    "annotations": {},
    "range": [],
@@ -4417,11 +4417,11 @@ var vowlresult={
   },
   {
    "id": 188,
-   "iri": "http://openstreetmap.org/node/5111098878",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5111098878"
+    "IRI-based": "node_5111098878"
    },
    "annotations": {},
    "range": [],
@@ -4431,11 +4431,11 @@ var vowlresult={
   },
   {
    "id": 189,
-   "iri": "http://openstreetmap.org/node/5145413640",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5145413640"
+    "IRI-based": "node_5145413640"
    },
    "annotations": {},
    "range": [],
@@ -4445,11 +4445,11 @@ var vowlresult={
   },
   {
    "id": 190,
-   "iri": "http://openstreetmap.org/node/5965037771",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "5965037771"
+    "IRI-based": "node_5965037771"
    },
    "annotations": {},
    "range": [],
@@ -4459,11 +4459,11 @@ var vowlresult={
   },
   {
    "id": 191,
-   "iri": "http://openstreetmap.org/node/600221596",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_600221596",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "600221596"
+    "IRI-based": "node_600221596"
    },
    "annotations": {},
    "range": [],
@@ -4473,11 +4473,11 @@ var vowlresult={
   },
   {
    "id": 192,
-   "iri": "http://openstreetmap.org/node/6810674728",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "6810674728"
+    "IRI-based": "node_6810674728"
    },
    "annotations": {},
    "range": [],
@@ -4487,11 +4487,11 @@ var vowlresult={
   },
   {
    "id": 193,
-   "iri": "http://openstreetmap.org/node/7082266109",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7082266109"
+    "IRI-based": "node_7082266109"
    },
    "annotations": {},
    "range": [],
@@ -4501,11 +4501,11 @@ var vowlresult={
   },
   {
    "id": 194,
-   "iri": "http://openstreetmap.org/node/7082293699",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7082293699"
+    "IRI-based": "node_7082293699"
    },
    "annotations": {},
    "range": [],
@@ -4515,11 +4515,11 @@ var vowlresult={
   },
   {
    "id": 195,
-   "iri": "http://openstreetmap.org/node/7110849500",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7110849500"
+    "IRI-based": "node_7110849500"
    },
    "annotations": {},
    "range": [],
@@ -4529,11 +4529,11 @@ var vowlresult={
   },
   {
    "id": 196,
-   "iri": "http://openstreetmap.org/node/7110849501",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7110849501"
+    "IRI-based": "node_7110849501"
    },
    "annotations": {},
    "range": [],
@@ -4543,11 +4543,11 @@ var vowlresult={
   },
   {
    "id": 197,
-   "iri": "http://openstreetmap.org/node/7203972860",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7203972860"
+    "IRI-based": "node_7203972860"
    },
    "annotations": {},
    "range": [],
@@ -4557,11 +4557,11 @@ var vowlresult={
   },
   {
    "id": 198,
-   "iri": "http://openstreetmap.org/node/7925063785",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "7925063785"
+    "IRI-based": "node_7925063785"
    },
    "annotations": {},
    "range": [],
@@ -4571,11 +4571,11 @@ var vowlresult={
   },
   {
    "id": 199,
-   "iri": "http://openstreetmap.org/node/8308921075",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8308921075"
+    "IRI-based": "node_8308921075"
    },
    "annotations": {},
    "range": [],
@@ -4585,11 +4585,11 @@ var vowlresult={
   },
   {
    "id": 200,
-   "iri": "http://openstreetmap.org/node/8355471227",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471227"
+    "IRI-based": "node_8355471227"
    },
    "annotations": {},
    "range": [],
@@ -4599,11 +4599,11 @@ var vowlresult={
   },
   {
    "id": 201,
-   "iri": "http://openstreetmap.org/node/8355471228",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471228"
+    "IRI-based": "node_8355471228"
    },
    "annotations": {},
    "range": [],
@@ -4613,11 +4613,11 @@ var vowlresult={
   },
   {
    "id": 202,
-   "iri": "http://openstreetmap.org/node/8355471229",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471229"
+    "IRI-based": "node_8355471229"
    },
    "annotations": {},
    "range": [],
@@ -4627,11 +4627,11 @@ var vowlresult={
   },
   {
    "id": 203,
-   "iri": "http://openstreetmap.org/node/8355471230",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471230"
+    "IRI-based": "node_8355471230"
    },
    "annotations": {},
    "range": [],
@@ -4641,11 +4641,11 @@ var vowlresult={
   },
   {
    "id": 204,
-   "iri": "http://openstreetmap.org/node/8355471231",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8355471231"
+    "IRI-based": "node_8355471231"
    },
    "annotations": {},
    "range": [],
@@ -4655,11 +4655,11 @@ var vowlresult={
   },
   {
    "id": 205,
-   "iri": "http://openstreetmap.org/node/8494707479",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8494707479"
+    "IRI-based": "node_8494707479"
    },
    "annotations": {},
    "range": [],
@@ -4669,11 +4669,11 @@ var vowlresult={
   },
   {
    "id": 206,
-   "iri": "http://openstreetmap.org/node/8520931982",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8520931982"
+    "IRI-based": "node_8520931982"
    },
    "annotations": {},
    "range": [],
@@ -4683,11 +4683,11 @@ var vowlresult={
   },
   {
    "id": 207,
-   "iri": "http://openstreetmap.org/node/8520962885",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8520962885"
+    "IRI-based": "node_8520962885"
    },
    "annotations": {},
    "range": [],
@@ -4697,11 +4697,11 @@ var vowlresult={
   },
   {
    "id": 208,
-   "iri": "http://openstreetmap.org/node/8584276628",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "8584276628"
+    "IRI-based": "node_8584276628"
    },
    "annotations": {},
    "range": [],
@@ -4711,11 +4711,11 @@ var vowlresult={
   },
   {
    "id": 209,
-   "iri": "http://openstreetmap.org/node/9110402648",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "9110402648"
+    "IRI-based": "node_9110402648"
    },
    "annotations": {},
    "range": [],
@@ -4725,11 +4725,11 @@ var vowlresult={
   },
   {
    "id": 210,
-   "iri": "http://openstreetmap.org/node/9990835587",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "9990835587"
+    "IRI-based": "node_9990835587"
    },
    "annotations": {},
    "range": [],
@@ -4739,11 +4739,11 @@ var vowlresult={
   },
   {
    "id": 211,
-   "iri": "http://openstreetmap.org/way/1209135262",
-   "baseIRI": "http://openstreetmap.org/way",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "1209135262"
+    "IRI-based": "way_1209135262"
    },
    "annotations": {},
    "range": [],
@@ -4753,7 +4753,7 @@ var vowlresult={
   },
   {
    "id": 212,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
    "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 137 / TCBKD A",
@@ -4762,7 +4762,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -4778,7 +4778,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -4854,8 +4854,8 @@ var vowlresult={
   },
   {
    "id": 213,
-   "iri": "http://openstreetmap.org/node/10040750611",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 242",
    "annotations": {
@@ -4863,7 +4863,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -4879,7 +4879,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -4955,8 +4955,8 @@ var vowlresult={
   },
   {
    "id": 214,
-   "iri": "http://openstreetmap.org/node/10040757680",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 141",
    "annotations": {
@@ -4964,7 +4964,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -4980,7 +4980,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5056,8 +5056,8 @@ var vowlresult={
   },
   {
    "id": 215,
-   "iri": "http://openstreetmap.org/node/10041491619",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 142",
    "annotations": {
@@ -5065,7 +5065,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5081,7 +5081,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5157,8 +5157,8 @@ var vowlresult={
   },
   {
    "id": 216,
-   "iri": "http://openstreetmap.org/node/10041927343",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 86 / UCC 18",
    "annotations": {
@@ -5166,7 +5166,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5182,7 +5182,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5266,8 +5266,8 @@ var vowlresult={
   },
   {
    "id": 217,
-   "iri": "http://openstreetmap.org/node/10560404607",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 185 / TCBKD B",
    "annotations": {
@@ -5275,7 +5275,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5291,7 +5291,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5367,8 +5367,8 @@ var vowlresult={
   },
   {
    "id": 218,
-   "iri": "http://openstreetmap.org/node/10563395863",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Crossoona Ogham Stone",
    "annotations": {
@@ -5376,7 +5376,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5392,7 +5392,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5468,8 +5468,8 @@ var vowlresult={
   },
   {
    "id": 219,
-   "iri": "http://openstreetmap.org/node/10594924965",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Castletimon Ogham Stone",
    "annotations": {
@@ -5477,7 +5477,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5493,7 +5493,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5577,8 +5577,8 @@ var vowlresult={
   },
   {
    "id": 220,
-   "iri": "http://openstreetmap.org/node/10594973066",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10601966811",
    "annotations": {
@@ -5586,7 +5586,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5602,7 +5602,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5670,8 +5670,8 @@ var vowlresult={
   },
   {
    "id": 221,
-   "iri": "http://openstreetmap.org/node/10601966811",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10601966825",
    "annotations": {
@@ -5679,7 +5679,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5695,7 +5695,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5763,8 +5763,8 @@ var vowlresult={
   },
   {
    "id": 222,
-   "iri": "http://openstreetmap.org/node/10601966825",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10633917137",
    "annotations": {
@@ -5772,7 +5772,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5788,7 +5788,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5856,8 +5856,8 @@ var vowlresult={
   },
   {
    "id": 223,
-   "iri": "http://openstreetmap.org/node/10633917137",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10633917138",
    "annotations": {
@@ -5865,7 +5865,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5881,7 +5881,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5949,8 +5949,8 @@ var vowlresult={
   },
   {
    "id": 224,
-   "iri": "http://openstreetmap.org/node/10633917138",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballybowler North Ogham Stone",
    "annotations": {
@@ -5958,7 +5958,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -5974,7 +5974,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6058,8 +6058,8 @@ var vowlresult={
   },
   {
    "id": 225,
-   "iri": "http://openstreetmap.org/node/10639514250",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10652133873",
    "annotations": {
@@ -6067,7 +6067,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6083,7 +6083,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6151,8 +6151,8 @@ var vowlresult={
   },
   {
    "id": 226,
-   "iri": "http://openstreetmap.org/node/10652133873",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10652214543",
    "annotations": {
@@ -6160,7 +6160,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6176,7 +6176,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6260,8 +6260,8 @@ var vowlresult={
   },
   {
    "id": 227,
-   "iri": "http://openstreetmap.org/node/10652214543",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10656139839",
    "annotations": {
@@ -6269,7 +6269,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6285,7 +6285,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6361,8 +6361,8 @@ var vowlresult={
   },
   {
    "id": 228,
-   "iri": "http://openstreetmap.org/node/10656139839",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10709752679",
    "annotations": {
@@ -6370,7 +6370,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6386,7 +6386,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6438,8 +6438,8 @@ var vowlresult={
   },
   {
    "id": 229,
-   "iri": "http://openstreetmap.org/node/10709752679",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 195",
    "annotations": {
@@ -6447,7 +6447,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6463,7 +6463,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6539,8 +6539,8 @@ var vowlresult={
   },
   {
    "id": 230,
-   "iri": "http://openstreetmap.org/node/11071324384",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 81 / UCC 4",
    "annotations": {
@@ -6548,7 +6548,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6564,7 +6564,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6640,8 +6640,8 @@ var vowlresult={
   },
   {
    "id": 231,
-   "iri": "http://openstreetmap.org/node/11071361392",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11253027975",
    "annotations": {
@@ -6649,7 +6649,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6665,7 +6665,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6717,8 +6717,8 @@ var vowlresult={
   },
   {
    "id": 232,
-   "iri": "http://openstreetmap.org/node/11253027975",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig I",
    "annotations": {
@@ -6726,7 +6726,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6742,7 +6742,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6794,8 +6794,8 @@ var vowlresult={
   },
   {
    "id": 233,
-   "iri": "http://openstreetmap.org/node/11269073312",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig IV",
    "annotations": {
@@ -6803,7 +6803,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6819,7 +6819,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6871,8 +6871,8 @@ var vowlresult={
   },
   {
    "id": 234,
-   "iri": "http://openstreetmap.org/node/11269073313",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone CIIC 175. Burnham West",
    "annotations": {
@@ -6880,7 +6880,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6896,7 +6896,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6948,8 +6948,8 @@ var vowlresult={
   },
   {
    "id": 235,
-   "iri": "http://openstreetmap.org/node/11269073314",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig II",
    "annotations": {
@@ -6957,7 +6957,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -6973,7 +6973,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7025,8 +7025,8 @@ var vowlresult={
   },
   {
    "id": 236,
-   "iri": "http://openstreetmap.org/node/11269073315",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig III",
    "annotations": {
@@ -7034,7 +7034,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7050,7 +7050,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7102,8 +7102,8 @@ var vowlresult={
   },
   {
    "id": 237,
-   "iri": "http://openstreetmap.org/node/11269073316",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119003",
    "annotations": {
@@ -7111,7 +7111,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7127,7 +7127,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7171,8 +7171,8 @@ var vowlresult={
   },
   {
    "id": 238,
-   "iri": "http://openstreetmap.org/node/11269119003",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119004",
    "annotations": {
@@ -7180,7 +7180,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7196,7 +7196,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7240,8 +7240,8 @@ var vowlresult={
   },
   {
    "id": 239,
-   "iri": "http://openstreetmap.org/node/11269119004",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119005",
    "annotations": {
@@ -7249,7 +7249,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7265,7 +7265,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7309,8 +7309,8 @@ var vowlresult={
   },
   {
    "id": 240,
-   "iri": "http://openstreetmap.org/node/11269119005",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119006",
    "annotations": {
@@ -7318,7 +7318,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7334,7 +7334,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7378,8 +7378,8 @@ var vowlresult={
   },
   {
    "id": 241,
-   "iri": "http://openstreetmap.org/node/11269119006",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119007",
    "annotations": {
@@ -7387,7 +7387,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7403,7 +7403,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7447,8 +7447,8 @@ var vowlresult={
   },
   {
    "id": 242,
-   "iri": "http://openstreetmap.org/node/11269119007",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119008",
    "annotations": {
@@ -7456,7 +7456,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7472,7 +7472,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7516,8 +7516,8 @@ var vowlresult={
   },
   {
    "id": 243,
-   "iri": "http://openstreetmap.org/node/11269119008",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119009",
    "annotations": {
@@ -7525,7 +7525,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7541,7 +7541,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7593,8 +7593,8 @@ var vowlresult={
   },
   {
    "id": 244,
-   "iri": "http://openstreetmap.org/node/11269119009",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119010",
    "annotations": {
@@ -7602,7 +7602,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7618,7 +7618,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7662,8 +7662,8 @@ var vowlresult={
   },
   {
    "id": 245,
-   "iri": "http://openstreetmap.org/node/11269119010",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119011",
    "annotations": {
@@ -7671,7 +7671,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7687,7 +7687,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7731,8 +7731,8 @@ var vowlresult={
   },
   {
    "id": 246,
-   "iri": "http://openstreetmap.org/node/11269119011",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269165789",
    "annotations": {
@@ -7740,7 +7740,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7756,7 +7756,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7808,8 +7808,8 @@ var vowlresult={
   },
   {
    "id": 247,
-   "iri": "http://openstreetmap.org/node/11269165789",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269165790",
    "annotations": {
@@ -7817,7 +7817,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7833,7 +7833,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7877,8 +7877,8 @@ var vowlresult={
   },
   {
    "id": 248,
-   "iri": "http://openstreetmap.org/node/11269165790",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Long Stone",
    "annotations": {
@@ -7886,7 +7886,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7902,7 +7902,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7962,8 +7962,8 @@ var vowlresult={
   },
   {
    "id": 249,
-   "iri": "http://openstreetmap.org/node/11558269687",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11574593297",
    "annotations": {
@@ -7971,7 +7971,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -7987,7 +7987,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8039,8 +8039,8 @@ var vowlresult={
   },
   {
    "id": 250,
-   "iri": "http://openstreetmap.org/node/11574593297",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "St. Olan's Cap",
    "annotations": {
@@ -8048,7 +8048,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8064,7 +8064,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8116,8 +8116,8 @@ var vowlresult={
   },
   {
    "id": 251,
-   "iri": "http://openstreetmap.org/node/11575064111",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 153 (Ballinrannig VI)",
    "annotations": {
@@ -8125,7 +8125,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8141,7 +8141,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8225,8 +8225,8 @@ var vowlresult={
   },
   {
    "id": 252,
-   "iri": "http://openstreetmap.org/node/11677109638",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 152 (Ballinrannig V)",
    "annotations": {
@@ -8234,7 +8234,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8250,7 +8250,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8334,8 +8334,8 @@ var vowlresult={
   },
   {
    "id": 253,
-   "iri": "http://openstreetmap.org/node/11677113764",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11952692355",
    "annotations": {
@@ -8343,7 +8343,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8359,7 +8359,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8411,8 +8411,8 @@ var vowlresult={
   },
   {
    "id": 254,
-   "iri": "http://openstreetmap.org/node/11952692355",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 6",
    "annotations": {
@@ -8420,7 +8420,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8436,7 +8436,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8512,8 +8512,8 @@ var vowlresult={
   },
   {
    "id": 255,
-   "iri": "http://openstreetmap.org/node/11955662684",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 27",
    "annotations": {
@@ -8521,7 +8521,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8537,7 +8537,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8621,8 +8621,8 @@ var vowlresult={
   },
   {
    "id": 256,
-   "iri": "http://openstreetmap.org/node/11955662685",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 2",
    "annotations": {
@@ -8630,7 +8630,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8646,7 +8646,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8706,8 +8706,8 @@ var vowlresult={
   },
   {
    "id": 257,
-   "iri": "http://openstreetmap.org/node/11955670771",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 3",
    "annotations": {
@@ -8715,7 +8715,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8731,7 +8731,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8807,8 +8807,8 @@ var vowlresult={
   },
   {
    "id": 258,
-   "iri": "http://openstreetmap.org/node/11955670773",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 5",
    "annotations": {
@@ -8816,7 +8816,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8832,7 +8832,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8892,8 +8892,8 @@ var vowlresult={
   },
   {
    "id": 259,
-   "iri": "http://openstreetmap.org/node/11955670774",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 12",
    "annotations": {
@@ -8901,7 +8901,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -8917,7 +8917,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8993,8 +8993,8 @@ var vowlresult={
   },
   {
    "id": 260,
-   "iri": "http://openstreetmap.org/node/11955670775",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 24",
    "annotations": {
@@ -9002,7 +9002,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9018,7 +9018,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9094,8 +9094,8 @@ var vowlresult={
   },
   {
    "id": 261,
-   "iri": "http://openstreetmap.org/node/11955670776",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 28",
    "annotations": {
@@ -9103,7 +9103,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9119,7 +9119,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9179,8 +9179,8 @@ var vowlresult={
   },
   {
    "id": 262,
-   "iri": "http://openstreetmap.org/node/11955670777",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 23",
    "annotations": {
@@ -9188,7 +9188,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9204,7 +9204,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9264,8 +9264,8 @@ var vowlresult={
   },
   {
    "id": 263,
-   "iri": "http://openstreetmap.org/node/11955670778",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 22",
    "annotations": {
@@ -9273,7 +9273,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9289,7 +9289,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9365,8 +9365,8 @@ var vowlresult={
   },
   {
    "id": 264,
-   "iri": "http://openstreetmap.org/node/11955670779",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 20",
    "annotations": {
@@ -9374,7 +9374,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9390,7 +9390,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9466,8 +9466,8 @@ var vowlresult={
   },
   {
    "id": 265,
-   "iri": "http://openstreetmap.org/node/11955670780",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 1",
    "annotations": {
@@ -9475,7 +9475,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9491,7 +9491,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9567,8 +9567,8 @@ var vowlresult={
   },
   {
    "id": 266,
-   "iri": "http://openstreetmap.org/node/11955670781",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 21",
    "annotations": {
@@ -9576,7 +9576,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9592,7 +9592,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9668,8 +9668,8 @@ var vowlresult={
   },
   {
    "id": 267,
-   "iri": "http://openstreetmap.org/node/11955670784",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 10",
    "annotations": {
@@ -9677,7 +9677,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9693,7 +9693,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9769,8 +9769,8 @@ var vowlresult={
   },
   {
    "id": 268,
-   "iri": "http://openstreetmap.org/node/11955670785",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 19",
    "annotations": {
@@ -9778,7 +9778,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9794,7 +9794,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9878,8 +9878,8 @@ var vowlresult={
   },
   {
    "id": 269,
-   "iri": "http://openstreetmap.org/node/11955670786",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 17",
    "annotations": {
@@ -9887,7 +9887,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9903,7 +9903,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9963,8 +9963,8 @@ var vowlresult={
   },
   {
    "id": 270,
-   "iri": "http://openstreetmap.org/node/11955670788",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 16",
    "annotations": {
@@ -9972,7 +9972,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -9988,7 +9988,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10072,8 +10072,8 @@ var vowlresult={
   },
   {
    "id": 271,
-   "iri": "http://openstreetmap.org/node/11955670789",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 94/ UCC 15",
    "annotations": {
@@ -10081,7 +10081,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10097,7 +10097,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10173,8 +10173,8 @@ var vowlresult={
   },
   {
    "id": 272,
-   "iri": "http://openstreetmap.org/node/11955670790",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 14",
    "annotations": {
@@ -10182,7 +10182,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10198,7 +10198,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10274,8 +10274,8 @@ var vowlresult={
   },
   {
    "id": 273,
-   "iri": "http://openstreetmap.org/node/11955670791",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 13",
    "annotations": {
@@ -10283,7 +10283,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10299,7 +10299,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10375,8 +10375,8 @@ var vowlresult={
   },
   {
    "id": 274,
-   "iri": "http://openstreetmap.org/node/11955670792",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 11",
    "annotations": {
@@ -10384,7 +10384,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10400,7 +10400,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10460,8 +10460,8 @@ var vowlresult={
   },
   {
    "id": 275,
-   "iri": "http://openstreetmap.org/node/11955670793",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 25",
    "annotations": {
@@ -10469,7 +10469,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10485,7 +10485,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10569,8 +10569,8 @@ var vowlresult={
   },
   {
    "id": 276,
-   "iri": "http://openstreetmap.org/node/11955670794",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 7",
    "annotations": {
@@ -10578,7 +10578,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10594,7 +10594,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10678,8 +10678,8 @@ var vowlresult={
   },
   {
    "id": 277,
-   "iri": "http://openstreetmap.org/node/11955670796",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 8",
    "annotations": {
@@ -10687,7 +10687,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10703,7 +10703,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10779,8 +10779,8 @@ var vowlresult={
   },
   {
    "id": 278,
-   "iri": "http://openstreetmap.org/node/11955670797",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 9",
    "annotations": {
@@ -10788,7 +10788,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10804,7 +10804,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10880,8 +10880,8 @@ var vowlresult={
   },
   {
    "id": 279,
-   "iri": "http://openstreetmap.org/node/11955670798",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Kilbrittain Fragment",
    "annotations": {
@@ -10889,7 +10889,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10905,7 +10905,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10965,8 +10965,8 @@ var vowlresult={
   },
   {
    "id": 280,
-   "iri": "http://openstreetmap.org/node/11966423819",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CHUIS/1",
    "annotations": {
@@ -10974,7 +10974,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -10990,7 +10990,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11050,8 +11050,8 @@ var vowlresult={
   },
   {
    "id": 281,
-   "iri": "http://openstreetmap.org/node/11966430251",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "GEARS/1",
    "annotations": {
@@ -11059,7 +11059,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11075,7 +11075,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11135,8 +11135,8 @@ var vowlresult={
   },
   {
    "id": 282,
-   "iri": "http://openstreetmap.org/node/11966441102",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone CIIC 147. Ballineesteenigh",
    "annotations": {
@@ -11144,7 +11144,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11160,7 +11160,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11212,8 +11212,8 @@ var vowlresult={
   },
   {
    "id": 283,
-   "iri": "http://openstreetmap.org/node/12276963607",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone BURNHAM EAST V",
    "annotations": {
@@ -11221,7 +11221,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11237,7 +11237,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11297,8 +11297,8 @@ var vowlresult={
   },
   {
    "id": 284,
-   "iri": "http://openstreetmap.org/node/12276982960",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 12661114455",
    "annotations": {
@@ -11306,7 +11306,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11322,7 +11322,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11374,8 +11374,8 @@ var vowlresult={
   },
   {
    "id": 285,
-   "iri": "http://openstreetmap.org/node/12661114455",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Arraglen Ogham Stone",
    "annotations": {
@@ -11383,7 +11383,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11399,7 +11399,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11491,8 +11491,8 @@ var vowlresult={
   },
   {
    "id": 286,
-   "iri": "http://openstreetmap.org/node/1275923177",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 2428911148",
    "annotations": {
@@ -11500,7 +11500,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11516,7 +11516,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11576,8 +11576,8 @@ var vowlresult={
   },
   {
    "id": 287,
-   "iri": "http://openstreetmap.org/node/2428911148",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Breastagh Ogham Stone",
    "annotations": {
@@ -11585,7 +11585,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11601,7 +11601,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11677,8 +11677,8 @@ var vowlresult={
   },
   {
    "id": 288,
-   "iri": "http://openstreetmap.org/node/3220290865",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 3621783646",
    "annotations": {
@@ -11686,7 +11686,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11702,7 +11702,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11762,8 +11762,8 @@ var vowlresult={
   },
   {
    "id": 289,
-   "iri": "http://openstreetmap.org/node/3621783646",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Templebryan North Ogham Stone",
    "annotations": {
@@ -11771,7 +11771,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11787,7 +11787,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11863,8 +11863,8 @@ var vowlresult={
   },
   {
    "id": 290,
-   "iri": "http://openstreetmap.org/node/3663314804",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lugnagappul Ogham Stones",
    "annotations": {
@@ -11872,7 +11872,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11888,7 +11888,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11964,8 +11964,8 @@ var vowlresult={
   },
   {
    "id": 291,
-   "iri": "http://openstreetmap.org/node/4395991496",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Cloch Oghaim Dhoire Fh\u00edon\u00e1in Beag",
    "annotations": {
@@ -11973,7 +11973,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -11989,7 +11989,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12065,8 +12065,8 @@ var vowlresult={
   },
   {
    "id": 292,
-   "iri": "http://openstreetmap.org/node/452289802",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_452289802",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballycrovane Ogham Stone",
    "annotations": {
@@ -12074,7 +12074,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12090,7 +12090,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12174,8 +12174,8 @@ var vowlresult={
   },
   {
    "id": 293,
-   "iri": "http://openstreetmap.org/node/473149586",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_473149586",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lamoge Ogham Stone 1",
    "annotations": {
@@ -12183,7 +12183,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12199,7 +12199,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12259,8 +12259,8 @@ var vowlresult={
   },
   {
    "id": 294,
-   "iri": "http://openstreetmap.org/node/5111098877",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lamoge Ogham Stone 2",
    "annotations": {
@@ -12268,7 +12268,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12284,7 +12284,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12344,8 +12344,8 @@ var vowlresult={
   },
   {
    "id": 295,
-   "iri": "http://openstreetmap.org/node/5111098878",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 178",
    "annotations": {
@@ -12353,7 +12353,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12369,7 +12369,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12453,8 +12453,8 @@ var vowlresult={
   },
   {
    "id": 296,
-   "iri": "http://openstreetmap.org/node/5145413640",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Tullaherin Ogham Stone II",
    "annotations": {
@@ -12462,7 +12462,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12478,7 +12478,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12594,8 +12594,8 @@ var vowlresult={
   },
   {
    "id": 297,
-   "iri": "http://openstreetmap.org/node/5965037771",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "The Long Stone",
    "annotations": {
@@ -12603,7 +12603,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12619,7 +12619,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12679,8 +12679,8 @@ var vowlresult={
   },
   {
    "id": 298,
-   "iri": "http://openstreetmap.org/node/600221596",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_600221596",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 203",
    "annotations": {
@@ -12688,7 +12688,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12704,7 +12704,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12780,8 +12780,8 @@ var vowlresult={
   },
   {
    "id": 299,
-   "iri": "http://openstreetmap.org/node/6810674728",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Tullygarran Ogham Stones",
    "annotations": {
@@ -12789,7 +12789,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12805,7 +12805,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12913,8 +12913,8 @@ var vowlresult={
   },
   {
    "id": 300,
-   "iri": "http://openstreetmap.org/node/7082266109",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 7082293699",
    "annotations": {
@@ -12922,7 +12922,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -12938,7 +12938,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13014,8 +13014,8 @@ var vowlresult={
   },
   {
    "id": 301,
-   "iri": "http://openstreetmap.org/node/7082293699",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Churchclara Ogham Stone II",
    "annotations": {
@@ -13023,7 +13023,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13039,7 +13039,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13115,8 +13115,8 @@ var vowlresult={
   },
   {
    "id": 302,
-   "iri": "http://openstreetmap.org/node/7110849500",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Churchclara Ogham Stone I",
    "annotations": {
@@ -13124,7 +13124,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13140,7 +13140,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13208,8 +13208,8 @@ var vowlresult={
   },
   {
    "id": 303,
-   "iri": "http://openstreetmap.org/node/7110849501",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballinrannig Stone VII (CIIC 154)",
    "annotations": {
@@ -13217,7 +13217,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13233,7 +13233,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13325,8 +13325,8 @@ var vowlresult={
   },
   {
    "id": 304,
-   "iri": "http://openstreetmap.org/node/7203972860",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lugudeccas Stone",
    "annotations": {
@@ -13334,7 +13334,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13350,7 +13350,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13418,8 +13418,8 @@ var vowlresult={
   },
   {
    "id": 305,
-   "iri": "http://openstreetmap.org/node/7925063785",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballyboodan Ogham Stone",
    "annotations": {
@@ -13427,7 +13427,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13443,7 +13443,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13543,8 +13543,8 @@ var vowlresult={
   },
   {
    "id": 306,
-   "iri": "http://openstreetmap.org/node/8308921075",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471227",
    "annotations": {
@@ -13552,7 +13552,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13568,7 +13568,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13612,8 +13612,8 @@ var vowlresult={
   },
   {
    "id": 307,
-   "iri": "http://openstreetmap.org/node/8355471227",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471228",
    "annotations": {
@@ -13621,7 +13621,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13637,7 +13637,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13681,8 +13681,8 @@ var vowlresult={
   },
   {
    "id": 308,
-   "iri": "http://openstreetmap.org/node/8355471228",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471229",
    "annotations": {
@@ -13690,7 +13690,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13706,7 +13706,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13750,8 +13750,8 @@ var vowlresult={
   },
   {
    "id": 309,
-   "iri": "http://openstreetmap.org/node/8355471229",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471230",
    "annotations": {
@@ -13759,7 +13759,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13775,7 +13775,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13819,8 +13819,8 @@ var vowlresult={
   },
   {
    "id": 310,
-   "iri": "http://openstreetmap.org/node/8355471230",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471231",
    "annotations": {
@@ -13828,7 +13828,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13844,7 +13844,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13888,8 +13888,8 @@ var vowlresult={
   },
   {
    "id": 311,
-   "iri": "http://openstreetmap.org/node/8355471231",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Tullaherin Ogham Stone I",
    "annotations": {
@@ -13897,7 +13897,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -13913,7 +13913,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14029,8 +14029,8 @@ var vowlresult={
   },
   {
    "id": 312,
-   "iri": "http://openstreetmap.org/node/8494707479",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8520931982",
    "annotations": {
@@ -14038,7 +14038,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -14054,7 +14054,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14122,8 +14122,8 @@ var vowlresult={
   },
   {
    "id": 313,
-   "iri": "http://openstreetmap.org/node/8520931982",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8520962885",
    "annotations": {
@@ -14131,7 +14131,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -14147,7 +14147,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14223,8 +14223,8 @@ var vowlresult={
   },
   {
    "id": 314,
-   "iri": "http://openstreetmap.org/node/8520962885",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ardcanaght Ogham Stone",
    "annotations": {
@@ -14232,7 +14232,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -14248,7 +14248,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14332,8 +14332,8 @@ var vowlresult={
   },
   {
    "id": 315,
-   "iri": "http://openstreetmap.org/node/8584276628",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 187",
    "annotations": {
@@ -14341,7 +14341,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -14357,7 +14357,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14441,8 +14441,8 @@ var vowlresult={
   },
   {
    "id": 316,
-   "iri": "http://openstreetmap.org/node/9110402648",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 114/ UCC 26",
    "annotations": {
@@ -14450,7 +14450,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -14466,7 +14466,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14550,8 +14550,8 @@ var vowlresult={
   },
   {
    "id": 317,
-   "iri": "http://openstreetmap.org/node/9990835587",
-   "baseIRI": "http://openstreetmap.org/node",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Drumlohan Souterrain and Ogham Stones",
    "annotations": {
@@ -14559,7 +14559,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -14575,7 +14575,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14659,11 +14659,11 @@ var vowlresult={
   },
   {
    "id": 318,
-   "iri": "http://openstreetmap.org/way/1209135262",
-   "baseIRI": "http://openstreetmap.org/way",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
+   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "1209135262"
+    "IRI-based": "way_1209135262"
    },
    "annotations": {
     "http://www.opengis.net/ont/geosparql#asWKT": [
@@ -17108,7 +17108,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/created",
       "language": "undefined",
-      "value": "2025-12-19T10:32:05.532368+00:00",
+      "value": "2025-12-19T11:58:59.691160+00:00",
       "type": "label"
      }
     ],
@@ -17116,7 +17116,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/identifier",
       "language": "undefined",
-      "value": "osm2lod:ogham:2025-12-19_103205Z",
+      "value": "osm2lod:ogham:2025-12-19_115859Z",
       "type": "label"
      }
     ],
@@ -17124,7 +17124,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/provenance",
       "language": "undefined",
-      "value": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"historic\"=\"ogham_stone\"];\nout geom;",
+      "value": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"historic\"=\"ogham_stone\"];\nout meta geom;",
       "type": "label"
      }
     ],
@@ -17160,11 +17160,11 @@ var vowlresult={
   },
   {
    "id": 425,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_103205Z",
+   "iri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
    "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
-    "IRI-based": "ogham__2025-12-19_103205Z"
+    "IRI-based": "ogham__2025-12-19_115859Z"
    },
    "annotations": {},
    "range": [],

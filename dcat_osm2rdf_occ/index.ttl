@@ -1,14 +1,9 @@
 @prefix ns1: <http://purl.org/vocommons/voaf#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://openstreetmap.org/dcat_osm2rdf_occ> a ns1:DatasetOccurrence,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in osm2rdf" ;
-    ns1:inDataset <http://openstreetmap.org/osm2rdf> ;
-    ns1:occurrences 10,
-        18,
-        212,
-        1424 .
+    ns1:inDataset <http://openstreetmap.org/osm2rdf> .
 

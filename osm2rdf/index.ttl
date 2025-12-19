@@ -34,41 +34,28 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "osm2rdf"@en ;
-    ns1:averageLiteralLength 14,
-        15,
-        16,
-        17 ;
-    ns1:averageObjectIRILength 46,
-        48,
-        49 ;
+    ns1:averageLiteralLength 0 ;
+    ns1:averageObjectIRILength 0 ;
     ns1:averagePropertyIRILength 51,
         53,
         57,
         58 ;
-    ns1:averageSubjectIRILength 40,
-        41,
-        42 ;
-    ns1:datatypes 1 ;
+    ns1:averageSubjectIRILength 0 ;
+    ns1:datatypes 0 ;
     ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 91,
-        142,
-        983,
-        5325 ;
-    ns1:distinctLiterals 23,
-        50,
-        341,
-        1581 ;
-    ns1:distinctRDFNodes 114,
-        192,
-        1324,
-        6906 ;
-    ns1:languages 1,
-        3,
-        4,
-        6 ;
+    ns1:distinctIRIReferences 86,
+        137,
+        978,
+        5320 ;
+    ns1:distinctLiterals 0 ;
+    ns1:distinctRDFNodes 86,
+        137,
+        978,
+        5320 ;
+    ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T11:54:01"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T12:02:16"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -81,24 +68,19 @@
         <http://openstreetmap.org/osm2rdf_E22_Human_Made_Object>,
         <http://openstreetmap.org/osm2rdf_E26_Physical_Feature>,
         <http://openstreetmap.org/osm2rdf_E55_Place>,
-        <http://openstreetmap.org/osm2rdf_FeatureCollection>,
         <http://openstreetmap.org/osm2rdf_OSMEntity>,
-        <http://openstreetmap.org/osm2rdf_Point>,
-        <http://openstreetmap.org/osm2rdf_SpatialObjectCollection> ;
-    void:classes 7 ;
+        <http://openstreetmap.org/osm2rdf_Point> ;
+    void:classes 5 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 50,
         93,
         732,
         3859 ;
-    void:distinctSubjects 16,
-        24,
-        218,
-        1430 ;
-    void:entities 9,
-        13,
-        110,
-        716 ;
+    void:distinctSubjects 11,
+        19,
+        213,
+        1425 ;
+    void:entities 1 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 25,
@@ -150,10 +132,10 @@
         <http://openstreetmap.org/osm2rdf_source>,
         <http://openstreetmap.org/osm2rdf_title>,
         <http://openstreetmap.org/osm2rdf_type> ;
-    void:triples 137,
-        218,
-        2146,
-        14995 ;
+    void:triples 106,
+        171,
+        1711,
+        12136 ;
     void:uriSpace "http://openstreetmap.org/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,
