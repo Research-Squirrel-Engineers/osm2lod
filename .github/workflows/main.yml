@@ -21,8 +21,8 @@ jobs:
       version: v018
       rdffilepath: rdf/ci_2025-12-19.ttl rdf/drillcores_2025-12-19.ttl rdf/holywells_2025-12-19.ttl rdf/ogham_2025-12-19.ttl
       docpath: docs
-      prefixns: http://www.cidoc-crm.org/cidoc-crm/
-      prefixnsshort: crm
+      prefixns: http://research-squirrel-engineers.github.io/osm2lod/
+      prefixnsshort: osm2lod
       indexpages: true
       createcollections: true
       createVOWL: true
