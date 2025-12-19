@@ -2,23 +2,23 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
 
-<http://openstreetmap.org/E55_Place_collection> a geo:FeatureCollection,
+<https://research-squirrel-engineers.github.io/osm2lod/E55_Place_collection> a geo:FeatureCollection,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "E55_Place Instances Collection"@en ;
-    void:inDataset <http://openstreetmap.org/osm2rdf> ;
-    rdfs:member <http://openstreetmap.org/node/10879170567>,
-        <http://openstreetmap.org/node/11107939919>,
-        <http://openstreetmap.org/node/11109379095>,
-        <http://openstreetmap.org/node/1221172611>,
-        <http://openstreetmap.org/node/13200943487>,
-        <http://openstreetmap.org/node/13200955773>,
-        <http://openstreetmap.org/node/13386703821>,
-        <http://openstreetmap.org/node/13386723672>,
-        <http://openstreetmap.org/node/13386786938>,
-        <http://openstreetmap.org/node/2293681037>,
-        <http://openstreetmap.org/node/337519639>,
-        <http://openstreetmap.org/node/369821847>,
-        <http://openstreetmap.org/node/7778324735>,
-        <http://openstreetmap.org/node/8814442373> .
+    void:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
+    rdfs:member <https://research-squirrel-engineers.github.io/osm2lod/node_10879170567>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_11107939919>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_11109379095>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_1221172611>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_13200943487>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_13200955773>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_13386703821>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_13386723672>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_13386786938>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_2293681037>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_337519639>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_369821847>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_7778324735>,
+        <https://research-squirrel-engineers.github.io/osm2lod/node_8814442373> .
 

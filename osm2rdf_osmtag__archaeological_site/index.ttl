@@ -2,11 +2,10 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://openstreetmap.org/osm2rdf_osmtag__archaeological_site> a void:Dataset,
+<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__archaeological_site> a void:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__archaeological_site"@en ;
     void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
-    void:triples 2,
-        3 .
+    void:triples 2 .
 

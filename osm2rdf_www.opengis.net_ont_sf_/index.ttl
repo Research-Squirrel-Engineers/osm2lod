@@ -10,6 +10,5 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.opengis.net/ont/sf#> ;
     void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    void:triples 106,
-        712 .
+    void:triples 712 .
 

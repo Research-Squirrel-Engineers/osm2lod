@@ -1,0 +1,29 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:node_3220290865 a <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:OSMEntity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Breastagh Ogham Stone"@en ;
+    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/3220290865" ;
+    dcterms:isPartOf ns1:ogham__2025-12-19_115859Z ;
+    void:inDataset ns1:osm2rdf ;
+    geo:hasGeometry ns1:3220290865_geom ;
+    owl:sameAs <http://wikidata.org/entity/Q28232526> ;
+    foaf:primaryTopic <http://openstreetmap.org/node/3220290865> ;
+    ns1:exportType "ogham" ;
+    ns1:osmtag__historic "ogham_stone" ;
+    ns1:osmtag__name "Breastagh Ogham Stone" ;
+    ns1:osmtag__wikidata "Q28232526" ;
+    ns1:osmtag__wikipedia "Breastagh Ogham Stone"@en .
+

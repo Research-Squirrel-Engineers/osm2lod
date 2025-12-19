@@ -4,12 +4,12 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://openstreetmap.org/osm2rdf_www.opengis.net_ont_geosparql_> a void:Linkset,
+<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_www.opengis.net_ont_geosparql_> a void:Linkset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Linkset: osm2rdf - The GeoSPARQL Ontology (gsp:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget geo: ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
     void:triples 3 .
 

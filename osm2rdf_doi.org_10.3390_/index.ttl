@@ -3,13 +3,13 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://openstreetmap.org/osm2rdf_doi.org_10.3390_> a void:Linkset,
+<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_doi.org_10.3390_> a void:Linkset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Linkset: osm2rdf - 10.3390"@en ;
     void:linkPredicate dcterms:identifier,
         dcterms:source ;
     void:objectsTarget <https://doi.org/10.3390/> ;
-    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
     void:triples 3 .
 

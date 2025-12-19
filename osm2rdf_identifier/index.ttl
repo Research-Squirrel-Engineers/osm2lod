@@ -3,13 +3,11 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://openstreetmap.org/osm2rdf_identifier> a void:Dataset,
+<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_identifier> a void:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: identifier"@en ;
     void:property dcterms:identifier ;
-    void:triples 9,
-        10,
-        107,
+    void:triples 107,
         713 .
 
