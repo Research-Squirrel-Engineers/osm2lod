@@ -29,19 +29,19 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://openstreetmap.org/osm2rdf> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod> a void:Dataset,
         <http://www.w3.org/ns/adms#Asset>,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "osm2rdf"@en ;
+    rdfs:label "osm2lod"@en ;
     ns1:averageLiteralLength 0 ;
     ns1:averageObjectIRILength 0 ;
-    ns1:averagePropertyIRILength 51,
-        53,
-        57,
-        58 ;
+    ns1:averagePropertyIRILength 50,
+        52,
+        56,
+        57 ;
     ns1:averageSubjectIRILength 0 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 0 ;
@@ -57,21 +57,21 @@
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T12:02:16"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T12:10:40"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
-    dcterms:title "osm2rdf"@en ;
-    vann:preferredNamespacePrefix "osm"^^xsd:string ;
-    vann:preferredNamespaceUri "http://openstreetmap.org/"^^xsd:anyURI ;
-    void:classPartition <http://openstreetmap.org/osm2rdf_Dataset>,
-        <http://openstreetmap.org/osm2rdf_E22_Human_Made_Object>,
-        <http://openstreetmap.org/osm2rdf_E26_Physical_Feature>,
-        <http://openstreetmap.org/osm2rdf_E55_Place>,
-        <http://openstreetmap.org/osm2rdf_OSMEntity>,
-        <http://openstreetmap.org/osm2rdf_Point> ;
+    dcterms:title "osm2lod"@en ;
+    vann:preferredNamespacePrefix "crm"^^xsd:string ;
+    vann:preferredNamespaceUri "hhttp://www.cidoc-crm.org/cidoc-crm/"^^xsd:anyURI ;
+    void:classPartition <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_Dataset>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_E22_Human_Made_Object>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_E26_Physical_Feature>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_E55_Place>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_OSMEntity>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_Point> ;
     void:classes 5 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 50,
@@ -88,57 +88,57 @@
     void:properties 25,
         33,
         36 ;
-    void:propertyPartition <http://openstreetmap.org/osm2rdf_asWKT>,
-        <http://openstreetmap.org/osm2rdf_created>,
-        <http://openstreetmap.org/osm2rdf_exportType>,
-        <http://openstreetmap.org/osm2rdf_hasGeometry>,
-        <http://openstreetmap.org/osm2rdf_identifier>,
-        <http://openstreetmap.org/osm2rdf_isPartOf>,
-        <http://openstreetmap.org/osm2rdf_label>,
-        <http://openstreetmap.org/osm2rdf_osmtag__access>,
-        <http://openstreetmap.org/osm2rdf_osmtag__alt_name>,
-        <http://openstreetmap.org/osm2rdf_osmtag__archaeological_site>,
-        <http://openstreetmap.org/osm2rdf_osmtag__denomination>,
-        <http://openstreetmap.org/osm2rdf_osmtag__description>,
-        <http://openstreetmap.org/osm2rdf_osmtag__ele>,
-        <http://openstreetmap.org/osm2rdf_osmtag__historic>,
-        <http://openstreetmap.org/osm2rdf_osmtag__historic__civilization>,
-        <http://openstreetmap.org/osm2rdf_osmtag__image>,
-        <http://openstreetmap.org/osm2rdf_osmtag__int_name>,
-        <http://openstreetmap.org/osm2rdf_osmtag__loc_name>,
-        <http://openstreetmap.org/osm2rdf_osmtag__man_made>,
-        <http://openstreetmap.org/osm2rdf_osmtag__name>,
-        <http://openstreetmap.org/osm2rdf_osmtag__natural>,
-        <http://openstreetmap.org/osm2rdf_osmtag__note>,
-        <http://openstreetmap.org/osm2rdf_osmtag__operator>,
-        <http://openstreetmap.org/osm2rdf_osmtag__place_of_worship>,
-        <http://openstreetmap.org/osm2rdf_osmtag__ref>,
-        <http://openstreetmap.org/osm2rdf_osmtag__religion>,
-        <http://openstreetmap.org/osm2rdf_osmtag__source>,
-        <http://openstreetmap.org/osm2rdf_osmtag__source__ref>,
-        <http://openstreetmap.org/osm2rdf_osmtag__source__url>,
-        <http://openstreetmap.org/osm2rdf_osmtag__tourism>,
-        <http://openstreetmap.org/osm2rdf_osmtag__url>,
-        <http://openstreetmap.org/osm2rdf_osmtag__volcano__status>,
-        <http://openstreetmap.org/osm2rdf_osmtag__volcano__type>,
-        <http://openstreetmap.org/osm2rdf_osmtag__water>,
-        <http://openstreetmap.org/osm2rdf_osmtag__water_source>,
-        <http://openstreetmap.org/osm2rdf_osmtag__website>,
-        <http://openstreetmap.org/osm2rdf_osmtag__wikidata>,
-        <http://openstreetmap.org/osm2rdf_osmtag__wikimedia_commons>,
-        <http://openstreetmap.org/osm2rdf_osmtag__wikipedia>,
-        <http://openstreetmap.org/osm2rdf_primaryTopic>,
-        <http://openstreetmap.org/osm2rdf_provenance>,
-        <http://openstreetmap.org/osm2rdf_rights>,
-        <http://openstreetmap.org/osm2rdf_sameAs>,
-        <http://openstreetmap.org/osm2rdf_source>,
-        <http://openstreetmap.org/osm2rdf_title>,
-        <http://openstreetmap.org/osm2rdf_type> ;
+    void:propertyPartition <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_created>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_label>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__denomination>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ele>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__int_name>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__man_made>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__natural>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__operator>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__place_of_worship>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__religion>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__url>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__status>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__type>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water_source>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_rights>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_source>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_title>,
+        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_type> ;
     void:triples 106,
         171,
         1711,
         12136 ;
-    void:uriSpace "http://openstreetmap.org/"^^xsd:string ;
+    void:uriSpace "hhttp://www.cidoc-crm.org/cidoc-crm/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,
         dcmitype:,
@@ -171,7 +171,7 @@
         brick:,
         schema:,
         wgs: ;
-    dcat:distribution <http://openstreetmap.org/osm2rdf_dist_ttl> ;
+    dcat:distribution <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_dist_ttl> ;
     dcat:keyword "Location"@en,
         "OGC GeoSPARQL"@en,
         "Person"@en,
@@ -181,7 +181,7 @@
     foaf:homepage <https://Research-Squirrel-Engineers.github.io/osm2lod/> ;
     foaf:page <https://Research-Squirrel-Engineers.github.io/osm2lod//index.html> .
 
-<http://openstreetmap.org/osm2rdf_asWKT> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -193,7 +193,7 @@
         106,
         712 .
 
-<http://openstreetmap.org/osm2rdf_created> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_created> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -205,19 +205,19 @@
         107,
         713 .
 
-<http://openstreetmap.org/osm2rdf_exportType> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: exportType"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/exportType> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/exportType> ;
     void:triples 5,
         9,
         106,
         712 .
 
-<http://openstreetmap.org/osm2rdf_hasGeometry> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -229,7 +229,7 @@
         106,
         712 .
 
-<http://openstreetmap.org/osm2rdf_identifier> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -241,7 +241,7 @@
         107,
         713 .
 
-<http://openstreetmap.org/osm2rdf_isPartOf> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -253,7 +253,7 @@
         106,
         712 .
 
-<http://openstreetmap.org/osm2rdf_label> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_label> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -265,203 +265,203 @@
         107,
         770 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__access> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__access"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__access> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__access> ;
     void:triples 1,
         7,
         8 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__alt_name> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__alt_name"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name> ;
     void:triples 2,
         48 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__archaeological_site> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__archaeological_site"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
     void:triples 2,
         3 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__description> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__description"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
     void:triples 3,
         11,
         33 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__historic> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__historic"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic> ;
     void:triples 5,
         32,
         106 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__historic__civilization> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__historic__civilization"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization> ;
     void:triples 1,
         3 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__image> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__image"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
     void:triples 2,
         4 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__loc_name> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__loc_name"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
     void:triples 1,
         6 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__name> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__name"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
     void:triples 5,
         8,
         73,
         626 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__note> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__note"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
     void:triples 8,
         24 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__ref> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__ref"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__ref> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref> ;
     void:triples 1,
         3 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__source> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__source"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
     void:triples 55,
         304 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__source__ref> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__source__ref"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
     void:triples 1,
         3 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__tourism> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__tourism"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism> ;
     void:triples 1,
         2,
         12 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__url> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource> ;
     rdfs:label "Property Partition: osmtag__url"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
     void:triples 1 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__website> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__website"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
     void:triples 2,
         5 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__wikidata> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__wikidata"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
     void:triples 2,
         9,
         58,
         132 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__wikimedia_commons> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__wikimedia_commons"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
     void:triples 15,
         36 .
 
-<http://openstreetmap.org/osm2rdf_osmtag__wikipedia> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__wikipedia"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
     void:triples 6,
         19 .
 
-<http://openstreetmap.org/osm2rdf_primaryTopic> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -473,7 +473,7 @@
         106,
         712 .
 
-<http://openstreetmap.org/osm2rdf_provenance> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -482,7 +482,7 @@
     void:property dcterms:provenance ;
     void:triples 1 .
 
-<http://openstreetmap.org/osm2rdf_rights> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_rights> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -491,7 +491,7 @@
     void:property dcterms:rights ;
     void:triples 1 .
 
-<http://openstreetmap.org/osm2rdf_sameAs> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -503,7 +503,7 @@
         58,
         132 .
 
-<http://openstreetmap.org/osm2rdf_title> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_title> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -512,7 +512,7 @@
     void:property dcterms:title ;
     void:triples 1 .
 
-<http://openstreetmap.org/osm2rdf_type> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_type> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource>,

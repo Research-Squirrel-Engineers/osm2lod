@@ -3,11 +3,13 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_isPartOf> a void:Dataset,
+<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf> a void:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: isPartOf"@en ;
     void:property dcterms:isPartOf ;
-    void:triples 106,
+    void:triples 5,
+        9,
+        106,
         712 .
 
