@@ -8,9 +8,9 @@
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "ogham",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_113736Z",
+  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-19T11:37:36.491377+00:00",
+  "dcterms:created": "2025-12-19T11:58:59.691160+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -19,7 +19,8 @@
   ],
   "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"historic\"=\"ogham_stone\"];\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
-  "recordUriPattern": "http://openstreetmap.org/{type}/{id}",
+  "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
+  "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
     "crs": "http://www.opengis.net/def/crs/EPSG/0/4326",
@@ -132,17 +133,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ogham_2025-12-19_113736Z.csv",
+      "dcat:downloadURL": "osm_export_ogham_2025-12-19_115859Z.csv",
       "dcat:byteSize": 33313
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ogham_2025-12-19_113736Z.ttl",
-      "dcat:byteSize": 90774
+      "dcat:downloadURL": "osm_export_ogham_2025-12-19_115859Z.ttl",
+      "dcat:byteSize": 88760
     }
   ],
   "output": {
-    "csv": "osm_export_ogham_2025-12-19_113736Z.csv",
-    "ttl": "osm_export_ogham_2025-12-19_113736Z.ttl"
+    "csv": "osm_export_ogham_2025-12-19_115859Z.csv",
+    "ttl": "osm_export_ogham_2025-12-19_115859Z.ttl"
   }
 }

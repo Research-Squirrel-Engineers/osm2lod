@@ -8,9 +8,9 @@
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "ci",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-19_113812Z",
+  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-19_115915Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-19T11:38:12.616801+00:00",
+  "dcterms:created": "2025-12-19T11:59:15.534813+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -19,7 +19,8 @@
   ],
   "overpassQuery": "[out:json][timeout:25];\n(\n  node(337519639);\n  node(369821847);\n  node(1221172611);\n  node(2293681037);\n  node(7778324735);\n  node(8814442373);\n  node(10879170567);\n  node(11107939919);\n  node(11109379095);\n);\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-  "recordUriPattern": "http://openstreetmap.org/{type}/{id}",
+  "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
+  "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
     "crs": "http://www.opengis.net/def/crs/EPSG/0/4326",
@@ -88,17 +89,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ci_2025-12-19_113812Z.csv",
+      "dcat:downloadURL": "osm_export_ci_2025-12-19_115915Z.csv",
       "dcat:byteSize": 1933
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ci_2025-12-19_113812Z.ttl",
-      "dcat:byteSize": 9287
+      "dcat:downloadURL": "osm_export_ci_2025-12-19_115915Z.ttl",
+      "dcat:byteSize": 9116
     }
   ],
   "output": {
-    "csv": "osm_export_ci_2025-12-19_113812Z.csv",
-    "ttl": "osm_export_ci_2025-12-19_113812Z.ttl"
+    "csv": "osm_export_ci_2025-12-19_115915Z.csv",
+    "ttl": "osm_export_ci_2025-12-19_115915Z.ttl"
   }
 }

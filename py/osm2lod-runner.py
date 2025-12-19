@@ -1,49 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-osm2lod-runner.py
-
-Generic OSM → CSV → RDF/Turtle (osm2lod)
-======================================
-
-- Runs multiple Overpass Turbo exports from ONE script
-- Supported exports: ogham, holywells, ci, drillcores
-- Selection via SELECTED_EXPORTS list (default: run ALL)
-- Only emits RDF triples for values that actually exist (no NaN/"nan"/empty)
-- GeoSPARQL WKT geometry (EPSG:4326)
-- DCAT Dataset:
-    * one dataset per export run
-    * each OSM record is also typed as DCAT.Dataset (as requested)
-- CIDOC CRM base class configurable per export (applied to record URI)
-- Writes metadata_{export}_{ts}.json per export
-- NEW:
-    * clears dist/ on start (configurable)
-    * DOI normalisation: adds <https://doi.org/...> as additional identifier if detectable
-    * DOI also added as dcterms:source (if detectable)
-    * label languages: default @en + adds rdfs:label for tag:name:xx if present
-    * label fallback: "OSM {type} {id}"@en if nothing else exists
-    * wikipedia literals: "it:Title" -> "Title"@it
-    * OSM tag predicates: osm2lod:osmtag__key (":" -> "__")
-- NEW (QS):
-    * writes quickstatements_{export}_{ts}.txt per export
-    * only emits statements when values exist
-    * fixed P10 mapping to query items Q24–Q27
-    * fixed P1 mapping:
-        - ogham: Q12
-        - holywells: Q14
-        - ci: ALWAYS Q21 + Q22
-        - drillcores: EITHER Q17 (bore hole) OR Q20 (maar), based on tags
-    * description includes "{type} {id}"
-    * P12 import date written as EDTF Date/Time string: "YYYY-MM-DDTHH:MM:SSZ"
-    * P13 OSM element version (Quantity) emitted when available
-    * P16 OSM changeset (Quantity) emitted when available
-    * P17 OSM timestamp (EDTF Date/Time) emitted when available: "YYYY-MM-DDTHH:MM:SSZ"
-    * URL expansion for QS (short links like skfb.ly, flic.kr) before writing P7/P8
-- CSV:
-    * writes full OSM meta fields when present: version, timestamp, changeset, user, uid
-"""
-
 from __future__ import annotations
 
 import re
@@ -88,20 +45,14 @@ OVERPASS_URLS = [
 # =================================================
 
 ENABLE_URL_EXPANSION = True
-SHORT_URL_DOMAINS = {"skfb.ly", "flic.kr"}  # extend if needed
+SHORT_URL_DOMAINS = {"skfb.ly", "flic.kr"}
 URL_EXPAND_TIMEOUT = 15
 
 _URL_EXPAND_CACHE: Dict[str, str] = {}
 
 
 def expand_url(url: str, timeout: int = URL_EXPAND_TIMEOUT) -> str:
-    """
-    Follows redirects and returns the final URL (expanded short link).
-    Falls ein Server HEAD nicht mag, fällt es automatisch auf GET zurück.
-    """
     headers = {"User-Agent": "Mozilla/5.0 (compatible; url-expander/1.0)"}
-
-    # 1) HEAD first
     try:
         r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
         if r.status_code < 400 and r.url:
@@ -109,7 +60,6 @@ def expand_url(url: str, timeout: int = URL_EXPAND_TIMEOUT) -> str:
     except requests.RequestException:
         pass
 
-    # 2) GET fallback
     r = requests.get(
         url, allow_redirects=True, timeout=timeout, headers=headers, stream=True
     )
@@ -117,13 +67,6 @@ def expand_url(url: str, timeout: int = URL_EXPAND_TIMEOUT) -> str:
 
 
 def maybe_expand_url(url: str) -> str:
-    """
-    Expands only if:
-      - enabled
-      - looks like http(s)
-      - domain is in SHORT_URL_DOMAINS
-    Uses an in-memory cache for this run.
-    """
     url = (url or "").strip()
     if not ENABLE_URL_EXPANSION:
         return url
@@ -134,8 +77,7 @@ def maybe_expand_url(url: str) -> str:
         return _URL_EXPAND_CACHE[url]
 
     try:
-        host = (urlparse(url).netloc or "").lower()
-        host = host.split(":")[0]  # strip port
+        host = (urlparse(url).netloc or "").lower().split(":")[0]
         if host not in SHORT_URL_DOMAINS:
             _URL_EXPAND_CACHE[url] = url
             return url
@@ -258,32 +200,22 @@ EXPORT_EXTRA_TAG_KEYS: Dict[str, List[str]] = {
     "drillcores": ["volcano:status", "volcano:type"],
 }
 
-URL_TAG_KEYS = {
-    "source:url",
-    "website",
-    "url",
-    "image",
-    "wikimedia_commons",
-}
+URL_TAG_KEYS = {"source:url", "website", "url", "image", "wikimedia_commons"}
 
-P10_QUERY_ITEM = {
-    "ogham": "Q24",
-    "holywells": "Q25",
-    "ci": "Q26",
-    "drillcores": "Q27",
-}
+P10_QUERY_ITEM = {"ogham": "Q24", "holywells": "Q25", "ci": "Q26", "drillcores": "Q27"}
 
-P1_FIXED = {
-    "ogham": ["Q12"],
-    "holywells": ["Q14"],
-    "ci": ["Q21", "Q22"],
-}
+P1_FIXED = {"ogham": ["Q12"], "holywells": ["Q14"], "ci": ["Q21", "Q22"]}
 
 P4_TYPE_ITEM = {"node": "Q5", "way": "Q6", "relation": "Q7"}
 
 _NA_STRINGS = {"nan", "na", "n/a", "null", "none", "nil", "-"}
 _DOI_RE = re.compile(r"(10\.\d{4,9}/[-._;()/:A-Z0-9]+)", re.IGNORECASE)
 _BCP47_RE = re.compile(r"^[a-zA-Z]{2,3}([\-][a-zA-Z0-9]{2,8})*$")
+
+
+# =================================================
+# Helpers
+# =================================================
 
 
 def clean_value(v: Any) -> Optional[str]:
@@ -365,8 +297,14 @@ def extract_point(el: Dict[str, Any]) -> Optional[Tuple[float, float]]:
     return None
 
 
-def osm_uri(el_type: str, el_id: int) -> URIRef:
+def osm_canonical_uri(el_type: str, el_id: int) -> URIRef:
+    """Canonical OSM URI (external reference)."""
     return URIRef(f"{OSM_BASE}{el_type}/{el_id}")
+
+
+def record_uri(el_type: str, el_id: int) -> URIRef:
+    """Internal RDF subject in osm2lod namespace: osm2lod:node_123, osm2lod:way_..., osm2lod:relation_..."""
+    return URIRef(f"{OSM2LOD}{el_type}_{el_id}")
 
 
 def geom_uri(el_id: int) -> URIRef:
@@ -443,6 +381,11 @@ def is_maar_row(row: pd.Series) -> bool:
     return False
 
 
+# =================================================
+# metadata.json writer
+# =================================================
+
+
 def write_metadata_json(
     dist_dir: Path,
     export_type: str,
@@ -475,7 +418,8 @@ def write_metadata_json(
         "overpassEndpointCandidates": OVERPASS_URLS,
         "overpassQuery": overpass_query.strip(),
         "entityBaseClass": str(entity_base_class),
-        "recordUriPattern": f"{OSM_BASE}" + "{type}/{id}",
+        "recordUriPattern": f"{OSM2LOD}" + "{type}_{id}",
+        "canonicalOsmUriPattern": f"{OSM_BASE}" + "{type}/{id}",
         "geometry": {
             "type": "GeoSPARQL WKT Point",
             "crs": CRS_EPSG_4326,
@@ -505,6 +449,11 @@ def write_metadata_json(
         json.dumps(metadata, indent=2, ensure_ascii=False), encoding="utf-8"
     )
     return meta_path
+
+
+# =================================================
+# QuickStatements writer (unchanged)
+# =================================================
 
 
 def export_to_quickstatements(
@@ -548,7 +497,6 @@ def export_to_quickstatements(
         lat = float(lat_s)
         lon = float(lon_s)
 
-        # P13: version
         ver_int: Optional[int] = None
         ver_s = clean_value(row.get("version"))
         if ver_s is not None:
@@ -557,7 +505,6 @@ def export_to_quickstatements(
             except Exception:
                 ver_int = None
 
-        # P16: changeset
         changeset_int: Optional[int] = None
         cs_s = clean_value(row.get("changeset"))
         if cs_s is not None:
@@ -566,7 +513,6 @@ def export_to_quickstatements(
             except Exception:
                 changeset_int = None
 
-        # P17: timestamp (EDTF string, quoted)
         ts_el = clean_value(row.get("timestamp"))
 
         name_en = clean_value(row.get("tag:name:en"))
@@ -587,7 +533,6 @@ def export_to_quickstatements(
         wd = clean_value(row.get("tag:wikidata"))
         wiki = clean_value(row.get("tag:wikipedia"))
 
-        # P8 URL candidates (export-specific)
         p8_urls: List[str] = []
         if export_type == "drillcores":
             u = clean_value(row.get("tag:source:url"))
@@ -606,7 +551,6 @@ def export_to_quickstatements(
                 if u and u.lower().startswith(("http://", "https://")):
                     p8_urls.append(u)
 
-        # Expand short URLs for QS (P8)
         if ENABLE_URL_EXPANSION and p8_urls:
             p8_urls = [maybe_expand_url(u) for u in p8_urls]
 
@@ -646,7 +590,6 @@ def export_to_quickstatements(
         if wd and wd.startswith("Q"):
             add_last("P6", f'"{qs_escape(wd)}"')
 
-        # P7 Wikipedia URL (expand if it ever is short, just in case)
         wiki_url = wikipedia_to_url(wiki) if wiki else None
         if wiki_url:
             wiki_url = maybe_expand_url(wiki_url)
@@ -674,6 +617,11 @@ def export_to_quickstatements(
 
     qs_path.write_text("\n".join(lines), encoding="utf-8")
     return qs_path
+
+
+# =================================================
+# RDF writer (CHANGED SUBJECT URI)
+# =================================================
 
 
 def export_to_rdf(
@@ -764,14 +712,23 @@ def export_to_rdf(
         lat = float(row["lat"])
         lon = float(row["lon"])
 
-        rec = osm_uri(el_type, el_id)
+        # NEW: internal subject URI
+        rec = record_uri(el_type, el_id)
+
+        # canonical external OSM URI reference
+        osm_ref = osm_canonical_uri(el_type, el_id)
 
         g.add((rec, RDF.type, DCAT.Dataset))
         g.add((rec, RDF.type, entity_base_class))
         g.add((rec, RDF.type, URIRef(f"{OSM2LOD}OSMEntity")))
 
         g.add((rec, DCTERMS.isPartOf, dataset))
-        g.add((rec, FOAF.primaryTopic, rec))
+
+        # keep a stable link back to OSM
+        g.add((rec, FOAF.primaryTopic, osm_ref))
+        # optional: also assert equivalence
+        # g.add((rec, OWL.sameAs, osm_ref))
+
         g.add((rec, DCTERMS.identifier, Literal(f"osm:{el_type}/{el_id}")))
         g.add((rec, DCTERMS.created, Literal(now_iso, datatype=XSD.dateTime)))
 
@@ -814,7 +771,6 @@ def export_to_rdf(
             col = f"tag:{key}"
             if col not in df.columns:
                 continue
-
             raw = clean_value(row.get(col))
             if not raw:
                 continue
