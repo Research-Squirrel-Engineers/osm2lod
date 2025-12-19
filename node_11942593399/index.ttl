@@ -2,25 +2,22 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix ns1: <http://research-squirrel-engineers.github.io/osm2lod/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns1:node_11942593399 a <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
+ns1:node_11942593399 a ns1:OSMEntity,
+        <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
-        ns1:OSMEntity,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Trinity Well"@en ;
     dcterms:created "2025-12-19T11:59:06.775889+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11942593399" ;
     dcterms:isPartOf ns1:holywells__2025-12-19_115906Z ;
-    void:inDataset ns1:osm2rdf ;
-    geo:hasGeometry ns1:11942593399_geom ;
-    owl:sameAs <http://wikidata.org/entity/Q126374490> ;
-    foaf:primaryTopic <http://openstreetmap.org/node/11942593399> ;
+    void:inDataset ns1:osm2lod ;
     ns1:exportType "holywells" ;
     ns1:osmtag__denomination "roman_catholic" ;
     ns1:osmtag__description "difficult to access, but was regularly used in the 1960s and 1970s by the family living to the east and the blacksmith Jack Cantwell (RIP) to the northeast (Smithy marked on BWO map). Water rising in bubbles from the ground and coming from under a stone." ;
@@ -30,5 +27,8 @@ ns1:node_11942593399 a <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>
     ns1:osmtag__religion "christian" ;
     ns1:osmtag__source "local knowledge;survey" ;
     ns1:osmtag__wikidata "Q126374490" ;
-    ns1:osmtag__wikimedia_commons "File:Trinity Well.jpg" .
+    ns1:osmtag__wikimedia_commons "File:Trinity Well.jpg" ;
+    geo:hasGeometry ns1:11942593399_geom ;
+    owl:sameAs <http://wikidata.org/entity/Q126374490> ;
+    foaf:primaryTopic <http://openstreetmap.org/node/11942593399> .
 

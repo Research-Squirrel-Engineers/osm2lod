@@ -2,24 +2,24 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix ns1: <http://research-squirrel-engineers.github.io/osm2lod/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns1:node_12661114455 a <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object>,
+ns1:node_12661114455 a ns1:OSMEntity,
+        <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object>,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
-        ns1:OSMEntity,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "OSM node 12661114455"@en ;
     dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12661114455" ;
     dcterms:isPartOf ns1:ogham__2025-12-19_115859Z ;
-    void:inDataset ns1:osm2rdf ;
-    geo:hasGeometry ns1:12661114455_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/12661114455> ;
+    void:inDataset ns1:osm2lod ;
     ns1:exportType "ogham" ;
     ns1:osmtag__historic "ogham_stone" ;
-    ns1:osmtag__source "British war office map" .
+    ns1:osmtag__source "British war office map" ;
+    geo:hasGeometry ns1:12661114455_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/12661114455> .
 

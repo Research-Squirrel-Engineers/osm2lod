@@ -32,7 +32,7 @@ var vowlresult={
    "xml": "http://www.w3.org/XML/1998/namespace",
    "crm": "http://www.cidoc-crm.org/cidoc-crm/",
    "geosparql": "http://www.opengis.net/ont/geosparql#",
-   "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
+   "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
    "sf": "http://www.opengis.net/ont/sf#",
    "wd": "http://wikidata.org/entity/"
   },
@@ -67,7 +67,7 @@ var vowlresult={
    "http://www.w3.org/XML/1998/namespace",
    "http://www.cidoc-crm.org/cidoc-crm/",
    "http://www.opengis.net/ont/geosparql#",
-   "https://research-squirrel-engineers.github.io/osm2lod/",
+   "http://research-squirrel-engineers.github.io/osm2lod/",
    "http://www.opengis.net/ont/sf#",
    "http://wikidata.org/entity/"
   ],
@@ -1785,8 +1785,8 @@ var vowlresult={
  "propertyAttribute": [
   {
    "id": 0,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10040750611"
@@ -1799,8 +1799,8 @@ var vowlresult={
   },
   {
    "id": 1,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10040757680"
@@ -1813,8 +1813,8 @@ var vowlresult={
   },
   {
    "id": 2,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10041491619"
@@ -1827,8 +1827,8 @@ var vowlresult={
   },
   {
    "id": 3,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10041927343"
@@ -1841,8 +1841,8 @@ var vowlresult={
   },
   {
    "id": 4,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10560404607"
@@ -1855,8 +1855,8 @@ var vowlresult={
   },
   {
    "id": 5,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10563395863"
@@ -1869,8 +1869,8 @@ var vowlresult={
   },
   {
    "id": 6,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10594924965"
@@ -1883,8 +1883,8 @@ var vowlresult={
   },
   {
    "id": 7,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10594973066"
@@ -1897,8 +1897,8 @@ var vowlresult={
   },
   {
    "id": 8,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10601966811"
@@ -1911,8 +1911,8 @@ var vowlresult={
   },
   {
    "id": 9,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10601966825"
@@ -1925,8 +1925,8 @@ var vowlresult={
   },
   {
    "id": 10,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10633917137"
@@ -1939,8 +1939,8 @@ var vowlresult={
   },
   {
    "id": 11,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10633917138"
@@ -1953,8 +1953,8 @@ var vowlresult={
   },
   {
    "id": 12,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10639514250"
@@ -1967,8 +1967,8 @@ var vowlresult={
   },
   {
    "id": 13,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10652133873"
@@ -1981,8 +1981,8 @@ var vowlresult={
   },
   {
    "id": 14,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10652214543"
@@ -1995,8 +1995,8 @@ var vowlresult={
   },
   {
    "id": 15,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10656139839"
@@ -2009,8 +2009,8 @@ var vowlresult={
   },
   {
    "id": 16,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10709752679"
@@ -2023,8 +2023,8 @@ var vowlresult={
   },
   {
    "id": 17,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11071324384"
@@ -2037,8 +2037,8 @@ var vowlresult={
   },
   {
    "id": 18,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11071361392"
@@ -2051,8 +2051,8 @@ var vowlresult={
   },
   {
    "id": 19,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11253027975"
@@ -2065,8 +2065,8 @@ var vowlresult={
   },
   {
    "id": 20,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073312"
@@ -2079,8 +2079,8 @@ var vowlresult={
   },
   {
    "id": 21,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073313"
@@ -2093,8 +2093,8 @@ var vowlresult={
   },
   {
    "id": 22,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073314"
@@ -2107,8 +2107,8 @@ var vowlresult={
   },
   {
    "id": 23,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073315"
@@ -2121,8 +2121,8 @@ var vowlresult={
   },
   {
    "id": 24,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073316"
@@ -2135,8 +2135,8 @@ var vowlresult={
   },
   {
    "id": 25,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119003"
@@ -2149,8 +2149,8 @@ var vowlresult={
   },
   {
    "id": 26,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119004"
@@ -2163,8 +2163,8 @@ var vowlresult={
   },
   {
    "id": 27,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119005"
@@ -2177,8 +2177,8 @@ var vowlresult={
   },
   {
    "id": 28,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119006"
@@ -2191,8 +2191,8 @@ var vowlresult={
   },
   {
    "id": 29,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119007"
@@ -2205,8 +2205,8 @@ var vowlresult={
   },
   {
    "id": 30,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119008"
@@ -2219,8 +2219,8 @@ var vowlresult={
   },
   {
    "id": 31,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119009"
@@ -2233,8 +2233,8 @@ var vowlresult={
   },
   {
    "id": 32,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119010"
@@ -2247,8 +2247,8 @@ var vowlresult={
   },
   {
    "id": 33,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119011"
@@ -2261,8 +2261,8 @@ var vowlresult={
   },
   {
    "id": 34,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269165789"
@@ -2275,8 +2275,8 @@ var vowlresult={
   },
   {
    "id": 35,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269165790"
@@ -2289,8 +2289,8 @@ var vowlresult={
   },
   {
    "id": 36,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11558269687"
@@ -2303,8 +2303,8 @@ var vowlresult={
   },
   {
    "id": 37,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11574593297"
@@ -2317,8 +2317,8 @@ var vowlresult={
   },
   {
    "id": 38,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11575064111"
@@ -2331,8 +2331,8 @@ var vowlresult={
   },
   {
    "id": 39,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11677109638"
@@ -2345,8 +2345,8 @@ var vowlresult={
   },
   {
    "id": 40,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11677113764"
@@ -2359,8 +2359,8 @@ var vowlresult={
   },
   {
    "id": 41,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11952692355"
@@ -2373,8 +2373,8 @@ var vowlresult={
   },
   {
    "id": 42,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955662684"
@@ -2387,8 +2387,8 @@ var vowlresult={
   },
   {
    "id": 43,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955662685"
@@ -2401,8 +2401,8 @@ var vowlresult={
   },
   {
    "id": 44,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670771"
@@ -2415,8 +2415,8 @@ var vowlresult={
   },
   {
    "id": 45,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670773"
@@ -2429,8 +2429,8 @@ var vowlresult={
   },
   {
    "id": 46,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670774"
@@ -2443,8 +2443,8 @@ var vowlresult={
   },
   {
    "id": 47,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670775"
@@ -2457,8 +2457,8 @@ var vowlresult={
   },
   {
    "id": 48,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670776"
@@ -2471,8 +2471,8 @@ var vowlresult={
   },
   {
    "id": 49,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670777"
@@ -2485,8 +2485,8 @@ var vowlresult={
   },
   {
    "id": 50,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670778"
@@ -2499,8 +2499,8 @@ var vowlresult={
   },
   {
    "id": 51,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670779"
@@ -2513,8 +2513,8 @@ var vowlresult={
   },
   {
    "id": 52,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670780"
@@ -2527,8 +2527,8 @@ var vowlresult={
   },
   {
    "id": 53,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670781"
@@ -2541,8 +2541,8 @@ var vowlresult={
   },
   {
    "id": 54,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670784"
@@ -2555,8 +2555,8 @@ var vowlresult={
   },
   {
    "id": 55,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670785"
@@ -2569,8 +2569,8 @@ var vowlresult={
   },
   {
    "id": 56,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670786"
@@ -2583,8 +2583,8 @@ var vowlresult={
   },
   {
    "id": 57,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670788"
@@ -2597,8 +2597,8 @@ var vowlresult={
   },
   {
    "id": 58,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670789"
@@ -2611,8 +2611,8 @@ var vowlresult={
   },
   {
    "id": 59,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670790"
@@ -2625,8 +2625,8 @@ var vowlresult={
   },
   {
    "id": 60,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670791"
@@ -2639,8 +2639,8 @@ var vowlresult={
   },
   {
    "id": 61,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670792"
@@ -2653,8 +2653,8 @@ var vowlresult={
   },
   {
    "id": 62,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670793"
@@ -2667,8 +2667,8 @@ var vowlresult={
   },
   {
    "id": 63,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670794"
@@ -2681,8 +2681,8 @@ var vowlresult={
   },
   {
    "id": 64,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670796"
@@ -2695,8 +2695,8 @@ var vowlresult={
   },
   {
    "id": 65,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670797"
@@ -2709,8 +2709,8 @@ var vowlresult={
   },
   {
    "id": 66,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670798"
@@ -2723,8 +2723,8 @@ var vowlresult={
   },
   {
    "id": 67,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11966423819"
@@ -2737,8 +2737,8 @@ var vowlresult={
   },
   {
    "id": 68,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11966430251"
@@ -2751,8 +2751,8 @@ var vowlresult={
   },
   {
    "id": 69,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11966441102"
@@ -2765,8 +2765,8 @@ var vowlresult={
   },
   {
    "id": 70,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_12276963607"
@@ -2779,8 +2779,8 @@ var vowlresult={
   },
   {
    "id": 71,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_12276982960"
@@ -2793,8 +2793,8 @@ var vowlresult={
   },
   {
    "id": 72,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_12661114455"
@@ -2807,8 +2807,8 @@ var vowlresult={
   },
   {
    "id": 73,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_1275923177"
@@ -2821,8 +2821,8 @@ var vowlresult={
   },
   {
    "id": 74,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_2428911148"
@@ -2835,8 +2835,8 @@ var vowlresult={
   },
   {
    "id": 75,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_3220290865"
@@ -2849,8 +2849,8 @@ var vowlresult={
   },
   {
    "id": 76,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_3621783646"
@@ -2863,8 +2863,8 @@ var vowlresult={
   },
   {
    "id": 77,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_3663314804"
@@ -2877,8 +2877,8 @@ var vowlresult={
   },
   {
    "id": 78,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_4395991496"
@@ -2891,8 +2891,8 @@ var vowlresult={
   },
   {
    "id": 79,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_452289802",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_452289802",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_452289802"
@@ -2905,8 +2905,8 @@ var vowlresult={
   },
   {
    "id": 80,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_473149586",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_473149586",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_473149586"
@@ -2919,8 +2919,8 @@ var vowlresult={
   },
   {
    "id": 81,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5111098877"
@@ -2933,8 +2933,8 @@ var vowlresult={
   },
   {
    "id": 82,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5111098878"
@@ -2947,8 +2947,8 @@ var vowlresult={
   },
   {
    "id": 83,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5145413640"
@@ -2961,8 +2961,8 @@ var vowlresult={
   },
   {
    "id": 84,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5965037771"
@@ -2975,8 +2975,8 @@ var vowlresult={
   },
   {
    "id": 85,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_600221596",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_600221596",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_600221596"
@@ -2989,8 +2989,8 @@ var vowlresult={
   },
   {
    "id": 86,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_6810674728"
@@ -3003,8 +3003,8 @@ var vowlresult={
   },
   {
    "id": 87,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7082266109"
@@ -3017,8 +3017,8 @@ var vowlresult={
   },
   {
    "id": 88,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7082293699"
@@ -3031,8 +3031,8 @@ var vowlresult={
   },
   {
    "id": 89,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7110849500"
@@ -3045,8 +3045,8 @@ var vowlresult={
   },
   {
    "id": 90,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7110849501"
@@ -3059,8 +3059,8 @@ var vowlresult={
   },
   {
    "id": 91,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7203972860"
@@ -3073,8 +3073,8 @@ var vowlresult={
   },
   {
    "id": 92,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7925063785"
@@ -3087,8 +3087,8 @@ var vowlresult={
   },
   {
    "id": 93,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8308921075"
@@ -3101,8 +3101,8 @@ var vowlresult={
   },
   {
    "id": 94,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471227"
@@ -3115,8 +3115,8 @@ var vowlresult={
   },
   {
    "id": 95,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471228"
@@ -3129,8 +3129,8 @@ var vowlresult={
   },
   {
    "id": 96,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471229"
@@ -3143,8 +3143,8 @@ var vowlresult={
   },
   {
    "id": 97,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471230"
@@ -3157,8 +3157,8 @@ var vowlresult={
   },
   {
    "id": 98,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471231"
@@ -3171,8 +3171,8 @@ var vowlresult={
   },
   {
    "id": 99,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8494707479"
@@ -3185,8 +3185,8 @@ var vowlresult={
   },
   {
    "id": 100,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8520931982"
@@ -3199,8 +3199,8 @@ var vowlresult={
   },
   {
    "id": 101,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8520962885"
@@ -3213,8 +3213,8 @@ var vowlresult={
   },
   {
    "id": 102,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8584276628"
@@ -3227,8 +3227,8 @@ var vowlresult={
   },
   {
    "id": 103,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_9110402648"
@@ -3241,8 +3241,8 @@ var vowlresult={
   },
   {
    "id": 104,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_9990835587"
@@ -3255,8 +3255,8 @@ var vowlresult={
   },
   {
    "id": 105,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "way_1209135262"
@@ -3269,8 +3269,8 @@ var vowlresult={
   },
   {
    "id": 106,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10040750611"
@@ -3283,8 +3283,8 @@ var vowlresult={
   },
   {
    "id": 107,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10040757680"
@@ -3297,8 +3297,8 @@ var vowlresult={
   },
   {
    "id": 108,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10041491619"
@@ -3311,8 +3311,8 @@ var vowlresult={
   },
   {
    "id": 109,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10041927343"
@@ -3325,8 +3325,8 @@ var vowlresult={
   },
   {
    "id": 110,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10560404607"
@@ -3339,8 +3339,8 @@ var vowlresult={
   },
   {
    "id": 111,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10563395863"
@@ -3353,8 +3353,8 @@ var vowlresult={
   },
   {
    "id": 112,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10594924965"
@@ -3367,8 +3367,8 @@ var vowlresult={
   },
   {
    "id": 113,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10594973066"
@@ -3381,8 +3381,8 @@ var vowlresult={
   },
   {
    "id": 114,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10601966811"
@@ -3395,8 +3395,8 @@ var vowlresult={
   },
   {
    "id": 115,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10601966825"
@@ -3409,8 +3409,8 @@ var vowlresult={
   },
   {
    "id": 116,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10633917137"
@@ -3423,8 +3423,8 @@ var vowlresult={
   },
   {
    "id": 117,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10633917138"
@@ -3437,8 +3437,8 @@ var vowlresult={
   },
   {
    "id": 118,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10639514250"
@@ -3451,8 +3451,8 @@ var vowlresult={
   },
   {
    "id": 119,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10652133873"
@@ -3465,8 +3465,8 @@ var vowlresult={
   },
   {
    "id": 120,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10652214543"
@@ -3479,8 +3479,8 @@ var vowlresult={
   },
   {
    "id": 121,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10656139839"
@@ -3493,8 +3493,8 @@ var vowlresult={
   },
   {
    "id": 122,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_10709752679"
@@ -3507,8 +3507,8 @@ var vowlresult={
   },
   {
    "id": 123,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11071324384"
@@ -3521,8 +3521,8 @@ var vowlresult={
   },
   {
    "id": 124,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11071361392"
@@ -3535,8 +3535,8 @@ var vowlresult={
   },
   {
    "id": 125,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11253027975"
@@ -3549,8 +3549,8 @@ var vowlresult={
   },
   {
    "id": 126,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073312"
@@ -3563,8 +3563,8 @@ var vowlresult={
   },
   {
    "id": 127,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073313"
@@ -3577,8 +3577,8 @@ var vowlresult={
   },
   {
    "id": 128,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073314"
@@ -3591,8 +3591,8 @@ var vowlresult={
   },
   {
    "id": 129,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073315"
@@ -3605,8 +3605,8 @@ var vowlresult={
   },
   {
    "id": 130,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269073316"
@@ -3619,8 +3619,8 @@ var vowlresult={
   },
   {
    "id": 131,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119003"
@@ -3633,8 +3633,8 @@ var vowlresult={
   },
   {
    "id": 132,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119004"
@@ -3647,8 +3647,8 @@ var vowlresult={
   },
   {
    "id": 133,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119005"
@@ -3661,8 +3661,8 @@ var vowlresult={
   },
   {
    "id": 134,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119006"
@@ -3675,8 +3675,8 @@ var vowlresult={
   },
   {
    "id": 135,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119007"
@@ -3689,8 +3689,8 @@ var vowlresult={
   },
   {
    "id": 136,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119008"
@@ -3703,8 +3703,8 @@ var vowlresult={
   },
   {
    "id": 137,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119009"
@@ -3717,8 +3717,8 @@ var vowlresult={
   },
   {
    "id": 138,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119010"
@@ -3731,8 +3731,8 @@ var vowlresult={
   },
   {
    "id": 139,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269119011"
@@ -3745,8 +3745,8 @@ var vowlresult={
   },
   {
    "id": 140,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269165789"
@@ -3759,8 +3759,8 @@ var vowlresult={
   },
   {
    "id": 141,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11269165790"
@@ -3773,8 +3773,8 @@ var vowlresult={
   },
   {
    "id": 142,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11558269687"
@@ -3787,8 +3787,8 @@ var vowlresult={
   },
   {
    "id": 143,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11574593297"
@@ -3801,8 +3801,8 @@ var vowlresult={
   },
   {
    "id": 144,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11575064111"
@@ -3815,8 +3815,8 @@ var vowlresult={
   },
   {
    "id": 145,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11677109638"
@@ -3829,8 +3829,8 @@ var vowlresult={
   },
   {
    "id": 146,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11677113764"
@@ -3843,8 +3843,8 @@ var vowlresult={
   },
   {
    "id": 147,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11952692355"
@@ -3857,8 +3857,8 @@ var vowlresult={
   },
   {
    "id": 148,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955662684"
@@ -3871,8 +3871,8 @@ var vowlresult={
   },
   {
    "id": 149,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955662685"
@@ -3885,8 +3885,8 @@ var vowlresult={
   },
   {
    "id": 150,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670771"
@@ -3899,8 +3899,8 @@ var vowlresult={
   },
   {
    "id": 151,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670773"
@@ -3913,8 +3913,8 @@ var vowlresult={
   },
   {
    "id": 152,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670774"
@@ -3927,8 +3927,8 @@ var vowlresult={
   },
   {
    "id": 153,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670775"
@@ -3941,8 +3941,8 @@ var vowlresult={
   },
   {
    "id": 154,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670776"
@@ -3955,8 +3955,8 @@ var vowlresult={
   },
   {
    "id": 155,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670777"
@@ -3969,8 +3969,8 @@ var vowlresult={
   },
   {
    "id": 156,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670778"
@@ -3983,8 +3983,8 @@ var vowlresult={
   },
   {
    "id": 157,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670779"
@@ -3997,8 +3997,8 @@ var vowlresult={
   },
   {
    "id": 158,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670780"
@@ -4011,8 +4011,8 @@ var vowlresult={
   },
   {
    "id": 159,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670781"
@@ -4025,8 +4025,8 @@ var vowlresult={
   },
   {
    "id": 160,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670784"
@@ -4039,8 +4039,8 @@ var vowlresult={
   },
   {
    "id": 161,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670785"
@@ -4053,8 +4053,8 @@ var vowlresult={
   },
   {
    "id": 162,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670786"
@@ -4067,8 +4067,8 @@ var vowlresult={
   },
   {
    "id": 163,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670788"
@@ -4081,8 +4081,8 @@ var vowlresult={
   },
   {
    "id": 164,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670789"
@@ -4095,8 +4095,8 @@ var vowlresult={
   },
   {
    "id": 165,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670790"
@@ -4109,8 +4109,8 @@ var vowlresult={
   },
   {
    "id": 166,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670791"
@@ -4123,8 +4123,8 @@ var vowlresult={
   },
   {
    "id": 167,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670792"
@@ -4137,8 +4137,8 @@ var vowlresult={
   },
   {
    "id": 168,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670793"
@@ -4151,8 +4151,8 @@ var vowlresult={
   },
   {
    "id": 169,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670794"
@@ -4165,8 +4165,8 @@ var vowlresult={
   },
   {
    "id": 170,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670796"
@@ -4179,8 +4179,8 @@ var vowlresult={
   },
   {
    "id": 171,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670797"
@@ -4193,8 +4193,8 @@ var vowlresult={
   },
   {
    "id": 172,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11955670798"
@@ -4207,8 +4207,8 @@ var vowlresult={
   },
   {
    "id": 173,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11966423819"
@@ -4221,8 +4221,8 @@ var vowlresult={
   },
   {
    "id": 174,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11966430251"
@@ -4235,8 +4235,8 @@ var vowlresult={
   },
   {
    "id": 175,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_11966441102"
@@ -4249,8 +4249,8 @@ var vowlresult={
   },
   {
    "id": 176,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_12276963607"
@@ -4263,8 +4263,8 @@ var vowlresult={
   },
   {
    "id": 177,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_12276982960"
@@ -4277,8 +4277,8 @@ var vowlresult={
   },
   {
    "id": 178,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_12661114455"
@@ -4291,8 +4291,8 @@ var vowlresult={
   },
   {
    "id": 179,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_1275923177"
@@ -4305,8 +4305,8 @@ var vowlresult={
   },
   {
    "id": 180,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_2428911148"
@@ -4319,8 +4319,8 @@ var vowlresult={
   },
   {
    "id": 181,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_3220290865"
@@ -4333,8 +4333,8 @@ var vowlresult={
   },
   {
    "id": 182,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_3621783646"
@@ -4347,8 +4347,8 @@ var vowlresult={
   },
   {
    "id": 183,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_3663314804"
@@ -4361,8 +4361,8 @@ var vowlresult={
   },
   {
    "id": 184,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_4395991496"
@@ -4375,8 +4375,8 @@ var vowlresult={
   },
   {
    "id": 185,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_452289802",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_452289802",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_452289802"
@@ -4389,8 +4389,8 @@ var vowlresult={
   },
   {
    "id": 186,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_473149586",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_473149586",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_473149586"
@@ -4403,8 +4403,8 @@ var vowlresult={
   },
   {
    "id": 187,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5111098877"
@@ -4417,8 +4417,8 @@ var vowlresult={
   },
   {
    "id": 188,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5111098878"
@@ -4431,8 +4431,8 @@ var vowlresult={
   },
   {
    "id": 189,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5145413640"
@@ -4445,8 +4445,8 @@ var vowlresult={
   },
   {
    "id": 190,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_5965037771"
@@ -4459,8 +4459,8 @@ var vowlresult={
   },
   {
    "id": 191,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_600221596",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_600221596",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_600221596"
@@ -4473,8 +4473,8 @@ var vowlresult={
   },
   {
    "id": 192,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_6810674728"
@@ -4487,8 +4487,8 @@ var vowlresult={
   },
   {
    "id": 193,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7082266109"
@@ -4501,8 +4501,8 @@ var vowlresult={
   },
   {
    "id": 194,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7082293699"
@@ -4515,8 +4515,8 @@ var vowlresult={
   },
   {
    "id": 195,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7110849500"
@@ -4529,8 +4529,8 @@ var vowlresult={
   },
   {
    "id": 196,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7110849501"
@@ -4543,8 +4543,8 @@ var vowlresult={
   },
   {
    "id": 197,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7203972860"
@@ -4557,8 +4557,8 @@ var vowlresult={
   },
   {
    "id": 198,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_7925063785"
@@ -4571,8 +4571,8 @@ var vowlresult={
   },
   {
    "id": 199,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8308921075"
@@ -4585,8 +4585,8 @@ var vowlresult={
   },
   {
    "id": 200,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471227"
@@ -4599,8 +4599,8 @@ var vowlresult={
   },
   {
    "id": 201,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471228"
@@ -4613,8 +4613,8 @@ var vowlresult={
   },
   {
    "id": 202,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471229"
@@ -4627,8 +4627,8 @@ var vowlresult={
   },
   {
    "id": 203,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471230"
@@ -4641,8 +4641,8 @@ var vowlresult={
   },
   {
    "id": 204,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8355471231"
@@ -4655,8 +4655,8 @@ var vowlresult={
   },
   {
    "id": 205,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8494707479"
@@ -4669,8 +4669,8 @@ var vowlresult={
   },
   {
    "id": 206,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8520931982"
@@ -4683,8 +4683,8 @@ var vowlresult={
   },
   {
    "id": 207,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8520962885"
@@ -4697,8 +4697,8 @@ var vowlresult={
   },
   {
    "id": 208,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_8584276628"
@@ -4711,8 +4711,8 @@ var vowlresult={
   },
   {
    "id": 209,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_9110402648"
@@ -4725,8 +4725,8 @@ var vowlresult={
   },
   {
    "id": 210,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "node_9990835587"
@@ -4739,8 +4739,8 @@ var vowlresult={
   },
   {
    "id": 211,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "way_1209135262"
@@ -4753,8 +4753,8 @@ var vowlresult={
   },
   {
    "id": 212,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 137 / TCBKD A",
    "annotations": {
@@ -4778,7 +4778,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -4786,7 +4786,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10040750611_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10040750611_geom",
       "type": "iri"
      }
     ],
@@ -4806,41 +4806,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 137 / TCBKD A",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70892569",
       "type": "label"
@@ -4854,8 +4854,8 @@ var vowlresult={
   },
   {
    "id": 213,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10040750611",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 242",
    "annotations": {
@@ -4879,7 +4879,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -4887,7 +4887,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10040757680_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10040757680_geom",
       "type": "iri"
      }
     ],
@@ -4907,41 +4907,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 242",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70892852",
       "type": "label"
@@ -4955,8 +4955,8 @@ var vowlresult={
   },
   {
    "id": 214,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10040757680",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 141",
    "annotations": {
@@ -4980,7 +4980,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -4988,7 +4988,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10041491619_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10041491619_geom",
       "type": "iri"
      }
     ],
@@ -5008,41 +5008,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 141",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70892578",
       "type": "label"
@@ -5056,8 +5056,8 @@ var vowlresult={
   },
   {
    "id": 215,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10041491619",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 142",
    "annotations": {
@@ -5081,7 +5081,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5089,7 +5089,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10041927343_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10041927343_geom",
       "type": "iri"
      }
     ],
@@ -5109,41 +5109,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 142",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70892582",
       "type": "label"
@@ -5157,8 +5157,8 @@ var vowlresult={
   },
   {
    "id": 216,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10041927343",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 86 / UCC 18",
    "annotations": {
@@ -5182,7 +5182,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5190,7 +5190,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10560404607_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10560404607_geom",
       "type": "iri"
      }
     ],
@@ -5210,49 +5210,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 86 / UCC 18",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__ref",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref",
       "language": "undefined",
       "value": "CIIC 86",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106680741",
       "type": "label"
@@ -5266,8 +5266,8 @@ var vowlresult={
   },
   {
    "id": 217,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10560404607",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 185 / TCBKD B",
    "annotations": {
@@ -5291,7 +5291,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5299,7 +5299,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10563395863_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10563395863_geom",
       "type": "iri"
      }
     ],
@@ -5319,41 +5319,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 185 / TCBKD B",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "servey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106680858",
       "type": "label"
@@ -5367,8 +5367,8 @@ var vowlresult={
   },
   {
    "id": 218,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10563395863",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Crossoona Ogham Stone",
    "annotations": {
@@ -5392,7 +5392,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5400,7 +5400,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10594924965_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10594924965_geom",
       "type": "iri"
      }
     ],
@@ -5420,41 +5420,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Crossoona Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q28232133",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Crossoona Rath",
       "type": "label"
@@ -5468,8 +5468,8 @@ var vowlresult={
   },
   {
    "id": 219,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10594924965",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Castletimon Ogham Stone",
    "annotations": {
@@ -5493,7 +5493,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5501,7 +5501,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10594973066_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10594973066_geom",
       "type": "iri"
      }
     ],
@@ -5521,49 +5521,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name",
       "language": "undefined",
       "value": "The Giant's Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Castletimon Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q28232123",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Castletimon Ogham Stone",
       "type": "label"
@@ -5577,8 +5577,8 @@ var vowlresult={
   },
   {
    "id": 220,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10594973066",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10601966811",
    "annotations": {
@@ -5602,7 +5602,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5610,7 +5610,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10601966811_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10601966811_geom",
       "type": "iri"
      }
     ],
@@ -5630,33 +5630,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "white line on Bing could be the fallen ogham stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q116689501",
       "type": "label"
@@ -5670,8 +5670,8 @@ var vowlresult={
   },
   {
    "id": 221,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10601966811",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10601966825",
    "annotations": {
@@ -5695,7 +5695,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5703,7 +5703,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10601966825_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10601966825_geom",
       "type": "iri"
      }
     ],
@@ -5723,33 +5723,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "Bing",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q116689501",
       "type": "label"
@@ -5763,8 +5763,8 @@ var vowlresult={
   },
   {
    "id": 222,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10601966825",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10633917137",
    "annotations": {
@@ -5788,7 +5788,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5796,7 +5796,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10633917137_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10633917137_geom",
       "type": "iri"
      }
     ],
@@ -5816,33 +5816,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q29587056",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Greenhill Ogham Stones",
       "type": "label"
@@ -5856,8 +5856,8 @@ var vowlresult={
   },
   {
    "id": 223,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10633917137",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10633917138",
    "annotations": {
@@ -5881,7 +5881,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5889,7 +5889,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10633917138_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10633917138_geom",
       "type": "iri"
      }
     ],
@@ -5909,33 +5909,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q29587056",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Greenhill Ogham Stones",
       "type": "label"
@@ -5949,8 +5949,8 @@ var vowlresult={
   },
   {
    "id": 224,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10633917138",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballybowler North Ogham Stone",
    "annotations": {
@@ -5974,7 +5974,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -5982,7 +5982,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10639514250_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10639514250_geom",
       "type": "iri"
      }
     ],
@@ -6002,49 +6002,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ballybowler North Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "estimated location using wikipedia coordinates",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q78062999",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Ballybowler North Ogham Stone",
       "type": "label"
@@ -6058,8 +6058,8 @@ var vowlresult={
   },
   {
    "id": 225,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10639514250",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10652133873",
    "annotations": {
@@ -6083,7 +6083,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6091,7 +6091,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10652133873_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10652133873_geom",
       "type": "iri"
      }
     ],
@@ -6111,33 +6111,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q38251789",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Cloghanecarhan",
       "type": "label"
@@ -6151,8 +6151,8 @@ var vowlresult={
   },
   {
    "id": 226,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10652133873",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10652214543",
    "annotations": {
@@ -6176,7 +6176,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6184,7 +6184,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10652214543_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10652214543_geom",
       "type": "iri"
      }
     ],
@@ -6204,49 +6204,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "First ogham stone ever to be recorded in Ireland.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q96377241",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:CIIC 180. Emlagh East (IMLEACH DH\u00daN S\u00c9ANN), Co. Kerry.png",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Emlagh East Ogham Stone",
       "type": "label"
@@ -6260,8 +6260,8 @@ var vowlresult={
   },
   {
    "id": 227,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10652214543",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10656139839",
    "annotations": {
@@ -6285,7 +6285,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6293,7 +6293,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10656139839_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10656139839_geom",
       "type": "iri"
      }
     ],
@@ -6313,41 +6313,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "seven stones",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q40889193",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Kilcoolaght East ogham stones",
       "type": "label"
@@ -6361,8 +6361,8 @@ var vowlresult={
   },
   {
    "id": 228,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10656139839",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 10709752679",
    "annotations": {
@@ -6386,7 +6386,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6394,7 +6394,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/10709752679_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/10709752679_geom",
       "type": "iri"
      }
     ],
@@ -6406,25 +6406,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "British War office map;Bing",
       "type": "label"
@@ -6438,8 +6438,8 @@ var vowlresult={
   },
   {
    "id": 229,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_10709752679",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 195",
    "annotations": {
@@ -6463,7 +6463,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6471,7 +6471,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11071324384_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11071324384_geom",
       "type": "iri"
      }
     ],
@@ -6491,41 +6491,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 195",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106680877",
       "type": "label"
@@ -6539,8 +6539,8 @@ var vowlresult={
   },
   {
    "id": 230,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11071324384",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 81 / UCC 4",
    "annotations": {
@@ -6564,7 +6564,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6572,7 +6572,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11071361392_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11071361392_geom",
       "type": "iri"
      }
     ],
@@ -6592,41 +6592,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 81 / UCC 4",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106680733",
       "type": "label"
@@ -6640,8 +6640,8 @@ var vowlresult={
   },
   {
    "id": 231,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11071361392",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11253027975",
    "annotations": {
@@ -6665,7 +6665,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6673,7 +6673,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11253027975_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11253027975_geom",
       "type": "iri"
      }
     ],
@@ -6685,25 +6685,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "group of several ogham stones, need to be separated",
       "type": "label"
@@ -6717,8 +6717,8 @@ var vowlresult={
   },
   {
    "id": 232,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11253027975",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig I",
    "annotations": {
@@ -6742,7 +6742,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6750,7 +6750,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269073312_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269073312_geom",
       "type": "iri"
      }
     ],
@@ -6762,25 +6762,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone Ballinrannig I",
       "type": "label"
@@ -6794,8 +6794,8 @@ var vowlresult={
   },
   {
    "id": 233,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073312",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig IV",
    "annotations": {
@@ -6819,7 +6819,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6827,7 +6827,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269073313_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269073313_geom",
       "type": "iri"
      }
     ],
@@ -6839,25 +6839,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone Ballinrannig IV",
       "type": "label"
@@ -6871,8 +6871,8 @@ var vowlresult={
   },
   {
    "id": 234,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073313",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone CIIC 175. Burnham West",
    "annotations": {
@@ -6896,7 +6896,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6904,7 +6904,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269073314_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269073314_geom",
       "type": "iri"
      }
     ],
@@ -6916,25 +6916,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone CIIC 175. Burnham West",
       "type": "label"
@@ -6948,8 +6948,8 @@ var vowlresult={
   },
   {
    "id": 235,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073314",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig II",
    "annotations": {
@@ -6973,7 +6973,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -6981,7 +6981,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269073315_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269073315_geom",
       "type": "iri"
      }
     ],
@@ -6993,25 +6993,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone Ballinrannig II",
       "type": "label"
@@ -7025,8 +7025,8 @@ var vowlresult={
   },
   {
    "id": 236,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073315",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone Ballinrannig III",
    "annotations": {
@@ -7050,7 +7050,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7058,7 +7058,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269073316_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269073316_geom",
       "type": "iri"
      }
     ],
@@ -7070,25 +7070,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone Ballinrannig III",
       "type": "label"
@@ -7102,8 +7102,8 @@ var vowlresult={
   },
   {
    "id": 237,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269073316",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119003",
    "annotations": {
@@ -7127,7 +7127,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7135,7 +7135,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119003_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119003_geom",
       "type": "iri"
      }
     ],
@@ -7147,17 +7147,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7171,8 +7171,8 @@ var vowlresult={
   },
   {
    "id": 238,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119003",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119004",
    "annotations": {
@@ -7196,7 +7196,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7204,7 +7204,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119004_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119004_geom",
       "type": "iri"
      }
     ],
@@ -7216,17 +7216,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7240,8 +7240,8 @@ var vowlresult={
   },
   {
    "id": 239,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119004",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119005",
    "annotations": {
@@ -7265,7 +7265,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7273,7 +7273,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119005_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119005_geom",
       "type": "iri"
      }
     ],
@@ -7285,17 +7285,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7309,8 +7309,8 @@ var vowlresult={
   },
   {
    "id": 240,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119005",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119006",
    "annotations": {
@@ -7334,7 +7334,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7342,7 +7342,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119006_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119006_geom",
       "type": "iri"
      }
     ],
@@ -7354,17 +7354,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7378,8 +7378,8 @@ var vowlresult={
   },
   {
    "id": 241,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119006",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119007",
    "annotations": {
@@ -7403,7 +7403,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7411,7 +7411,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119007_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119007_geom",
       "type": "iri"
      }
     ],
@@ -7423,17 +7423,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7447,8 +7447,8 @@ var vowlresult={
   },
   {
    "id": 242,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119007",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119008",
    "annotations": {
@@ -7472,7 +7472,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7480,7 +7480,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119008_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119008_geom",
       "type": "iri"
      }
     ],
@@ -7492,17 +7492,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7516,8 +7516,8 @@ var vowlresult={
   },
   {
    "id": 243,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119008",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119009",
    "annotations": {
@@ -7541,7 +7541,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7549,7 +7549,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119009_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119009_geom",
       "type": "iri"
      }
     ],
@@ -7561,25 +7561,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "also has a Latin cross on it",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7593,8 +7593,8 @@ var vowlresult={
   },
   {
    "id": 244,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119009",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119010",
    "annotations": {
@@ -7618,7 +7618,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7626,7 +7626,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119010_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119010_geom",
       "type": "iri"
      }
     ],
@@ -7638,17 +7638,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7662,8 +7662,8 @@ var vowlresult={
   },
   {
    "id": 245,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119010",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269119011",
    "annotations": {
@@ -7687,7 +7687,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7695,7 +7695,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269119011_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269119011_geom",
       "type": "iri"
      }
     ],
@@ -7707,17 +7707,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7731,8 +7731,8 @@ var vowlresult={
   },
   {
    "id": 246,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269119011",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269165789",
    "annotations": {
@@ -7756,7 +7756,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7764,7 +7764,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269165789_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269165789_geom",
       "type": "iri"
      }
     ],
@@ -7776,25 +7776,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
       "language": "undefined",
       "value": "https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/266._Dromore_I_thumb.jpg",
       "type": "iri"
@@ -7808,8 +7808,8 @@ var vowlresult={
   },
   {
    "id": 247,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269165789",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11269165790",
    "annotations": {
@@ -7833,7 +7833,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7841,7 +7841,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11269165790_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11269165790_geom",
       "type": "iri"
      }
     ],
@@ -7853,17 +7853,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -7877,8 +7877,8 @@ var vowlresult={
   },
   {
    "id": 248,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11269165790",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Long Stone",
    "annotations": {
@@ -7902,7 +7902,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7910,7 +7910,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11558269687_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11558269687_geom",
       "type": "iri"
      }
     ],
@@ -7922,33 +7922,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Long Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "British War office map;Bing",
       "type": "label"
@@ -7962,8 +7962,8 @@ var vowlresult={
   },
   {
    "id": 249,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11558269687",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11574593297",
    "annotations": {
@@ -7987,7 +7987,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -7995,7 +7995,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11574593297_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11574593297_geom",
       "type": "iri"
      }
     ],
@@ -8007,25 +8007,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "British War office map;Bing",
       "type": "label"
@@ -8039,8 +8039,8 @@ var vowlresult={
   },
   {
    "id": 250,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11574593297",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "St. Olan's Cap",
    "annotations": {
@@ -8064,7 +8064,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8072,7 +8072,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11575064111_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11575064111_geom",
       "type": "iri"
      }
     ],
@@ -8084,25 +8084,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "St. Olan's Cap",
       "type": "label"
@@ -8116,8 +8116,8 @@ var vowlresult={
   },
   {
    "id": 251,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11575064111",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 153 (Ballinrannig VI)",
    "annotations": {
@@ -8141,7 +8141,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8149,7 +8149,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11677109638_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11677109638_geom",
       "type": "iri"
      }
     ],
@@ -8169,49 +8169,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 153 (Ballinrannig VI)",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106680820",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:CIIC_153_Ballinrannig_VI.jpg",
       "type": "label"
@@ -8225,8 +8225,8 @@ var vowlresult={
   },
   {
    "id": 252,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11677109638",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 152 (Ballinrannig V)",
    "annotations": {
@@ -8250,7 +8250,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8258,7 +8258,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11677113764_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11677113764_geom",
       "type": "iri"
      }
     ],
@@ -8278,49 +8278,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 152 (Ballinrannig V)",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106680819",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:CIIC_152_Ballinrannig_V.jpg",
       "type": "label"
@@ -8334,8 +8334,8 @@ var vowlresult={
   },
   {
    "id": 253,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11677113764",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 11952692355",
    "annotations": {
@@ -8359,7 +8359,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8367,7 +8367,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11952692355_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11952692355_geom",
       "type": "iri"
      }
     ],
@@ -8379,25 +8379,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "British War office map",
       "type": "label"
@@ -8411,8 +8411,8 @@ var vowlresult={
   },
   {
    "id": 254,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11952692355",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 6",
    "annotations": {
@@ -8436,7 +8436,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8444,7 +8444,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955662684_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955662684_geom",
       "type": "iri"
      }
     ],
@@ -8464,41 +8464,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 6",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70382438",
       "type": "label"
@@ -8512,8 +8512,8 @@ var vowlresult={
   },
   {
    "id": 255,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955662684",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 27",
    "annotations": {
@@ -8537,7 +8537,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8545,7 +8545,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955662685_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955662685_geom",
       "type": "iri"
      }
     ],
@@ -8565,49 +8565,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 27",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885739",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:CIIC 112 (Ogham Stone Concept by RAS Macalister)",
       "type": "label"
@@ -8621,8 +8621,8 @@ var vowlresult={
   },
   {
    "id": 256,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955662685",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 2",
    "annotations": {
@@ -8646,7 +8646,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8654,7 +8654,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670771_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670771_geom",
       "type": "iri"
      }
     ],
@@ -8666,33 +8666,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 2",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -8706,8 +8706,8 @@ var vowlresult={
   },
   {
    "id": 257,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670771",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 3",
    "annotations": {
@@ -8731,7 +8731,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8739,7 +8739,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670773_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670773_geom",
       "type": "iri"
      }
     ],
@@ -8759,41 +8759,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 3",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q69385241",
       "type": "label"
@@ -8807,8 +8807,8 @@ var vowlresult={
   },
   {
    "id": 258,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670773",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 5",
    "annotations": {
@@ -8832,7 +8832,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8840,7 +8840,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670774_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670774_geom",
       "type": "iri"
      }
     ],
@@ -8852,33 +8852,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 5",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -8892,8 +8892,8 @@ var vowlresult={
   },
   {
    "id": 259,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670774",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 12",
    "annotations": {
@@ -8917,7 +8917,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -8925,7 +8925,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670775_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670775_geom",
       "type": "iri"
      }
     ],
@@ -8945,41 +8945,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 12",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885701",
       "type": "label"
@@ -8993,8 +8993,8 @@ var vowlresult={
   },
   {
    "id": 260,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670775",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 24",
    "annotations": {
@@ -9018,7 +9018,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9026,7 +9026,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670776_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670776_geom",
       "type": "iri"
      }
     ],
@@ -9046,41 +9046,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 24",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885730",
       "type": "label"
@@ -9094,8 +9094,8 @@ var vowlresult={
   },
   {
    "id": 261,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670776",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 28",
    "annotations": {
@@ -9119,7 +9119,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9127,7 +9127,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670777_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670777_geom",
       "type": "iri"
      }
     ],
@@ -9139,33 +9139,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 28",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -9179,8 +9179,8 @@ var vowlresult={
   },
   {
    "id": 262,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670777",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 23",
    "annotations": {
@@ -9204,7 +9204,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9212,7 +9212,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670778_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670778_geom",
       "type": "iri"
      }
     ],
@@ -9224,33 +9224,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 23",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -9264,8 +9264,8 @@ var vowlresult={
   },
   {
    "id": 263,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670778",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 22",
    "annotations": {
@@ -9289,7 +9289,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9297,7 +9297,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670779_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670779_geom",
       "type": "iri"
      }
     ],
@@ -9317,41 +9317,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 22",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885727",
       "type": "label"
@@ -9365,8 +9365,8 @@ var vowlresult={
   },
   {
    "id": 264,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670779",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 20",
    "annotations": {
@@ -9390,7 +9390,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9398,7 +9398,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670780_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670780_geom",
       "type": "iri"
      }
     ],
@@ -9418,41 +9418,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 20",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885722",
       "type": "label"
@@ -9466,8 +9466,8 @@ var vowlresult={
   },
   {
    "id": 265,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670780",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 1",
    "annotations": {
@@ -9491,7 +9491,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9499,7 +9499,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670781_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670781_geom",
       "type": "iri"
      }
     ],
@@ -9519,41 +9519,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 1",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q69377850",
       "type": "label"
@@ -9567,8 +9567,8 @@ var vowlresult={
   },
   {
    "id": 266,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670781",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 21",
    "annotations": {
@@ -9592,7 +9592,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9600,7 +9600,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670784_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670784_geom",
       "type": "iri"
      }
     ],
@@ -9620,41 +9620,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 21",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885723",
       "type": "label"
@@ -9668,8 +9668,8 @@ var vowlresult={
   },
   {
    "id": 267,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670784",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 10",
    "annotations": {
@@ -9693,7 +9693,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9701,7 +9701,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670785_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670785_geom",
       "type": "iri"
      }
     ],
@@ -9721,41 +9721,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 10",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885697",
       "type": "label"
@@ -9769,8 +9769,8 @@ var vowlresult={
   },
   {
    "id": 268,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670785",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 19",
    "annotations": {
@@ -9794,7 +9794,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9802,7 +9802,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670786_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670786_geom",
       "type": "iri"
      }
     ],
@@ -9822,49 +9822,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 19",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885720",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:CIIC 88 (Ogham Stone Concept by RAS Macalister)",
       "type": "label"
@@ -9878,8 +9878,8 @@ var vowlresult={
   },
   {
    "id": 269,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670786",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 17",
    "annotations": {
@@ -9903,7 +9903,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9911,7 +9911,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670788_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670788_geom",
       "type": "iri"
      }
     ],
@@ -9923,33 +9923,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 17",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -9963,8 +9963,8 @@ var vowlresult={
   },
   {
    "id": 270,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670788",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 16",
    "annotations": {
@@ -9988,7 +9988,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -9996,7 +9996,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670789_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670789_geom",
       "type": "iri"
      }
     ],
@@ -10016,49 +10016,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 16",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885712",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:CIIC 90 (Ogham Stone Concept by RAS Macalister)",
       "type": "label"
@@ -10072,8 +10072,8 @@ var vowlresult={
   },
   {
    "id": 271,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670789",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 94/ UCC 15",
    "annotations": {
@@ -10097,7 +10097,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10105,7 +10105,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670790_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670790_geom",
       "type": "iri"
      }
     ],
@@ -10125,41 +10125,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 94/ UCC 15",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885706",
       "type": "label"
@@ -10173,8 +10173,8 @@ var vowlresult={
   },
   {
    "id": 272,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670790",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 14",
    "annotations": {
@@ -10198,7 +10198,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10206,7 +10206,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670791_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670791_geom",
       "type": "iri"
      }
     ],
@@ -10226,41 +10226,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 14",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885704",
       "type": "label"
@@ -10274,8 +10274,8 @@ var vowlresult={
   },
   {
    "id": 273,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670791",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 13",
    "annotations": {
@@ -10299,7 +10299,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10307,7 +10307,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670792_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670792_geom",
       "type": "iri"
      }
     ],
@@ -10327,41 +10327,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 13",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885703",
       "type": "label"
@@ -10375,8 +10375,8 @@ var vowlresult={
   },
   {
    "id": 274,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670792",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 11",
    "annotations": {
@@ -10400,7 +10400,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10408,7 +10408,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670793_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670793_geom",
       "type": "iri"
      }
     ],
@@ -10420,33 +10420,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 11",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -10460,8 +10460,8 @@ var vowlresult={
   },
   {
    "id": 275,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670793",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 25",
    "annotations": {
@@ -10485,7 +10485,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10493,7 +10493,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670794_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670794_geom",
       "type": "iri"
      }
     ],
@@ -10513,49 +10513,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 25",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885734",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:CIIC 128 (Ogham Stone Concept by RAS Macalister)",
       "type": "label"
@@ -10569,8 +10569,8 @@ var vowlresult={
   },
   {
    "id": 276,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670794",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 7",
    "annotations": {
@@ -10594,7 +10594,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10602,7 +10602,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670796_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670796_geom",
       "type": "iri"
      }
     ],
@@ -10622,49 +10622,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 7",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885690",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:CIIC 89 (Ogham Stone Concept by RAS Macalister)",
       "type": "label"
@@ -10678,8 +10678,8 @@ var vowlresult={
   },
   {
    "id": 277,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670796",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 8",
    "annotations": {
@@ -10703,7 +10703,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10711,7 +10711,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670797_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670797_geom",
       "type": "iri"
      }
     ],
@@ -10731,41 +10731,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 8",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885692",
       "type": "label"
@@ -10779,8 +10779,8 @@ var vowlresult={
   },
   {
    "id": 278,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670797",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "UCC 9",
    "annotations": {
@@ -10804,7 +10804,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10812,7 +10812,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11955670798_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11955670798_geom",
       "type": "iri"
      }
     ],
@@ -10832,41 +10832,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "UCC 9",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885695",
       "type": "label"
@@ -10880,8 +10880,8 @@ var vowlresult={
   },
   {
    "id": 279,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11955670798",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Kilbrittain Fragment",
    "annotations": {
@@ -10905,7 +10905,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10913,7 +10913,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11966423819_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11966423819_geom",
       "type": "iri"
      }
     ],
@@ -10925,33 +10925,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Kilbrittain Fragment",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -10965,8 +10965,8 @@ var vowlresult={
   },
   {
    "id": 280,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966423819",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CHUIS/1",
    "annotations": {
@@ -10990,7 +10990,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -10998,7 +10998,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11966430251_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11966430251_geom",
       "type": "iri"
      }
     ],
@@ -11010,33 +11010,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CHUIS/1",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -11050,8 +11050,8 @@ var vowlresult={
   },
   {
    "id": 281,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966430251",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "GEARS/1",
    "annotations": {
@@ -11075,7 +11075,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11083,7 +11083,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/11966441102_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/11966441102_geom",
       "type": "iri"
      }
     ],
@@ -11095,33 +11095,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "GEARS/1",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
@@ -11135,8 +11135,8 @@ var vowlresult={
   },
   {
    "id": 282,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_11966441102",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone CIIC 147. Ballineesteenigh",
    "annotations": {
@@ -11160,7 +11160,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11168,7 +11168,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/12276963607_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/12276963607_geom",
       "type": "iri"
      }
     ],
@@ -11180,25 +11180,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone CIIC 147. Ballineesteenigh",
       "type": "label"
@@ -11212,8 +11212,8 @@ var vowlresult={
   },
   {
    "id": 283,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12276963607",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ogham Stone BURNHAM EAST V",
    "annotations": {
@@ -11237,7 +11237,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11245,7 +11245,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/12276982960_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/12276982960_geom",
       "type": "iri"
      }
     ],
@@ -11257,33 +11257,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ogham Stone BURNHAM EAST V",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__url": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__url",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url",
       "language": "undefined",
       "value": "https://www.megalithicmonumentsofireland.com/COUNTIES/KERRY/BurnhamEast5_OghamStone.html",
       "type": "iri"
@@ -11297,8 +11297,8 @@ var vowlresult={
   },
   {
    "id": 284,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12276982960",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 12661114455",
    "annotations": {
@@ -11322,7 +11322,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11330,7 +11330,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/12661114455_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/12661114455_geom",
       "type": "iri"
      }
     ],
@@ -11342,25 +11342,25 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "British war office map",
       "type": "label"
@@ -11374,8 +11374,8 @@ var vowlresult={
   },
   {
    "id": 285,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_12661114455",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Arraglen Ogham Stone",
    "annotations": {
@@ -11399,7 +11399,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11407,7 +11407,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/1275923177_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/1275923177_geom",
       "type": "iri"
      }
     ],
@@ -11427,57 +11427,57 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name",
       "language": "undefined",
       "value": "Brandon Monument",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Arraglen Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q48797670",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:Ogham Stone (geograph 2391021).jpg",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Arraglen Ogham Stone",
       "type": "label"
@@ -11491,8 +11491,8 @@ var vowlresult={
   },
   {
    "id": 286,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_1275923177",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 2428911148",
    "annotations": {
@@ -11516,7 +11516,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11524,7 +11524,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/2428911148_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/2428911148_geom",
       "type": "iri"
      }
     ],
@@ -11536,33 +11536,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "temporary trial re DIAS permission BH/NW",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
       "language": "undefined",
       "value": "https://ogham.celt.dias.ie/search.php?ciic=15",
       "type": "iri"
@@ -11576,8 +11576,8 @@ var vowlresult={
   },
   {
    "id": 287,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_2428911148",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Breastagh Ogham Stone",
    "annotations": {
@@ -11601,7 +11601,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11609,7 +11609,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/3220290865_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/3220290865_geom",
       "type": "iri"
      }
     ],
@@ -11629,41 +11629,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Breastagh Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q28232526",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Breastagh Ogham Stone",
       "type": "label"
@@ -11677,8 +11677,8 @@ var vowlresult={
   },
   {
    "id": 288,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3220290865",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 3621783646",
    "annotations": {
@@ -11702,7 +11702,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11710,7 +11710,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/3621783646_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/3621783646_geom",
       "type": "iri"
      }
     ],
@@ -11722,33 +11722,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "Ogham Stone (OSM Historical)",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
       "language": "undefined",
       "value": "https://ogham.celt.dias.ie/search.php?ciic=48",
       "type": "iri"
@@ -11762,8 +11762,8 @@ var vowlresult={
   },
   {
    "id": 289,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3621783646",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Templebryan North Ogham Stone",
    "annotations": {
@@ -11787,7 +11787,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11795,7 +11795,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/3663314804_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/3663314804_geom",
       "type": "iri"
      }
     ],
@@ -11815,41 +11815,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Templebryan North Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q21036926",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Oghamstein von Templebryan North",
       "type": "label"
@@ -11863,8 +11863,8 @@ var vowlresult={
   },
   {
    "id": 290,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_3663314804",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lugnagappul Ogham Stones",
    "annotations": {
@@ -11888,7 +11888,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11896,7 +11896,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/4395991496_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/4395991496_geom",
       "type": "iri"
      }
     ],
@@ -11916,41 +11916,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Lugnagappul Ogham Stones",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "two ogham stones",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q2016156",
       "type": "label"
@@ -11964,8 +11964,8 @@ var vowlresult={
   },
   {
    "id": 291,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_4395991496",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Cloch Oghaim Dhoire Fh\u00edon\u00e1in Beag",
    "annotations": {
@@ -11989,7 +11989,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -11997,7 +11997,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/452289802_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/452289802_geom",
       "type": "iri"
      }
     ],
@@ -12017,41 +12017,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Darrynane Beg Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q42377707",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Darrynane Beg Ogham Stone",
       "type": "label"
@@ -12065,8 +12065,8 @@ var vowlresult={
   },
   {
    "id": 292,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_452289802",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_452289802",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballycrovane Ogham Stone",
    "annotations": {
@@ -12090,7 +12090,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12098,7 +12098,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/473149586_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/473149586_geom",
       "type": "iri"
      }
     ],
@@ -12118,49 +12118,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ballycrovane Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism",
       "language": "undefined",
       "value": "attraction",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q805400",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Ballycrovane Ogham Stone",
       "type": "label"
@@ -12174,8 +12174,8 @@ var vowlresult={
   },
   {
    "id": 293,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_473149586",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_473149586",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lamoge Ogham Stone 1",
    "annotations": {
@@ -12199,7 +12199,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12207,7 +12207,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/5111098877_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/5111098877_geom",
       "type": "iri"
      }
     ],
@@ -12219,33 +12219,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "lying flat on the ground",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Lamoge Ogham Stone 1",
       "type": "label"
@@ -12259,8 +12259,8 @@ var vowlresult={
   },
   {
    "id": 294,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5111098877",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lamoge Ogham Stone 2",
    "annotations": {
@@ -12284,7 +12284,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12292,7 +12292,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/5111098878_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/5111098878_geom",
       "type": "iri"
      }
     ],
@@ -12304,33 +12304,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "lying flat on the ground, more triangular in shape",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Lamoge Ogham Stone 2",
       "type": "label"
@@ -12344,8 +12344,8 @@ var vowlresult={
   },
   {
    "id": 295,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5111098878",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 178",
    "annotations": {
@@ -12369,7 +12369,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12377,7 +12377,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/5145413640_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/5145413640_geom",
       "type": "iri"
      }
     ],
@@ -12397,49 +12397,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 178",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70892682",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:Coumeenoole_Ogham_Stone_(Dunmore_Head).jpg",
       "type": "label"
@@ -12453,8 +12453,8 @@ var vowlresult={
   },
   {
    "id": 296,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5145413640",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Tullaherin Ogham Stone II",
    "annotations": {
@@ -12478,7 +12478,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12486,7 +12486,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/5965037771_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/5965037771_geom",
       "type": "iri"
      }
     ],
@@ -12506,81 +12506,81 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "yes",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name",
       "language": "undefined",
       "value": "Loughboreen Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "Standing upright. Measurements taken at widest and tallest point above ground level",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
       "language": "undefined",
       "value": "http://www.megalithicireland.com/Ogham%20stones/Tullaherin%20Ogham%20Stone.jpg",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Tullaherin Ogham Stone II",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "local knowledge",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106674357",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:Tullaherin ogham stone II",
       "type": "label"
@@ -12594,8 +12594,8 @@ var vowlresult={
   },
   {
    "id": 297,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_5965037771",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "The Long Stone",
    "annotations": {
@@ -12619,7 +12619,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12627,7 +12627,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/600221596_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/600221596_geom",
       "type": "iri"
      }
     ],
@@ -12639,33 +12639,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "The Long Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
       "language": "undefined",
       "value": "https://ogham.celt.dias.ie/search.php?ciic=51",
       "type": "iri"
@@ -12679,8 +12679,8 @@ var vowlresult={
   },
   {
    "id": 298,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_600221596",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_600221596",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 203",
    "annotations": {
@@ -12704,7 +12704,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12712,7 +12712,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/6810674728_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/6810674728_geom",
       "type": "iri"
      }
     ],
@@ -12732,41 +12732,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 203",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q67978531",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Dunloe Ogham Stones",
       "type": "label"
@@ -12780,8 +12780,8 @@ var vowlresult={
   },
   {
    "id": 299,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_6810674728",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Tullygarran Ogham Stones",
    "annotations": {
@@ -12805,7 +12805,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12813,7 +12813,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/7082266109_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/7082266109_geom",
       "type": "iri"
      }
     ],
@@ -12833,73 +12833,73 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Tullygarran Ogham Stones",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "two ogham stones",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism",
       "language": "undefined",
       "value": "attraction",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
       "language": "undefined",
       "value": "http://megalithicireland.com/Tullygarran%20Ogham%20Stones%20Kerry.html?src=gpx",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q40888587",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:Tullygarran Ogham Stones.jpg",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Tullygarran ogham stones",
       "type": "label"
@@ -12913,8 +12913,8 @@ var vowlresult={
   },
   {
    "id": 300,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7082266109",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 7082293699",
    "annotations": {
@@ -12938,7 +12938,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -12946,7 +12946,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/7082293699_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/7082293699_geom",
       "type": "iri"
      }
     ],
@@ -12966,41 +12966,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website",
       "language": "undefined",
       "value": "http://megalithicireland.com/Ratass%20Church,%20Tralee,%20Kerry.html?src=gpx",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q30247114",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Ratass Church",
       "type": "label"
@@ -13014,8 +13014,8 @@ var vowlresult={
   },
   {
    "id": 301,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7082293699",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Churchclara Ogham Stone II",
    "annotations": {
@@ -13039,7 +13039,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13047,7 +13047,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/7110849500_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/7110849500_geom",
       "type": "iri"
      }
     ],
@@ -13059,49 +13059,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "yes",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "Part of the church wall, low in the wall, left of the entrance.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Churchclara Ogham Stone II",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey;https://ogham.celt.dias.ie",
       "type": "label"
@@ -13115,8 +13115,8 @@ var vowlresult={
   },
   {
    "id": 302,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7110849500",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Churchclara Ogham Stone I",
    "annotations": {
@@ -13140,7 +13140,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13148,7 +13148,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/7110849501_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/7110849501_geom",
       "type": "iri"
      }
     ],
@@ -13160,41 +13160,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "yes",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Churchclara Ogham Stone I",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey;O'Kelly's Placenames p. 66",
       "type": "label"
@@ -13208,8 +13208,8 @@ var vowlresult={
   },
   {
    "id": 303,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7110849501",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballinrannig Stone VII (CIIC 154)",
    "annotations": {
@@ -13233,7 +13233,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13241,7 +13241,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/7203972860_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/7203972860_geom",
       "type": "iri"
      }
     ],
@@ -13261,57 +13261,57 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site",
       "language": "undefined",
       "value": "megalith",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ballinrannig Stone VII (CIIC 154)",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q30247257",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "File:County_Kerry_-_Ballinrannig_Stone_-_20060103222940.jpg",
       "type": "label"
@@ -13325,8 +13325,8 @@ var vowlresult={
   },
   {
    "id": 304,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7203972860",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Lugudeccas Stone",
    "annotations": {
@@ -13350,7 +13350,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13358,7 +13358,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/7925063785_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/7925063785_geom",
       "type": "iri"
      }
     ],
@@ -13378,33 +13378,33 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Lugudeccas Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q19297554",
       "type": "label"
@@ -13418,8 +13418,8 @@ var vowlresult={
   },
   {
    "id": 305,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_7925063785",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ballyboodan Ogham Stone",
    "annotations": {
@@ -13443,7 +13443,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13451,7 +13451,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8308921075_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8308921075_geom",
       "type": "iri"
      }
     ],
@@ -13471,65 +13471,65 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "yes",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "Lying flat on the ground, surrounded by wooden fence.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ballyboodan Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q28232281",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:Ballyboodan Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Ballyboodan Ogham Stone",
       "type": "label"
@@ -13543,8 +13543,8 @@ var vowlresult={
   },
   {
    "id": 306,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8308921075",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471227",
    "annotations": {
@@ -13568,7 +13568,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13576,7 +13576,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8355471227_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8355471227_geom",
       "type": "iri"
      }
     ],
@@ -13588,17 +13588,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -13612,8 +13612,8 @@ var vowlresult={
   },
   {
    "id": 307,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471227",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471228",
    "annotations": {
@@ -13637,7 +13637,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13645,7 +13645,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8355471228_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8355471228_geom",
       "type": "iri"
      }
     ],
@@ -13657,17 +13657,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -13681,8 +13681,8 @@ var vowlresult={
   },
   {
    "id": 308,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471228",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471229",
    "annotations": {
@@ -13706,7 +13706,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13714,7 +13714,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8355471229_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8355471229_geom",
       "type": "iri"
      }
     ],
@@ -13726,17 +13726,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -13750,8 +13750,8 @@ var vowlresult={
   },
   {
    "id": 309,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471229",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471230",
    "annotations": {
@@ -13775,7 +13775,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13783,7 +13783,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8355471230_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8355471230_geom",
       "type": "iri"
      }
     ],
@@ -13795,17 +13795,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -13819,8 +13819,8 @@ var vowlresult={
   },
   {
    "id": 310,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471230",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8355471231",
    "annotations": {
@@ -13844,7 +13844,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13852,7 +13852,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8355471231_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8355471231_geom",
       "type": "iri"
      }
     ],
@@ -13864,17 +13864,17 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
@@ -13888,8 +13888,8 @@ var vowlresult={
   },
   {
    "id": 311,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8355471231",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Tullaherin Ogham Stone I",
    "annotations": {
@@ -13913,7 +13913,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -13921,7 +13921,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8494707479_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8494707479_geom",
       "type": "iri"
      }
     ],
@@ -13941,81 +13941,81 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "yes",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "White, standing ogham stone.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization",
       "language": "undefined",
       "value": "medieval",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Tullaherin Ogham Stone I",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note",
       "language": "undefined",
       "value": "The dimensions are measured from the widest point and the highest point from above the ground.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "local knowledge",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q106674310",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons",
       "language": "undefined",
       "value": "Category:Tullaherin Ogham stone I",
       "type": "label"
@@ -14029,8 +14029,8 @@ var vowlresult={
   },
   {
    "id": 312,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8494707479",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8520931982",
    "annotations": {
@@ -14054,7 +14054,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14062,7 +14062,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8520931982_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8520931982_geom",
       "type": "iri"
      }
     ],
@@ -14074,41 +14074,41 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "customers",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "Find location was near Shankill, Co. Kilkenny in 1970. Authenticity is doubted. Location varies, periodically moved within the museum.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "museum's label",
       "type": "label"
@@ -14122,8 +14122,8 @@ var vowlresult={
   },
   {
    "id": 313,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8520931982",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "OSM node 8520962885",
    "annotations": {
@@ -14147,7 +14147,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14155,7 +14155,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8520962885_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8520962885_geom",
       "type": "iri"
      }
     ],
@@ -14167,49 +14167,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access",
       "language": "undefined",
       "value": "customers",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description",
       "language": "undefined",
       "value": "Original location was Cloghabrody north of Thomastown.",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "local knowledge",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref",
       "language": "undefined",
       "value": "https://ogham.celt.dias.ie/stone.php?lang=en&site=Jerpoint_Abbey&stone=Cloghabrody",
       "type": "iri"
@@ -14223,8 +14223,8 @@ var vowlresult={
   },
   {
    "id": 314,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8520962885",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Ardcanaght Ogham Stone",
    "annotations": {
@@ -14248,7 +14248,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14256,7 +14256,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/8584276628_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/8584276628_geom",
       "type": "iri"
      }
     ],
@@ -14276,49 +14276,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Ardcanaght Ogham Stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "https://ogham.celt.dias.ie/stone.php?lang=en&site=Ardcanaght&stone=246a._Ardcanaght_I",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q38251860",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Ardcanaght Stones",
       "type": "label"
@@ -14332,8 +14332,8 @@ var vowlresult={
   },
   {
    "id": 315,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_8584276628",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 187",
    "annotations": {
@@ -14357,7 +14357,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14365,7 +14365,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/9110402648_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/9110402648_geom",
       "type": "iri"
      }
     ],
@@ -14385,49 +14385,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
       "language": "undefined",
       "value": "https://www.flickr.com/photos/196367420@N05/52324823400/in/album-72177720301745883/",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 187",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "https://holywellscorkandkerry.com/2019/08/21/two-wells-a-whole-lot-more-at-cill-mhaoilcheadair/;survey",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70892706",
       "type": "label"
@@ -14441,8 +14441,8 @@ var vowlresult={
   },
   {
    "id": 316,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_9110402648",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "CIIC 114/ UCC 26",
    "annotations": {
@@ -14466,7 +14466,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14474,7 +14474,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/9990835587_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/9990835587_geom",
       "type": "iri"
      }
     ],
@@ -14494,49 +14494,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image",
       "language": "undefined",
       "value": "https://flic.kr/p/2omvCu6",
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "CIIC 114/ UCC 26",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source",
       "language": "undefined",
       "value": "survey",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q70885736",
       "type": "label"
@@ -14550,8 +14550,8 @@ var vowlresult={
   },
   {
    "id": 317,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/node_9990835587",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": "Drumlohan Souterrain and Ogham Stones",
    "annotations": {
@@ -14575,7 +14575,7 @@ var vowlresult={
      {
       "identifier": "http://purl.org/dc/terms/isPartOf",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
       "type": "iri"
      }
     ],
@@ -14583,7 +14583,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
       "language": "undefined",
-      "value": "https://research-squirrel-engineers.github.io/osm2lod/1209135262_geom",
+      "value": "http://research-squirrel-engineers.github.io/osm2lod/1209135262_geom",
       "type": "iri"
      }
     ],
@@ -14603,49 +14603,49 @@ var vowlresult={
       "type": "iri"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/exportType": [
+    "http://research-squirrel-engineers.github.io/osm2lod/exportType": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/exportType",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/exportType",
       "language": "undefined",
       "value": "ogham",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site",
       "language": "undefined",
       "value": "souterrain",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic",
       "language": "undefined",
       "value": "ogham_stone",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name",
       "language": "undefined",
       "value": "Drumlohan Souterrain and Ogham Stones",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata",
       "language": "undefined",
       "value": "Q1261275",
       "type": "label"
      }
     ],
-    "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
+    "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": [
      {
-      "identifier": "https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
+      "identifier": "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia",
       "language": "undefined",
       "value": "Drumlohan Souterrain and Ogham Stones",
       "type": "label"
@@ -14659,8 +14659,8 @@ var vowlresult={
   },
   {
    "id": 318,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/way_1209135262",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "way_1209135262"
@@ -14682,8 +14682,8 @@ var vowlresult={
   },
   {
    "id": 319,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10040750611_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10040750611_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10040750611_geom"
@@ -14705,8 +14705,8 @@ var vowlresult={
   },
   {
    "id": 320,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10040757680_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10040757680_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10040757680_geom"
@@ -14728,8 +14728,8 @@ var vowlresult={
   },
   {
    "id": 321,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10041491619_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10041491619_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10041491619_geom"
@@ -14751,8 +14751,8 @@ var vowlresult={
   },
   {
    "id": 322,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10041927343_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10041927343_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10041927343_geom"
@@ -14774,8 +14774,8 @@ var vowlresult={
   },
   {
    "id": 323,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10560404607_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10560404607_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10560404607_geom"
@@ -14797,8 +14797,8 @@ var vowlresult={
   },
   {
    "id": 324,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10563395863_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10563395863_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10563395863_geom"
@@ -14820,8 +14820,8 @@ var vowlresult={
   },
   {
    "id": 325,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10594924965_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10594924965_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10594924965_geom"
@@ -14843,8 +14843,8 @@ var vowlresult={
   },
   {
    "id": 326,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10594973066_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10594973066_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10594973066_geom"
@@ -14866,8 +14866,8 @@ var vowlresult={
   },
   {
    "id": 327,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10601966811_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10601966811_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10601966811_geom"
@@ -14889,8 +14889,8 @@ var vowlresult={
   },
   {
    "id": 328,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10601966825_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10601966825_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10601966825_geom"
@@ -14912,8 +14912,8 @@ var vowlresult={
   },
   {
    "id": 329,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10633917137_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10633917137_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10633917137_geom"
@@ -14935,8 +14935,8 @@ var vowlresult={
   },
   {
    "id": 330,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10633917138_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10633917138_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10633917138_geom"
@@ -14958,8 +14958,8 @@ var vowlresult={
   },
   {
    "id": 331,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10639514250_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10639514250_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10639514250_geom"
@@ -14981,8 +14981,8 @@ var vowlresult={
   },
   {
    "id": 332,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10652133873_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10652133873_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10652133873_geom"
@@ -15004,8 +15004,8 @@ var vowlresult={
   },
   {
    "id": 333,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10652214543_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10652214543_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10652214543_geom"
@@ -15027,8 +15027,8 @@ var vowlresult={
   },
   {
    "id": 334,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10656139839_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10656139839_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10656139839_geom"
@@ -15050,8 +15050,8 @@ var vowlresult={
   },
   {
    "id": 335,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/10709752679_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/10709752679_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "10709752679_geom"
@@ -15073,8 +15073,8 @@ var vowlresult={
   },
   {
    "id": 336,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11071324384_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11071324384_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11071324384_geom"
@@ -15096,8 +15096,8 @@ var vowlresult={
   },
   {
    "id": 337,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11071361392_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11071361392_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11071361392_geom"
@@ -15119,8 +15119,8 @@ var vowlresult={
   },
   {
    "id": 338,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11253027975_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11253027975_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11253027975_geom"
@@ -15142,8 +15142,8 @@ var vowlresult={
   },
   {
    "id": 339,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269073312_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269073312_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269073312_geom"
@@ -15165,8 +15165,8 @@ var vowlresult={
   },
   {
    "id": 340,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269073313_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269073313_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269073313_geom"
@@ -15188,8 +15188,8 @@ var vowlresult={
   },
   {
    "id": 341,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269073314_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269073314_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269073314_geom"
@@ -15211,8 +15211,8 @@ var vowlresult={
   },
   {
    "id": 342,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269073315_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269073315_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269073315_geom"
@@ -15234,8 +15234,8 @@ var vowlresult={
   },
   {
    "id": 343,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269073316_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269073316_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269073316_geom"
@@ -15257,8 +15257,8 @@ var vowlresult={
   },
   {
    "id": 344,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119003_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119003_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119003_geom"
@@ -15280,8 +15280,8 @@ var vowlresult={
   },
   {
    "id": 345,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119004_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119004_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119004_geom"
@@ -15303,8 +15303,8 @@ var vowlresult={
   },
   {
    "id": 346,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119005_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119005_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119005_geom"
@@ -15326,8 +15326,8 @@ var vowlresult={
   },
   {
    "id": 347,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119006_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119006_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119006_geom"
@@ -15349,8 +15349,8 @@ var vowlresult={
   },
   {
    "id": 348,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119007_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119007_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119007_geom"
@@ -15372,8 +15372,8 @@ var vowlresult={
   },
   {
    "id": 349,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119008_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119008_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119008_geom"
@@ -15395,8 +15395,8 @@ var vowlresult={
   },
   {
    "id": 350,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119009_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119009_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119009_geom"
@@ -15418,8 +15418,8 @@ var vowlresult={
   },
   {
    "id": 351,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119010_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119010_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119010_geom"
@@ -15441,8 +15441,8 @@ var vowlresult={
   },
   {
    "id": 352,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269119011_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269119011_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269119011_geom"
@@ -15464,8 +15464,8 @@ var vowlresult={
   },
   {
    "id": 353,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269165789_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269165789_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269165789_geom"
@@ -15487,8 +15487,8 @@ var vowlresult={
   },
   {
    "id": 354,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11269165790_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11269165790_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11269165790_geom"
@@ -15510,8 +15510,8 @@ var vowlresult={
   },
   {
    "id": 355,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11558269687_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11558269687_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11558269687_geom"
@@ -15533,8 +15533,8 @@ var vowlresult={
   },
   {
    "id": 356,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11574593297_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11574593297_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11574593297_geom"
@@ -15556,8 +15556,8 @@ var vowlresult={
   },
   {
    "id": 357,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11575064111_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11575064111_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11575064111_geom"
@@ -15579,8 +15579,8 @@ var vowlresult={
   },
   {
    "id": 358,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11677109638_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11677109638_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11677109638_geom"
@@ -15602,8 +15602,8 @@ var vowlresult={
   },
   {
    "id": 359,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11677113764_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11677113764_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11677113764_geom"
@@ -15625,8 +15625,8 @@ var vowlresult={
   },
   {
    "id": 360,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11952692355_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11952692355_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11952692355_geom"
@@ -15648,8 +15648,8 @@ var vowlresult={
   },
   {
    "id": 361,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955662684_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955662684_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955662684_geom"
@@ -15671,8 +15671,8 @@ var vowlresult={
   },
   {
    "id": 362,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955662685_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955662685_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955662685_geom"
@@ -15694,8 +15694,8 @@ var vowlresult={
   },
   {
    "id": 363,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670771_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670771_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670771_geom"
@@ -15717,8 +15717,8 @@ var vowlresult={
   },
   {
    "id": 364,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670773_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670773_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670773_geom"
@@ -15740,8 +15740,8 @@ var vowlresult={
   },
   {
    "id": 365,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670774_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670774_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670774_geom"
@@ -15763,8 +15763,8 @@ var vowlresult={
   },
   {
    "id": 366,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670775_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670775_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670775_geom"
@@ -15786,8 +15786,8 @@ var vowlresult={
   },
   {
    "id": 367,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670776_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670776_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670776_geom"
@@ -15809,8 +15809,8 @@ var vowlresult={
   },
   {
    "id": 368,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670777_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670777_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670777_geom"
@@ -15832,8 +15832,8 @@ var vowlresult={
   },
   {
    "id": 369,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670778_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670778_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670778_geom"
@@ -15855,8 +15855,8 @@ var vowlresult={
   },
   {
    "id": 370,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670779_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670779_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670779_geom"
@@ -15878,8 +15878,8 @@ var vowlresult={
   },
   {
    "id": 371,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670780_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670780_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670780_geom"
@@ -15901,8 +15901,8 @@ var vowlresult={
   },
   {
    "id": 372,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670781_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670781_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670781_geom"
@@ -15924,8 +15924,8 @@ var vowlresult={
   },
   {
    "id": 373,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670784_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670784_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670784_geom"
@@ -15947,8 +15947,8 @@ var vowlresult={
   },
   {
    "id": 374,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670785_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670785_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670785_geom"
@@ -15970,8 +15970,8 @@ var vowlresult={
   },
   {
    "id": 375,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670786_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670786_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670786_geom"
@@ -15993,8 +15993,8 @@ var vowlresult={
   },
   {
    "id": 376,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670788_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670788_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670788_geom"
@@ -16016,8 +16016,8 @@ var vowlresult={
   },
   {
    "id": 377,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670789_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670789_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670789_geom"
@@ -16039,8 +16039,8 @@ var vowlresult={
   },
   {
    "id": 378,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670790_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670790_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670790_geom"
@@ -16062,8 +16062,8 @@ var vowlresult={
   },
   {
    "id": 379,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670791_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670791_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670791_geom"
@@ -16085,8 +16085,8 @@ var vowlresult={
   },
   {
    "id": 380,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670792_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670792_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670792_geom"
@@ -16108,8 +16108,8 @@ var vowlresult={
   },
   {
    "id": 381,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670793_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670793_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670793_geom"
@@ -16131,8 +16131,8 @@ var vowlresult={
   },
   {
    "id": 382,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670794_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670794_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670794_geom"
@@ -16154,8 +16154,8 @@ var vowlresult={
   },
   {
    "id": 383,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670796_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670796_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670796_geom"
@@ -16177,8 +16177,8 @@ var vowlresult={
   },
   {
    "id": 384,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670797_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670797_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670797_geom"
@@ -16200,8 +16200,8 @@ var vowlresult={
   },
   {
    "id": 385,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11955670798_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11955670798_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11955670798_geom"
@@ -16223,8 +16223,8 @@ var vowlresult={
   },
   {
    "id": 386,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11966423819_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11966423819_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11966423819_geom"
@@ -16246,8 +16246,8 @@ var vowlresult={
   },
   {
    "id": 387,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11966430251_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11966430251_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11966430251_geom"
@@ -16269,8 +16269,8 @@ var vowlresult={
   },
   {
    "id": 388,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/11966441102_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/11966441102_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "11966441102_geom"
@@ -16292,8 +16292,8 @@ var vowlresult={
   },
   {
    "id": 389,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/1209135262_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/1209135262_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "1209135262_geom"
@@ -16315,8 +16315,8 @@ var vowlresult={
   },
   {
    "id": 390,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/12276963607_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/12276963607_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "12276963607_geom"
@@ -16338,8 +16338,8 @@ var vowlresult={
   },
   {
    "id": 391,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/12276982960_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/12276982960_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "12276982960_geom"
@@ -16361,8 +16361,8 @@ var vowlresult={
   },
   {
    "id": 392,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/12661114455_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/12661114455_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "12661114455_geom"
@@ -16384,8 +16384,8 @@ var vowlresult={
   },
   {
    "id": 393,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/1275923177_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/1275923177_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "1275923177_geom"
@@ -16407,8 +16407,8 @@ var vowlresult={
   },
   {
    "id": 394,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/2428911148_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/2428911148_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "2428911148_geom"
@@ -16430,8 +16430,8 @@ var vowlresult={
   },
   {
    "id": 395,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/3220290865_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/3220290865_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "3220290865_geom"
@@ -16453,8 +16453,8 @@ var vowlresult={
   },
   {
    "id": 396,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/3621783646_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/3621783646_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "3621783646_geom"
@@ -16476,8 +16476,8 @@ var vowlresult={
   },
   {
    "id": 397,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/3663314804_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/3663314804_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "3663314804_geom"
@@ -16499,8 +16499,8 @@ var vowlresult={
   },
   {
    "id": 398,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/4395991496_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/4395991496_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "4395991496_geom"
@@ -16522,8 +16522,8 @@ var vowlresult={
   },
   {
    "id": 399,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/452289802_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/452289802_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "452289802_geom"
@@ -16545,8 +16545,8 @@ var vowlresult={
   },
   {
    "id": 400,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/473149586_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/473149586_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "473149586_geom"
@@ -16568,8 +16568,8 @@ var vowlresult={
   },
   {
    "id": 401,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/5111098877_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/5111098877_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "5111098877_geom"
@@ -16591,8 +16591,8 @@ var vowlresult={
   },
   {
    "id": 402,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/5111098878_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/5111098878_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "5111098878_geom"
@@ -16614,8 +16614,8 @@ var vowlresult={
   },
   {
    "id": 403,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/5145413640_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/5145413640_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "5145413640_geom"
@@ -16637,8 +16637,8 @@ var vowlresult={
   },
   {
    "id": 404,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/5965037771_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/5965037771_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "5965037771_geom"
@@ -16660,8 +16660,8 @@ var vowlresult={
   },
   {
    "id": 405,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/600221596_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/600221596_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "600221596_geom"
@@ -16683,8 +16683,8 @@ var vowlresult={
   },
   {
    "id": 406,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/6810674728_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/6810674728_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "6810674728_geom"
@@ -16706,8 +16706,8 @@ var vowlresult={
   },
   {
    "id": 407,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/7082266109_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/7082266109_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "7082266109_geom"
@@ -16729,8 +16729,8 @@ var vowlresult={
   },
   {
    "id": 408,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/7082293699_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/7082293699_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "7082293699_geom"
@@ -16752,8 +16752,8 @@ var vowlresult={
   },
   {
    "id": 409,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/7110849500_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/7110849500_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "7110849500_geom"
@@ -16775,8 +16775,8 @@ var vowlresult={
   },
   {
    "id": 410,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/7110849501_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/7110849501_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "7110849501_geom"
@@ -16798,8 +16798,8 @@ var vowlresult={
   },
   {
    "id": 411,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/7203972860_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/7203972860_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "7203972860_geom"
@@ -16821,8 +16821,8 @@ var vowlresult={
   },
   {
    "id": 412,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/7925063785_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/7925063785_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "7925063785_geom"
@@ -16844,8 +16844,8 @@ var vowlresult={
   },
   {
    "id": 413,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8308921075_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8308921075_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8308921075_geom"
@@ -16867,8 +16867,8 @@ var vowlresult={
   },
   {
    "id": 414,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8355471227_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8355471227_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8355471227_geom"
@@ -16890,8 +16890,8 @@ var vowlresult={
   },
   {
    "id": 415,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8355471228_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8355471228_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8355471228_geom"
@@ -16913,8 +16913,8 @@ var vowlresult={
   },
   {
    "id": 416,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8355471229_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8355471229_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8355471229_geom"
@@ -16936,8 +16936,8 @@ var vowlresult={
   },
   {
    "id": 417,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8355471230_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8355471230_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8355471230_geom"
@@ -16959,8 +16959,8 @@ var vowlresult={
   },
   {
    "id": 418,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8355471231_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8355471231_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8355471231_geom"
@@ -16982,8 +16982,8 @@ var vowlresult={
   },
   {
    "id": 419,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8494707479_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8494707479_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8494707479_geom"
@@ -17005,8 +17005,8 @@ var vowlresult={
   },
   {
    "id": 420,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8520931982_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8520931982_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8520931982_geom"
@@ -17028,8 +17028,8 @@ var vowlresult={
   },
   {
    "id": 421,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8520962885_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8520962885_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8520962885_geom"
@@ -17051,8 +17051,8 @@ var vowlresult={
   },
   {
    "id": 422,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/8584276628_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/8584276628_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "8584276628_geom"
@@ -17074,8 +17074,8 @@ var vowlresult={
   },
   {
    "id": 423,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/9110402648_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/9110402648_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "9110402648_geom"
@@ -17097,8 +17097,8 @@ var vowlresult={
   },
   {
    "id": 424,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/9990835587_geom",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/9990835587_geom",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "9990835587_geom"
@@ -17160,8 +17160,8 @@ var vowlresult={
   },
   {
    "id": 425,
-   "iri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
-   "baseIRI": "https://research-squirrel-engineers.github.io/osm2lod",
+   "iri": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_115859Z",
+   "baseIRI": "http://research-squirrel-engineers.github.io/osm2lod",
    "instances": 0,
    "label": {
     "IRI-based": "ogham__2025-12-19_115859Z"

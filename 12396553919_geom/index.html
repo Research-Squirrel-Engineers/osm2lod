@@ -1,11 +1,11 @@
-<html about="https://research-squirrel-engineers.github.io/osm2lod/12396553919_geom">
+<html about="http://research-squirrel-engineers.github.io/osm2lod/12396553919_geom">
   <head>
     <script>
       if (window.location.href.includes("index.html")) {
-        document.write("<title>12396553919_geom | osm2rdf</title>");
+        document.write("<title>12396553919_geom | osm2lod</title>");
       } else {
         document.write(
-          "<title>Index Page for osm2rdf by the Research Squirrel Engineers Network</title>"
+          "<title>Index Page for osm2lod by the Research Squirrel Engineers Network</title>"
         );
       }
     </script>
@@ -62,14 +62,14 @@
   <script>
     var indexpage=false;
     var relativedepth=1;
-    var baseurl="https://research-squirrel-engineers.github.io/osm2lod/";
+    var baseurl="http://research-squirrel-engineers.github.io/osm2lod/";
     var iconprefixx="";
   </script>
 
   <body>
     <div id="headertop">
       <span class="header_pt1">
-        <b>Squirrel Data</b>&nbsp;|&nbsp;osm2rdf&nbsp;|&nbsp;
+        <b>Squirrel Data</b>&nbsp;|&nbsp;osm2lod&nbsp;|&nbsp;
         <i>powered by the Research Squirrel Engineers Network</i>
       </span>
       <span class="header_pt2">
@@ -88,11 +88,11 @@
           );
         } else {
           document.write(
-            '<h1 id="title">Index Page for osm2rdf by the Research Squirrels</h1>'
+            '<h1 id="title">Index Page for osm2lod by the Research Squirrels</h1>'
           );
         }
         if (window.location.href.includes("index.html")) {
-          document.write('<br><span id="titletwo">https://research-squirrel-engineers.github.io/osm2lod/12396553919_geom</span>');
+          document.write('<br><span id="titletwo">http://research-squirrel-engineers.github.io/osm2lod/12396553919_geom</span>');
         } else {
           console.log(window.location.href);
         }
@@ -185,7 +185,7 @@
 var rangesByAttribute={}
 var overlayMaps={}
 var baselayers={"OpenStreetMap (OSM)": {"url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", "default": true, "type": "tile"}}
-var featurecolls = [{"type": "Feature", "id": "https://research-squirrel-engineers.github.io/osm2lod/12396553919_geom", "name": "", "dateprops": [], "properties": {"http://rdfs.org/ns/void#inDataset": ["https://research-squirrel-engineers.github.io/osm2lod/osm2rdf"], "http://www.opengis.net/ont/geosparql#asWKT": ["<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-6.5127888 52.57788)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"]}, "geometry": {"type": "Point", "coordinates": [-6.5127888, 52.57788], "crs": "4326"}, "crs": "EPSG:4326"}]
+var featurecolls = [{"type": "Feature", "id": "http://research-squirrel-engineers.github.io/osm2lod/12396553919_geom", "name": "", "dateprops": [], "properties": {"http://rdfs.org/ns/void#inDataset": ["http://research-squirrel-engineers.github.io/osm2lod/osm2lod"], "http://www.opengis.net/ont/geosparql#asWKT": ["<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-6.5127888 52.57788)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"]}, "geometry": {"type": "Point", "coordinates": [-6.5127888, 52.57788], "crs": "4326"}, "crs": "EPSG:4326"}]
 var ajax=false
 var epsg="EPSG:4326"
 var dateatt=""
@@ -194,7 +194,7 @@ var baseMaps = {};
 props={}
 setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map,featurecolls,dateatt,ajax)
 </script>
-<div style="overflow-x:auto;"><table border=1 width=100% class=description><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.opengis.net/ont/geosparql#asWKT">asWKT <span style="color: #666;">(gsp:asWKT)</span></a> </span></td><td class="wrapword"><span itemprop="http://www.opengis.net/ont/geosparql#asWKT" property="http://www.opengis.net/ont/geosparql#asWKT" content="&lthttp://www.opengis.net/def/crs/EPSG/0/4326&gt; POINT(-6.5127888 52.57788)" datatype="http://www.opengis.net/ont/geosparql#wktLiteral">&lthttp://www.opengis.net/def/crs/EPSG/0/4326&gt; POINT(-6.5127888 52.57788) <small>(<a style="color: #666;" target="_blank" href="http://www.opengis.net/ont/geosparql#wktLiteral">gsp:wktLiteral</a>)</small></span></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">type <span style="color: #666;">(rdf:type)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" property="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" resource="http://www.opengis.net/ont/sf#Point" target="_blank" href="http://www.opengis.net/ont/sf#Point">Point <span style="color: #666;">(sf:Point)</span></a> <a href="../nonns_Point.html">[x]</a></span></td></tr><tr class="odd"><td class="property">Is <span class="property-name"><a class="uri" target="_blank" href="http://www.opengis.net/ont/geosparql#hasGeometry">hasGeometry <span style="color: #666;">(gsp:hasGeometry)</span></a> </span> of</td><td class="wrapword"><span><a itemprop="http://www.opengis.net/ont/geosparql#hasGeometry" itemref="https://research-squirrel-engineers.github.io/osm2lod/node_12396553919" property="http://www.opengis.net/ont/geosparql#hasGeometry"  about="https://research-squirrel-engineers.github.io/osm2lod/node_12396553919" resource="https://research-squirrel-engineers.github.io/osm2lod/12396553919_geom" href="../node_12396553919/index.html">Lady's Well <span style="color: #666;">(osm2lod:node_12396553919)</span></a></span></td></tr><tr class="even"><td class="property">Is <span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/2000/01/rdf-schema#member">member <span style="color: #666;">(rdfs:member)</span></a> </span> of</td><td class="wrapword"><span><a itemprop="http://www.w3.org/2000/01/rdf-schema#member" itemref="https://research-squirrel-engineers.github.io/osm2lod/Point_collection" property="http://www.w3.org/2000/01/rdf-schema#member"  about="https://research-squirrel-engineers.github.io/osm2lod/Point_collection" resource="https://research-squirrel-engineers.github.io/osm2lod/12396553919_geom" href="../Point_collection/index.html">Point Instances Collection <span style="color: #666;">(osm2lod:Point_collection)</span></a></span></td></tr></tbody></table></div><h5>Metadata</h5><div style="overflow-x:auto;"><table border=1 width=100% class=description><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://rdfs.org/ns/void#inDataset">inDataset <span style="color: #666;">(void:inDataset)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://rdfs.org/ns/void#inDataset" property="http://rdfs.org/ns/void#inDataset" resource="https://research-squirrel-engineers.github.io/osm2lod/osm2rdf" href="../osm2rdf/index.html">osm2rdf <span style="color: #666;">(osm2lod:osm2rdf)</span></a> <span style="font-weight:bold">[1430 <a href="http://www.opengis.net/ont/geosparql#GeometryCollection" target="_blank">gsp:GeometryCollection</a>]</span></span></td></tr></tbody></table></div><div id="footer">
+<div style="overflow-x:auto;"><table border=1 width=100% class=description><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.opengis.net/ont/geosparql#asWKT">asWKT <span style="color: #666;">(gsp:asWKT)</span></a> </span></td><td class="wrapword"><span itemprop="http://www.opengis.net/ont/geosparql#asWKT" property="http://www.opengis.net/ont/geosparql#asWKT" content="&lthttp://www.opengis.net/def/crs/EPSG/0/4326&gt; POINT(-6.5127888 52.57788)" datatype="http://www.opengis.net/ont/geosparql#wktLiteral">&lthttp://www.opengis.net/def/crs/EPSG/0/4326&gt; POINT(-6.5127888 52.57788) <small>(<a style="color: #666;" target="_blank" href="http://www.opengis.net/ont/geosparql#wktLiteral">gsp:wktLiteral</a>)</small></span></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">type <span style="color: #666;">(rdf:type)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" property="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" resource="http://www.opengis.net/ont/sf#Point" target="_blank" href="http://www.opengis.net/ont/sf#Point">Point <span style="color: #666;">(sf:Point)</span></a> <a href="../nonns_Point.html">[x]</a></span></td></tr><tr class="odd"><td class="property">Is <span class="property-name"><a class="uri" target="_blank" href="http://www.opengis.net/ont/geosparql#hasGeometry">hasGeometry <span style="color: #666;">(gsp:hasGeometry)</span></a> </span> of</td><td class="wrapword"><span><a itemprop="http://www.opengis.net/ont/geosparql#hasGeometry" itemref="http://research-squirrel-engineers.github.io/osm2lod/node_12396553919" property="http://www.opengis.net/ont/geosparql#hasGeometry"  about="http://research-squirrel-engineers.github.io/osm2lod/node_12396553919" resource="http://research-squirrel-engineers.github.io/osm2lod/12396553919_geom" href="../node_12396553919/index.html">Lady's Well <span style="color: #666;">(osm2lod:node_12396553919)</span></a></span></td></tr><tr class="even"><td class="property">Is <span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/2000/01/rdf-schema#member">member <span style="color: #666;">(rdfs:member)</span></a> </span> of</td><td class="wrapword"><span><a itemprop="http://www.w3.org/2000/01/rdf-schema#member" itemref="http://research-squirrel-engineers.github.io/osm2lod/Point_collection" property="http://www.w3.org/2000/01/rdf-schema#member"  about="http://research-squirrel-engineers.github.io/osm2lod/Point_collection" resource="http://research-squirrel-engineers.github.io/osm2lod/12396553919_geom" href="../Point_collection/index.html">Point Instances Collection <span style="color: #666;">(osm2lod:Point_collection)</span></a></span></td></tr></tbody></table></div><h5>Metadata</h5><div style="overflow-x:auto;"><table border=1 width=100% class=description><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://rdfs.org/ns/void#inDataset">inDataset <span style="color: #666;">(void:inDataset)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://rdfs.org/ns/void#inDataset" property="http://rdfs.org/ns/void#inDataset" resource="http://research-squirrel-engineers.github.io/osm2lod/osm2lod" href="../osm2lod/index.html">osm2lod <span style="color: #666;">(osm2lod:osm2lod)</span></a> <span style="font-weight:bold">[24 <a href="http://www.opengis.net/ont/geosparql#GeometryCollection" target="_blank">gsp:GeometryCollection</a>]</span></span></td></tr></tbody></table></div><div id="footer">
     <center style="padding-top:30px;font-size:11px;"><b>published under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> by Research Squirrel Engineers Network (2024)</b><br><a href="https://fthiery.de/legal-notice/">Impressum / Legal Notice</a>
         | <a href="https://fthiery.de/legal-notice/">Datenschutz / Privacy Policy</a></center>
 </div>

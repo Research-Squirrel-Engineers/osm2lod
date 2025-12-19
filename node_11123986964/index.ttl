@@ -1,0 +1,30 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:node_11123986964 a ns1:OSMEntity,
+        <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "St. Finan's Well"@en ;
+    dcterms:created "2025-12-19T11:59:06.775889+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/11123986964" ;
+    dcterms:isPartOf ns1:holywells__2025-12-19_115906Z ;
+    void:inDataset ns1:osm2lod ;
+    ns1:exportType "holywells" ;
+    ns1:osmtag__name "St. Finan's Well" ;
+    ns1:osmtag__natural "spring" ;
+    ns1:osmtag__place_of_worship "holy_well" ;
+    ns1:osmtag__wikidata "Q126454405" ;
+    ns1:osmtag__wikimedia_commons "Category:Saint Finan's Well, Tinnalintan" ;
+    geo:hasGeometry ns1:11123986964_geom ;
+    owl:sameAs <http://wikidata.org/entity/Q126454405> ;
+    foaf:primaryTopic <http://openstreetmap.org/node/11123986964> .
+

@@ -2,25 +2,22 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix ns1: <http://research-squirrel-engineers.github.io/osm2lod/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns1:node_6545523566 a <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
+ns1:node_6545523566 a ns1:OSMEntity,
+        <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
-        ns1:OSMEntity,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "St Michael's Well"@en ;
     dcterms:created "2025-12-19T11:59:06.775889+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6545523566" ;
     dcterms:isPartOf ns1:holywells__2025-12-19_115906Z ;
-    void:inDataset ns1:osm2rdf ;
-    geo:hasGeometry ns1:6545523566_geom ;
-    owl:sameAs <http://wikidata.org/entity/Q126454692> ;
-    foaf:primaryTopic <http://openstreetmap.org/node/6545523566> ;
+    void:inDataset ns1:osm2lod ;
     ns1:exportType "holywells" ;
     ns1:osmtag__alt_name "Lady's Well" ;
     ns1:osmtag__denomination "roman_catholic" ;
@@ -29,5 +26,8 @@ ns1:node_6545523566 a <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
     ns1:osmtag__note "Lady's Well was apparently a mistake by the surveyors" ;
     ns1:osmtag__place_of_worship "holy_well" ;
     ns1:osmtag__religion "christian" ;
-    ns1:osmtag__wikidata "Q126454692" .
+    ns1:osmtag__wikidata "Q126454692" ;
+    geo:hasGeometry ns1:6545523566_geom ;
+    owl:sameAs <http://wikidata.org/entity/Q126454692> ;
+    foaf:primaryTopic <http://openstreetmap.org/node/6545523566> .
 

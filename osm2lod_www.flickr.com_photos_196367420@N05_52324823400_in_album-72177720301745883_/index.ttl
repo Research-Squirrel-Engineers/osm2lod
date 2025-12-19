@@ -1,0 +1,13 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.flickr.com_photos_196367420@N05_52324823400_in_album-72177720301745883_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: osm2lod - album-72177720301745883"@en ;
+    void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://www.flickr.com/photos/196367420@N05/52324823400/in/album-72177720301745883/> ;
+    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    void:triples 1 .
+
