@@ -1,0 +1,21 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openstreetmap.org/osm2rdf_research-squirrel-engineers.github.io_osm2lod_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: osm2rdf - osm2lod:"@en ;
+    void:linkPredicate dcterms:isPartOf,
+        geo:hasGeometry,
+        rdf:type ;
+    void:objectsTarget <https://research-squirrel-engineers.github.io/osm2lod/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 5,
+        9,
+        106,
+        712 .
+

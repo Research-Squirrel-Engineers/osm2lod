@@ -31,169 +31,226 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://github.com/Research-Squirrel-Engineers/osm2lod> a adms:AssetRepository ;
-    rdfs:label "Repository for osm2rdf"@en ;
-    dcat:accessURL "https://github.com/Research-Squirrel-Engineers/osm2lod"^^xsd:anyURI ;
-    dcat:dataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
-
-<https://research-squirrel-engineers.github.io/osm2lod/adms_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/adms_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/brick_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/brick_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/csvw_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/csvw_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/dc_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/dc_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/dcam_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/dcam_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/dcat_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/dcat_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    voaf:occurrences 4 .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> ;
+    voaf:occurrences 212 .
 
-<https://research-squirrel-engineers.github.io/osm2lod/dcmitype_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/dcmitype_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/dcterms_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/dcterms_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/doap_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/doap_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/foaf_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/foaf_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/geo_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/geo_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    voaf:occurrences 2 .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> ;
+    voaf:occurrences 6 .
 
-<https://research-squirrel-engineers.github.io/osm2lod/odrl_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/odrl_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/org_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/org_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_www.opengis.net_ont_geosparql_> a void:Linkset ;
+<http://openstreetmap.org/osm2rdf_flic.kr_p_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - p"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://flic.kr/p/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_megalithicireland.com_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - megalithicireland.com"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:objectsTarget <http://megalithicireland.com/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 2 .
+
+<http://openstreetmap.org/osm2rdf_ogham.celt.dias.ie_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - ogham.celt.dias.ie"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:objectsTarget <https://ogham.celt.dias.ie/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 3 .
+
+<http://openstreetmap.org/osm2rdf_ogham.celt.dias.ie_resources_sites_Dromore_266._Dromore_I_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - 266._Dromore_I"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_research-squirrel-engineers.github.io_osm2lod_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - osm2lod:"@en ;
+    void:linkPredicate dcterms:isPartOf,
+        geo:hasGeometry,
+        rdf:type ;
+    void:objectsTarget <https://research-squirrel-engineers.github.io/osm2lod/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_wikidata.org_entity_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - wd:"@en ;
+    void:linkPredicate owl:sameAs ;
+    void:objectsTarget <http://wikidata.org/entity/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 58 .
+
+<http://openstreetmap.org/osm2rdf_www.cidoc-crm.org_cidoc-crm_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - CIDOC CRM Ontology (crm:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.cidoc-crm.org/cidoc-crm/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_www.flickr.com_photos_196367420@N05_52324823400_in_album-72177720301745883_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - album-72177720301745883"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://www.flickr.com/photos/196367420@N05/52324823400/in/album-72177720301745883/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_www.megalithicireland.com_Ogham%20stones_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - Ogham%20stones"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <http://www.megalithicireland.com/Ogham%20stones/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_www.megalithicmonumentsofireland.com_COUNTIES_KERRY_> a void:Linkset ;
+    rdfs:label "Linkset: osm2rdf - KERRY"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
+    void:objectsTarget <https://www.megalithicmonumentsofireland.com/COUNTIES/KERRY/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_www.opengis.net_ont_geosparql_> a void:Linkset ;
     rdfs:label "Linkset: osm2rdf - The GeoSPARQL Ontology (gsp:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget geo: ;
-    void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    void:triples 1 .
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 3 .
 
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_www.opengis.net_ont_sf_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - Simple Features Vocabulary (sf:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget <http://www.opengis.net/ont/sf#> ;
-    void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_www.w3.org_2004_02_skos_core_> a void:Linkset ;
-    rdfs:label "Linkset: osm2rdf - skos:"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget skos: ;
-    void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_www.w3.org_ns_dcat_> a void:Linkset ;
+<http://openstreetmap.org/osm2rdf_www.w3.org_ns_dcat_> a void:Linkset ;
     rdfs:label "Linkset: osm2rdf - DCAT Vocabulary (dcat:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget dcat: ;
-    void:subjectsTarget <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    void:triples 2 .
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 106 .
 
-<https://research-squirrel-engineers.github.io/osm2lod/owl_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/owl_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/prof_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/prof_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/prov_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/prov_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/qb_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/qb_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/rdf_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/rdf_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/rdfs_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/rdfs_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/schema_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/schema_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary https://schema.org/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/sh_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/sh_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/skos_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/skos_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> ;
-    voaf:occurrences 2 .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/sosa_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/sosa_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/ssn_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/ssn_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/time_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/time_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/vann_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/vann_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/vext_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/vext_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/voaf_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/voaf_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/void_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/void_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/wgs_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/wgs_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/xml_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/xml_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/xsd_osm2rdf_occ> a voaf:DatasetOccurrence ;
+<http://openstreetmap.org/xsd_osm2rdf_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in osm2rdf" ;
-    voaf:inDataset <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> .
+    voaf:inDataset <http://openstreetmap.org/osm2rdf> .
+
+<https://github.com/Research-Squirrel-Engineers/osm2lod> a adms:AssetRepository ;
+    rdfs:label "Repository for osm2rdf"@en ;
+    dcat:accessURL "https://github.com/Research-Squirrel-Engineers/osm2lod"^^xsd:anyURI ;
+    dcat:dataset <http://openstreetmap.org/osm2rdf> .
 
 <http://dbpedia.org/resource/Location> rdfs:label "Location"@en .
 
@@ -206,6 +263,202 @@ vext: a voaf:Vocabulary ;
     vann:preferredNamespacePrefix "vext"^^xsd:string ;
     vann:preferredNamespaceUri "http://ldf.fi/void-ext#"^^xsd:anyURI ;
     voaf:usageInDataset vext:_osm2rdf_occ .
+
+<http://openstreetmap.org/osm2rdf_Dataset> a void:Dataset ;
+    rdfs:label "Class Partition: Dataset"@en ;
+    void:class dcat:Dataset,
+        <https://research-squirrel-engineers.github.io/osm2lod/Dataset> ;
+    void:entities 106 .
+
+<http://openstreetmap.org/osm2rdf_E22_Human_Made_Object> a void:Dataset ;
+    rdfs:label "Class Partition: E22_Human_Made_Object"@en ;
+    void:class <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> ;
+    void:entities 106 .
+
+<http://openstreetmap.org/osm2rdf_FeatureCollection> a void:Dataset ;
+    rdfs:label "Class Partition: FeatureCollection"@en ;
+    void:class geo:FeatureCollection ;
+    void:entities 3 .
+
+<http://openstreetmap.org/osm2rdf_OSMEntity> a void:Dataset ;
+    rdfs:label "Class Partition: OSMEntity"@en ;
+    void:class <https://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+    void:entities 106 .
+
+<http://openstreetmap.org/osm2rdf_Point> a void:Dataset ;
+    rdfs:label "Class Partition: Point"@en ;
+    void:class <http://www.opengis.net/ont/sf#Point> .
+
+<http://openstreetmap.org/osm2rdf_SpatialObjectCollection> a void:Dataset ;
+    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
+    void:class geo:SpatialObjectCollection .
+
+<http://openstreetmap.org/osm2rdf_asWKT> a void:Dataset ;
+    rdfs:label "Property Partition: asWKT"@en ;
+    void:property geo:asWKT ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_created> a void:Dataset ;
+    rdfs:label "Property Partition: created"@en ;
+    void:property dcterms:created ;
+    void:triples 107 .
+
+<http://openstreetmap.org/osm2rdf_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "osm2rdf TTL Distribution"@en ;
+    dcat:downloadURL "https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl"^^xsd:anyURI ;
+    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
+
+<http://openstreetmap.org/osm2rdf_exportType> a void:Dataset ;
+    rdfs:label "Property Partition: exportType"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/exportType> ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_hasGeometry> a void:Dataset ;
+    rdfs:label "Property Partition: hasGeometry"@en ;
+    void:property geo:hasGeometry ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_identifier> a void:Dataset ;
+    rdfs:label "Property Partition: identifier"@en ;
+    void:property dcterms:identifier ;
+    void:triples 107 .
+
+<http://openstreetmap.org/osm2rdf_isPartOf> a void:Dataset ;
+    rdfs:label "Property Partition: isPartOf"@en ;
+    void:property dcterms:isPartOf ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_label> a void:Dataset ;
+    rdfs:label "Property Partition: label"@en ;
+    void:property rdfs:label ;
+    void:triples 107 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__access> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__access"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__access> ;
+    void:triples 7 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__alt_name> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__alt_name"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name> ;
+    void:triples 2 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__archaeological_site> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__archaeological_site"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
+    void:triples 2 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__description> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__description"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
+    void:triples 11 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__historic> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__historic"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic> ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__historic__civilization> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__historic__civilization"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__image> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__image"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:triples 4 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__loc_name> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__loc_name"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__name> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__name"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
+    void:triples 73 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__note> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__note"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
+    void:triples 8 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__ref> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__ref"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__ref> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__source> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__source"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
+    void:triples 55 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__source__ref> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__source__ref"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__tourism> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__tourism"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism> ;
+    void:triples 2 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__url> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__url"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__website> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__website"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
+    void:triples 5 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__wikidata> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__wikidata"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
+    void:triples 58 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__wikimedia_commons> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__wikimedia_commons"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
+    void:triples 15 .
+
+<http://openstreetmap.org/osm2rdf_osmtag__wikipedia> a void:Dataset ;
+    rdfs:label "Property Partition: osmtag__wikipedia"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
+    void:triples 19 .
+
+<http://openstreetmap.org/osm2rdf_primaryTopic> a void:Dataset ;
+    rdfs:label "Property Partition: primaryTopic"@en ;
+    void:property foaf:primaryTopic ;
+    void:triples 106 .
+
+<http://openstreetmap.org/osm2rdf_provenance> a void:Dataset ;
+    rdfs:label "Property Partition: provenance"@en ;
+    void:property dcterms:provenance ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_rights> a void:Dataset ;
+    rdfs:label "Property Partition: rights"@en ;
+    void:property dcterms:rights ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_sameAs> a void:Dataset ;
+    rdfs:label "Property Partition: sameAs"@en ;
+    void:property owl:sameAs ;
+    void:triples 58 .
+
+<http://openstreetmap.org/osm2rdf_title> a void:Dataset ;
+    rdfs:label "Property Partition: title"@en ;
+    void:property dcterms:title ;
+    void:triples 1 .
+
+<http://openstreetmap.org/osm2rdf_type> a void:Dataset ;
+    rdfs:label "Property Partition: type"@en ;
+    void:property dcterms:type,
+        rdf:type ;
+    void:triples 1,
+        426 .
 
 dcam: a voaf:Vocabulary ;
     rdfs:label "dcam Vocabulary"@en ;
@@ -284,6 +537,12 @@ owl: a voaf:Vocabulary ;
     vann:preferredNamespacePrefix "owl"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
     voaf:usageInDataset owl:_osm2rdf_occ .
+
+skos: a voaf:Vocabulary ;
+    rdfs:label "skos Vocabulary"@en ;
+    vann:preferredNamespacePrefix "skos"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
+    voaf:usageInDataset skos:_osm2rdf_occ .
 
 time: a voaf:Vocabulary ;
     rdfs:label "time Vocabulary"@en ;
@@ -367,211 +626,6 @@ brick: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "https://brickschema.org/schema/Brick#"^^xsd:anyURI ;
     voaf:usageInDataset brick:_osm2rdf_occ .
 
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Catalog> a void:Dataset ;
-    rdfs:label "Class Partition: Catalog"@en ;
-    void:class dcat:Catalog ;
-    void:entities 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Collection> a void:Dataset ;
-    rdfs:label "Class Partition: Collection"@en ;
-    void:class skos:Collection ;
-    void:entities 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Dataset> a void:Dataset ;
-    rdfs:label "Class Partition: Dataset"@en ;
-    void:class dcat:Dataset,
-        <https://research-squirrel-engineers.github.io/osm2lod/Dataset> ;
-    void:entities 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_E22_Human_Made_Object> a void:Dataset ;
-    rdfs:label "Class Partition: E22_Human_Made_Object"@en ;
-    void:class <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_GeometryCollection> a void:Dataset ;
-    rdfs:label "Class Partition: GeometryCollection"@en ;
-    void:class geo:GeometryCollection ;
-    void:entities 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_OSMEntity> a void:Dataset ;
-    rdfs:label "Class Partition: OSMEntity"@en ;
-    void:class <https://research-squirrel-engineers.github.io/osm2lod/OSMEntity> .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Point> a void:Dataset ;
-    rdfs:label "Class Partition: Point"@en ;
-    void:class <http://www.opengis.net/ont/sf#Point> ;
-    void:entities 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_SpatialObjectCollection> a void:Dataset ;
-    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
-    void:class geo:SpatialObjectCollection .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_asWKT> a void:Dataset ;
-    rdfs:label "Property Partition: asWKT"@en ;
-    void:property geo:asWKT ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_created> a void:Dataset ;
-    rdfs:label "Property Partition: created"@en ;
-    void:property dcterms:created ;
-    void:triples 107 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_dist_ttl> a adms:AssetDistribution ;
-    rdfs:label "osm2rdf TTL Distribution"@en ;
-    dcat:downloadURL "https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl"^^xsd:anyURI ;
-    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_exportType> a void:Dataset ;
-    rdfs:label "Property Partition: exportType"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/exportType> ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_hasGeometry> a void:Dataset ;
-    rdfs:label "Property Partition: hasGeometry"@en ;
-    void:property geo:hasGeometry ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_identifier> a void:Dataset ;
-    rdfs:label "Property Partition: identifier"@en ;
-    void:property dcterms:identifier ;
-    void:triples 107 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_isPartOf> a void:Dataset ;
-    rdfs:label "Property Partition: isPartOf"@en ;
-    void:property dcterms:isPartOf ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_label> a void:Dataset ;
-    rdfs:label "Property Partition: label"@en ;
-    void:property rdfs:label ;
-    void:triples 107 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__access> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__access"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__access> ;
-    void:triples 7 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__alt_name> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__alt_name"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name> ;
-    void:triples 2 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__archaeological_site> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__archaeological_site"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site> ;
-    void:triples 2 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__description> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__description"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
-    void:triples 11 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__historic> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__historic"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic> ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__historic__civilization> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__historic__civilization"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization> ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__image> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__image"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
-    void:triples 4 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__loc_name> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__loc_name"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__name> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__name"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
-    void:triples 73 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__note> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__note"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
-    void:triples 8 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__ref> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__ref"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__ref> ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__source> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__source"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
-    void:triples 55 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__source__ref> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__source__ref"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__tourism> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__tourism"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism> ;
-    void:triples 2 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__url> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__url"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__url> ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__website> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__website"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__website> ;
-    void:triples 5 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikidata> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__wikidata"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
-    void:triples 58 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikimedia_commons> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__wikimedia_commons"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
-    void:triples 15 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikipedia> a void:Dataset ;
-    rdfs:label "Property Partition: osmtag__wikipedia"@en ;
-    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
-    void:triples 19 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_primaryTopic> a void:Dataset ;
-    rdfs:label "Property Partition: primaryTopic"@en ;
-    void:property foaf:primaryTopic ;
-    void:triples 106 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_provenance> a void:Dataset ;
-    rdfs:label "Property Partition: provenance"@en ;
-    void:property dcterms:provenance ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_rights> a void:Dataset ;
-    rdfs:label "Property Partition: rights"@en ;
-    void:property dcterms:rights ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_sameAs> a void:Dataset ;
-    rdfs:label "Property Partition: sameAs"@en ;
-    void:property owl:sameAs ;
-    void:triples 58 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_title> a void:Dataset ;
-    rdfs:label "Property Partition: title"@en ;
-    void:property dcterms:title ;
-    void:triples 1 .
-
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_type> a void:Dataset ;
-    rdfs:label "Property Partition: type"@en ;
-    void:property dcterms:type,
-        rdf:type ;
-    void:triples 1,
-        426 .
-
 schema: a voaf:Vocabulary ;
     rdfs:label "schema Vocabulary"@en ;
     vann:preferredNamespacePrefix "schema"^^xsd:string ;
@@ -590,51 +644,43 @@ geo: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
     voaf:usageInDataset geo:_osm2rdf_occ .
 
-skos: a voaf:Vocabulary ;
-    rdfs:label "skos Vocabulary"@en ;
-    vann:preferredNamespacePrefix "skos"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
-    voaf:usageInDataset skos:_osm2rdf_occ .
-
 dcat: a voaf:Vocabulary ;
     rdfs:label "DCAT Vocabulary"@en ;
     vann:preferredNamespacePrefix "dcat"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
     voaf:usageInDataset dcat:_osm2rdf_occ .
 
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> a void:Dataset,
+<http://openstreetmap.org/osm2rdf> a void:Dataset,
         adms:Asset ;
     rdfs:label "osm2rdf"@en ;
-    vext:averageLiteralLength 70 ;
-    vext:averageObjectIRILength 55 ;
+    vext:averageLiteralLength 17 ;
+    vext:averageObjectIRILength 48 ;
     vext:averagePropertyIRILength 57 ;
-    vext:averageSubjectIRILength 69 ;
-    vext:datatypes 2 ;
+    vext:averageSubjectIRILength 40 ;
+    vext:datatypes 1 ;
     vext:distinctBlankNodes 0 ;
     vext:distinctIRIReferences 983 ;
-    vext:distinctLiterals 114 ;
-    vext:distinctRDFNodes 1097 ;
-    vext:languages 1 ;
+    vext:distinctLiterals 341 ;
+    vext:distinctRDFNodes 1324 ;
+    vext:languages 3 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T11:51:41"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T11:54:01"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
     dcterms:title "osm2rdf"@en ;
-    vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
-    vann:preferredNamespaceUri "https://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
-    void:classPartition <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Catalog>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Collection>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Dataset>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_E22_Human_Made_Object>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_GeometryCollection>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_OSMEntity>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Point>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_SpatialObjectCollection> ;
-    void:classes 9 ;
+    vann:preferredNamespacePrefix "osm"^^xsd:string ;
+    vann:preferredNamespaceUri "http://openstreetmap.org/"^^xsd:anyURI ;
+    void:classPartition <http://openstreetmap.org/osm2rdf_Dataset>,
+        <http://openstreetmap.org/osm2rdf_E22_Human_Made_Object>,
+        <http://openstreetmap.org/osm2rdf_FeatureCollection>,
+        <http://openstreetmap.org/osm2rdf_OSMEntity>,
+        <http://openstreetmap.org/osm2rdf_Point>,
+        <http://openstreetmap.org/osm2rdf_SpatialObjectCollection> ;
+    void:classes 7 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 732 ;
     void:distinctSubjects 218 ;
@@ -642,40 +688,40 @@ dcat: a voaf:Vocabulary ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 33 ;
-    void:propertyPartition <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_asWKT>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_created>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_exportType>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_hasGeometry>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_identifier>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_isPartOf>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_label>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__access>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__alt_name>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__archaeological_site>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__description>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__historic>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__historic__civilization>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__image>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__loc_name>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__name>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__note>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__ref>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__source>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__source__ref>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__tourism>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__url>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__website>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikidata>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikimedia_commons>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikipedia>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_primaryTopic>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_provenance>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_rights>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_sameAs>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_title>,
-        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_type> ;
-    void:triples 1936 ;
-    void:uriSpace "https://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;
+    void:propertyPartition <http://openstreetmap.org/osm2rdf_asWKT>,
+        <http://openstreetmap.org/osm2rdf_created>,
+        <http://openstreetmap.org/osm2rdf_exportType>,
+        <http://openstreetmap.org/osm2rdf_hasGeometry>,
+        <http://openstreetmap.org/osm2rdf_identifier>,
+        <http://openstreetmap.org/osm2rdf_isPartOf>,
+        <http://openstreetmap.org/osm2rdf_label>,
+        <http://openstreetmap.org/osm2rdf_osmtag__access>,
+        <http://openstreetmap.org/osm2rdf_osmtag__alt_name>,
+        <http://openstreetmap.org/osm2rdf_osmtag__archaeological_site>,
+        <http://openstreetmap.org/osm2rdf_osmtag__description>,
+        <http://openstreetmap.org/osm2rdf_osmtag__historic>,
+        <http://openstreetmap.org/osm2rdf_osmtag__historic__civilization>,
+        <http://openstreetmap.org/osm2rdf_osmtag__image>,
+        <http://openstreetmap.org/osm2rdf_osmtag__loc_name>,
+        <http://openstreetmap.org/osm2rdf_osmtag__name>,
+        <http://openstreetmap.org/osm2rdf_osmtag__note>,
+        <http://openstreetmap.org/osm2rdf_osmtag__ref>,
+        <http://openstreetmap.org/osm2rdf_osmtag__source>,
+        <http://openstreetmap.org/osm2rdf_osmtag__source__ref>,
+        <http://openstreetmap.org/osm2rdf_osmtag__tourism>,
+        <http://openstreetmap.org/osm2rdf_osmtag__url>,
+        <http://openstreetmap.org/osm2rdf_osmtag__website>,
+        <http://openstreetmap.org/osm2rdf_osmtag__wikidata>,
+        <http://openstreetmap.org/osm2rdf_osmtag__wikimedia_commons>,
+        <http://openstreetmap.org/osm2rdf_osmtag__wikipedia>,
+        <http://openstreetmap.org/osm2rdf_primaryTopic>,
+        <http://openstreetmap.org/osm2rdf_provenance>,
+        <http://openstreetmap.org/osm2rdf_rights>,
+        <http://openstreetmap.org/osm2rdf_sameAs>,
+        <http://openstreetmap.org/osm2rdf_title>,
+        <http://openstreetmap.org/osm2rdf_type> ;
+    void:triples 2146 ;
+    void:uriSpace "http://openstreetmap.org/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,
         dcmitype:,
@@ -708,7 +754,7 @@ dcat: a voaf:Vocabulary ;
         brick:,
         schema:,
         wgs: ;
-    dcat:distribution <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_dist_ttl> ;
+    dcat:distribution <http://openstreetmap.org/osm2rdf_dist_ttl> ;
     dcat:keyword "Location"@en,
         "OGC GeoSPARQL"@en,
         "Person"@en,

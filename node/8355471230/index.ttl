@@ -1,0 +1,24 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openstreetmap.org/node/8355471230> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:OSMEntity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "OSM node 8355471230"@en ;
+    dcterms:created "2025-12-19T10:32:05.532368+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/8355471230" ;
+    dcterms:isPartOf ns1:ogham__2025-12-19_103205Z ;
+    void:inDataset <http://openstreetmap.org/osm2rdf> ;
+    geo:hasGeometry ns1:8355471230_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/8355471230> ;
+    ns1:exportType "ogham" ;
+    ns1:osmtag__historic "ogham_stone" .
+

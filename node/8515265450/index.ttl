@@ -1,0 +1,33 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openstreetmap.org/node/8515265450> a <http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:OSMEntity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Saint Fiachre's Well"@en ;
+    dcterms:created "2025-12-19T10:32:09.810385+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/8515265450" ;
+    dcterms:isPartOf ns1:holywells__2025-12-19_103209Z ;
+    void:inDataset <http://openstreetmap.org/osm2rdf> ;
+    geo:hasGeometry ns1:8515265450_geom ;
+    owl:sameAs <http://wikidata.org/entity/Q121842432> ;
+    foaf:primaryTopic <http://openstreetmap.org/node/8515265450> ;
+    ns1:exportType "holywells" ;
+    ns1:osmtag__description "In a hollow, sheltered by an outcrop of natural rock. Steps leading into the underground chamber. Access via driveway into Sheastown House from R700 on the last Sunday in August around 3pm and the 9 days before in the evening during the novena." ;
+    ns1:osmtag__name "Saint Fiachre's Well" ;
+    ns1:osmtag__natural "spring" ;
+    ns1:osmtag__note "This might be the one O'Kelly calls Seanbaile well, since there are faint traces of cropmarks between the church ruin and here on Esri Clarity." ;
+    ns1:osmtag__place_of_worship "holy_well" ;
+    ns1:osmtag__source "British war office map;SMR;survey" ;
+    ns1:osmtag__wikidata "Q121842432" ;
+    ns1:osmtag__wikimedia_commons "Category:St Fiachra's Well, Sheastown" .
+

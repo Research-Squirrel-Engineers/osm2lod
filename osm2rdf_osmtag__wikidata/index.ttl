@@ -2,11 +2,13 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikidata> a void:Dataset,
+<http://openstreetmap.org/osm2rdf_osmtag__wikidata> a void:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__wikidata"@en ;
     void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
-    void:triples 58,
+    void:triples 2,
+        9,
+        58,
         132 .
 

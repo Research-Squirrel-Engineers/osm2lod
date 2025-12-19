@@ -1,0 +1,13 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openstreetmap.org/osm2rdf_ogham.celt.dias.ie_resources_sites_Dromore_266._Dromore_I_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: osm2rdf - 266._Dromore_I"@en ;
+    void:linkPredicate <https://research-squirrel-engineers.github.io/osm2lod/osmtag__image> ;
+    void:objectsTarget <https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/> ;
+    void:subjectsTarget <http://openstreetmap.org/osm2rdf> ;
+    void:triples 1 .
+

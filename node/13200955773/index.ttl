@@ -1,0 +1,31 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openstreetmap.org/node/13200955773> a <http://www.cidoc-crm.org/cidoc-crm/E55_Place>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:OSMEntity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Auel Maar"@en ;
+    dcterms:created "2025-12-19T10:32:13.337201+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13200955773" ;
+    dcterms:isPartOf ns1:drillcores__2025-12-19_103213Z ;
+    void:inDataset <http://openstreetmap.org/osm2rdf> ;
+    geo:hasGeometry ns1:13200955773_geom ;
+    owl:sameAs <http://wikidata.org/entity/Q134466471> ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200955773> ;
+    ns1:exportType "drillcores" ;
+    ns1:osmtag__name "Auel Maar" ;
+    ns1:osmtag__natural "volcano" ;
+    ns1:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> ;
+    ns1:osmtag__volcano__status "extinct" ;
+    ns1:osmtag__volcano__type "maar" ;
+    ns1:osmtag__wikidata "Q134466471" .
+
