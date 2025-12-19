@@ -5,22 +5,21 @@
     "dcterms": "http://purl.org/dc/terms/",
     "geosparql": "http://www.opengis.net/ont/geosparql#",
     "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
-    "osmtag": "https://research-squirrel-engineers.github.io/osm2lod/osmtag/"
+    "wd": "http://wikidata.org/entity/"
   },
   "exportType": "ogham",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/dataset/osm-export/ogham/2025-12-18_215648Z",
+  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-19_113736Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-18T21:56:48.982841+00:00",
+  "dcterms:created": "2025-12-19T11:37:36.491377+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"historic\"=\"ogham_stone\"];\nout geom;",
+  "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"historic\"=\"ogham_stone\"];\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
   "recordUriPattern": "http://openstreetmap.org/{type}/{id}",
-  "primaryTopicPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
     "crs": "http://www.opengis.net/def/crs/EPSG/0/4326",
@@ -63,6 +62,11 @@
   "columns": [
     "type",
     "id",
+    "version",
+    "timestamp",
+    "changeset",
+    "user",
+    "uid",
     "lat",
     "lon",
     "tag:heritage",
@@ -128,17 +132,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ogham_2025-12-18_215648Z.csv",
-      "dcat:byteSize": 27840
+      "dcat:downloadURL": "osm_export_ogham_2025-12-19_113736Z.csv",
+      "dcat:byteSize": 33313
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ogham_2025-12-18_215648Z.ttl",
-      "dcat:byteSize": 105959
+      "dcat:downloadURL": "osm_export_ogham_2025-12-19_113736Z.ttl",
+      "dcat:byteSize": 90774
     }
   ],
   "output": {
-    "csv": "osm_export_ogham_2025-12-18_215648Z.csv",
-    "ttl": "osm_export_ogham_2025-12-18_215648Z.ttl"
+    "csv": "osm_export_ogham_2025-12-19_113736Z.csv",
+    "ttl": "osm_export_ogham_2025-12-19_113736Z.ttl"
   }
 }

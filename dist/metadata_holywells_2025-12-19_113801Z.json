@@ -5,22 +5,21 @@
     "dcterms": "http://purl.org/dc/terms/",
     "geosparql": "http://www.opengis.net/ont/geosparql#",
     "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
-    "osmtag": "https://research-squirrel-engineers.github.io/osm2lod/osmtag/"
+    "wd": "http://wikidata.org/entity/"
   },
   "exportType": "holywells",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/dataset/osm-export/holywells/2025-12-18_215653Z",
+  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-19_113801Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-18T21:56:53.409074+00:00",
+  "dcterms:created": "2025-12-19T11:38:01.022540+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"place_of_worship\"=\"holy_well\"];\nout geom;",
+  "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"place_of_worship\"=\"holy_well\"];\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature",
   "recordUriPattern": "http://openstreetmap.org/{type}/{id}",
-  "primaryTopicPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
     "crs": "http://www.opengis.net/def/crs/EPSG/0/4326",
@@ -63,6 +62,11 @@
   "columns": [
     "type",
     "id",
+    "version",
+    "timestamp",
+    "changeset",
+    "user",
+    "uid",
     "lat",
     "lon",
     "tag:amenity",
@@ -160,17 +164,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_holywells_2025-12-18_215653Z.csv",
-      "dcat:byteSize": 158787
+      "dcat:downloadURL": "osm_export_holywells_2025-12-19_113801Z.csv",
+      "dcat:byteSize": 196092
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_holywells_2025-12-18_215653Z.ttl",
-      "dcat:byteSize": 729797
+      "dcat:downloadURL": "osm_export_holywells_2025-12-19_113801Z.ttl",
+      "dcat:byteSize": 639751
     }
   ],
   "output": {
-    "csv": "osm_export_holywells_2025-12-18_215653Z.csv",
-    "ttl": "osm_export_holywells_2025-12-18_215653Z.ttl"
+    "csv": "osm_export_holywells_2025-12-19_113801Z.csv",
+    "ttl": "osm_export_holywells_2025-12-19_113801Z.ttl"
   }
 }

@@ -1,0 +1,214 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix osm2lod: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix wd: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openstreetmap.org/node/10879170567> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Red wall"@en,
+        "Црвена стијена"@sr ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/10879170567" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:10879170567_geom ;
+    owl:sameAs wd:Q121418883 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/10879170567> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__archaeological_site "megalith" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "neolithic" ;
+    osm2lod:osmtag__name "Crvena stijena" ;
+    osm2lod:osmtag__wikidata "Q121418883" ;
+    osm2lod:osmtag__wikipedia "Crvena stijena (Crna Gora)"@bs .
+
+<http://openstreetmap.org/node/11107939919> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Golema Pesht"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/11107939919" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:11107939919_geom ;
+    owl:sameAs wd:Q20565511 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/11107939919> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__archaeological_site "settlement" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "prehistoric" ;
+    osm2lod:osmtag__name "Голема Пеш" ;
+    osm2lod:osmtag__wikidata "Q20565511" ;
+    osm2lod:osmtag__wikipedia "Голема Пеш"@mk .
+
+<http://openstreetmap.org/node/11109379095> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Toplitsa Cave"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/11109379095" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:11109379095_geom ;
+    owl:sameAs wd:Q61788595 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/11109379095> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__ele "300" ;
+    osm2lod:osmtag__name "Toplitsa Cave" ;
+    osm2lod:osmtag__natural "cave_entrance" ;
+    osm2lod:osmtag__wikidata "Q61788595" .
+
+<http://openstreetmap.org/node/1221172611> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Franchthi Cave"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/1221172611" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:1221172611_geom ;
+    owl:sameAs wd:Q1441331 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/1221172611> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__wikidata "Q1441331" ;
+    osm2lod:osmtag__wikipedia "Franchthi Cave"@en .
+
+<http://openstreetmap.org/node/2293681037> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Grotta Paglicci"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/2293681037" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:2293681037_geom ;
+    owl:sameAs wd:Q3777010 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/2293681037> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__access "no" ;
+    osm2lod:osmtag__archaeological_site "rock_painting" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "prehistoric" ;
+    osm2lod:osmtag__name "Grotta Paglicci" ;
+    osm2lod:osmtag__wikidata "Q3777010" ;
+    osm2lod:osmtag__wikipedia "Grotta Paglicci"@it .
+
+<http://openstreetmap.org/node/337519639> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Grotte di Castelcivita"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/337519639" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:337519639_geom ;
+    owl:sameAs wd:Q3777120 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/337519639> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__name "Grotte di Castelcivita" ;
+    osm2lod:osmtag__natural "cave_entrance" ;
+    osm2lod:osmtag__tourism "attraction" ;
+    osm2lod:osmtag__wikidata "Q3777120" ;
+    osm2lod:osmtag__wikipedia "Grotte di Castelcivita"@it .
+
+<http://openstreetmap.org/node/369821847> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Temnata dupka (Dunkles Loch)"@de,
+        "Temnata dupka"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/369821847" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:369821847_geom ;
+    owl:sameAs wd:Q12296153 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/369821847> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__int_name "Temnata dupka" ;
+    osm2lod:osmtag__name "Темната дупка" ;
+    osm2lod:osmtag__natural "cave_entrance" ;
+    osm2lod:osmtag__wikidata "Q12296153" .
+
+<http://openstreetmap.org/node/7778324735> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Haua Fteah Cave"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/7778324735" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:7778324735_geom ;
+    owl:sameAs wd:Q25226810 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/7778324735> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__ele "67" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__name "Haua Fteah Cave" ;
+    osm2lod:osmtag__natural "cave_entrance" ;
+    osm2lod:osmtag__wikidata "Q25226810" ;
+    osm2lod:osmtag__wikipedia "Haua Fteah"@en .
+
+<http://openstreetmap.org/node/8814442373> a crm:E55_Place,
+        dcat:Dataset,
+        osm2lod:OSMEntity ;
+    rdfs:label "Козарника"@en ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/8814442373" ;
+    dcterms:isPartOf osm2lod:ci__2025-12-19_103212Z ;
+    geosparql:hasGeometry osm2lod:8814442373_geom ;
+    owl:sameAs wd:Q2037533 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/8814442373> ;
+    osm2lod:exportType "ci" ;
+    osm2lod:osmtag__name "Козарника" ;
+    osm2lod:osmtag__natural "cave_entrance" ;
+    osm2lod:osmtag__wikidata "Q2037533" .
+
+osm2lod:10879170567_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(18.4814542 42.7789851)"^^geosparql:wktLiteral .
+
+osm2lod:11107939919_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(21.1617392 41.8117124)"^^geosparql:wktLiteral .
+
+osm2lod:11109379095_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(24.0052556 43.1907029)"^^geosparql:wktLiteral .
+
+osm2lod:1221172611_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.1311076 37.422578)"^^geosparql:wktLiteral .
+
+osm2lod:2293681037_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(15.6149763 41.654115)"^^geosparql:wktLiteral .
+
+osm2lod:337519639_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(15.2091978 40.495534)"^^geosparql:wktLiteral .
+
+osm2lod:369821847_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.3849053 43.0892646)"^^geosparql:wktLiteral .
+
+osm2lod:7778324735_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.0515628 32.9001953)"^^geosparql:wktLiteral .
+
+osm2lod:8814442373_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.7024397 43.6518818)"^^geosparql:wktLiteral .
+
+osm2lod:ci__2025-12-19_103212Z a dcat:Dataset,
+        osm2lod:Dataset ;
+    dcterms:created "2025-12-19T10:32:12.014823+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:ci:2025-12-19_103212Z" ;
+    dcterms:provenance """[out:json][timeout:25];
+(
+  node(337519639);
+  node(369821847);
+  node(1221172611);
+  node(2293681037);
+  node(7778324735);
+  node(8814442373);
+  node(10879170567);
+  node(11107939919);
+  node(11109379095);
+);
+out geom;""" ;
+    dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
+    dcterms:title "OSM Overpass Export"@en ;
+    dcterms:type "ci" .
+
