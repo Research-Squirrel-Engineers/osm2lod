@@ -21,7 +21,7 @@ jobs:
       version: v017
       rdffilepath: rdf/ci_2025-12-19.ttl rdf/drillcores_2025-12-19.ttl rdf/holywells_2025-12-19.ttl rdf/ogham_2025-12-19.ttl
       docpath: docs
-      prefixns: https://research-squirrel-engineers.github.io/osm2lod/
+      prefixns: http://research-squirrel-engineers.github.io/osm2lod/
       prefixnsshort: osm2lod
       indexpages: true
       createcollections: true
@@ -33,4 +33,4 @@ jobs:
       logourl: https://raw.githubusercontent.com/Research-Squirrel-Engineers/croton-geo/main/img/fsl-logo.png
       templatedir: https://github.com/Research-Squirrel-Engineers/unicorn-ontdoc-template-squirrels/archive/refs/tags/scrat.1.zip
       ogcapifeatures: false
-      datasettitle: osm2rdf
+      datasettitle: osm2lod
