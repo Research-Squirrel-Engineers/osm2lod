@@ -29,7 +29,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod> a void:Dataset,
+<http://www.cidoc-crm.org/cidoc-crm/osm2lod> a void:Dataset,
         <http://www.w3.org/ns/adms#Asset>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
@@ -55,7 +55,7 @@
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-19T12:10:40"^^xsd:dateTime ;
+    dcterms:modified "2025-12-19T16:25:03"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -63,13 +63,13 @@
         foaf:Person ;
     dcterms:title "osm2lod"@en ;
     vann:preferredNamespacePrefix "crm"^^xsd:string ;
-    vann:preferredNamespaceUri "hhttp://www.cidoc-crm.org/cidoc-crm/"^^xsd:anyURI ;
-    void:classPartition <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_Dataset>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_E22_Human_Made_Object>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_E26_Physical_Feature>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_E55_Place>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_OSMEntity>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_Point> ;
+    vann:preferredNamespaceUri "http://www.cidoc-crm.org/cidoc-crm/"^^xsd:anyURI ;
+    void:classPartition <http://www.cidoc-crm.org/cidoc-crm/osm2lod_Dataset>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E22_Human_Made_Object>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E26_Physical_Feature>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_E55_Place>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_OSMEntity>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_Point> ;
     void:classes 5 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 50,
@@ -86,57 +86,57 @@
     void:properties 25,
         33,
         36 ;
-    void:propertyPartition <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_created>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_label>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__denomination>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ele>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__int_name>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__man_made>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__natural>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__operator>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__place_of_worship>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__religion>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__url>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__status>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__type>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water_source>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_rights>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_source>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_title>,
-        <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_type> ;
+    void:propertyPartition <http://www.cidoc-crm.org/cidoc-crm/osm2lod_asWKT>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_created>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_exportType>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_hasGeometry>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_identifier>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_isPartOf>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_label>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__access>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__alt_name>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__archaeological_site>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__denomination>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__description>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ele>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__historic__civilization>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__image>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__int_name>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__loc_name>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__man_made>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__name>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__natural>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__note>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__operator>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__place_of_worship>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__ref>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__religion>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__ref>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__source__url>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__tourism>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__url>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__status>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__volcano__type>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__water_source>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__website>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikidata>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikimedia_commons>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_osmtag__wikipedia>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_primaryTopic>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_provenance>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_rights>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_sameAs>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_source>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_title>,
+        <http://www.cidoc-crm.org/cidoc-crm/osm2lod_type> ;
     void:triples 106,
         171,
         1711,
         12136 ;
-    void:uriSpace "hhttp://www.cidoc-crm.org/cidoc-crm/"^^xsd:string ;
+    void:uriSpace "http://www.cidoc-crm.org/cidoc-crm/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,
         dcmitype:,
@@ -169,7 +169,7 @@
         brick:,
         schema:,
         wgs: ;
-    dcat:distribution <hhttp://www.cidoc-crm.org/cidoc-crm/osm2lod_dist_ttl> ;
+    dcat:distribution <http://www.cidoc-crm.org/cidoc-crm/osm2lod_dist_ttl> ;
     dcat:keyword "Location"@en,
         "OGC GeoSPARQL"@en,
         "Person"@en,

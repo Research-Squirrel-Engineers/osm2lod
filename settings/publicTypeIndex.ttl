@@ -1,11 +1,27 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix ns1: <http://www.w3.org/ns/solid/terms#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://purl.org/vocommons/voaf#DatasetOccurrence> a owl:Class .
+
+<http://purl.org/vocommons/voaf#Vocabulary> a owl:Class .
+
+void:Dataset a owl:Class .
+
+<http://www.w3.org/ns/adms#Asset> a owl:Class .
+
+<http://www.w3.org/ns/adms#AssetDistribution> a owl:Class .
+
+<http://www.w3.org/ns/adms#AssetRepository> a owl:Class .
+
+<http://www.w3.org/ns/ldp#Resource> a owl:Class .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl> a <http://www.w3.org/ns/ldp#RDFResource>,
         ns1:ListedDocument,
-        ns1:TypeIndex ;
-    rdfs:label "Public Type Index"@en ;
+        ns1:TypeIndex,
+        "Public Type Index"@en ;
     rdfs:comment "This Document contains a list of links to other Documents, along with the type of data that is to be included in those Documents"@en ;
     rdfs:member <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#10009186152_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#10009450906_geom>,
@@ -3349,6 +3365,8 @@
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_998586052_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_998586052_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_998586052_suniv2_> .
+
+<https://www.iana.org/assignments/media-types/text/turtle#Resource> a owl:Class .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#10009186152_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//10009186152_geom> .
@@ -13375,4 +13393,14 @@
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_998586052_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_998586052_suniv2_> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/Dataset> a owl:Class .
+
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object> a owl:Class .
+
+<http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> a owl:Class .
+
+<http://www.opengis.net/ont/sf#Point> a owl:Class .
+
+dcat:Dataset a owl:Class .
 
