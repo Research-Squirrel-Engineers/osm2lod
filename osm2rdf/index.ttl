@@ -1,0 +1,168 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "osm2rdf"@en ;
+    ns1:averageLiteralLength 70,
+        72 ;
+    ns1:averageObjectIRILength 55 ;
+    ns1:averagePropertyIRILength 57,
+        58 ;
+    ns1:averageSubjectIRILength 69 ;
+    ns1:datatypes 2 ;
+    ns1:distinctBlankNodes 0 ;
+    ns1:distinctIRIReferences 983,
+        5325 ;
+    ns1:distinctLiterals 114,
+        720 ;
+    ns1:distinctRDFNodes 1097,
+        6045 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2025-12-19T11:51:41"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "osm2rdf"@en ;
+    vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
+    vann:preferredNamespaceUri "https://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
+    void:classPartition <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Catalog>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Collection>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Dataset>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_E22_Human_Made_Object>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_E26_Physical_Feature>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_GeometryCollection>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_OSMEntity>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_Point>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_SpatialObjectCollection> ;
+    void:classes 9 ;
+    void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
+    void:distinctObjects 732,
+        3859 ;
+    void:distinctSubjects 218,
+        1430 ;
+    void:entities 110,
+        716 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 33,
+        36 ;
+    void:propertyPartition <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_asWKT>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_created>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_exportType>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_hasGeometry>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_identifier>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_isPartOf>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_label>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__access>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__alt_name>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__archaeological_site>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__denomination>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__description>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__historic>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__historic__civilization>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__image>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__loc_name>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__man_made>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__name>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__natural>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__note>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__operator>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__place_of_worship>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__ref>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__religion>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__source>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__source__ref>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__tourism>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__url>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__water>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__water_source>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__website>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikidata>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikimedia_commons>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__wikipedia>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_primaryTopic>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_provenance>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_rights>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_sameAs>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_title>,
+        <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_type> ;
+    void:triples 1936,
+        13573 ;
+    void:uriSpace "https://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://Research-Squirrel-Engineers.github.io/osm2lod/> ;
+    foaf:homepage <https://Research-Squirrel-Engineers.github.io/osm2lod/> ;
+    foaf:page <https://Research-Squirrel-Engineers.github.io/osm2lod//index.html> .
+

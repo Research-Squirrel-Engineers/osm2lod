@@ -1,0 +1,12 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://research-squirrel-engineers.github.io/osm2lod/osm2rdf_osmtag__note> a void:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Property Partition: osmtag__note"@en ;
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__note> ;
+    void:triples 8,
+        24 .
+

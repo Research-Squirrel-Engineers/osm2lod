@@ -8,5 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: sameAs"@en ;
     void:property owl:sameAs ;
-    void:triples 132 .
+    void:triples 58,
+        132 .
 

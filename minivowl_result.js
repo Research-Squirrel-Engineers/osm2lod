@@ -33,55 +33,6 @@ var minivowlresult={
  ],
  "links": [
   {
-   "source": 0,
-   "target": 3,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 1,
-   "target": 3,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 2,
-   "target": 3,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 0,
-   "target": 0,
-   "valueTo": "primaryTopic",
-   "propertyTo": "class",
-   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
-  },
-  {
-   "source": 0,
-   "target": 1,
-   "valueTo": "primaryTopic",
-   "propertyTo": "class",
-   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
-  },
-  {
-   "source": 0,
-   "target": 2,
-   "valueTo": "primaryTopic",
-   "propertyTo": "class",
-   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
-  },
-  {
-   "source": 1,
-   "target": 0,
-   "valueTo": "primaryTopic",
-   "propertyTo": "class",
-   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
-  },
-  {
    "source": 1,
    "target": 1,
    "valueTo": "primaryTopic",
@@ -96,7 +47,7 @@ var minivowlresult={
    "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
   },
   {
-   "source": 2,
+   "source": 1,
    "target": 0,
    "valueTo": "primaryTopic",
    "propertyTo": "class",
@@ -117,14 +68,35 @@ var minivowlresult={
    "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
   },
   {
-   "source": 0,
-   "target": 4,
-   "valueTo": "isPartOf",
+   "source": 2,
+   "target": 0,
+   "valueTo": "primaryTopic",
    "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
+   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
   },
   {
    "source": 0,
+   "target": 1,
+   "valueTo": "primaryTopic",
+   "propertyTo": "class",
+   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  {
+   "source": 0,
+   "target": 2,
+   "valueTo": "primaryTopic",
+   "propertyTo": "class",
+   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  {
+   "source": 0,
+   "target": 0,
+   "valueTo": "primaryTopic",
+   "propertyTo": "class",
+   "uriTo": "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  {
+   "source": 1,
    "target": 1,
    "valueTo": "isPartOf",
    "propertyTo": "class",
@@ -138,7 +110,7 @@ var minivowlresult={
    "uriTo": "http://purl.org/dc/terms/isPartOf"
   },
   {
-   "source": 1,
+   "source": 2,
    "target": 1,
    "valueTo": "isPartOf",
    "propertyTo": "class",
@@ -152,11 +124,39 @@ var minivowlresult={
    "uriTo": "http://purl.org/dc/terms/isPartOf"
   },
   {
-   "source": 2,
+   "source": 0,
    "target": 1,
    "valueTo": "isPartOf",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 0,
+   "target": 4,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 1,
+   "target": 3,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 2,
+   "target": 3,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 0,
+   "target": 3,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   }
  ]
 }

@@ -1,0 +1,1 @@
+{"http://rdfs.org/ns/void#inDataset": ["https://research-squirrel-engineers.github.io/osm2lod/osm2rdf"], "http://www.opengis.net/ont/geosparql#asWKT": ["<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-6.9391724 54.5525829)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"]}
