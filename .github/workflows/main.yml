@@ -18,10 +18,10 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
-      version: v017
+      version: v018
       rdffilepath: rdf/ci_2025-12-19.ttl rdf/drillcores_2025-12-19.ttl rdf/holywells_2025-12-19.ttl rdf/ogham_2025-12-19.ttl
       docpath: docs
-      prefixns: hhttp://www.cidoc-crm.org/cidoc-crm/
+      prefixns: http://www.cidoc-crm.org/cidoc-crm/
       prefixnsshort: crm
       indexpages: true
       createcollections: true
