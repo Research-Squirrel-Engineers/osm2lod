@@ -7,16 +7,17 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns1:node_13386786938 a ns1:OSMEntity,
+ns1:node_13386786938 a ns1:CoreProfile,
+        ns1:OSMEntity,
         <http://www.cidoc-crm.org/cidoc-crm/E55_Place>,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "AU4"@en ;
-    dcterms:created "2025-12-19T11:59:18.124466+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.3390/quat7020017>,
         "osm:node/13386786938" ;
-    dcterms:isPartOf ns1:drillcores__2025-12-19_115918Z ;
+    dcterms:isPartOf ns1:drillcores__2025-12-21_093401Z ;
     dcterms:source <https://doi.org/10.3390/quat7020017> ;
     void:inDataset ns1:osm2lod ;
     ns1:exportType "drillcores" ;

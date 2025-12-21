@@ -1,0 +1,20 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-21_093346Z> a <http://research-squirrel-engineers.github.io/osm2lod/Dataset>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    dcterms:created "2025-12-21T09:33:46.392815+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:holywells:2025-12-21_093346Z" ;
+    dcterms:provenance """[out:json][timeout:25];
+area["name"="Ireland"]->.boundaryarea;
+nwr(area.boundaryarea)["place_of_worship"="holy_well"];
+out meta geom;""" ;
+    dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
+    dcterms:title "OSM Overpass Export"@en ;
+    dcterms:type "holywells" ;
+    void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
+

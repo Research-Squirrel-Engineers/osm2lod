@@ -35,27 +35,30 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "osm2lod"@en ;
     ns1:averageLiteralLength 0 ;
-    ns1:averageObjectIRILength 0 ;
-    ns1:averagePropertyIRILength 53,
-        54,
-        57,
-        58 ;
-    ns1:averageSubjectIRILength 0 ;
+    ns1:averageObjectIRILength 43,
+        44,
+        46 ;
+    ns1:averagePropertyIRILength 51,
+        53,
+        55,
+        56 ;
+    ns1:averageSubjectIRILength 68,
+        69 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 138,
-        157,
-        979,
-        5321 ;
+    ns1:distinctIRIReferences 169,
+        192,
+        1107,
+        6055 ;
     ns1:distinctLiterals 0 ;
-    ns1:distinctRDFNodes 138,
-        157,
-        979,
-        5321 ;
+    ns1:distinctRDFNodes 169,
+        192,
+        1107,
+        6055 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-21T09:40:01"^^xsd:dateTime ;
+    dcterms:modified "2025-12-21T09:44:09"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -65,41 +68,51 @@
     vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
     vann:preferredNamespaceUri "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
     void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CI_Findspot>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CoreProfile>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E22_Human_Made_Object>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E26_Physical_Feature>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E55_Place>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_FeatureCollection>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_GeometryCollection>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_HolyWell>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Maar>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_OSMEntity>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_OghamStone>,
-        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Point> ;
-    void:classes 6,
-        7 ;
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Point>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_SpatialObjectCollection> ;
+    void:classes 11,
+        12 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
-    void:distinctObjects 94,
-        103,
-        733,
-        3860 ;
-    void:distinctSubjects 19,
-        23,
-        213,
-        1425 ;
-    void:entities 1 ;
+    void:distinctObjects 113,
+        125,
+        849,
+        4582 ;
+    void:distinctSubjects 28,
+        33,
+        222,
+        1434 ;
+    void:entities 25,
+        30,
+        219,
+        1431 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 25,
-        31,
-        33,
-        36 ;
+    void:properties 28,
+        34,
+        36,
+        39 ;
     void:propertyPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_asWKT>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_created>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_dataset>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_exportType>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_hasGeometry>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_identifier>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_isPartOf>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_label>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_member>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__access>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__alt_name>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__archaeological_site>,
@@ -137,12 +150,13 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_rights>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_sameAs>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_source>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_subClassOf>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_title>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> ;
-    void:triples 180,
-        244,
-        1817,
-        12848 ;
+    void:triples 265,
+        346,
+        2581,
+        17854 ;
     void:uriSpace "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,

@@ -9,14 +9,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ns1:node_10594973066 a ns1:OSMEntity,
+        ns1:OghamStone,
         <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object>,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Castletimon Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10594973066" ;
-    dcterms:isPartOf ns1:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf ns1:ogham__2025-12-21_093336Z ;
     void:inDataset ns1:osm2lod ;
     ns1:exportType "ogham" ;
     ns1:osmtag__historic "ogham_stone" ;

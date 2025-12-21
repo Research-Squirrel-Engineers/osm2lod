@@ -1,0 +1,20 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-21_093336Z> a <http://research-squirrel-engineers.github.io/osm2lod/Dataset>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:ogham:2025-12-21_093336Z" ;
+    dcterms:provenance """[out:json][timeout:25];
+area["name"="Ireland"]->.boundaryarea;
+nwr(area.boundaryarea)["historic"="ogham_stone"];
+out meta geom;""" ;
+    dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
+    dcterms:title "OSM Overpass Export"@en ;
+    dcterms:type "ogham" ;
+    void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
+

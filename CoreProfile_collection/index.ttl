@@ -1,0 +1,16 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://research-squirrel-engineers.github.io/osm2lod/CoreProfile_collection> a geo:FeatureCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "CoreProfile Instances Collection"@en ;
+    void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
+    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/node_13386703821>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13386723672>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13386786938>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13388641643>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13388651352> .
+

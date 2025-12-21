@@ -10,7 +10,7 @@
     void:linkPredicate owl:sameAs ;
     void:objectsTarget <http://wikidata.org/entity/> ;
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    void:triples 2,
+    void:triples 6,
         9,
         58,
         132 .

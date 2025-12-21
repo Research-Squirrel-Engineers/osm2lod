@@ -8,16 +8,17 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns1:node_369821847 a ns1:OSMEntity,
+ns1:node_369821847 a ns1:CI_Findspot,
+        ns1:OSMEntity,
         <http://www.cidoc-crm.org/cidoc-crm/E55_Place>,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Temnata dupka (Dunkles Loch)"@de,
         "Temnata dupka"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/369821847" ;
-    dcterms:isPartOf ns1:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf ns1:ci__2025-12-21_093359Z ;
     void:inDataset ns1:osm2lod ;
     ns1:exportType "ci" ;
     ns1:osmtag__int_name "Temnata dupka" ;
