@@ -9,7 +9,7 @@ LAST|P6|"Q134466523"
 LAST|P8|"https://kulturdb.de/einobjekt.php?id=30207"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/node/13200943487"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|3
 LAST|P16|176226337
 LAST|P17|"2025-12-21T16:59:49Z"
@@ -25,7 +25,7 @@ LAST|P6|"Q134466471"
 LAST|P8|"https://kulturdb.de/einobjekt.php?id=30134"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/node/13200955773"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|3
 LAST|P16|176226251
 LAST|P17|"2025-12-21T16:57:27Z"
@@ -43,7 +43,7 @@ LAST|P8|"https://kulturdb.de/einobjekt.php?id=16656"
 LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/way/23450728"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|18
 LAST|P16|176140712
 LAST|P17|"2025-12-19T13:22:37Z"
@@ -60,7 +60,7 @@ LAST|P7|"https://de.wikipedia.org/wiki/Laacher_See"
 LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/way/56428302"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|36
 LAST|P16|176140841
 LAST|P17|"2025-12-19T13:26:50Z"
@@ -77,7 +77,7 @@ LAST|P7|"https://de.wikipedia.org/wiki/Gem%C3%BCndener_Maar"
 LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/way/72767715"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|6
 LAST|P16|176211538
 LAST|P17|"2025-12-21T10:40:41Z"
@@ -94,7 +94,7 @@ LAST|P8|"https://kulturdb.de/einobjekt.php?id=777"
 LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/way/144719688"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|6
 LAST|P16|176211971
 LAST|P17|"2025-12-21T10:53:18Z"
@@ -111,7 +111,7 @@ LAST|P7|"https://de.wikipedia.org/wiki/Ulmener_Maar"
 LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/way/144726746"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|14
 LAST|P16|176212609
 LAST|P17|"2025-12-21T11:10:12Z"
@@ -126,7 +126,7 @@ LAST|P5|@50.21789210593608/6.9800719269406395
 LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
 LAST|P10|Q27
 LAST|P11|"https://www.openstreetmap.org/way/144726755"
-LAST|P12|"2025-12-21T17:05:30Z"
+LAST|P12|"2025-12-21T17:14:42Z"
 LAST|P13|18
 LAST|P16|176212110
 LAST|P17|"2025-12-21T10:56:06Z"

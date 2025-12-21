@@ -7,17 +7,17 @@
     "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
-  "exportType": "ci",
-  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-21_170511Z",
+  "exportType": "drillcores",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_171442Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-21T17:05:11.310468+00:00",
+  "dcterms:created": "2025-12-21T17:14:42.648499+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\n(\n  node(337519639);\n  node(369821847);\n  node(1221172611);\n  node(2293681037);\n  node(7778324735);\n  node(8814442373);\n  node(10879170567);\n  node(11107939919);\n  node(11109379095);\n);\nout meta geom;",
+  "overpassQuery": "[out:json][timeout:25];\n(\n  way(23450728);\n  way(56428302);\n  way(72767715);\n  way(144726755);\n  way(144726746);\n  way(144719688);\n  node(13200955773);\n  node(13200943487);\n);\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
   "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
@@ -58,8 +58,11 @@
     "website",
     "url"
   ],
-  "extraTagKeys": [],
-  "recordCount": 9,
+  "extraTagKeys": [
+    "volcano:status",
+    "volcano:type"
+  ],
+  "recordCount": 8,
   "columns": [
     "type",
     "id",
@@ -72,34 +75,37 @@
     "lon",
     "tag:name",
     "tag:natural",
-    "tag:tourism",
+    "tag:source:url",
+    "tag:volcano:type",
     "tag:wikidata",
-    "tag:wikipedia",
-    "tag:int_name",
-    "tag:name:de",
-    "tag:name:en",
-    "tag:historic",
-    "tag:access",
-    "tag:archaeological_site",
-    "tag:historic:civilization",
     "tag:ele",
-    "tag:name:sr",
-    "tag:source_ref"
+    "tag:salt",
+    "tag:source",
+    "tag:source:ele",
+    "tag:source:ref",
+    "tag:tidal",
+    "tag:water",
+    "tag:wikipedia",
+    "tag:geological",
+    "tag:loc_name",
+    "tag:sport",
+    "tag:wikimedia_commons",
+    "tag:windsurfing:conditional"
   ],
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ci_2025-12-21_170511Z.csv",
-      "dcat:byteSize": 1933
+      "dcat:downloadURL": "osm_export_drillcores_2025-12-21_171442Z.csv",
+      "dcat:byteSize": 2155
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ci_2025-12-21_170511Z.ttl",
-      "dcat:byteSize": 9376
+      "dcat:downloadURL": "osm_export_drillcores_2025-12-21_171442Z.ttl",
+      "dcat:byteSize": 9753
     }
   ],
   "output": {
-    "csv": "osm_export_ci_2025-12-21_170511Z.csv",
-    "ttl": "osm_export_ci_2025-12-21_170511Z.ttl"
+    "csv": "osm_export_drillcores_2025-12-21_171442Z.csv",
+    "ttl": "osm_export_drillcores_2025-12-21_171442Z.ttl"
   }
 }

@@ -8,9 +8,9 @@
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "holywells",
-  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-21_170500Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-21_171430Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-21T17:05:00.235012+00:00",
+  "dcterms:created": "2025-12-21T17:14:30.598795+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -165,17 +165,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_holywells_2025-12-21_170500Z.csv",
+      "dcat:downloadURL": "osm_export_holywells_2025-12-21_171430Z.csv",
       "dcat:byteSize": 196096
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_holywells_2025-12-21_170500Z.ttl",
+      "dcat:downloadURL": "osm_export_holywells_2025-12-21_171430Z.ttl",
       "dcat:byteSize": 644738
     }
   ],
   "output": {
-    "csv": "osm_export_holywells_2025-12-21_170500Z.csv",
-    "ttl": "osm_export_holywells_2025-12-21_170500Z.ttl"
+    "csv": "osm_export_holywells_2025-12-21_171430Z.csv",
+    "ttl": "osm_export_holywells_2025-12-21_171430Z.ttl"
   }
 }

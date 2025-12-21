@@ -15,9 +15,9 @@ osm2lod:node_13200943487 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Vulkan Dehner Maar"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200943487" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Vulkan Dehner Maar" ;
     osm2lod:osmtag__natural "volcano" ;
@@ -33,9 +33,9 @@ osm2lod:node_13200955773 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Vulkan Aueler Maar"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200955773" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Vulkan Aueler Maar" ;
     osm2lod:osmtag__natural "volcano" ;
@@ -51,10 +51,10 @@ osm2lod:way_144719688 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Holzmaar"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/144719688" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Holzmaar" ;
@@ -70,10 +70,10 @@ osm2lod:way_144726746 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Ulmener Maar"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/144726746" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Ulmener Maar" ;
@@ -90,10 +90,10 @@ osm2lod:way_144726755 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Jungferweiher"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/144726755" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Jungferweiher" ;
@@ -107,10 +107,10 @@ osm2lod:way_23450728 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Schalkenmehrener Maar"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/23450728" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__ele "421" ;
@@ -131,10 +131,10 @@ osm2lod:way_56428302 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Laacher See"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/56428302" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__ele "275" ;
@@ -156,10 +156,10 @@ osm2lod:way_72767715 a osm2lod:Maar,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Gemündener Maar"@en ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/72767715" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_170530Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_171442Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__ele "407" ;
@@ -197,10 +197,10 @@ osm2lod:56428302_geom a sf:Point ;
 osm2lod:72767715_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.83644002 50.177668450000006)"^^geosparql:wktLiteral .
 
-osm2lod:drillcores__2025-12-21_170530Z a osm2lod:Dataset,
+osm2lod:drillcores__2025-12-21_171442Z a osm2lod:Dataset,
         dcat:Dataset ;
-    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:drillcores:2025-12-21_170530Z" ;
+    dcterms:created "2025-12-21T17:14:42.648499+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:drillcores:2025-12-21_171442Z" ;
     dcterms:provenance """[out:json][timeout:25];
 (
   way(23450728);
