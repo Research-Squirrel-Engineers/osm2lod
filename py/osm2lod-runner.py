@@ -131,21 +131,21 @@ out meta geom;
 """,
         "entity_base_class": CRM.E55_Place,
     },
-    "drillcores": {
+    "drillcores": {  # https://overpass-turbo.eu/s/2hCr
         "query": """
 [out:json][timeout:25];
 (
   node(13386703821);
   node(13386786938);
+  node(13386723672);
   way(23450728);
   way(56428302);
-  node(13200939169);
-  node(13200972050);
-  node(13386723672);
+  way(72767715);
+  way(144726755);
+  way(144726746);
+  way(144719688);
   node(13200955773);
   node(13200943487);
-  node(13388651352);
-  node(13388641643);
 );
 out meta geom;
 """,
