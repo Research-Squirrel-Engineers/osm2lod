@@ -16,9 +16,9 @@ osm2lod:node_10879170567 a osm2lod:CI_Findspot,
         dcat:Dataset ;
     rdfs:label "Red wall"@en,
         "Црвена стијена"@sr ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10879170567" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__archaeological_site "megalith" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -35,9 +35,9 @@ osm2lod:node_11107939919 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Golema Pesht"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11107939919" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__archaeological_site "settlement" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -54,9 +54,9 @@ osm2lod:node_11109379095 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Toplitsa Cave"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11109379095" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__ele "300" ;
     osm2lod:osmtag__name "Toplitsa Cave" ;
@@ -71,9 +71,9 @@ osm2lod:node_1221172611 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Franchthi Cave"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1221172611" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__wikidata "Q1441331" ;
@@ -87,9 +87,9 @@ osm2lod:node_2293681037 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Grotta Paglicci"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2293681037" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__access "no" ;
     osm2lod:osmtag__archaeological_site "rock_painting" ;
@@ -107,9 +107,9 @@ osm2lod:node_337519639 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Grotte di Castelcivita"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/337519639" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__name "Grotte di Castelcivita" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -126,9 +126,9 @@ osm2lod:node_369821847 a osm2lod:CI_Findspot,
         dcat:Dataset ;
     rdfs:label "Temnata dupka (Dunkles Loch)"@de,
         "Temnata dupka"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/369821847" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__int_name "Temnata dupka" ;
     osm2lod:osmtag__name "Темната дупка" ;
@@ -143,9 +143,9 @@ osm2lod:node_7778324735 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Haua Fteah Cave"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7778324735" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__ele "67" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -162,9 +162,9 @@ osm2lod:node_8814442373 a osm2lod:CI_Findspot,
         crm:E55_Place,
         dcat:Dataset ;
     rdfs:label "Козарника"@en ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8814442373" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-21_124149Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_170511Z ;
     osm2lod:exportType "ci" ;
     osm2lod:osmtag__name "Козарника" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -200,10 +200,10 @@ osm2lod:7778324735_geom a sf:Point ;
 osm2lod:8814442373_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.7024397 43.6518818)"^^geosparql:wktLiteral .
 
-osm2lod:ci__2025-12-21_124149Z a osm2lod:Dataset,
+osm2lod:ci__2025-12-21_170511Z a osm2lod:Dataset,
         dcat:Dataset ;
-    dcterms:created "2025-12-21T12:41:49.520418+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:ci:2025-12-21_124149Z" ;
+    dcterms:created "2025-12-21T17:05:11.310468+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:ci:2025-12-21_170511Z" ;
     dcterms:provenance """[out:json][timeout:25];
 (
   node(337519639);
