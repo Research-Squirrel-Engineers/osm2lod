@@ -6,7 +6,8 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__wikimedia_commons"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
-    void:triples 15,
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
+    void:triples 1,
+        15,
         36 .
 

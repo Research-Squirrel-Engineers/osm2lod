@@ -8,8 +8,8 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: identifier"@en ;
     void:property dcterms:identifier ;
-    void:triples 9,
-        10,
+    void:triples 10,
+        19,
         107,
         713 .
 

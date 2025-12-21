@@ -1,14 +1,9 @@
 @prefix ns1: <http://purl.org/vocommons/voaf#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/dcat_osm2lod_occ> a ns1:DatasetOccurrence,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in osm2lod" ;
-    ns1:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    ns1:occurrences 14,
-        22,
-        216,
-        1428 .
+    ns1:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> .
 

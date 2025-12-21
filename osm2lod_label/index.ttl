@@ -7,8 +7,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
-    void:triples 9,
-        15,
-        111,
-        774 .
+    void:triples 11,
+        107,
+        770 .
 

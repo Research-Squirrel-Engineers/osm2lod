@@ -11,8 +11,8 @@
     void:property dcterms:type,
         rdf:type ;
     void:triples 1,
-        27,
-        43,
-        431,
-        2855 .
+        47,
+        57,
+        532,
+        3562 .
 

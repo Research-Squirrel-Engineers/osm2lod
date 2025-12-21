@@ -6,9 +6,9 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__name"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
-    void:triples 5,
-        8,
+    void:property <https://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
+    void:triples 8,
+        11,
         73,
         626 .
 

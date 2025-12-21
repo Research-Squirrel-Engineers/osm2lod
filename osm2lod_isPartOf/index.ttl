@@ -8,8 +8,8 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: isPartOf"@en ;
     void:property dcterms:isPartOf ;
-    void:triples 5,
-        9,
+    void:triples 9,
+        11,
         106,
         712 .
 
