@@ -19,7 +19,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
       version: v018
-      rdffilepath: rdf/ci_2025-12-19.ttl rdf/drillcores_2025-12-19.ttl rdf/holywells_2025-12-19.ttl rdf/ogham_2025-12-19.ttl
+      rdffilepath: rdf/ci.ttl rdf/drillcores.ttl rdf/holywells.ttl rdf/ogham.ttl
       docpath: docs
       prefixns: http://research-squirrel-engineers.github.io/osm2lod/
       prefixnsshort: osm2lod

@@ -1,0 +1,183 @@
+CREATE
+LAST|Len|"Walsdorfer Maar"
+LAST|Den|"OSM import snapshot (drillcores) – node 13200939169"
+LAST|P1|Q20
+LAST|P3|13200939169
+LAST|P4|Q5
+LAST|P5|@50.2719561/6.7115499
+LAST|P6|"Q136451649"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=4064"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13200939169"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|2
+LAST|P16|172964941
+LAST|P17|"2025-10-07T15:27:11Z"
+
+CREATE
+LAST|Len|"Dehner Maar"
+LAST|Den|"OSM import snapshot (drillcores) – node 13200943487"
+LAST|P1|Q20
+LAST|P3|13200943487
+LAST|P4|Q5
+LAST|P5|@50.2923379/6.5064981
+LAST|P6|"Q134466523"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=8502"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13200943487"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|2
+LAST|P16|172965040
+LAST|P17|"2025-10-07T15:29:33Z"
+
+CREATE
+LAST|Len|"Auel Maar"
+LAST|Den|"OSM import snapshot (drillcores) – node 13200955773"
+LAST|P1|Q20
+LAST|P3|13200955773
+LAST|P4|Q5
+LAST|P5|@50.2775941/6.5933215
+LAST|P6|"Q134466471"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=23391"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13200955773"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|2
+LAST|P16|172964975
+LAST|P17|"2025-10-07T15:27:50Z"
+
+CREATE
+LAST|Len|"Hoher List Maar"
+LAST|Den|"OSM import snapshot (drillcores) – node 13200972050"
+LAST|P1|Q20
+LAST|P3|13200972050
+LAST|P4|Q5
+LAST|P5|@50.1623939/6.8544655
+LAST|P6|"Q136451651"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=23395"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13200972050"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|2
+LAST|P16|172965072
+LAST|P17|"2025-10-07T15:30:22Z"
+
+CREATE
+LAST|Len|"AU3"
+LAST|Den|"OSM import snapshot (drillcores) – node 13386703821"
+LAST|P1|Q17
+LAST|P3|13386703821
+LAST|P4|Q5
+LAST|P5|@50.2824961/6.5951003
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=23391"
+LAST|P9|"ref=AU3"
+LAST|P9|"source:ref=doi=10.3390/quat7020017"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13386703821"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|3
+LAST|P16|176101661
+LAST|P17|"2025-12-18T15:40:52Z"
+
+CREATE
+LAST|Len|"DE4"
+LAST|Den|"OSM import snapshot (drillcores) – node 13386723672"
+LAST|P1|Q17
+LAST|P3|13386723672
+LAST|P4|Q5
+LAST|P5|@50.2927959/6.5065854
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=8502"
+LAST|P9|"ref=DE4"
+LAST|P9|"source:ref=doi=10.3390/quat7020017"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13386723672"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|1
+LAST|P16|176102156
+LAST|P17|"2025-12-18T15:49:54Z"
+
+CREATE
+LAST|Len|"AU4"
+LAST|Den|"OSM import snapshot (drillcores) – node 13386786938"
+LAST|P1|Q17
+LAST|P3|13386786938
+LAST|P4|Q5
+LAST|P5|@50.2821054/6.5949806
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=23391"
+LAST|P9|"ref=AU4"
+LAST|P9|"source:ref=doi=10.3390/quat7020017"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13386786938"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|1
+LAST|P16|176101890
+LAST|P17|"2025-12-18T15:45:10Z"
+
+CREATE
+LAST|Len|"HL1"
+LAST|Den|"OSM import snapshot (drillcores) – node 13388641643"
+LAST|P1|Q17
+LAST|P3|13388641643
+LAST|P4|Q5
+LAST|P5|@50.1641502/6.835774
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=23395"
+LAST|P9|"ref=HL1"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13388641643"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|2
+LAST|P16|176140512
+LAST|P17|"2025-12-19T13:17:43Z"
+
+CREATE
+LAST|Len|"WD1"
+LAST|Den|"OSM import snapshot (drillcores) – node 13388651352"
+LAST|P1|Q17
+LAST|P3|13388651352
+LAST|P4|Q5
+LAST|P5|@50.2715415/6.7144322
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=4064"
+LAST|P9|"ref=WD1"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13388651352"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|2
+LAST|P16|176140445
+LAST|P17|"2025-12-19T13:15:31Z"
+
+CREATE
+LAST|Len|"Schalkenmehrener Maar"
+LAST|Den|"OSM import snapshot (drillcores) – way 23450728"
+LAST|P1|Q17
+LAST|P3|23450728
+LAST|P4|Q6
+LAST|P5|@50.169354029508206/6.857113904918035
+LAST|P6|"Q2230360"
+LAST|P7|"https://de.wikipedia.org/wiki/Schalkenmehrener_Maar"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=16656"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/23450728"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|18
+LAST|P16|176140712
+LAST|P17|"2025-12-19T13:22:37Z"
+
+CREATE
+LAST|Len|"Laacher See"
+LAST|Den|"OSM import snapshot (drillcores) – way 56428302"
+LAST|P1|Q17
+LAST|P3|56428302
+LAST|P4|Q6
+LAST|P5|@50.41012529681529/7.266720711464967
+LAST|P6|"Q549267"
+LAST|P7|"https://de.wikipedia.org/wiki/Laacher_See"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/56428302"
+LAST|P12|"2025-12-21T09:34:01Z"
+LAST|P13|36
+LAST|P16|176140841
+LAST|P17|"2025-12-19T13:26:50Z"

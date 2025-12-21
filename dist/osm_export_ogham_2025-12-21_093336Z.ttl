@@ -3,7 +3,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
-@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix osm2lod: <https://research-squirrel-engineers.github.io/osm2lod/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sf: <http://www.opengis.net/ont/sf#> .
@@ -12,11 +12,12 @@
 
 osm2lod:node_10040750611 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 137 / TCBKD A"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10040750611" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10040750611_geom ;
     owl:sameAs wd:Q70892569 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10040750611> ;
@@ -28,11 +29,12 @@ osm2lod:node_10040750611 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10040757680 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 242"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10040757680" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10040757680_geom ;
     owl:sameAs wd:Q70892852 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10040757680> ;
@@ -44,11 +46,12 @@ osm2lod:node_10040757680 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10041491619 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 141"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10041491619" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10041491619_geom ;
     owl:sameAs wd:Q70892578 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10041491619> ;
@@ -60,11 +63,12 @@ osm2lod:node_10041491619 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10041927343 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 142"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10041927343" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10041927343_geom ;
     owl:sameAs wd:Q70892582 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10041927343> ;
@@ -76,11 +80,12 @@ osm2lod:node_10041927343 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10560404607 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 86 / UCC 18"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10560404607" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10560404607_geom ;
     owl:sameAs wd:Q106680741 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10560404607> ;
@@ -93,11 +98,12 @@ osm2lod:node_10560404607 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10563395863 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 185 / TCBKD B"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10563395863" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10563395863_geom ;
     owl:sameAs wd:Q106680858 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10563395863> ;
@@ -109,11 +115,12 @@ osm2lod:node_10563395863 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10594924965 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Crossoona Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10594924965" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10594924965_geom ;
     owl:sameAs wd:Q28232133 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10594924965> ;
@@ -125,11 +132,12 @@ osm2lod:node_10594924965 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10594973066 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Castletimon Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10594973066" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10594973066_geom ;
     owl:sameAs wd:Q28232123 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10594973066> ;
@@ -142,11 +150,12 @@ osm2lod:node_10594973066 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10601966811 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10601966811"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10601966811" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10601966811_geom ;
     owl:sameAs wd:Q116689501 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10601966811> ;
@@ -157,11 +166,12 @@ osm2lod:node_10601966811 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10601966825 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10601966825"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10601966825" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10601966825_geom ;
     owl:sameAs wd:Q116689501 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10601966825> ;
@@ -172,11 +182,12 @@ osm2lod:node_10601966825 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10633917137 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10633917137"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10633917137" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10633917137_geom ;
     owl:sameAs wd:Q29587056 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10633917137> ;
@@ -187,11 +198,12 @@ osm2lod:node_10633917137 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10633917138 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10633917138"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10633917138" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10633917138_geom ;
     owl:sameAs wd:Q29587056 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10633917138> ;
@@ -202,11 +214,12 @@ osm2lod:node_10633917138 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10639514250 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ballybowler North Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10639514250" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10639514250_geom ;
     owl:sameAs wd:Q78062999 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10639514250> ;
@@ -219,11 +232,12 @@ osm2lod:node_10639514250 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10652133873 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10652133873"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10652133873" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10652133873_geom ;
     owl:sameAs wd:Q38251789 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10652133873> ;
@@ -234,11 +248,12 @@ osm2lod:node_10652133873 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10652214543 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10652214543"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10652214543" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10652214543_geom ;
     owl:sameAs wd:Q96377241 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10652214543> ;
@@ -251,11 +266,12 @@ osm2lod:node_10652214543 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10656139839 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10656139839"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10656139839" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10656139839_geom ;
     owl:sameAs wd:Q40889193 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10656139839> ;
@@ -267,11 +283,12 @@ osm2lod:node_10656139839 a crm:E22_Human_Made_Object,
 
 osm2lod:node_10709752679 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 10709752679"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10709752679" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:10709752679_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/10709752679> ;
     osm2lod:exportType "ogham" ;
@@ -280,11 +297,12 @@ osm2lod:node_10709752679 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11071324384 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 195"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11071324384" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11071324384_geom ;
     owl:sameAs wd:Q106680877 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11071324384> ;
@@ -296,11 +314,12 @@ osm2lod:node_11071324384 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11071361392 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 81 / UCC 4"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11071361392" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11071361392_geom ;
     owl:sameAs wd:Q106680733 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11071361392> ;
@@ -312,11 +331,12 @@ osm2lod:node_11071361392 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11253027975 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11253027975"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11253027975" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11253027975_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11253027975> ;
     osm2lod:exportType "ogham" ;
@@ -325,11 +345,12 @@ osm2lod:node_11253027975 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269073312 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone Ballinrannig I"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269073312" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269073312_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269073312> ;
     osm2lod:exportType "ogham" ;
@@ -338,11 +359,12 @@ osm2lod:node_11269073312 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269073313 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone Ballinrannig IV"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269073313" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269073313_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269073313> ;
     osm2lod:exportType "ogham" ;
@@ -351,11 +373,12 @@ osm2lod:node_11269073313 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269073314 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone CIIC 175. Burnham West"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269073314" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269073314_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269073314> ;
     osm2lod:exportType "ogham" ;
@@ -364,11 +387,12 @@ osm2lod:node_11269073314 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269073315 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone Ballinrannig II"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269073315" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269073315_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269073315> ;
     osm2lod:exportType "ogham" ;
@@ -377,11 +401,12 @@ osm2lod:node_11269073315 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269073316 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone Ballinrannig III"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269073316" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269073316_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269073316> ;
     osm2lod:exportType "ogham" ;
@@ -390,11 +415,12 @@ osm2lod:node_11269073316 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119003 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119003"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119003" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119003_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119003> ;
     osm2lod:exportType "ogham" ;
@@ -402,11 +428,12 @@ osm2lod:node_11269119003 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119004 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119004"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119004" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119004_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119004> ;
     osm2lod:exportType "ogham" ;
@@ -414,11 +441,12 @@ osm2lod:node_11269119004 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119005 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119005"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119005" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119005_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119005> ;
     osm2lod:exportType "ogham" ;
@@ -426,11 +454,12 @@ osm2lod:node_11269119005 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119006 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119006"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119006" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119006_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119006> ;
     osm2lod:exportType "ogham" ;
@@ -438,11 +467,12 @@ osm2lod:node_11269119006 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119007 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119007"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119007" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119007_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119007> ;
     osm2lod:exportType "ogham" ;
@@ -450,11 +480,12 @@ osm2lod:node_11269119007 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119008 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119008"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119008" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119008_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119008> ;
     osm2lod:exportType "ogham" ;
@@ -462,11 +493,12 @@ osm2lod:node_11269119008 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119009 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119009"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119009" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119009_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119009> ;
     osm2lod:exportType "ogham" ;
@@ -475,11 +507,12 @@ osm2lod:node_11269119009 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119010 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119010"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119010" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119010_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119010> ;
     osm2lod:exportType "ogham" ;
@@ -487,11 +520,12 @@ osm2lod:node_11269119010 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269119011 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269119011"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269119011" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269119011_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269119011> ;
     osm2lod:exportType "ogham" ;
@@ -499,11 +533,12 @@ osm2lod:node_11269119011 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269165789 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269165789"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269165789" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269165789_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269165789> ;
     osm2lod:exportType "ogham" ;
@@ -512,11 +547,12 @@ osm2lod:node_11269165789 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11269165790 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11269165790"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11269165790" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11269165790_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11269165790> ;
     osm2lod:exportType "ogham" ;
@@ -524,11 +560,12 @@ osm2lod:node_11269165790 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11558269687 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Long Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11558269687" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11558269687_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11558269687> ;
     osm2lod:exportType "ogham" ;
@@ -538,11 +575,12 @@ osm2lod:node_11558269687 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11574593297 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11574593297"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11574593297" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11574593297_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11574593297> ;
     osm2lod:exportType "ogham" ;
@@ -551,11 +589,12 @@ osm2lod:node_11574593297 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11575064111 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "St. Olan's Cap"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11575064111" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11575064111_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11575064111> ;
     osm2lod:exportType "ogham" ;
@@ -564,11 +603,12 @@ osm2lod:node_11575064111 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11677109638 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 153 (Ballinrannig VI)"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11677109638" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11677109638_geom ;
     owl:sameAs wd:Q106680820 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11677109638> ;
@@ -581,11 +621,12 @@ osm2lod:node_11677109638 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11677113764 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 152 (Ballinrannig V)"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11677113764" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11677113764_geom ;
     owl:sameAs wd:Q106680819 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11677113764> ;
@@ -598,11 +639,12 @@ osm2lod:node_11677113764 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11952692355 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 11952692355"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11952692355" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11952692355_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11952692355> ;
     osm2lod:exportType "ogham" ;
@@ -611,11 +653,12 @@ osm2lod:node_11952692355 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955662684 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 6"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955662684" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955662684_geom ;
     owl:sameAs wd:Q70382438 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955662684> ;
@@ -627,11 +670,12 @@ osm2lod:node_11955662684 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955662685 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 27"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955662685" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955662685_geom ;
     owl:sameAs wd:Q70885739 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955662685> ;
@@ -644,11 +688,12 @@ osm2lod:node_11955662685 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670771 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 2"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670771" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670771_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670771> ;
     osm2lod:exportType "ogham" ;
@@ -658,11 +703,12 @@ osm2lod:node_11955670771 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670773 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 3"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670773" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670773_geom ;
     owl:sameAs wd:Q69385241 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670773> ;
@@ -674,11 +720,12 @@ osm2lod:node_11955670773 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670774 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 5"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670774" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670774_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670774> ;
     osm2lod:exportType "ogham" ;
@@ -688,11 +735,12 @@ osm2lod:node_11955670774 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670775 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 12"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670775" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670775_geom ;
     owl:sameAs wd:Q70885701 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670775> ;
@@ -704,11 +752,12 @@ osm2lod:node_11955670775 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670776 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 24"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670776" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670776_geom ;
     owl:sameAs wd:Q70885730 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670776> ;
@@ -720,11 +769,12 @@ osm2lod:node_11955670776 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670777 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 28"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670777" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670777_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670777> ;
     osm2lod:exportType "ogham" ;
@@ -734,11 +784,12 @@ osm2lod:node_11955670777 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670778 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 23"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670778" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670778_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670778> ;
     osm2lod:exportType "ogham" ;
@@ -748,11 +799,12 @@ osm2lod:node_11955670778 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670779 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 22"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670779" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670779_geom ;
     owl:sameAs wd:Q70885727 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670779> ;
@@ -764,11 +816,12 @@ osm2lod:node_11955670779 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670780 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 20"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670780" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670780_geom ;
     owl:sameAs wd:Q70885722 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670780> ;
@@ -780,11 +833,12 @@ osm2lod:node_11955670780 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670781 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 1"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670781" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670781_geom ;
     owl:sameAs wd:Q69377850 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670781> ;
@@ -796,11 +850,12 @@ osm2lod:node_11955670781 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670784 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 21"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670784" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670784_geom ;
     owl:sameAs wd:Q70885723 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670784> ;
@@ -812,11 +867,12 @@ osm2lod:node_11955670784 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670785 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 10"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670785" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670785_geom ;
     owl:sameAs wd:Q70885697 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670785> ;
@@ -828,11 +884,12 @@ osm2lod:node_11955670785 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670786 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 19"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670786" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670786_geom ;
     owl:sameAs wd:Q70885720 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670786> ;
@@ -845,11 +902,12 @@ osm2lod:node_11955670786 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670788 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 17"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670788" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670788_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670788> ;
     osm2lod:exportType "ogham" ;
@@ -859,11 +917,12 @@ osm2lod:node_11955670788 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670789 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 16"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670789" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670789_geom ;
     owl:sameAs wd:Q70885712 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670789> ;
@@ -876,11 +935,12 @@ osm2lod:node_11955670789 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670790 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 94/ UCC 15"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670790" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670790_geom ;
     owl:sameAs wd:Q70885706 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670790> ;
@@ -892,11 +952,12 @@ osm2lod:node_11955670790 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670791 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 14"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670791" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670791_geom ;
     owl:sameAs wd:Q70885704 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670791> ;
@@ -908,11 +969,12 @@ osm2lod:node_11955670791 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670792 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 13"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670792" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670792_geom ;
     owl:sameAs wd:Q70885703 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670792> ;
@@ -924,11 +986,12 @@ osm2lod:node_11955670792 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670793 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 11"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670793" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670793_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670793> ;
     osm2lod:exportType "ogham" ;
@@ -938,11 +1001,12 @@ osm2lod:node_11955670793 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670794 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 25"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670794" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670794_geom ;
     owl:sameAs wd:Q70885734 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670794> ;
@@ -955,11 +1019,12 @@ osm2lod:node_11955670794 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670796 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 7"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670796" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670796_geom ;
     owl:sameAs wd:Q70885690 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670796> ;
@@ -972,11 +1037,12 @@ osm2lod:node_11955670796 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670797 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 8"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670797" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670797_geom ;
     owl:sameAs wd:Q70885692 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670797> ;
@@ -988,11 +1054,12 @@ osm2lod:node_11955670797 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11955670798 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "UCC 9"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11955670798" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11955670798_geom ;
     owl:sameAs wd:Q70885695 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11955670798> ;
@@ -1004,11 +1071,12 @@ osm2lod:node_11955670798 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11966423819 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Kilbrittain Fragment"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11966423819" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11966423819_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11966423819> ;
     osm2lod:exportType "ogham" ;
@@ -1018,11 +1086,12 @@ osm2lod:node_11966423819 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11966430251 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CHUIS/1"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11966430251" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11966430251_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11966430251> ;
     osm2lod:exportType "ogham" ;
@@ -1032,11 +1101,12 @@ osm2lod:node_11966430251 a crm:E22_Human_Made_Object,
 
 osm2lod:node_11966441102 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "GEARS/1"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11966441102" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:11966441102_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/11966441102> ;
     osm2lod:exportType "ogham" ;
@@ -1046,11 +1116,12 @@ osm2lod:node_11966441102 a crm:E22_Human_Made_Object,
 
 osm2lod:node_12276963607 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone CIIC 147. Ballineesteenigh"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12276963607" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:12276963607_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12276963607> ;
     osm2lod:exportType "ogham" ;
@@ -1059,11 +1130,12 @@ osm2lod:node_12276963607 a crm:E22_Human_Made_Object,
 
 osm2lod:node_12276982960 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ogham Stone BURNHAM EAST V"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12276982960" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:12276982960_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12276982960> ;
     osm2lod:exportType "ogham" ;
@@ -1073,11 +1145,12 @@ osm2lod:node_12276982960 a crm:E22_Human_Made_Object,
 
 osm2lod:node_12661114455 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 12661114455"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12661114455" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:12661114455_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12661114455> ;
     osm2lod:exportType "ogham" ;
@@ -1086,11 +1159,12 @@ osm2lod:node_12661114455 a crm:E22_Human_Made_Object,
 
 osm2lod:node_1275923177 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Arraglen Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1275923177" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:1275923177_geom ;
     owl:sameAs wd:Q48797670 ;
     foaf:primaryTopic <http://openstreetmap.org/node/1275923177> ;
@@ -1104,11 +1178,12 @@ osm2lod:node_1275923177 a crm:E22_Human_Made_Object,
 
 osm2lod:node_2428911148 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 2428911148"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2428911148" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:2428911148_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/2428911148> ;
     osm2lod:exportType "ogham" ;
@@ -1118,11 +1193,12 @@ osm2lod:node_2428911148 a crm:E22_Human_Made_Object,
 
 osm2lod:node_3220290865 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Breastagh Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3220290865" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:3220290865_geom ;
     owl:sameAs wd:Q28232526 ;
     foaf:primaryTopic <http://openstreetmap.org/node/3220290865> ;
@@ -1134,11 +1210,12 @@ osm2lod:node_3220290865 a crm:E22_Human_Made_Object,
 
 osm2lod:node_3621783646 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 3621783646"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3621783646" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:3621783646_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/3621783646> ;
     osm2lod:exportType "ogham" ;
@@ -1148,11 +1225,12 @@ osm2lod:node_3621783646 a crm:E22_Human_Made_Object,
 
 osm2lod:node_3663314804 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Templebryan North Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3663314804" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:3663314804_geom ;
     owl:sameAs wd:Q21036926 ;
     foaf:primaryTopic <http://openstreetmap.org/node/3663314804> ;
@@ -1164,11 +1242,12 @@ osm2lod:node_3663314804 a crm:E22_Human_Made_Object,
 
 osm2lod:node_4395991496 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Lugnagappul Ogham Stones"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4395991496" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:4395991496_geom ;
     owl:sameAs wd:Q2016156 ;
     foaf:primaryTopic <http://openstreetmap.org/node/4395991496> ;
@@ -1180,12 +1259,13 @@ osm2lod:node_4395991496 a crm:E22_Human_Made_Object,
 
 osm2lod:node_452289802 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Darrynane Beg Ogham Stone"@en,
         "Cloch Oghaim Dhoire Fhíonáin Beag"@ga ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/452289802" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:452289802_geom ;
     owl:sameAs wd:Q42377707 ;
     foaf:primaryTopic <http://openstreetmap.org/node/452289802> ;
@@ -1197,11 +1277,12 @@ osm2lod:node_452289802 a crm:E22_Human_Made_Object,
 
 osm2lod:node_473149586 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ballycrovane Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/473149586" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:473149586_geom ;
     owl:sameAs wd:Q805400 ;
     foaf:primaryTopic <http://openstreetmap.org/node/473149586> ;
@@ -1214,11 +1295,12 @@ osm2lod:node_473149586 a crm:E22_Human_Made_Object,
 
 osm2lod:node_5111098877 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Lamoge Ogham Stone 1"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5111098877" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:5111098877_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/5111098877> ;
     osm2lod:exportType "ogham" ;
@@ -1228,11 +1310,12 @@ osm2lod:node_5111098877 a crm:E22_Human_Made_Object,
 
 osm2lod:node_5111098878 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Lamoge Ogham Stone 2"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5111098878" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:5111098878_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/5111098878> ;
     osm2lod:exportType "ogham" ;
@@ -1242,11 +1325,12 @@ osm2lod:node_5111098878 a crm:E22_Human_Made_Object,
 
 osm2lod:node_5145413640 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 178"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5145413640" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:5145413640_geom ;
     owl:sameAs wd:Q70892682 ;
     foaf:primaryTopic <http://openstreetmap.org/node/5145413640> ;
@@ -1259,11 +1343,12 @@ osm2lod:node_5145413640 a crm:E22_Human_Made_Object,
 
 osm2lod:node_5965037771 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Tullaherin Ogham Stone II"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5965037771" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:5965037771_geom ;
     owl:sameAs wd:Q106674357 ;
     foaf:primaryTopic <http://openstreetmap.org/node/5965037771> ;
@@ -1280,11 +1365,12 @@ osm2lod:node_5965037771 a crm:E22_Human_Made_Object,
 
 osm2lod:node_600221596 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "The Long Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/600221596" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:600221596_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/600221596> ;
     osm2lod:exportType "ogham" ;
@@ -1294,11 +1380,12 @@ osm2lod:node_600221596 a crm:E22_Human_Made_Object,
 
 osm2lod:node_6810674728 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 203"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6810674728" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:6810674728_geom ;
     owl:sameAs wd:Q67978531 ;
     foaf:primaryTopic <http://openstreetmap.org/node/6810674728> ;
@@ -1310,11 +1397,12 @@ osm2lod:node_6810674728 a crm:E22_Human_Made_Object,
 
 osm2lod:node_7082266109 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Tullygarran Ogham Stones"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7082266109" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:7082266109_geom ;
     owl:sameAs wd:Q40888587 ;
     foaf:primaryTopic <http://openstreetmap.org/node/7082266109> ;
@@ -1330,11 +1418,12 @@ osm2lod:node_7082266109 a crm:E22_Human_Made_Object,
 
 osm2lod:node_7082293699 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 7082293699"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7082293699" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:7082293699_geom ;
     owl:sameAs wd:Q30247114 ;
     foaf:primaryTopic <http://openstreetmap.org/node/7082293699> ;
@@ -1346,11 +1435,12 @@ osm2lod:node_7082293699 a crm:E22_Human_Made_Object,
 
 osm2lod:node_7110849500 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Churchclara Ogham Stone II"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7110849500" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:7110849500_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/7110849500> ;
     osm2lod:exportType "ogham" ;
@@ -1362,11 +1452,12 @@ osm2lod:node_7110849500 a crm:E22_Human_Made_Object,
 
 osm2lod:node_7110849501 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Churchclara Ogham Stone I"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7110849501" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:7110849501_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/7110849501> ;
     osm2lod:exportType "ogham" ;
@@ -1377,11 +1468,12 @@ osm2lod:node_7110849501 a crm:E22_Human_Made_Object,
 
 osm2lod:node_7203972860 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ballinrannig Stone VII (CIIC 154)"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7203972860" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:7203972860_geom ;
     owl:sameAs wd:Q30247257 ;
     foaf:primaryTopic <http://openstreetmap.org/node/7203972860> ;
@@ -1395,11 +1487,12 @@ osm2lod:node_7203972860 a crm:E22_Human_Made_Object,
 
 osm2lod:node_7925063785 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Lugudeccas Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7925063785" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:7925063785_geom ;
     owl:sameAs wd:Q19297554 ;
     foaf:primaryTopic <http://openstreetmap.org/node/7925063785> ;
@@ -1410,11 +1503,12 @@ osm2lod:node_7925063785 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8308921075 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ballyboodan Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8308921075" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8308921075_geom ;
     owl:sameAs wd:Q28232281 ;
     foaf:primaryTopic <http://openstreetmap.org/node/8308921075> ;
@@ -1429,11 +1523,12 @@ osm2lod:node_8308921075 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8355471227 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8355471227"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8355471227" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8355471227_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8355471227> ;
     osm2lod:exportType "ogham" ;
@@ -1441,11 +1536,12 @@ osm2lod:node_8355471227 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8355471228 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8355471228"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8355471228" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8355471228_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8355471228> ;
     osm2lod:exportType "ogham" ;
@@ -1453,11 +1549,12 @@ osm2lod:node_8355471228 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8355471229 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8355471229"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8355471229" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8355471229_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8355471229> ;
     osm2lod:exportType "ogham" ;
@@ -1465,11 +1562,12 @@ osm2lod:node_8355471229 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8355471230 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8355471230"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8355471230" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8355471230_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8355471230> ;
     osm2lod:exportType "ogham" ;
@@ -1477,11 +1575,12 @@ osm2lod:node_8355471230 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8355471231 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8355471231"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8355471231" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8355471231_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8355471231> ;
     osm2lod:exportType "ogham" ;
@@ -1489,11 +1588,12 @@ osm2lod:node_8355471231 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8494707479 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Tullaherin Ogham Stone I"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8494707479" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8494707479_geom ;
     owl:sameAs wd:Q106674310 ;
     foaf:primaryTopic <http://openstreetmap.org/node/8494707479> ;
@@ -1510,11 +1610,12 @@ osm2lod:node_8494707479 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8520931982 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8520931982"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8520931982" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8520931982_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8520931982> ;
     osm2lod:exportType "ogham" ;
@@ -1525,11 +1626,12 @@ osm2lod:node_8520931982 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8520962885 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "OSM node 8520962885"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8520962885" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8520962885_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/8520962885> ;
     osm2lod:exportType "ogham" ;
@@ -1541,11 +1643,12 @@ osm2lod:node_8520962885 a crm:E22_Human_Made_Object,
 
 osm2lod:node_8584276628 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Ardcanaght Ogham Stone"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8584276628" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:8584276628_geom ;
     owl:sameAs wd:Q38251860 ;
     foaf:primaryTopic <http://openstreetmap.org/node/8584276628> ;
@@ -1558,11 +1661,12 @@ osm2lod:node_8584276628 a crm:E22_Human_Made_Object,
 
 osm2lod:node_9110402648 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 187"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9110402648" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:9110402648_geom ;
     owl:sameAs wd:Q70892706 ;
     foaf:primaryTopic <http://openstreetmap.org/node/9110402648> ;
@@ -1575,11 +1679,12 @@ osm2lod:node_9110402648 a crm:E22_Human_Made_Object,
 
 osm2lod:node_9990835587 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "CIIC 114/ UCC 26"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9990835587" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:9990835587_geom ;
     owl:sameAs wd:Q70885736 ;
     foaf:primaryTopic <http://openstreetmap.org/node/9990835587> ;
@@ -1592,11 +1697,12 @@ osm2lod:node_9990835587 a crm:E22_Human_Made_Object,
 
 osm2lod:way_1209135262 a crm:E22_Human_Made_Object,
         dcat:Dataset,
-        osm2lod:OSMEntity ;
+        osm2lod:OSMEntity,
+        osm2lod:OghamStone ;
     rdfs:label "Drumlohan Souterrain and Ogham Stones"@en ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/1209135262" ;
-    dcterms:isPartOf osm2lod:ogham__2025-12-19_115859Z ;
+    dcterms:isPartOf osm2lod:ogham__2025-12-21_093336Z ;
     geosparql:hasGeometry osm2lod:1209135262_geom ;
     owl:sameAs wd:Q1261275 ;
     foaf:primaryTopic <http://openstreetmap.org/way/1209135262> ;
@@ -1925,10 +2031,10 @@ osm2lod:9110402648_geom a sf:Point ;
 osm2lod:9990835587_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-8.4922982 51.8937512)"^^geosparql:wktLiteral .
 
-osm2lod:ogham__2025-12-19_115859Z a dcat:Dataset,
+osm2lod:ogham__2025-12-21_093336Z a dcat:Dataset,
         osm2lod:Dataset ;
-    dcterms:created "2025-12-19T11:58:59.691160+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:ogham:2025-12-19_115859Z" ;
+    dcterms:created "2025-12-21T09:33:36.831343+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:ogham:2025-12-21_093336Z" ;
     dcterms:provenance """[out:json][timeout:25];
 area["name"="Ireland"]->.boundaryarea;
 nwr(area.boundaryarea)["historic"="ogham_stone"];

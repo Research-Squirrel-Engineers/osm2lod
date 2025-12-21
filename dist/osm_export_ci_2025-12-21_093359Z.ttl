@@ -3,7 +3,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
-@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix osm2lod: <https://research-squirrel-engineers.github.io/osm2lod/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sf: <http://www.opengis.net/ont/sf#> .
@@ -12,12 +12,13 @@
 
 osm2lod:node_10879170567 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Red wall"@en,
         "Црвена стијена"@sr ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10879170567" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:10879170567_geom ;
     owl:sameAs wd:Q121418883 ;
     foaf:primaryTopic <http://openstreetmap.org/node/10879170567> ;
@@ -31,11 +32,12 @@ osm2lod:node_10879170567 a crm:E55_Place,
 
 osm2lod:node_11107939919 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Golema Pesht"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11107939919" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:11107939919_geom ;
     owl:sameAs wd:Q20565511 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11107939919> ;
@@ -49,11 +51,12 @@ osm2lod:node_11107939919 a crm:E55_Place,
 
 osm2lod:node_11109379095 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Toplitsa Cave"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11109379095" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:11109379095_geom ;
     owl:sameAs wd:Q61788595 ;
     foaf:primaryTopic <http://openstreetmap.org/node/11109379095> ;
@@ -65,11 +68,12 @@ osm2lod:node_11109379095 a crm:E55_Place,
 
 osm2lod:node_1221172611 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Franchthi Cave"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1221172611" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:1221172611_geom ;
     owl:sameAs wd:Q1441331 ;
     foaf:primaryTopic <http://openstreetmap.org/node/1221172611> ;
@@ -80,11 +84,12 @@ osm2lod:node_1221172611 a crm:E55_Place,
 
 osm2lod:node_2293681037 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Grotta Paglicci"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2293681037" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:2293681037_geom ;
     owl:sameAs wd:Q3777010 ;
     foaf:primaryTopic <http://openstreetmap.org/node/2293681037> ;
@@ -99,11 +104,12 @@ osm2lod:node_2293681037 a crm:E55_Place,
 
 osm2lod:node_337519639 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Grotte di Castelcivita"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/337519639" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:337519639_geom ;
     owl:sameAs wd:Q3777120 ;
     foaf:primaryTopic <http://openstreetmap.org/node/337519639> ;
@@ -116,12 +122,13 @@ osm2lod:node_337519639 a crm:E55_Place,
 
 osm2lod:node_369821847 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Temnata dupka (Dunkles Loch)"@de,
         "Temnata dupka"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/369821847" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:369821847_geom ;
     owl:sameAs wd:Q12296153 ;
     foaf:primaryTopic <http://openstreetmap.org/node/369821847> ;
@@ -133,11 +140,12 @@ osm2lod:node_369821847 a crm:E55_Place,
 
 osm2lod:node_7778324735 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Haua Fteah Cave"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7778324735" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:7778324735_geom ;
     owl:sameAs wd:Q25226810 ;
     foaf:primaryTopic <http://openstreetmap.org/node/7778324735> ;
@@ -151,11 +159,12 @@ osm2lod:node_7778324735 a crm:E55_Place,
 
 osm2lod:node_8814442373 a crm:E55_Place,
         dcat:Dataset,
+        osm2lod:CI_Findspot,
         osm2lod:OSMEntity ;
     rdfs:label "Козарника"@en ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8814442373" ;
-    dcterms:isPartOf osm2lod:ci__2025-12-19_115915Z ;
+    dcterms:isPartOf osm2lod:ci__2025-12-21_093359Z ;
     geosparql:hasGeometry osm2lod:8814442373_geom ;
     owl:sameAs wd:Q2037533 ;
     foaf:primaryTopic <http://openstreetmap.org/node/8814442373> ;
@@ -191,10 +200,10 @@ osm2lod:7778324735_geom a sf:Point ;
 osm2lod:8814442373_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.7024397 43.6518818)"^^geosparql:wktLiteral .
 
-osm2lod:ci__2025-12-19_115915Z a dcat:Dataset,
+osm2lod:ci__2025-12-21_093359Z a dcat:Dataset,
         osm2lod:Dataset ;
-    dcterms:created "2025-12-19T11:59:15.534813+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:ci:2025-12-19_115915Z" ;
+    dcterms:created "2025-12-21T09:33:59.266267+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:ci:2025-12-21_093359Z" ;
     dcterms:provenance """[out:json][timeout:25];
 (
   node(337519639);

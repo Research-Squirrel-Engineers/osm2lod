@@ -137,9 +137,15 @@ out meta geom;
 (
   node(13386703821);
   node(13386786938);
+  way(23450728);
+  way(56428302);
+  node(13200939169);
+  node(13200972050);
   node(13386723672);
   node(13200955773);
   node(13200943487);
+  node(13388651352);
+  node(13388641643);
 );
 out meta geom;
 """,
@@ -211,6 +217,18 @@ P4_TYPE_ITEM = {"node": "Q5", "way": "Q6", "relation": "Q7"}
 _NA_STRINGS = {"nan", "na", "n/a", "null", "none", "nil", "-"}
 _DOI_RE = re.compile(r"(10\.\d{4,9}/[-._;()/:A-Z0-9]+)", re.IGNORECASE)
 _BCP47_RE = re.compile(r"^[a-zA-Z]{2,3}([\-][a-zA-Z0-9]{2,8})*$")
+
+# =================================================
+# Export-type specific RDF classes (osm2lod)
+# =================================================
+
+EXPORT_RDFTYPE: Dict[str, URIRef] = {
+    "ogham": URIRef(f"{OSM2LOD}OghamStone"),
+    "holywells": URIRef(f"{OSM2LOD}HolyWell"),
+    "ci": URIRef(f"{OSM2LOD}CI_Findspot"),
+    "maar": URIRef(f"{OSM2LOD}Maar"),
+    "coreprofile": URIRef(f"{OSM2LOD}CoreProfile"),
+}
 
 
 # =================================================
@@ -706,6 +724,8 @@ def export_to_rdf(
         if is_valid_lang_tag(lang):
             name_lang_cols.append((col, lang))
 
+    export_specific_rdf_type = EXPORT_RDFTYPE.get(export_type)
+
     for _, row in df.iterrows():
         el_type = str(row["type"])
         el_id = int(row["id"])
@@ -721,6 +741,20 @@ def export_to_rdf(
         g.add((rec, RDF.type, DCAT.Dataset))
         g.add((rec, RDF.type, entity_base_class))
         g.add((rec, RDF.type, URIRef(f"{OSM2LOD}OSMEntity")))
+
+        # -------------------------------------------------
+        # export-specific rdf:type (incl. drillcores split)
+        # -------------------------------------------------
+        if export_type == "drillcores":
+            mm = clean_value(row.get("tag:man_made"))
+            if mm and mm.strip().lower() == "bore_hole":
+                g.add((rec, RDF.type, EXPORT_RDFTYPE["coreprofile"]))
+            else:
+                # default for all other records in drillcores export
+                g.add((rec, RDF.type, EXPORT_RDFTYPE["maar"]))
+        else:
+            if export_specific_rdf_type is not None:
+                g.add((rec, RDF.type, export_specific_rdf_type))
 
         g.add((rec, DCTERMS.isPartOf, dataset))
 

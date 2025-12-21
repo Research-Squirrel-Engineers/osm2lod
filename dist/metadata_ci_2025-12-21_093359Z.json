@@ -7,17 +7,17 @@
     "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
-  "exportType": "drillcores",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-19_115918Z",
+  "exportType": "ci",
+  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-21_093359Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-19T11:59:18.124466+00:00",
+  "dcterms:created": "2025-12-21T09:33:59.266267+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\n(\n  node(13386703821);\n  node(13386786938);\n  node(13386723672);\n  node(13200955773);\n  node(13200943487);\n);\nout meta geom;",
+  "overpassQuery": "[out:json][timeout:25];\n(\n  node(337519639);\n  node(369821847);\n  node(1221172611);\n  node(2293681037);\n  node(7778324735);\n  node(8814442373);\n  node(10879170567);\n  node(11107939919);\n  node(11109379095);\n);\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
   "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
@@ -58,11 +58,8 @@
     "website",
     "url"
   ],
-  "extraTagKeys": [
-    "volcano:status",
-    "volcano:type"
-  ],
-  "recordCount": 5,
+  "extraTagKeys": [],
+  "recordCount": 9,
   "columns": [
     "type",
     "id",
@@ -75,29 +72,34 @@
     "lon",
     "tag:name",
     "tag:natural",
-    "tag:source:url",
-    "tag:volcano:status",
-    "tag:volcano:type",
+    "tag:tourism",
     "tag:wikidata",
-    "tag:description",
-    "tag:man_made",
-    "tag:ref",
-    "tag:source:ref"
+    "tag:wikipedia",
+    "tag:int_name",
+    "tag:name:de",
+    "tag:name:en",
+    "tag:historic",
+    "tag:access",
+    "tag:archaeological_site",
+    "tag:historic:civilization",
+    "tag:ele",
+    "tag:name:sr",
+    "tag:source_ref"
   ],
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_drillcores_2025-12-19_115918Z.csv",
-      "dcat:byteSize": 1202
+      "dcat:downloadURL": "osm_export_ci_2025-12-21_093359Z.csv",
+      "dcat:byteSize": 1933
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_drillcores_2025-12-19_115918Z.ttl",
-      "dcat:byteSize": 6137
+      "dcat:downloadURL": "osm_export_ci_2025-12-21_093359Z.ttl",
+      "dcat:byteSize": 9377
     }
   ],
   "output": {
-    "csv": "osm_export_drillcores_2025-12-19_115918Z.csv",
-    "ttl": "osm_export_drillcores_2025-12-19_115918Z.ttl"
+    "csv": "osm_export_ci_2025-12-21_093359Z.csv",
+    "ttl": "osm_export_ci_2025-12-21_093359Z.ttl"
   }
 }
