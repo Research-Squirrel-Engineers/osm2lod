@@ -3,202 +3,199 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
-@prefix osm2lod: <https://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sf: <http://www.opengis.net/ont/sf#> .
 @prefix wd: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-osm2lod:node_13200939169 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:Maar,
-        osm2lod:OSMEntity ;
+osm2lod:node_13200939169 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "Walsdorfer Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200939169" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
-    geosparql:hasGeometry osm2lod:13200939169_geom ;
-    owl:sameAs wd:Q136451649 ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13200939169> ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Walsdorfer Maar" ;
     osm2lod:osmtag__natural "volcano" ;
     osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=4064> ;
     osm2lod:osmtag__volcano__status "extinct" ;
     osm2lod:osmtag__volcano__type "maar" ;
-    osm2lod:osmtag__wikidata "Q136451649" .
+    osm2lod:osmtag__wikidata "Q136451649" ;
+    geosparql:hasGeometry osm2lod:13200939169_geom ;
+    owl:sameAs wd:Q136451649 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200939169> .
 
-osm2lod:node_13200943487 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:Maar,
-        osm2lod:OSMEntity ;
+osm2lod:node_13200943487 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "Dehner Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200943487" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
-    geosparql:hasGeometry osm2lod:13200943487_geom ;
-    owl:sameAs wd:Q134466523 ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13200943487> ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Dehner Maar" ;
     osm2lod:osmtag__natural "volcano" ;
     osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=8502> ;
     osm2lod:osmtag__volcano__status "extinct" ;
     osm2lod:osmtag__volcano__type "maar" ;
-    osm2lod:osmtag__wikidata "Q134466523" .
+    osm2lod:osmtag__wikidata "Q134466523" ;
+    geosparql:hasGeometry osm2lod:13200943487_geom ;
+    owl:sameAs wd:Q134466523 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200943487> .
 
-osm2lod:node_13200955773 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:Maar,
-        osm2lod:OSMEntity ;
+osm2lod:node_13200955773 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "Auel Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200955773" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
-    geosparql:hasGeometry osm2lod:13200955773_geom ;
-    owl:sameAs wd:Q134466471 ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13200955773> ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Auel Maar" ;
     osm2lod:osmtag__natural "volcano" ;
     osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> ;
     osm2lod:osmtag__volcano__status "extinct" ;
     osm2lod:osmtag__volcano__type "maar" ;
-    osm2lod:osmtag__wikidata "Q134466471" .
+    osm2lod:osmtag__wikidata "Q134466471" ;
+    geosparql:hasGeometry osm2lod:13200955773_geom ;
+    owl:sameAs wd:Q134466471 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200955773> .
 
-osm2lod:node_13200972050 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:Maar,
-        osm2lod:OSMEntity ;
+osm2lod:node_13200972050 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "Hoher List Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200972050" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
-    geosparql:hasGeometry osm2lod:13200972050_geom ;
-    owl:sameAs wd:Q136451651 ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13200972050> ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__name "Hoher List Maar" ;
     osm2lod:osmtag__natural "volcano" ;
     osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23395> ;
     osm2lod:osmtag__volcano__status "extinct" ;
     osm2lod:osmtag__volcano__type "maar" ;
-    osm2lod:osmtag__wikidata "Q136451651" .
+    osm2lod:osmtag__wikidata "Q136451651" ;
+    geosparql:hasGeometry osm2lod:13200972050_geom ;
+    owl:sameAs wd:Q136451651 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200972050> .
 
-osm2lod:node_13386703821 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:CoreProfile,
-        osm2lod:OSMEntity ;
+osm2lod:node_13386703821 a osm2lod:CoreProfile,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "AU3"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.3390/quat7020017>,
         "osm:node/13386703821" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.3390/quat7020017> ;
-    geosparql:hasGeometry osm2lod:13386703821_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13386703821> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__description "bore hole for geoscientific research" ;
     osm2lod:osmtag__man_made "bore_hole" ;
     osm2lod:osmtag__name "AU3" ;
     osm2lod:osmtag__ref "AU3" ;
     osm2lod:osmtag__source__ref "doi=10.3390/quat7020017" ;
-    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> .
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> ;
+    geosparql:hasGeometry osm2lod:13386703821_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13386703821> .
 
-osm2lod:node_13386723672 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:CoreProfile,
-        osm2lod:OSMEntity ;
+osm2lod:node_13386723672 a osm2lod:CoreProfile,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "DE4"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.3390/quat7020017>,
         "osm:node/13386723672" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.3390/quat7020017> ;
-    geosparql:hasGeometry osm2lod:13386723672_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13386723672> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__description "bore hole for geoscientific research" ;
     osm2lod:osmtag__man_made "bore_hole" ;
     osm2lod:osmtag__name "DE4" ;
     osm2lod:osmtag__ref "DE4" ;
     osm2lod:osmtag__source__ref "doi=10.3390/quat7020017" ;
-    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=8502> .
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=8502> ;
+    geosparql:hasGeometry osm2lod:13386723672_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13386723672> .
 
-osm2lod:node_13386786938 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:CoreProfile,
-        osm2lod:OSMEntity ;
+osm2lod:node_13386786938 a osm2lod:CoreProfile,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "AU4"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.3390/quat7020017>,
         "osm:node/13386786938" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.3390/quat7020017> ;
-    geosparql:hasGeometry osm2lod:13386786938_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13386786938> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__description "bore hole for geoscientific research" ;
     osm2lod:osmtag__man_made "bore_hole" ;
     osm2lod:osmtag__name "AU4" ;
     osm2lod:osmtag__ref "AU4" ;
     osm2lod:osmtag__source__ref "doi=10.3390/quat7020017" ;
-    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> .
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> ;
+    geosparql:hasGeometry osm2lod:13386786938_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13386786938> .
 
-osm2lod:node_13388641643 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:CoreProfile,
-        osm2lod:OSMEntity ;
+osm2lod:node_13388641643 a osm2lod:CoreProfile,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "HL1"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:node/13388641643" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
-    geosparql:hasGeometry osm2lod:13388641643_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13388641643> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__description "bore hole for geoscientific research" ;
     osm2lod:osmtag__man_made "bore_hole" ;
     osm2lod:osmtag__name "HL1" ;
     osm2lod:osmtag__ref "HL1" ;
     osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
-    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23395> .
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23395> ;
+    geosparql:hasGeometry osm2lod:13388641643_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13388641643> .
 
-osm2lod:node_13388651352 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:CoreProfile,
-        osm2lod:OSMEntity ;
+osm2lod:node_13388651352 a osm2lod:CoreProfile,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "WD1"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:node/13388651352" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
-    geosparql:hasGeometry osm2lod:13388651352_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13388651352> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__description "bore hole for geoscientific research" ;
     osm2lod:osmtag__man_made "bore_hole" ;
     osm2lod:osmtag__name "WD1" ;
     osm2lod:osmtag__ref "WD1" ;
     osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
-    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=4064> .
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=4064> ;
+    geosparql:hasGeometry osm2lod:13388651352_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13388651352> .
 
-osm2lod:way_23450728 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:Maar,
-        osm2lod:OSMEntity ;
+osm2lod:way_23450728 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "Schalkenmehrener Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/23450728" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
-    geosparql:hasGeometry osm2lod:23450728_geom ;
-    owl:sameAs wd:Q2230360 ;
-    foaf:primaryTopic <http://openstreetmap.org/way/23450728> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__ele "421" ;
     osm2lod:osmtag__name "Schalkenmehrener Maar" ;
@@ -208,21 +205,21 @@ osm2lod:way_23450728 a crm:E55_Place,
     osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=16656> ;
     osm2lod:osmtag__water "lake" ;
     osm2lod:osmtag__wikidata "Q2230360" ;
-    osm2lod:osmtag__wikipedia "Schalkenmehrener Maar"@de .
+    osm2lod:osmtag__wikipedia "Schalkenmehrener Maar"@de ;
+    geosparql:hasGeometry osm2lod:23450728_geom ;
+    owl:sameAs wd:Q2230360 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/23450728> .
 
-osm2lod:way_56428302 a crm:E55_Place,
-        dcat:Dataset,
-        osm2lod:Maar,
-        osm2lod:OSMEntity ;
+osm2lod:way_56428302 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
     rdfs:label "Laacher See"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
     dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
         "osm:way/56428302" ;
-    dcterms:isPartOf osm2lod:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf osm2lod:drillcores__2025-12-21_094236Z ;
     dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
-    geosparql:hasGeometry osm2lod:56428302_geom ;
-    owl:sameAs wd:Q549267 ;
-    foaf:primaryTopic <http://openstreetmap.org/way/56428302> ;
     osm2lod:exportType "drillcores" ;
     osm2lod:osmtag__ele "275" ;
     osm2lod:osmtag__loc_name "Loch;Lösche See" ;
@@ -233,7 +230,10 @@ osm2lod:way_56428302 a crm:E55_Place,
     osm2lod:osmtag__water "lake" ;
     osm2lod:osmtag__wikidata "Q549267" ;
     osm2lod:osmtag__wikimedia_commons "Category:Laacher See" ;
-    osm2lod:osmtag__wikipedia "Laacher See"@de .
+    osm2lod:osmtag__wikipedia "Laacher See"@de ;
+    geosparql:hasGeometry osm2lod:56428302_geom ;
+    owl:sameAs wd:Q549267 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/56428302> .
 
 osm2lod:13200939169_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.7115499 50.2719561)"^^geosparql:wktLiteral .
@@ -268,10 +268,10 @@ osm2lod:23450728_geom a sf:Point ;
 osm2lod:56428302_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.266720711464967 50.41012529681529)"^^geosparql:wktLiteral .
 
-osm2lod:drillcores__2025-12-21_093401Z a dcat:Dataset,
-        osm2lod:Dataset ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:drillcores:2025-12-21_093401Z" ;
+osm2lod:drillcores__2025-12-21_094236Z a osm2lod:Dataset,
+        dcat:Dataset ;
+    dcterms:created "2025-12-21T09:42:36.446106+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:drillcores:2025-12-21_094236Z" ;
     dcterms:provenance """[out:json][timeout:25];
 (
   node(13386703821);

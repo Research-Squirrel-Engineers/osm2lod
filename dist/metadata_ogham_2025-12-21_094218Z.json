@@ -4,13 +4,13 @@
     "prov": "http://www.w3.org/ns/prov#",
     "dcterms": "http://purl.org/dc/terms/",
     "geosparql": "http://www.opengis.net/ont/geosparql#",
-    "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
+    "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "ogham",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-21_093336Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-21_094218Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-21T09:33:36.831343+00:00",
+  "dcterms:created": "2025-12-21T09:42:18.629830+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -19,7 +19,7 @@
   ],
   "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"historic\"=\"ogham_stone\"];\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
-  "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
+  "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
@@ -133,17 +133,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ogham_2025-12-21_093336Z.csv",
+      "dcat:downloadURL": "osm_export_ogham_2025-12-21_094218Z.csv",
       "dcat:byteSize": 33313
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ogham_2025-12-21_093336Z.ttl",
-      "dcat:byteSize": 91728
+      "dcat:downloadURL": "osm_export_ogham_2025-12-21_094218Z.ttl",
+      "dcat:byteSize": 91727
     }
   ],
   "output": {
-    "csv": "osm_export_ogham_2025-12-21_093336Z.csv",
-    "ttl": "osm_export_ogham_2025-12-21_093336Z.ttl"
+    "csv": "osm_export_ogham_2025-12-21_094218Z.csv",
+    "ttl": "osm_export_ogham_2025-12-21_094218Z.ttl"
   }
 }

@@ -4,13 +4,13 @@
     "prov": "http://www.w3.org/ns/prov#",
     "dcterms": "http://purl.org/dc/terms/",
     "geosparql": "http://www.opengis.net/ont/geosparql#",
-    "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
+    "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "holywells",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-21_093346Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-21_094223Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-21T09:33:46.392815+00:00",
+  "dcterms:created": "2025-12-21T09:42:23.983756+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -19,7 +19,7 @@
   ],
   "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"place_of_worship\"=\"holy_well\"];\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature",
-  "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
+  "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
@@ -165,17 +165,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_holywells_2025-12-21_093346Z.csv",
+      "dcat:downloadURL": "osm_export_holywells_2025-12-21_094223Z.csv",
       "dcat:byteSize": 196096
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_holywells_2025-12-21_093346Z.ttl",
-      "dcat:byteSize": 644739
+      "dcat:downloadURL": "osm_export_holywells_2025-12-21_094223Z.ttl",
+      "dcat:byteSize": 644738
     }
   ],
   "output": {
-    "csv": "osm_export_holywells_2025-12-21_093346Z.csv",
-    "ttl": "osm_export_holywells_2025-12-21_093346Z.ttl"
+    "csv": "osm_export_holywells_2025-12-21_094223Z.csv",
+    "ttl": "osm_export_holywells_2025-12-21_094223Z.ttl"
   }
 }

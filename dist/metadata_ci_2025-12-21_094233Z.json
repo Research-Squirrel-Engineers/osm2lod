@@ -4,13 +4,13 @@
     "prov": "http://www.w3.org/ns/prov#",
     "dcterms": "http://purl.org/dc/terms/",
     "geosparql": "http://www.opengis.net/ont/geosparql#",
-    "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
+    "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "ci",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-21_093359Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-21_094233Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-21T09:33:59.266267+00:00",
+  "dcterms:created": "2025-12-21T09:42:33.960724+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -19,7 +19,7 @@
   ],
   "overpassQuery": "[out:json][timeout:25];\n(\n  node(337519639);\n  node(369821847);\n  node(1221172611);\n  node(2293681037);\n  node(7778324735);\n  node(8814442373);\n  node(10879170567);\n  node(11107939919);\n  node(11109379095);\n);\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-  "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
+  "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
@@ -89,17 +89,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ci_2025-12-21_093359Z.csv",
+      "dcat:downloadURL": "osm_export_ci_2025-12-21_094233Z.csv",
       "dcat:byteSize": 1933
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ci_2025-12-21_093359Z.ttl",
-      "dcat:byteSize": 9377
+      "dcat:downloadURL": "osm_export_ci_2025-12-21_094233Z.ttl",
+      "dcat:byteSize": 9376
     }
   ],
   "output": {
-    "csv": "osm_export_ci_2025-12-21_093359Z.csv",
-    "ttl": "osm_export_ci_2025-12-21_093359Z.ttl"
+    "csv": "osm_export_ci_2025-12-21_094233Z.csv",
+    "ttl": "osm_export_ci_2025-12-21_094233Z.ttl"
   }
 }

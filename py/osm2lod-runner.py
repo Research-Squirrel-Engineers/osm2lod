@@ -21,7 +21,7 @@ from rdflib.namespace import RDF, RDFS, XSD, OWL, DCTERMS, FOAF
 # Namespaces
 # =================================================
 
-OSM2LOD = Namespace("https://research-squirrel-engineers.github.io/osm2lod/")
+OSM2LOD = Namespace("http://research-squirrel-engineers.github.io/osm2lod/")
 CRM = Namespace("http://www.cidoc-crm.org/cidoc-crm/")
 DCAT = Namespace("http://www.w3.org/ns/dcat#")
 PROV = Namespace("http://www.w3.org/ns/prov#")

@@ -4,13 +4,13 @@
     "prov": "http://www.w3.org/ns/prov#",
     "dcterms": "http://purl.org/dc/terms/",
     "geosparql": "http://www.opengis.net/ont/geosparql#",
-    "osm2lod": "https://research-squirrel-engineers.github.io/osm2lod/",
+    "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "drillcores",
-  "datasetUri": "https://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_093401Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_094236Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2025-12-21T09:34:01.795243+00:00",
+  "dcterms:created": "2025-12-21T09:42:36.446106+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -19,7 +19,7 @@
   ],
   "overpassQuery": "[out:json][timeout:25];\n(\n  node(13386703821);\n  node(13386786938);\n  way(23450728);\n  way(56428302);\n  node(13200939169);\n  node(13200972050);\n  node(13386723672);\n  node(13200955773);\n  node(13200943487);\n  node(13388651352);\n  node(13388641643);\n);\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-  "recordUriPattern": "https://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
+  "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
     "type": "GeoSPARQL WKT Point",
@@ -99,17 +99,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_drillcores_2025-12-21_093401Z.csv",
+      "dcat:downloadURL": "osm_export_drillcores_2025-12-21_094236Z.csv",
       "dcat:byteSize": 2960
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_drillcores_2025-12-21_093401Z.ttl",
-      "dcat:byteSize": 13119
+      "dcat:downloadURL": "osm_export_drillcores_2025-12-21_094236Z.ttl",
+      "dcat:byteSize": 13118
     }
   ],
   "output": {
-    "csv": "osm_export_drillcores_2025-12-21_093401Z.csv",
-    "ttl": "osm_export_drillcores_2025-12-21_093401Z.ttl"
+    "csv": "osm_export_drillcores_2025-12-21_094236Z.csv",
+    "ttl": "osm_export_drillcores_2025-12-21_094236Z.ttl"
   }
 }

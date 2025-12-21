@@ -30,7 +30,7 @@ jobs:
       ghpages: true
       metadatatable: true
       createnonNSPages: true
-      logourl: https://raw.githubusercontent.com/Research-Squirrel-Engineers/croton-geo/main/img/fsl-logo.png
+      logourl: https://raw.githubusercontent.com/Research-Squirrel-Engineers/osm2lod/main/osm2lod_logo.png
       templatedir: https://github.com/Research-Squirrel-Engineers/unicorn-ontdoc-template-squirrels/archive/refs/tags/scrat.1.zip
       ogcapifeatures: false
       datasettitle: osm2lod
