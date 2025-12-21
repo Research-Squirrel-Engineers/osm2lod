@@ -38,27 +38,27 @@
     ns1:averageObjectIRILength 43,
         44,
         46 ;
-    ns1:averagePropertyIRILength 51,
-        53,
+    ns1:averagePropertyIRILength 50,
+        51,
         55,
         56 ;
     ns1:averageSubjectIRILength 68,
         69 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 169,
-        192,
+    ns1:distinctIRIReferences 156,
+        169,
         1107,
         6055 ;
     ns1:distinctLiterals 0 ;
-    ns1:distinctRDFNodes 169,
-        192,
+    ns1:distinctRDFNodes 156,
+        169,
         1107,
         6055 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2025-12-21T15:54:17"^^xsd:dateTime ;
+    dcterms:modified "2025-12-21T17:09:11"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -70,7 +70,6 @@
     void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CI_Findspot>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection>,
-        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CoreProfile>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E22_Human_Made_Object>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_E26_Physical_Feature>,
@@ -83,25 +82,24 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_OghamStone>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Point>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_SpatialObjectCollection> ;
-    void:classes 11,
-        12 ;
+    void:classes 11 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
-    void:distinctObjects 113,
-        125,
+    void:distinctObjects 100,
+        113,
         849,
         4582 ;
-    void:distinctSubjects 28,
-        33,
+    void:distinctSubjects 26,
+        28,
         222,
         1434 ;
-    void:entities 25,
-        30,
+    void:entities 23,
+        25,
         219,
         1431 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 28,
-        34,
+        30,
         36,
         39 ;
     void:propertyPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_asWKT>,
@@ -137,7 +135,6 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__url>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__tourism>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__url>,
-        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__volcano__status>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__volcano__type>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__water>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__water_source>,
@@ -153,8 +150,8 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_subClassOf>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_title>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> ;
-    void:triples 265,
-        346,
+    void:triples 257,
+        265,
         2581,
         17854 ;
     void:uriSpace "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;

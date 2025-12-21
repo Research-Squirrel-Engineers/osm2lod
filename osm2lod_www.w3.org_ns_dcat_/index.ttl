@@ -11,8 +11,8 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget dcat: ;
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    void:triples 11,
-        13,
+    void:triples 10,
+        11,
         108,
         714 .
 

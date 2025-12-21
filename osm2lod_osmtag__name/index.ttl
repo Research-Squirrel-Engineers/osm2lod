@@ -8,7 +8,6 @@
     rdfs:label "Property Partition: osmtag__name"@en ;
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
     void:triples 8,
-        11,
         73,
         626 .
 

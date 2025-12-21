@@ -7,6 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in osm2lod" ;
     ns1:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    ns1:occurrences 8,
-        10 .
+    ns1:occurrences 8 .
 

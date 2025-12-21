@@ -8,8 +8,8 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: created"@en ;
     void:property dcterms:created ;
-    void:triples 10,
-        12,
+    void:triples 9,
+        10,
         107,
         713 .
 

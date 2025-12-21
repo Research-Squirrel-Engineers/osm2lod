@@ -14,17 +14,16 @@ ns1:node_13200955773 a ns1:Maar,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Auel Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    rdfs:label "Vulkan Aueler Maar"@en ;
+    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200955773" ;
-    dcterms:isPartOf ns1:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf ns1:drillcores__2025-12-21_170530Z ;
     void:inDataset ns1:osm2lod ;
     ns1:exportType "drillcores" ;
-    ns1:osmtag__name "Auel Maar" ;
+    ns1:osmtag__name "Vulkan Aueler Maar" ;
     ns1:osmtag__natural "volcano" ;
-    ns1:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=23391> ;
-    ns1:osmtag__volcano__status "extinct" ;
-    ns1:osmtag__volcano__type "maar" ;
+    ns1:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=30134> ;
+    ns1:osmtag__volcano__type "Trockenmaar" ;
     ns1:osmtag__wikidata "Q134466471" ;
     geo:hasGeometry ns1:13200955773_geom ;
     owl:sameAs <http://wikidata.org/entity/Q134466471> ;

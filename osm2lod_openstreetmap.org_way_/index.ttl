@@ -11,6 +11,6 @@
     void:objectsTarget <http://openstreetmap.org/way/> ;
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
     void:triples 1,
-        2,
+        6,
         26 .
 

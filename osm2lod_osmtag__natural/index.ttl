@@ -8,6 +8,6 @@
     rdfs:label "Property Partition: osmtag__natural"@en ;
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__natural> ;
     void:triples 5,
-        6,
+        8,
         668 .
 

@@ -10,7 +10,8 @@
     void:linkPredicate foaf:primaryTopic ;
     void:objectsTarget <http://openstreetmap.org/node/> ;
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    void:triples 9,
+    void:triples 2,
+        9,
         105,
         686 .
 

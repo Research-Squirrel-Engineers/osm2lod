@@ -9,5 +9,5 @@
     void:linkPredicate <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__url> ;
     void:objectsTarget <https://kulturdb.de/> ;
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    void:triples 10 .
+    void:triples 4 .
 

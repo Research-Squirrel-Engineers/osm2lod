@@ -14,17 +14,16 @@ ns1:node_13200943487 a ns1:Maar,
         dcat:Dataset,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Dehner Maar"@en ;
-    dcterms:created "2025-12-21T09:34:01.795243+00:00"^^xsd:dateTime ;
+    rdfs:label "Vulkan Dehner Maar"@en ;
+    dcterms:created "2025-12-21T17:05:30.869528+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13200943487" ;
-    dcterms:isPartOf ns1:drillcores__2025-12-21_093401Z ;
+    dcterms:isPartOf ns1:drillcores__2025-12-21_170530Z ;
     void:inDataset ns1:osm2lod ;
     ns1:exportType "drillcores" ;
-    ns1:osmtag__name "Dehner Maar" ;
+    ns1:osmtag__name "Vulkan Dehner Maar" ;
     ns1:osmtag__natural "volcano" ;
-    ns1:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=8502> ;
-    ns1:osmtag__volcano__status "extinct" ;
-    ns1:osmtag__volcano__type "maar" ;
+    ns1:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=30207> ;
+    ns1:osmtag__volcano__type "Trockenmaar" ;
     ns1:osmtag__wikidata "Q134466523" ;
     geo:hasGeometry ns1:13200943487_geom ;
     owl:sameAs <http://wikidata.org/entity/Q134466523> ;

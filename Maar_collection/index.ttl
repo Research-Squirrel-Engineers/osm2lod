@@ -1,4 +1,3 @@
-@prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix void: <http://rdfs.org/ns/void#> .
@@ -8,10 +7,12 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Maar Instances Collection"@en ;
     void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/node_13200939169>,
-        <http://research-squirrel-engineers.github.io/osm2lod/node_13200943487>,
+    rdfs:member <http://research-squirrel-engineers.github.io/osm2lod/node_13200943487>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13200955773>,
-        <http://research-squirrel-engineers.github.io/osm2lod/node_13200972050>,
+        <http://research-squirrel-engineers.github.io/osm2lod/way_144719688>,
+        <http://research-squirrel-engineers.github.io/osm2lod/way_144726746>,
+        <http://research-squirrel-engineers.github.io/osm2lod/way_144726755>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_23450728>,
-        <http://research-squirrel-engineers.github.io/osm2lod/way_56428302> .
+        <http://research-squirrel-engineers.github.io/osm2lod/way_56428302>,
+        <http://research-squirrel-engineers.github.io/osm2lod/way_72767715> .
 

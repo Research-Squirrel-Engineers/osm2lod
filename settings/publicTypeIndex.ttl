@@ -31,28 +31,23 @@ void:Linkset a owl:Class .
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#11107939919_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#11109379095_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#1221172611_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200939169_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200943487_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200955773_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200972050_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13386703821_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13386723672_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13386786938_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13388641643_geom>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13388651352_geom>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#144719688_geom>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#144726746_geom>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#144726755_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#2293681037_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#23450728_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#337519639_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#369821847_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#56428302_geom>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#72767715_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#7778324735_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#8814442373_geom>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#CI_Findspot>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#CI_Findspot_collection>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Catalog>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Collection>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#CoreProfile>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#CoreProfile_collection>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Dataset>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Dataset_collection_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Dataset_collection_suniv1_>,
@@ -69,8 +64,8 @@ void:Linkset a owl:Class .
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#SpatialObjectCollection>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#ci__2025-12-21_093359Z_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#ci__2025-12-21_093359Z_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_093401Z_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_093401Z_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_170530Z_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_170530Z_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_10879170567_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_10879170567_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_10879170567_suniv2_>,
@@ -87,10 +82,6 @@ void:Linkset a owl:Class .
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_1221172611_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_1221172611_suniv2_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_1221172611_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv3_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv2_>,
@@ -99,30 +90,6 @@ void:Linkset a owl:Class .
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv2_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv3_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv3_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_2293681037_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_2293681037_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_2293681037_suniv2_>,
@@ -143,6 +110,18 @@ void:Linkset a owl:Class .
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_8814442373_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_8814442373_suniv2_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_8814442373_suniv3_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv2_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv3_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv2_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv3_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv2_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv3_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv2_>,
@@ -150,7 +129,11 @@ void:Linkset a owl:Class .
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv0_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv1_>,
         <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv2_>,
-        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv3_> .
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv3_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv2_>,
+        <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv3_> .
 
 <https://www.iana.org/assignments/media-types/text/turtle#Resource> a owl:Class .
 
@@ -172,32 +155,20 @@ dcat:Catalog a owl:Class ;
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#1221172611_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//1221172611_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200939169_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13200939169_geom> .
-
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200943487_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13200943487_geom> .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200955773_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13200955773_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13200972050_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13200972050_geom> .
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#144719688_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//144719688_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13386703821_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13386703821_geom> .
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#144726746_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//144726746_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13386723672_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13386723672_geom> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13386786938_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13386786938_geom> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13388641643_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13388641643_geom> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#13388651352_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//13388651352_geom> .
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#144726755_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//144726755_geom> .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#2293681037_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//2293681037_geom> .
@@ -213,6 +184,9 @@ dcat:Catalog a owl:Class ;
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#56428302_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//56428302_geom> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#72767715_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//72767715_geom> .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#7778324735_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//7778324735_geom> .
@@ -231,12 +205,6 @@ dcat:Catalog a owl:Class ;
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Collection> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//Collection> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#CoreProfile> ns1:forClass <#> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//CoreProfile> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#CoreProfile_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//CoreProfile_collection> .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#Dataset> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//Dataset> .
@@ -286,11 +254,11 @@ dcat:Catalog a owl:Class ;
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#ci__2025-12-21_093359Z_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Dataset> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//ci__2025-12-21_093359Z_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_093401Z_suniv0_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//drillcores__2025-12-21_093401Z_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_170530Z_suniv0_> ns1:forClass dcat:Dataset ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//drillcores__2025-12-21_170530Z_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_093401Z_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Dataset> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//drillcores__2025-12-21_093401Z_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#drillcores__2025-12-21_170530Z_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Dataset> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//drillcores__2025-12-21_170530Z_suniv1_> .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_10879170567_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_10879170567_suniv0_> .
@@ -340,113 +308,29 @@ dcat:Catalog a owl:Class ;
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_1221172611_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_1221172611_suniv3_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200939169_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200939169_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200939169_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200939169_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200939169_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200943487_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv1_> ns1:forClass dcat:Dataset ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200943487_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200943487_suniv2_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200943487_suniv3_> ns1:forClass dcat:Dataset ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200943487_suniv3_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200955773_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv1_> ns1:forClass dcat:Dataset ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200955773_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200955773_suniv2_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200955773_suniv3_> ns1:forClass dcat:Dataset ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200955773_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200972050_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200972050_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200972050_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13200972050_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13200972050_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386703821_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386703821_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386703821_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386703821_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/CoreProfile> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386703821_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386723672_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386723672_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386723672_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386723672_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/CoreProfile> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386723672_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386786938_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386786938_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386786938_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13386786938_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/CoreProfile> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13386786938_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388641643_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388641643_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388641643_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388641643_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/CoreProfile> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388641643_suniv3_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388651352_suniv0_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv1_> ns1:forClass dcat:Dataset ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388651352_suniv1_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388651352_suniv2_> .
-
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_13388651352_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/CoreProfile> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_13388651352_suniv3_> .
 
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_2293681037_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_2293681037_suniv0_> .
@@ -508,41 +392,87 @@ dcat:Catalog a owl:Class ;
 <https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#node_8814442373_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//node_8814442373_suniv3_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144719688_suniv0_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144719688_suniv1_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144719688_suniv2_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144719688_suniv3_> ns1:forClass dcat:Dataset ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144719688_suniv3_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726746_suniv0_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726746_suniv1_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726746_suniv2_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726746_suniv3_> ns1:forClass dcat:Dataset ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726746_suniv3_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726755_suniv0_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726755_suniv1_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726755_suniv2_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_144726755_suniv3_> ns1:forClass dcat:Dataset ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_144726755_suniv3_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_23450728_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv1_> ns1:forClass dcat:Dataset ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_23450728_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_23450728_suniv2_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_23450728_suniv3_> ns1:forClass dcat:Dataset ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_23450728_suniv3_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv0_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_56428302_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv1_> ns1:forClass dcat:Dataset ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_56428302_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv2_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_56428302_suniv2_> .
 
-<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv3_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_56428302_suniv3_> ns1:forClass dcat:Dataset ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_56428302_suniv3_> .
 
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv0_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/Maar> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_72767715_suniv0_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv1_> ns1:forClass <http://research-squirrel-engineers.github.io/osm2lod/OSMEntity> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_72767715_suniv1_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv2_> ns1:forClass <http://www.cidoc-crm.org/cidoc-crm/E55_Place> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_72767715_suniv2_> .
+
+<https://Research-Squirrel-Engineers.github.io/osm2lod//settings/publicTypeIndex.ttl#way_72767715_suniv3_> ns1:forClass dcat:Dataset ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/osm2lod//way_72767715_suniv3_> .
+
 <http://research-squirrel-engineers.github.io/osm2lod/Dataset> a owl:Class .
+
+geo:FeatureCollection a owl:Class ;
+    rdfs:subClassOf geo:SpatialObjectCollection .
 
 geo:SpatialObjectCollection a owl:Class ;
     rdfs:subClassOf skos:Collection .
 
 skos:Collection a owl:Class .
-
-<http://research-squirrel-engineers.github.io/osm2lod/CoreProfile> a owl:Class .
-
-geo:FeatureCollection a owl:Class ;
-    rdfs:subClassOf geo:SpatialObjectCollection .
 
 <http://research-squirrel-engineers.github.io/osm2lod/Maar> a owl:Class .
 

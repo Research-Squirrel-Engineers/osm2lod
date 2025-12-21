@@ -11,5 +11,5 @@
         dcterms:source ;
     void:objectsTarget <https://doi.org/10.1016/> ;
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    void:triples 4 .
+    void:triples 6 .
 

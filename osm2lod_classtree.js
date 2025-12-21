@@ -2188,7 +2188,7 @@ var tree={
         "parent": "#",
         "type": "halfgeoclass",
         "instancecount": 107,
-        "text": "Dataset (dcat:Dataset) [129]",
+        "text": "Dataset (dcat:Dataset) [126]",
         "data": {
           "from": {},
           "to": {}
@@ -3259,7 +3259,7 @@ var tree={
         "parent": "#",
         "type": "geoclass",
         "instancecount": 106,
-        "text": "OSMEntity (osm2lod:OSMEntity) [126]",
+        "text": "OSMEntity (osm2lod:OSMEntity) [123]",
         "data": {
           "from": {},
           "to": {}
@@ -4340,8 +4340,8 @@ var tree={
               "http://www.w3.org/ns/dcat#Catalog": 106,
               "http://www.w3.org/2004/02/skos/core#Collection": 106,
               "http://www.opengis.net/ont/geosparql#FeatureCollection": 212,
-              "http://www.w3.org/ns/ldp#Resource": 140,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 140
+              "http://www.w3.org/ns/ldp#Resource": 121,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 121
             }
           },
           "to": {
@@ -4360,11 +4360,14 @@ var tree={
               "instancecount": 106,
               "http://www.w3.org/ns/adms#Asset": 106,
               "http://rdfs.org/ns/void#Dataset": 106,
-              "http://www.w3.org/ns/ldp#Resource": 77,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 77
+              "http://www.w3.org/ns/ldp#Resource": 48,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 48
             },
             "http://research-squirrel-engineers.github.io/osm2lod/exportType": {
               "instancecount": 106
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": {
+              "instancecount": 2
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": {
               "instancecount": 106
@@ -4372,8 +4375,14 @@ var tree={
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": {
               "instancecount": 73
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": {
-              "instancecount": 55
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": {
+              "instancecount": 58
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": {
+              "instancecount": 15
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": {
+              "instancecount": 19
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 106,
@@ -4385,41 +4394,38 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 107
             },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 58
+            },
             "http://xmlns.com/foaf/0.1/primaryTopic": {
               "instancecount": 106
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": {
               "instancecount": 4
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": {
-              "instancecount": 58
-            },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 58
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": {
-              "instancecount": 19
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": {
-              "instancecount": 8
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": {
-              "instancecount": 15
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": {
-              "instancecount": 2
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
-              "instancecount": 11
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": {
+              "instancecount": 55
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": {
               "instancecount": 7
             },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
+              "instancecount": 11
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": {
+              "instancecount": 8
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": {
+              "instancecount": 2
+            },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": {
               "instancecount": 2
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": {
+              "instancecount": 5
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url": {
+              "instancecount": 1
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": {
               "instancecount": 1
@@ -4427,16 +4433,10 @@ var tree={
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization": {
               "instancecount": 1
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": {
-              "instancecount": 1
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": {
-              "instancecount": 2
-            },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
               "instancecount": 1
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url": {
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": {
               "instancecount": 1
             }
           }
@@ -5507,7 +5507,7 @@ var tree={
         "parent": "#",
         "type": "geoclass",
         "instancecount": 106,
-        "text": "Point (sf:Point) [126]",
+        "text": "Point (sf:Point) [123]",
         "data": {
           "from": {
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -5518,8 +5518,8 @@ var tree={
             },
             "http://www.w3.org/ns/dcat#dataset": {
               "http://www.opengis.net/ont/geosparql#GeometryCollection": 106,
-              "http://www.w3.org/ns/ldp#Resource": 60,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 60
+              "http://www.w3.org/ns/ldp#Resource": 26,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 26
             }
           },
           "to": {
@@ -5527,8 +5527,8 @@ var tree={
               "instancecount": 106,
               "http://www.w3.org/ns/adms#Asset": 106,
               "http://rdfs.org/ns/void#Dataset": 106,
-              "http://www.w3.org/ns/ldp#Resource": 77,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 77
+              "http://www.w3.org/ns/ldp#Resource": 49,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 49
             },
             "http://www.opengis.net/ont/geosparql#asWKT": {
               "instancecount": 106
@@ -5590,9 +5590,7 @@ var tree={
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 2
@@ -5635,16 +5633,14 @@ var tree={
         "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
         "instancecount": 3,
         "type": "collectionclass",
-        "text": " (gsp:FeatureCollection) [7]",
+        "text": " (gsp:FeatureCollection) [6]",
         "data": {
           "from": {},
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 3,
               "http://www.w3.org/ns/adms#Asset": 3,
-              "http://rdfs.org/ns/void#Dataset": 3,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+              "http://rdfs.org/ns/void#Dataset": 3
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 5
@@ -5652,19 +5648,19 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 3
             },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "instancecount": 944,
-              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 212,
-              "http://www.w3.org/ns/dcat#Dataset": 212,
-              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 212,
-              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 212
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 106,
+              "instancecount": 114,
               "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 106,
               "http://www.w3.org/ns/dcat#Dataset": 106,
               "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 106,
               "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 106
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "instancecount": 933,
+              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 212,
+              "http://www.w3.org/ns/dcat#Dataset": 212,
+              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 212,
+              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 212
             }
           }
         }
@@ -5722,7 +5718,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/ns/dcat#dataset": {
-              "instancecount": 842,
+              "instancecount": 839,
               "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 106,
               "http://www.w3.org/ns/dcat#Dataset": 107,
               "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 106,
@@ -5765,7 +5761,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/ns/dcat#dataset": {
-              "instancecount": 838,
+              "instancecount": 835,
               "http://www.opengis.net/ont/sf#Point": 106
             }
           }
@@ -5782,20 +5778,10 @@ var tree={
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200939169_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-        "type": "geoinstance",
-        "text": "Walsdorfer Maar (osm2lod:node_13200939169)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
-        "text": "Dehner Maar (osm2lod:node_13200943487)",
+        "text": "Vulkan Dehner Maar (osm2lod:node_13200943487)",
         "data": {
           "from": {},
           "to": {}
@@ -5803,69 +5789,39 @@ var tree={
       },
       {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
-        "text": "Auel Maar (osm2lod:node_13200955773)",
+        "text": "Vulkan Aueler Maar (osm2lod:node_13200955773)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200972050_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144719688_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
-        "text": "Hoher List Maar (osm2lod:node_13200972050)",
+        "text": "Holzmaar (osm2lod:way_144719688)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386703821_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726746_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
-        "text": "AU3 (osm2lod:node_13386703821)",
+        "text": "Ulmener Maar (osm2lod:way_144726746)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386723672_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726755_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
-        "text": "DE4 (osm2lod:node_13386723672)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386786938_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-        "type": "geoinstance",
-        "text": "AU4 (osm2lod:node_13386786938)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388641643_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-        "type": "geoinstance",
-        "text": "HL1 (osm2lod:node_13388641643)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388651352_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-        "type": "geoinstance",
-        "text": "WD1 (osm2lod:node_13388651352)",
+        "text": "Jungferweiher (osm2lod:way_144726755)",
         "data": {
           "from": {},
           "to": {}
@@ -5873,7 +5829,7 @@ var tree={
       },
       {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
         "text": "Schalkenmehrener Maar (osm2lod:way_23450728)",
         "data": {
@@ -5883,200 +5839,19 @@ var tree={
       },
       {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv0_",
-        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-        "type": "geoinstance",
-        "text": "Laacher See (osm2lod:way_56428302)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
-        "parent": "#",
-        "type": "geoclass",
-        "instancecount": 11,
-        "text": "E55_Place (crm:E55_Place) [20]",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200939169_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "Walsdorfer Maar (osm2lod:node_13200939169)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "Dehner Maar (osm2lod:node_13200943487)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "Auel Maar (osm2lod:node_13200955773)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200972050_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "Hoher List Maar (osm2lod:node_13200972050)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386703821_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "AU3 (osm2lod:node_13386703821)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386723672_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "DE4 (osm2lod:node_13386723672)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386786938_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "AU4 (osm2lod:node_13386786938)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388641643_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "HL1 (osm2lod:node_13388641643)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388651352_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "WD1 (osm2lod:node_13388651352)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "Schalkenmehrener Maar (osm2lod:way_23450728)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv1_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "geoinstance",
-        "text": "Laacher See (osm2lod:way_56428302)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_093401Z_suniv0_",
-        "parent": "http://www.w3.org/ns/dcat#Dataset",
-        "type": "instance",
-        "text": "OSM Overpass Export (osm2lod:drillcores__2025-12-21_093401Z)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200939169_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
-        "type": "geoinstance",
-        "text": "Walsdorfer Maar (osm2lod:node_13200939169)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
-        "type": "geoinstance",
-        "text": "Dehner Maar (osm2lod:node_13200943487)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
-        "type": "geoinstance",
-        "text": "Auel Maar (osm2lod:node_13200955773)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200972050_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
-        "type": "geoinstance",
-        "text": "Hoher List Maar (osm2lod:node_13200972050)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
-        "type": "geoinstance",
-        "text": "Schalkenmehrener Maar (osm2lod:way_23450728)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv2_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "type": "geoinstance",
         "text": "Laacher See (osm2lod:way_56428302)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_72767715_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
+        "type": "geoinstance",
+        "text": "Gem\u00fcndener Maar (osm2lod:way_72767715)",
         "data": {
           "from": {},
           "to": {}
@@ -6086,105 +5861,65 @@ var tree={
         "id": "http://research-squirrel-engineers.github.io/osm2lod/Maar",
         "parent": "#",
         "type": "geoclass",
-        "instancecount": 6,
-        "text": "Maar (osm2lod:Maar) [6]",
+        "instancecount": 8,
+        "text": "Maar (osm2lod:Maar) [8]",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200939169_suniv3_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
-        "text": "Walsdorfer Maar (osm2lod:node_13200939169)",
+        "text": "Vulkan Dehner Maar (osm2lod:node_13200943487)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv3_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
-        "text": "Dehner Maar (osm2lod:node_13200943487)",
+        "text": "Vulkan Aueler Maar (osm2lod:node_13200955773)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv3_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144719688_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
-        "text": "Auel Maar (osm2lod:node_13200955773)",
+        "text": "Holzmaar (osm2lod:way_144719688)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200972050_suniv3_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726746_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
-        "text": "Hoher List Maar (osm2lod:node_13200972050)",
+        "text": "Ulmener Maar (osm2lod:way_144726746)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386703821_suniv2_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726755_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
-        "text": "AU3 (osm2lod:node_13386703821)",
+        "text": "Jungferweiher (osm2lod:way_144726755)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386723672_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
-        "type": "geoinstance",
-        "text": "DE4 (osm2lod:node_13386723672)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386786938_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
-        "type": "geoinstance",
-        "text": "AU4 (osm2lod:node_13386786938)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388641643_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
-        "type": "geoinstance",
-        "text": "HL1 (osm2lod:node_13388641643)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388651352_suniv2_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
-        "type": "geoinstance",
-        "text": "WD1 (osm2lod:node_13388651352)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv3_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
         "text": "Schalkenmehrener Maar (osm2lod:way_23450728)",
@@ -6194,7 +5929,7 @@ var tree={
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv3_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
         "text": "Laacher See (osm2lod:way_56428302)",
@@ -6204,140 +5939,191 @@ var tree={
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386703821_suniv3_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_72767715_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
-        "text": "AU3 (osm2lod:node_13386703821)",
+        "text": "Gem\u00fcndener Maar (osm2lod:way_72767715)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386723672_suniv3_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
         "type": "geoinstance",
-        "text": "DE4 (osm2lod:node_13386723672)",
+        "text": "Vulkan Dehner Maar (osm2lod:node_13200943487)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13386786938_suniv3_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
         "type": "geoinstance",
-        "text": "AU4 (osm2lod:node_13386786938)",
+        "text": "Vulkan Aueler Maar (osm2lod:node_13200955773)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388641643_suniv3_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144719688_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
         "type": "geoinstance",
-        "text": "HL1 (osm2lod:node_13388641643)",
+        "text": "Holzmaar (osm2lod:way_144719688)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13388651352_suniv3_",
-        "parent": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726746_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
         "type": "geoinstance",
-        "text": "WD1 (osm2lod:node_13388651352)",
+        "text": "Ulmener Maar (osm2lod:way_144726746)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726755_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "type": "geoinstance",
+        "text": "Jungferweiher (osm2lod:way_144726755)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "type": "geoinstance",
+        "text": "Schalkenmehrener Maar (osm2lod:way_23450728)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "type": "geoinstance",
+        "text": "Laacher See (osm2lod:way_56428302)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_72767715_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+        "type": "geoinstance",
+        "text": "Gem\u00fcndener Maar (osm2lod:way_72767715)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
         "parent": "#",
         "type": "geoclass",
-        "instancecount": 5,
-        "text": "CoreProfile (osm2lod:CoreProfile) [5]",
+        "instancecount": 8,
+        "text": "E55_Place (crm:E55_Place) [17]",
         "data": {
-          "from": {
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 5,
-              "http://www.w3.org/ns/ldp#Resource": 2,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 2
-            },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "http://www.w3.org/ns/dcat#Catalog": 5,
-              "http://www.w3.org/2004/02/skos/core#Collection": 5,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 10,
-              "http://www.w3.org/ns/ldp#Resource": 7,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 7
-            }
-          },
-          "to": {
-            "http://purl.org/dc/terms/created": {
-              "instancecount": 5
-            },
-            "http://purl.org/dc/terms/identifier": {
-              "instancecount": 10
-            },
-            "http://purl.org/dc/terms/isPartOf": {
-              "instancecount": 5,
-              "http://www.w3.org/ns/dcat#Dataset": 5,
-              "http://research-squirrel-engineers.github.io/osm2lod/Dataset": 5
-            },
-            "http://purl.org/dc/terms/source": {
-              "instancecount": 5
-            },
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 5,
-              "http://www.w3.org/ns/adms#Asset": 5,
-              "http://rdfs.org/ns/void#Dataset": 5,
-              "http://www.w3.org/ns/ldp#Resource": 4,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 4
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/exportType": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__man_made": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__url": {
-              "instancecount": 5
-            },
-            "http://www.opengis.net/ont/geosparql#hasGeometry": {
-              "instancecount": 5,
-              "http://www.opengis.net/ont/sf#Point": 5
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 20
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 5
-            },
-            "http://xmlns.com/foaf/0.1/primaryTopic": {
-              "instancecount": 5
-            }
-          }
+          "from": {},
+          "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13200939169_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200943487_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
         "type": "geoinstance",
-        "text": " (osm2lod:13200939169_geom)",
+        "text": "Vulkan Dehner Maar (osm2lod:node_13200943487)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13200955773_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Vulkan Aueler Maar (osm2lod:node_13200955773)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144719688_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Holzmaar (osm2lod:way_144719688)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726746_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Ulmener Maar (osm2lod:way_144726746)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_144726755_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Jungferweiher (osm2lod:way_144726755)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_23450728_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Schalkenmehrener Maar (osm2lod:way_23450728)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_56428302_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Laacher See (osm2lod:way_56428302)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_72767715_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Gem\u00fcndener Maar (osm2lod:way_72767715)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_170530Z_suniv0_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "instance",
+        "text": "OSM Overpass Export (osm2lod:drillcores__2025-12-21_170530Z)",
         "data": {
           "from": {},
           "to": {}
@@ -6364,60 +6150,30 @@ var tree={
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13200972050_geom",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/144719688_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": " (osm2lod:13200972050_geom)",
+        "text": " (osm2lod:144719688_geom)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13386703821_geom",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/144726746_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": " (osm2lod:13386703821_geom)",
+        "text": " (osm2lod:144726746_geom)",
         "data": {
           "from": {},
           "to": {}
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13386723672_geom",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/144726755_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": " (osm2lod:13386723672_geom)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13386786938_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": " (osm2lod:13386786938_geom)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13388641643_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": " (osm2lod:13388641643_geom)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/13388651352_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": " (osm2lod:13388651352_geom)",
+        "text": " (osm2lod:144726755_geom)",
         "data": {
           "from": {},
           "to": {}
@@ -6444,10 +6200,30 @@ var tree={
         }
       },
       {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_093401Z_suniv1_",
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/72767715_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:72767715_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_170530Z_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/Dataset",
         "type": "instance",
-        "text": "OSM Overpass Export (osm2lod:drillcores__2025-12-21_093401Z)",
+        "text": "OSM Overpass Export (osm2lod:drillcores__2025-12-21_170530Z)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Maar_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "Maar Instances Collection (osm2lod:Maar_collection)",
         "data": {
           "from": {},
           "to": {}
@@ -6458,26 +6234,6 @@ var tree={
         "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
         "type": "featurecollection",
         "text": "E55_Place Instances Collection (osm2lod:E55_Place_collection)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/Maar_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "instance",
-        "text": "Maar Instances Collection (osm2lod:Maar_collection)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/CoreProfile_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "instance",
-        "text": "CoreProfile Instances Collection (osm2lod:CoreProfile_collection)",
         "data": {
           "from": {},
           "to": {}

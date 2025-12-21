@@ -8,8 +8,8 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: dataset"@en ;
     void:property dcat:dataset ;
-    void:triples 37,
-        45,
+    void:triples 17,
+        37,
         425,
         2849 .
 
