@@ -1,0 +1,132 @@
+CREATE
+LAST|Len|"Vulkan Dehner Maar"
+LAST|Den|"OSM import snapshot (drillcores) – node 13200943487"
+LAST|P1|Q20
+LAST|P3|13200943487
+LAST|P4|Q5
+LAST|P5|@50.2943837/6.5052787
+LAST|P6|"Q134466523"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=30207"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13200943487"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|3
+LAST|P16|176226337
+LAST|P17|"2025-12-21T16:59:49Z"
+
+CREATE
+LAST|Len|"Vulkan Aueler Maar"
+LAST|Den|"OSM import snapshot (drillcores) – node 13200955773"
+LAST|P1|Q20
+LAST|P3|13200955773
+LAST|P4|Q5
+LAST|P5|@50.2775941/6.5933215
+LAST|P6|"Q134466471"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=30134"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/node/13200955773"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|3
+LAST|P16|176226251
+LAST|P17|"2025-12-21T16:57:27Z"
+
+CREATE
+LAST|Len|"Schalkenmehrener Maar"
+LAST|Den|"OSM import snapshot (drillcores) – way 23450728"
+LAST|P1|Q17
+LAST|P3|23450728
+LAST|P4|Q6
+LAST|P5|@50.169354029508206/6.857113904918035
+LAST|P6|"Q2230360"
+LAST|P7|"https://de.wikipedia.org/wiki/Schalkenmehrener_Maar"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=16656"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/23450728"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|18
+LAST|P16|176140712
+LAST|P17|"2025-12-19T13:22:37Z"
+
+CREATE
+LAST|Len|"Laacher See"
+LAST|Den|"OSM import snapshot (drillcores) – way 56428302"
+LAST|P1|Q17
+LAST|P3|56428302
+LAST|P4|Q6
+LAST|P5|@50.41012529681529/7.266720711464967
+LAST|P6|"Q549267"
+LAST|P7|"https://de.wikipedia.org/wiki/Laacher_See"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/56428302"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|36
+LAST|P16|176140841
+LAST|P17|"2025-12-19T13:26:50Z"
+
+CREATE
+LAST|Len|"Gemündener Maar"
+LAST|Den|"OSM import snapshot (drillcores) – way 72767715"
+LAST|P1|Q17
+LAST|P3|72767715
+LAST|P4|Q6
+LAST|P5|@50.177668450000006/6.83644002
+LAST|P6|"Q1501226"
+LAST|P7|"https://de.wikipedia.org/wiki/Gem%C3%BCndener_Maar"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/72767715"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|6
+LAST|P16|176211538
+LAST|P17|"2025-12-21T10:40:41Z"
+
+CREATE
+LAST|Len|"Holzmaar"
+LAST|Den|"OSM import snapshot (drillcores) – way 144719688"
+LAST|P1|Q17
+LAST|P3|144719688
+LAST|P4|Q6
+LAST|P5|@50.11885730326084/6.877961894565216
+LAST|P7|"https://de.wikipedia.org/wiki/Holzmaar"
+LAST|P8|"https://kulturdb.de/einobjekt.php?id=777"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/144719688"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|6
+LAST|P16|176211971
+LAST|P17|"2025-12-21T10:53:18Z"
+
+CREATE
+LAST|Len|"Ulmener Maar"
+LAST|Den|"OSM import snapshot (drillcores) – way 144726746"
+LAST|P1|Q17
+LAST|P3|144726746
+LAST|P4|Q6
+LAST|P5|@50.21039865652174/6.982133803260868
+LAST|P6|"Q1257548"
+LAST|P7|"https://de.wikipedia.org/wiki/Ulmener_Maar"
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/144726746"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|14
+LAST|P16|176212609
+LAST|P17|"2025-12-21T11:10:12Z"
+
+CREATE
+LAST|Len|"Jungferweiher"
+LAST|Den|"OSM import snapshot (drillcores) – way 144726755"
+LAST|P1|Q17
+LAST|P3|144726755
+LAST|P4|Q6
+LAST|P5|@50.21789210593608/6.9800719269406395
+LAST|P9|"source:ref=doi=10.1016/j.quascirev.2012.09.01"
+LAST|P10|Q27
+LAST|P11|"https://www.openstreetmap.org/way/144726755"
+LAST|P12|"2025-12-21T17:14:42Z"
+LAST|P13|18
+LAST|P16|176212110
+LAST|P17|"2025-12-21T10:56:06Z"
