@@ -58,14 +58,182 @@ var minivowlresult={
  ],
  "links": [
   {
-   "source": 3,
+   "source": 8,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 1,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 1,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 1,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 1,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 0,
    "target": 5,
    "valueTo": "isPartOf",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/terms/isPartOf"
   },
   {
-   "source": 3,
+   "source": 0,
    "target": 1,
    "valueTo": "isPartOf",
    "propertyTo": "class",
@@ -80,6 +248,20 @@ var minivowlresult={
   },
   {
    "source": 2,
+   "target": 1,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 3,
+   "target": 5,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 3,
    "target": 1,
    "valueTo": "isPartOf",
    "propertyTo": "class",
@@ -101,48 +283,6 @@ var minivowlresult={
   },
   {
    "source": 0,
-   "target": 5,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 0,
-   "target": 1,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 6,
-   "target": 3,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
-   "target": 2,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
-   "target": 1,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
-   "target": 0,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 3,
    "target": 4,
    "valueTo": "hasGeometry",
    "propertyTo": "class",
@@ -156,6 +296,13 @@ var minivowlresult={
    "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
+   "source": 3,
+   "target": 4,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
    "source": 1,
    "target": 4,
    "valueTo": "hasGeometry",
@@ -163,179 +310,32 @@ var minivowlresult={
    "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
-   "source": 0,
-   "target": 4,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 7,
-   "target": 4,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 2,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
+   "source": 6,
    "target": 0,
-   "valueTo": "dataset",
+   "valueTo": "member",
    "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 4,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 2,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 0,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 4,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 2,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 0,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 6,
-   "target": 4,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 6,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 6,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 6,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
    "source": 6,
    "target": 2,
-   "valueTo": "dataset",
+   "valueTo": "member",
    "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
    "source": 6,
-   "target": 0,
-   "valueTo": "dataset",
+   "target": 3,
+   "valueTo": "member",
    "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 6,
+   "target": 1,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   }
  ]
 }
