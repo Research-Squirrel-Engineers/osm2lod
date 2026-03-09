@@ -177,6 +177,20 @@ out meta geom;
 """,
         "entity_base_class": CRM.E55_Place,
     },
+    "benchmarks": {
+        "query": """
+[out:json][timeout:180];
+(
+  area["name:en"="Ireland"]->.ie;
+  area["name:en"="Scotland"]->.sc;
+  
+  node(area.ie)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  node(area.sc)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+);
+out meta geom;
+""",
+        "entity_base_class": CRM.E22_Human_Made_Object,
+    },
 }
 
 SELECTED_EXPORTS: List[str] = [
@@ -230,11 +244,18 @@ CORE_TAG_KEYS = [
 
 EXPORT_EXTRA_TAG_KEYS: Dict[str, List[str]] = {
     "drillcores": ["volcano:status", "volcano:type"],
+    "benchmarks": ["benchmark", "survey:date", "survey_point:structure"],
 }
 
 URL_TAG_KEYS = {"source:url", "website", "url", "image", "wikimedia_commons"}
 
-P10_QUERY_ITEM = {"ogham": "Q24", "holywells": "Q25", "ci": "Q26", "drillcores": "Q27"}
+P10_QUERY_ITEM = {
+    "ogham": "Q24",
+    "holywells": "Q25",
+    "ci": "Q26",
+    "drillcores": "Q27",
+    "benchmarks": "Q28",
+}
 
 P1_FIXED = {"ogham": ["Q12"], "holywells": ["Q14"], "ci": ["Q21", "Q22"]}
 
@@ -254,6 +275,7 @@ EXPORT_RDFTYPE: Dict[str, URIRef] = {
     "ci": URIRef(f"{OSM2LOD}CI_Findspot"),
     "maar": URIRef(f"{OSM2LOD}Maar"),
     "coreprofile": URIRef(f"{OSM2LOD}CoreProfile"),
+    "benchmarks": URIRef(f"{OSM2LOD}Benchmark"),
 }
 
 
@@ -326,7 +348,9 @@ def overpass_fetch(
         for attempt in range(1, retries + 1):
             time.sleep(max(0.0, pause_s))
             try:
-                r = requests.post(endpoint, data={"data": query}, timeout=240)
+                r = requests.post(
+                    endpoint, data={"data": query}, timeout=400
+                )  # Erhöht von 240 auf 400
                 r.raise_for_status()
                 return r.json()
             except Exception as e:

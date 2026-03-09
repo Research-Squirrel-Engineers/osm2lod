@@ -7,18 +7,18 @@
     "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
-  "exportType": "ci",
-  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/ci__2026-03-09_163355Z",
+  "exportType": "benchmarks",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/benchmarks__2026-03-09_170104Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2026-03-09T16:33:55.199592+00:00",
+  "dcterms:created": "2026-03-09T17:01:04.138974+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\n(\n  node(337519639);\n  node(369821847);\n  node(1221172611);\n  node(2293681037);\n  node(7778324735);\n  node(8814442373);\n  node(10879170567);\n  node(11107939919);\n  node(11109379095);\n);\nout meta geom;",
-  "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+  "overpassQuery": "[out:json][timeout:180];\n(\n  area[\"name:en\"=\"Ireland\"]->.ie;\n  area[\"name:en\"=\"Scotland\"]->.sc;\n  \n  node(area.ie)[\"man_made\"=\"survey_point\"][\"benchmark\"=\"yes\"][\"wikimedia_commons\"];\n  node(area.sc)[\"man_made\"=\"survey_point\"][\"benchmark\"=\"yes\"][\"wikimedia_commons\"];\n);\nout meta geom;",
+  "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
   "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
@@ -58,8 +58,12 @@
     "website",
     "url"
   ],
-  "extraTagKeys": [],
-  "recordCount": 9,
+  "extraTagKeys": [
+    "benchmark",
+    "survey:date",
+    "survey_point:structure"
+  ],
+  "recordCount": 22,
   "columns": [
     "type",
     "id",
@@ -70,36 +74,46 @@
     "uid",
     "lat",
     "lon",
+    "tag:benchmark",
+    "tag:direction",
+    "tag:distance",
+    "tag:highway",
+    "tag:historic",
+    "tag:inscription",
+    "tag:man_made",
+    "tag:mapillary",
+    "tag:material",
+    "tag:milestone:destination",
+    "tag:wikimedia_commons",
+    "tag:source",
+    "tag:survey:date",
+    "tag:description",
+    "tag:survey_point:structure",
     "tag:name",
-    "tag:natural",
-    "tag:tourism",
-    "tag:wikidata",
-    "tag:wikipedia",
-    "tag:int_name",
+    "tag:name:ar",
     "tag:name:de",
     "tag:name:en",
-    "tag:archaeological_site",
-    "tag:historic",
-    "tag:historic:civilization",
-    "tag:access",
-    "tag:ele",
-    "tag:name:sr",
-    "tag:source_ref"
+    "tag:name:fr",
+    "tag:name:ko",
+    "tag:name:pl",
+    "tag:natural",
+    "tag:place",
+    "tag:ref"
   ],
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_ci_2026-03-09_163355Z.csv",
-      "dcat:byteSize": 1990
+      "dcat:downloadURL": "osm_export_benchmarks_2026-03-09_170104Z.csv",
+      "dcat:byteSize": 4827
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_ci_2026-03-09_163355Z.ttl",
-      "dcat:byteSize": 9548
+      "dcat:downloadURL": "osm_export_benchmarks_2026-03-09_170104Z.ttl",
+      "dcat:byteSize": 21827
     }
   ],
   "output": {
-    "csv": "osm_export_ci_2026-03-09_163355Z.csv",
-    "ttl": "osm_export_ci_2026-03-09_163355Z.ttl"
+    "csv": "osm_export_benchmarks_2026-03-09_170104Z.csv",
+    "ttl": "osm_export_benchmarks_2026-03-09_170104Z.ttl"
   }
 }
