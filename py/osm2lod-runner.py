@@ -952,6 +952,25 @@ def find_previous_run_dir(base_dir: Path, current_date: str) -> Optional[Path]:
     return None
 
 
+def get_all_run_dirs(base_dir: Path) -> List[Path]:
+    """
+    Findet alle Run-Ordner im base_dir und gibt sie chronologisch sortiert zurück.
+    """
+    if not base_dir.exists():
+        return []
+
+    run_dirs = []
+    for p in base_dir.iterdir():
+        if p.is_dir():
+            # Prüfe ob es ein Datums-Ordner ist (Format: YYYY-MM-DD)
+            if re.match(r"^\d{4}-\d{2}-\d{2}$", p.name):
+                run_dirs.append(p)
+
+    # Sortiere chronologisch (älteste zuerst)
+    run_dirs.sort(key=lambda x: x.name)
+    return run_dirs
+
+
 def compare_csv_exports(
     old_csv: Path, new_csv: Path, export_type: str
 ) -> ChangelogReport:
@@ -1121,7 +1140,7 @@ def generate_changelog_html(reports: List[ChangelogReport], output_path: Path) -
         "</head>",
         "<body>",
         "  <div class='container'>",
-        "    <h1>🔄 OSM2LOD Changelog</h1>",
+        "    <h1>🔄 OSM2LOD Complete Changelog History</h1>",
         f"    <p>Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}</p>",
     ]
 
@@ -1129,6 +1148,28 @@ def generate_changelog_html(reports: List[ChangelogReport], output_path: Path) -
         html_parts.append(
             "    <div class='empty-state'>No changelog reports available.</div>"
         )
+
+    # Erstelle Timeline-Übersicht wenn mehrere Reports vorhanden
+    if len(reports) > 1:
+        # Sammle alle einzigartigen Zeitvergleiche
+        comparisons = set()
+        for report in reports:
+            comparisons.add((report.old_date, report.new_date))
+
+        html_parts.extend(
+            [
+                "    <div class='timeline'>",
+                f"      <div class='timeline-header'>📅 Timeline Overview ({len(comparisons)} comparisons)</div>",
+            ]
+        )
+
+        for old_date, new_date in sorted(comparisons):
+            html_parts.append(
+                f"      <div class='timeline-item'>"
+                f"<span class='timeline-date'>{old_date} → {new_date}</span></div>"
+            )
+
+        html_parts.append("    </div>")
 
     for report in reports:
         total_changes = len(report.added) + len(report.deleted) + len(report.modified)
@@ -1331,51 +1372,60 @@ def generate_changelog_for_run(
     base_dir: Path, current_run_dir: Path, export_types: List[str]
 ) -> Optional[Path]:
     """
-    Generiert einen Changelog für den aktuellen Run, falls ein vorheriger Run existiert.
+    Generiert einen Changelog mit der kompletten Historie aller aufeinanderfolgenden Runs.
     """
-    current_date = current_run_dir.name
-    previous_run_dir = find_previous_run_dir(base_dir, current_date)
+    all_run_dirs = get_all_run_dirs(base_dir)
 
-    if previous_run_dir is None:
-        print("ℹ️  No previous run found, skipping changelog generation.")
+    if len(all_run_dirs) < 2:
+        print("ℹ️  Less than 2 runs found, skipping changelog generation.")
         return None
 
-    print(f"📊 Generating changelog: {previous_run_dir.name} → {current_date}")
+    print(f"📊 Generating complete changelog history ({len(all_run_dirs)} runs)")
+    print(f"   Date range: {all_run_dirs[0].name} → {all_run_dirs[-1].name}")
 
-    reports: List[ChangelogReport] = []
+    # Sammle alle Reports für alle aufeinanderfolgenden Vergleiche
+    all_reports: List[ChangelogReport] = []
 
-    for export_type in export_types:
-        # Finde CSV-Dateien für diesen Export-Typ
-        old_csvs = list(previous_run_dir.glob(f"osm_export_{export_type}_*.csv"))
-        new_csvs = list(current_run_dir.glob(f"osm_export_{export_type}_*.csv"))
+    # Vergleiche jeden Run mit seinem Vorgänger
+    for i in range(1, len(all_run_dirs)):
+        old_run_dir = all_run_dirs[i - 1]
+        new_run_dir = all_run_dirs[i]
 
-        if not old_csvs or not new_csvs:
-            continue
+        print(f"\n   Comparing: {old_run_dir.name} → {new_run_dir.name}")
 
-        # Verwende die neueste Datei (sollte nur eine sein)
-        old_csv = sorted(old_csvs)[-1]
-        new_csv = sorted(new_csvs)[-1]
+        for export_type in export_types:
+            # Finde CSV-Dateien für diesen Export-Typ
+            old_csvs = list(old_run_dir.glob(f"osm_export_{export_type}_*.csv"))
+            new_csvs = list(new_run_dir.glob(f"osm_export_{export_type}_*.csv"))
 
-        try:
-            report = compare_csv_exports(old_csv, new_csv, export_type)
-            reports.append(report)
+            if not old_csvs or not new_csvs:
+                continue
 
-            total = len(report.added) + len(report.deleted) + len(report.modified)
-            print(
-                f"  ✔ {export_type}: {total} changes ({len(report.added)} added, {len(report.modified)} modified, {len(report.deleted)} deleted)"
-            )
-        except Exception as e:
-            print(f"  ✘ {export_type}: Error - {e}")
+            # Verwende die neueste Datei (sollte nur eine sein)
+            old_csv = sorted(old_csvs)[-1]
+            new_csv = sorted(new_csvs)[-1]
 
-    if not reports:
-        print("ℹ️  No changelog reports generated.")
+            try:
+                report = compare_csv_exports(old_csv, new_csv, export_type)
+                all_reports.append(report)
+
+                total = len(report.added) + len(report.deleted) + len(report.modified)
+                print(
+                    f"     ✔ {export_type}: {total} changes ({len(report.added)} added, {len(report.modified)} modified, {len(report.deleted)} deleted)"
+                )
+            except Exception as e:
+                print(f"     ✘ {export_type}: Error - {e}")
+
+    if not all_reports:
+        print("\nℹ️  No changelog reports generated.")
         return None
 
-    # Generiere HTML im dist-Ordner
+    # Generiere HTML im dist-Ordner mit allen Reports
     changelog_path = base_dir / "changelog.html"
-    generate_changelog_html(reports, changelog_path)
+    generate_changelog_html(all_reports, changelog_path)
 
-    print(f"📄 Changelog saved: {changelog_path}")
+    print(f"\n📄 Complete changelog history saved: {changelog_path}")
+    print(f"   Total comparisons: {len(all_reports)}")
     return changelog_path
 
 
