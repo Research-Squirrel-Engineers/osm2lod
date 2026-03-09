@@ -9,6 +9,7 @@
     void:property rdfs:member ;
     void:triples 9,
         24,
+        66,
         106,
         712 .
 

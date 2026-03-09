@@ -12,6 +12,7 @@
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
     void:triples 2,
         9,
+        21,
         105,
         686 .
 

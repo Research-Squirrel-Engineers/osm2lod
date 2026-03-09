@@ -37,9 +37,11 @@
     ns1:averageLiteralLength 0 ;
     ns1:averageObjectIRILength 43,
         44,
-        46 ;
+        46,
+        47 ;
     ns1:averagePropertyIRILength 50,
         51,
+        52,
         55,
         56 ;
     ns1:averageSubjectIRILength 68,
@@ -48,17 +50,19 @@
     ns1:distinctBlankNodes 0 ;
     ns1:distinctIRIReferences 156,
         169,
+        281,
         1107,
         6055 ;
     ns1:distinctLiterals 0 ;
     ns1:distinctRDFNodes 156,
         169,
+        281,
         1107,
         6055 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-03-09T17:14:48"^^xsd:dateTime ;
+    dcterms:modified "2026-03-09T17:23:39"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -67,7 +71,8 @@
     dcterms:title "osm2lod"@en ;
     vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
     vann:preferredNamespaceUri "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
-    void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CI_Findspot>,
+    void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Benchmark>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CI_Findspot>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset>,
@@ -86,19 +91,23 @@
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 100,
         113,
+        200,
         849,
         4582 ;
     void:distinctSubjects 26,
         28,
+        54,
         222,
         1434 ;
     void:entities 23,
         25,
+        51,
         219,
         1431 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 28,
+    void:properties 27,
+        28,
         30,
         36,
         39 ;
@@ -114,6 +123,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__access>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__alt_name>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__archaeological_site>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__benchmark>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__denomination>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__description>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__ele>,
@@ -133,6 +143,8 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__url>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__survey__date>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__survey_point__structure>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__tourism>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__url>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__volcano__type>,
@@ -152,6 +164,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> ;
     void:triples 257,
         265,
+        583,
         2581,
         17854 ;
     void:uriSpace "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;

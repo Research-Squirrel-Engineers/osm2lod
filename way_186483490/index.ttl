@@ -1,0 +1,33 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:way_186483490 a ns1:Benchmark,
+        ns1:OSMEntity,
+        <http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object>,
+        dcat:Dataset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "أيرلندا"@ar,
+        "Irland"@de,
+        "Ireland"@en,
+        "Irlande"@fr,
+        "아일랜드"@ko,
+        "Irlandia"@pl ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/186483490" ;
+    dcterms:isPartOf ns1:benchmarks__2026-03-09_171118Z ;
+    void:inDataset ns1:osm2lod ;
+    ns1:exportType "benchmarks" ;
+    ns1:osmtag__name "أيرلندا" ;
+    ns1:osmtag__natural "coastline" ;
+    ns1:osmtag__ref "E2" ;
+    ns1:osmtag__source "Bing" ;
+    geo:hasGeometry ns1:186483490_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/186483490> .
+

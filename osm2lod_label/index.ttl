@@ -9,6 +9,7 @@
     void:property rdfs:label ;
     void:triples 13,
         16,
+        32,
         112,
         775 .
 

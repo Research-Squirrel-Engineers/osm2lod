@@ -7,6 +7,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__description"@en ;
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__description> ;
-    void:triples 11,
+    void:triples 1,
+        11,
         33 .
 

@@ -37,7 +37,8 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Dataset Instances Collection"@en ;
     void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-21_093359Z>,
+    dcat:dataset <http://research-squirrel-engineers.github.io/osm2lod/benchmarks__2026-03-09_171118Z>,
+        <http://research-squirrel-engineers.github.io/osm2lod/ci__2025-12-21_093359Z>,
         <http://research-squirrel-engineers.github.io/osm2lod/drillcores__2025-12-21_170530Z>,
         <http://research-squirrel-engineers.github.io/osm2lod/holywells__2025-12-21_093346Z>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_10009186152>,
@@ -417,6 +418,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/node_12496737149>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12552461762>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12566098862>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12600848879>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12628110993>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12650847095>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12661114455>,
@@ -436,8 +438,23 @@
         <http://research-squirrel-engineers.github.io/osm2lod/node_12794210135>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12802508366>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12869253079>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12888689968>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12892685118>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_12898966553>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12919476068>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12919738910>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12922675575>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923698705>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923704831>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923752174>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923754806>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12924781327>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12924782280>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12924784584>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12925489820>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12925655350>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12925919541>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12936028929>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13027060712>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13032141583>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13092780830>,
@@ -457,6 +474,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/node_13289963258>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13317938707>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13318005540>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13331549275>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13333479519>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13359398696>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13364444319>,
@@ -587,8 +605,11 @@
         <http://research-squirrel-engineers.github.io/osm2lod/node_6551627967>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_6557864663>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_6661082531>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_6666122939>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_6721748182>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_6810674728>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_6848587073>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_6967103228>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7040230600>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7079431417>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7082266109>,
@@ -605,6 +626,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/node_7627043038>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7778324735>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7869869204>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_7873204616>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7925063785>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_7926390758>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_8004610971>,
@@ -863,6 +885,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/way_1453955176>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_1453956789>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_1453957835>,
+        <http://research-squirrel-engineers.github.io/osm2lod/way_186483490>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_23450728>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_280524572>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_312593379>,
@@ -892,11 +915,33 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "OSMEntity Instances Collection"@en ;
     void:inDataset <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    rdfs:member <http://research-squirrel-engineers.github.io/osm2lod/node_13200943487>,
+    rdfs:member <http://research-squirrel-engineers.github.io/osm2lod/node_12600848879>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12888689968>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12919476068>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12919738910>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12922675575>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923698705>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923704831>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923752174>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12923754806>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12924781327>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12924782280>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12924784584>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12925489820>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12925655350>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12925919541>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_12936028929>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13200943487>,
         <http://research-squirrel-engineers.github.io/osm2lod/node_13200955773>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_13331549275>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_6666122939>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_6721748182>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_6967103228>,
+        <http://research-squirrel-engineers.github.io/osm2lod/node_7873204616>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_144719688>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_144726746>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_144726755>,
+        <http://research-squirrel-engineers.github.io/osm2lod/way_186483490>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_23450728>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_56428302>,
         <http://research-squirrel-engineers.github.io/osm2lod/way_72767715> ;
@@ -2116,6 +2161,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/12496737149_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12552461762_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12566098862_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12600848879_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12628110993_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1264982552_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12650847095_geom>,
@@ -2141,8 +2187,23 @@
         <http://research-squirrel-engineers.github.io/osm2lod/1281207491_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1284724581_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12869253079_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12888689968_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12892685118_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/12898966553_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12919476068_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12919738910_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12922675575_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12923698705_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12923704831_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12923752174_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12923754806_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12924781327_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12924782280_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12924784584_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12925489820_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12925655350_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12925919541_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/12936028929_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13027060712_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13032141583_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1303356671_geom>,
@@ -2163,6 +2224,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/13289963258_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13317938707_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13318005540_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/13331549275_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13333479519_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13359398696_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/13364444319_geom>,
@@ -2183,6 +2245,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/1754711830_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1758650307_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1829826248_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/186483490_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1867019702_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/1867143308_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/2005208928_geom>,
@@ -2308,8 +2371,11 @@
         <http://research-squirrel-engineers.github.io/osm2lod/6551627967_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/6557864663_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/6661082531_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/6666122939_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/6721748182_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/6810674728_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/6848587073_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/6967103228_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/698016313_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7040230600_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7079431417_geom>,
@@ -2329,6 +2395,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/7627043038_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7778324735_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7869869204_geom>,
+        <http://research-squirrel-engineers.github.io/osm2lod/7873204616_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7925063785_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/7926390758_geom>,
         <http://research-squirrel-engineers.github.io/osm2lod/8004610971_geom>,
@@ -2590,6 +2657,7 @@
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
     void:triples 2,
         9,
+        21,
         105,
         686 .
 
@@ -2606,19 +2674,9 @@
         6,
         26 .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_wikidata.org_entity_> a void:Linkset,
-        <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_wikidata.org_entity_> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Linkset: osm2lod - wd:"@en ;
-    void:linkPredicate owl:sameAs ;
-    void:objectsTarget <http://wikidata.org/entity/> ;
-    void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
-    void:triples 6,
-        9,
-        58,
-        132 .
+        <http://www.w3.org/ns/ldp#Resource> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_www.cidoc-crm.org_cidoc-crm_> a void:Linkset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
@@ -2631,6 +2689,7 @@
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2656,6 +2715,7 @@
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2681,6 +2741,7 @@
     void:subjectsTarget <http://research-squirrel-engineers.github.io/osm2lod/osm2lod> ;
     void:triples 10,
         11,
+        24,
         108,
         714 .
 
@@ -2729,6 +2790,7 @@
     void:property geo:asWKT ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2741,6 +2803,7 @@
     void:property dcterms:created ;
     void:triples 9,
         10,
+        23,
         107,
         713 .
 
@@ -2753,6 +2816,7 @@
     void:property dcat:dataset ;
     void:triples 17,
         37,
+        45,
         425,
         2849 .
 
@@ -2765,6 +2829,7 @@
     void:property <http://research-squirrel-engineers.github.io/osm2lod/exportType> ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2777,6 +2842,7 @@
     void:property geo:hasGeometry ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2789,6 +2855,7 @@
     void:property dcterms:identifier ;
     void:triples 10,
         15,
+        23,
         107,
         713 .
 
@@ -2801,6 +2868,7 @@
     void:property dcterms:isPartOf ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2813,6 +2881,7 @@
     void:property rdfs:label ;
     void:triples 13,
         16,
+        32,
         112,
         775 .
 
@@ -2825,6 +2894,7 @@
     void:property rdfs:member ;
     void:triples 9,
         24,
+        66,
         106,
         712 .
 
@@ -2832,15 +2902,9 @@
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource> .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__loc_name> a void:Dataset,
-        <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__loc_name> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Property Partition: osmtag__loc_name"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name> ;
-    void:triples 1,
-        6 .
+        <http://www.w3.org/ns/ldp#Resource> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__name> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
@@ -2849,13 +2913,22 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: osmtag__name"@en ;
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__name> ;
-    void:triples 8,
+    void:triples 1,
+        8,
         73,
         626 .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__natural> a <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__natural> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource> .
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Property Partition: osmtag__natural"@en ;
+    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__natural> ;
+    void:triples 1,
+        5,
+        8,
+        668 .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
@@ -2865,18 +2938,13 @@
     rdfs:label "Property Partition: osmtag__source"@en ;
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source> ;
     void:triples 2,
+        4,
         55,
         304 .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref> a void:Dataset,
-        <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Property Partition: osmtag__source__ref"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref> ;
-    void:triples 1,
-        6 .
+        <http://www.w3.org/ns/ldp#Resource> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__url> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
@@ -2890,17 +2958,9 @@
         <http://www.w3.org/ns/ldp#Container>,
         <http://www.w3.org/ns/ldp#Resource> .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikidata> a void:Dataset,
-        <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikidata> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Property Partition: osmtag__wikidata"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata> ;
-    void:triples 6,
-        9,
-        58,
-        132 .
+        <http://www.w3.org/ns/ldp#Resource> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikimedia_commons> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
@@ -2911,18 +2971,12 @@
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
     void:triples 1,
         15,
+        21,
         36 .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikipedia> a void:Dataset,
-        <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__wikipedia> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Property Partition: osmtag__wikipedia"@en ;
-    void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia> ;
-    void:triples 5,
-        6,
-        19 .
+        <http://www.w3.org/ns/ldp#Resource> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_primaryTopic> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
@@ -2933,6 +2987,7 @@
     void:property foaf:primaryTopic ;
     void:triples 8,
         9,
+        22,
         106,
         712 .
 
@@ -2954,17 +3009,9 @@
     void:property dcterms:rights ;
     void:triples 1 .
 
-<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_sameAs> a void:Dataset,
-        <http://www.w3.org/ns/ldp#BasicContainer>,
+<http://research-squirrel-engineers.github.io/osm2lod/osm2lod_sameAs> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    rdfs:label "Property Partition: sameAs"@en ;
-    void:property owl:sameAs ;
-    void:triples 6,
-        9,
-        58,
-        132 .
+        <http://www.w3.org/ns/ldp#Resource> .
 
 <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_source> a <http://www.w3.org/ns/ldp#BasicContainer>,
         <http://www.w3.org/ns/ldp#Container>,
@@ -2999,6 +3046,7 @@
     void:triples 1,
         48,
         53,
+        118,
         538,
         3568 .
 
@@ -3044,9 +3092,11 @@
     ns1:averageLiteralLength 0 ;
     ns1:averageObjectIRILength 43,
         44,
-        46 ;
+        46,
+        47 ;
     ns1:averagePropertyIRILength 50,
         51,
+        52,
         55,
         56 ;
     ns1:averageSubjectIRILength 68,
@@ -3055,17 +3105,19 @@
     ns1:distinctBlankNodes 0 ;
     ns1:distinctIRIReferences 156,
         169,
+        281,
         1107,
         6055 ;
     ns1:distinctLiterals 0 ;
     ns1:distinctRDFNodes 156,
         169,
+        281,
         1107,
         6055 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-03-09T17:14:48"^^xsd:dateTime ;
+    dcterms:modified "2026-03-09T17:23:39"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -3074,7 +3126,8 @@
     dcterms:title "osm2lod"@en ;
     vann:preferredNamespacePrefix "osm2lod"^^xsd:string ;
     vann:preferredNamespaceUri "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:anyURI ;
-    void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CI_Findspot>,
+    void:classPartition <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Benchmark>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_CI_Findspot>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Catalog>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Collection>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_Dataset>,
@@ -3093,19 +3146,23 @@
     void:dataDump <https://Research-Squirrel-Engineers.github.io/osm2lod//index.ttl> ;
     void:distinctObjects 100,
         113,
+        200,
         849,
         4582 ;
     void:distinctSubjects 26,
         28,
+        54,
         222,
         1434 ;
     void:entities 23,
         25,
+        51,
         219,
         1431 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 28,
+    void:properties 27,
+        28,
         30,
         36,
         39 ;
@@ -3121,6 +3178,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__access>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__alt_name>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__archaeological_site>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__benchmark>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__denomination>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__description>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__ele>,
@@ -3140,6 +3198,8 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__ref>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__source__url>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__survey__date>,
+        <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__survey_point__structure>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__tourism>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__url>,
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_osmtag__volcano__type>,
@@ -3159,6 +3219,7 @@
         <http://research-squirrel-engineers.github.io/osm2lod/osm2lod_type> ;
     void:triples 257,
         265,
+        583,
         2581,
         17854 ;
     void:uriSpace "http://research-squirrel-engineers.github.io/osm2lod/"^^xsd:string ;

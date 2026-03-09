@@ -9,5 +9,6 @@
     void:property <http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons> ;
     void:triples 1,
         15,
+        21,
         36 .
 

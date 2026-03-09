@@ -43,6 +43,1515 @@ var tree={
     "check_callback": true,
     "data": [
       {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12600848879_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12600848879 (osm2lod:node_12600848879)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12888689968_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12888689968 (osm2lod:node_12888689968)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919476068_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12919476068 (osm2lod:node_12919476068)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919738910_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12919738910 (osm2lod:node_12919738910)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12922675575_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12922675575 (osm2lod:node_12922675575)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923698705_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12923698705 (osm2lod:node_12923698705)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923704831_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12923704831 (osm2lod:node_12923704831)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923752174_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12923752174 (osm2lod:node_12923752174)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923754806_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12923754806 (osm2lod:node_12923754806)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924781327_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12924781327 (osm2lod:node_12924781327)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924782280_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12924782280 (osm2lod:node_12924782280)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924784584_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12924784584 (osm2lod:node_12924784584)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925489820_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12925489820 (osm2lod:node_12925489820)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925655350_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12925655350 (osm2lod:node_12925655350)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925919541_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12925919541 (osm2lod:node_12925919541)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12936028929_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 12936028929 (osm2lod:node_12936028929)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13331549275_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 13331549275 (osm2lod:node_13331549275)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6666122939_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 6666122939 (osm2lod:node_6666122939)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6721748182_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 6721748182 (osm2lod:node_6721748182)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6967103228_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 6967103228 (osm2lod:node_6967103228)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_7873204616_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "OSM node 7873204616 (osm2lod:node_7873204616)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_186483490_suniv0_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "type": "geoinstance",
+        "text": "Irlandia (osm2lod:way_186483490)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark",
+        "parent": "#",
+        "type": "geoclass",
+        "instancecount": 22,
+        "text": "Benchmark (osm2lod:Benchmark) [22]",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12600848879_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12600848879 (osm2lod:node_12600848879)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12888689968_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12888689968 (osm2lod:node_12888689968)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919476068_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12919476068 (osm2lod:node_12919476068)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919738910_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12919738910 (osm2lod:node_12919738910)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12922675575_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12922675575 (osm2lod:node_12922675575)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923698705_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12923698705 (osm2lod:node_12923698705)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923704831_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12923704831 (osm2lod:node_12923704831)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923752174_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12923752174 (osm2lod:node_12923752174)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923754806_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12923754806 (osm2lod:node_12923754806)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924781327_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12924781327 (osm2lod:node_12924781327)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924782280_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12924782280 (osm2lod:node_12924782280)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924784584_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12924784584 (osm2lod:node_12924784584)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925489820_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12925489820 (osm2lod:node_12925489820)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925655350_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12925655350 (osm2lod:node_12925655350)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925919541_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12925919541 (osm2lod:node_12925919541)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12936028929_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 12936028929 (osm2lod:node_12936028929)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13331549275_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 13331549275 (osm2lod:node_13331549275)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6666122939_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 6666122939 (osm2lod:node_6666122939)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6721748182_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 6721748182 (osm2lod:node_6721748182)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6967103228_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 6967103228 (osm2lod:node_6967103228)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_7873204616_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "OSM node 7873204616 (osm2lod:node_7873204616)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_186483490_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "type": "geoinstance",
+        "text": "Irlandia (osm2lod:way_186483490)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
+        "parent": "#",
+        "type": "geoclass",
+        "instancecount": 22,
+        "text": "OSMEntity (osm2lod:OSMEntity) [145]",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12600848879_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12600848879 (osm2lod:node_12600848879)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12888689968_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12888689968 (osm2lod:node_12888689968)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919476068_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12919476068 (osm2lod:node_12919476068)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919738910_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12919738910 (osm2lod:node_12919738910)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12922675575_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12922675575 (osm2lod:node_12922675575)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923698705_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12923698705 (osm2lod:node_12923698705)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923704831_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12923704831 (osm2lod:node_12923704831)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923752174_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12923752174 (osm2lod:node_12923752174)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923754806_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12923754806 (osm2lod:node_12923754806)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924781327_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12924781327 (osm2lod:node_12924781327)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924782280_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12924782280 (osm2lod:node_12924782280)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924784584_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12924784584 (osm2lod:node_12924784584)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925489820_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12925489820 (osm2lod:node_12925489820)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925655350_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12925655350 (osm2lod:node_12925655350)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925919541_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12925919541 (osm2lod:node_12925919541)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12936028929_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 12936028929 (osm2lod:node_12936028929)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13331549275_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 13331549275 (osm2lod:node_13331549275)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6666122939_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 6666122939 (osm2lod:node_6666122939)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6721748182_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 6721748182 (osm2lod:node_6721748182)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6967103228_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 6967103228 (osm2lod:node_6967103228)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_7873204616_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "OSM node 7873204616 (osm2lod:node_7873204616)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_186483490_suniv2_",
+        "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "type": "geoinstance",
+        "text": "Irlandia (osm2lod:way_186483490)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
+        "parent": "#",
+        "type": "geoclass",
+        "instancecount": 22,
+        "text": "E22_Human_Made_Object (crm:E22_Human_Made_Object) [128]",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12600848879_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12600848879 (osm2lod:node_12600848879)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12888689968_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12888689968 (osm2lod:node_12888689968)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919476068_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12919476068 (osm2lod:node_12919476068)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12919738910_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12919738910 (osm2lod:node_12919738910)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12922675575_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12922675575 (osm2lod:node_12922675575)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923698705_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12923698705 (osm2lod:node_12923698705)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923704831_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12923704831 (osm2lod:node_12923704831)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923752174_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12923752174 (osm2lod:node_12923752174)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12923754806_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12923754806 (osm2lod:node_12923754806)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924781327_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12924781327 (osm2lod:node_12924781327)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924782280_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12924782280 (osm2lod:node_12924782280)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12924784584_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12924784584 (osm2lod:node_12924784584)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925489820_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12925489820 (osm2lod:node_12925489820)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925655350_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12925655350 (osm2lod:node_12925655350)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12925919541_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12925919541 (osm2lod:node_12925919541)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_12936028929_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 12936028929 (osm2lod:node_12936028929)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_13331549275_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 13331549275 (osm2lod:node_13331549275)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6666122939_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 6666122939 (osm2lod:node_6666122939)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6721748182_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 6721748182 (osm2lod:node_6721748182)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_6967103228_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 6967103228 (osm2lod:node_6967103228)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/node_7873204616_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "OSM node 7873204616 (osm2lod:node_7873204616)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/way_186483490_suniv3_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "geoinstance",
+        "text": "Irlandia (osm2lod:way_186483490)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/benchmarks__2026-03-09_171118Z_suniv0_",
+        "parent": "http://www.w3.org/ns/dcat#Dataset",
+        "type": "instance",
+        "text": "OSM Overpass Export (osm2lod:benchmarks__2026-03-09_171118Z)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.w3.org/ns/dcat#Dataset",
+        "parent": "#",
+        "type": "halfgeoclass",
+        "instancecount": 23,
+        "text": "Dataset (dcat:Dataset) [149]",
+        "data": {
+          "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 66,
+              "http://www.w3.org/ns/ldp#Resource": 35,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 35
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "http://www.w3.org/ns/dcat#Catalog": 22,
+              "http://www.w3.org/2004/02/skos/core#Collection": 22,
+              "http://www.w3.org/ns/ldp#Resource": 18,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 18
+            }
+          },
+          "to": {
+            "http://purl.org/dc/terms/created": {
+              "instancecount": 22
+            },
+            "http://purl.org/dc/terms/identifier": {
+              "instancecount": 22
+            },
+            "http://purl.org/dc/terms/isPartOf": {
+              "instancecount": 22,
+              "http://research-squirrel-engineers.github.io/osm2lod/Dataset": 22,
+              "http://www.w3.org/ns/dcat#Dataset": 22
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 22,
+              "http://www.w3.org/ns/adms#Asset": 22,
+              "http://rdfs.org/ns/void#Dataset": 22,
+              "http://www.w3.org/ns/ldp#Resource": 15,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 15
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/exportType": {
+              "instancecount": 22
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__benchmark": {
+              "instancecount": 21
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__man_made": {
+              "instancecount": 21
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__survey__date": {
+              "instancecount": 18
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__survey_point__structure": {
+              "instancecount": 15
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": {
+              "instancecount": 21
+            },
+            "http://www.opengis.net/ont/geosparql#hasGeometry": {
+              "instancecount": 22,
+              "http://www.opengis.net/ont/sf#Point": 22
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 88
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 27
+            },
+            "http://xmlns.com/foaf/0.1/primaryTopic": {
+              "instancecount": 22
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": {
+              "instancecount": 4
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": {
+              "instancecount": 4
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__name": {
+              "instancecount": 1
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__natural": {
+              "instancecount": 1
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
+              "instancecount": 1
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
+              "instancecount": 1
+            }
+          }
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12600848879_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12600848879_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12888689968_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12888689968_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12919476068_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12919476068_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12919738910_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12919738910_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12922675575_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12922675575_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12923698705_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12923698705_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12923704831_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12923704831_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12923752174_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12923752174_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12923754806_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12923754806_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12924781327_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12924781327_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12924782280_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12924782280_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12924784584_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12924784584_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12925489820_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12925489820_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12925655350_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12925655350_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12925919541_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12925919541_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/12936028929_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:12936028929_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/13331549275_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:13331549275_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/186483490_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:186483490_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/6666122939_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:6666122939_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/6721748182_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:6721748182_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/6967103228_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:6967103228_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/7873204616_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": " (osm2lod:7873204616_geom)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.opengis.net/ont/sf#Point",
+        "parent": "#",
+        "type": "geoclass",
+        "instancecount": 22,
+        "text": "Point (sf:Point) [145]",
+        "data": {
+          "from": {
+            "http://www.opengis.net/ont/geosparql#hasGeometry": {
+              "http://research-squirrel-engineers.github.io/osm2lod/Benchmark": 22,
+              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 22,
+              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 22,
+              "http://www.w3.org/ns/dcat#Dataset": 22
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "http://www.opengis.net/ont/geosparql#GeometryCollection": 22,
+              "http://www.w3.org/ns/ldp#Resource": 9,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 9
+            }
+          },
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 22,
+              "http://www.w3.org/ns/adms#Asset": 22,
+              "http://rdfs.org/ns/void#Dataset": 22,
+              "http://www.w3.org/ns/ldp#Resource": 15,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 15
+            },
+            "http://www.opengis.net/ont/geosparql#asWKT": {
+              "instancecount": 22
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 22
+            }
+          }
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/benchmarks__2026-03-09_171118Z_suniv1_",
+        "parent": "http://research-squirrel-engineers.github.io/osm2lod/Dataset",
+        "type": "instance",
+        "text": "OSM Overpass Export (osm2lod:benchmarks__2026-03-09_171118Z)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Dataset",
+        "parent": "#",
+        "type": "class",
+        "instancecount": 1,
+        "text": "Dataset (osm2lod:Dataset) [4]",
+        "data": {
+          "from": {
+            "http://purl.org/dc/terms/isPartOf": {
+              "http://research-squirrel-engineers.github.io/osm2lod/Benchmark": 22,
+              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 22,
+              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 22,
+              "http://www.w3.org/ns/dcat#Dataset": 22
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "http://www.w3.org/ns/dcat#Catalog": 1,
+              "http://www.w3.org/2004/02/skos/core#Collection": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            }
+          },
+          "to": {
+            "http://purl.org/dc/terms/created": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/identifier": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/provenance": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/rights": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/title": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/type": {
+              "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 2
+            }
+          }
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Benchmark_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "Benchmark Instances Collection (osm2lod:Benchmark_collection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "OSMEntity Instances Collection (osm2lod:OSMEntity_collection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/E22_Human_Made_Object_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "E22_Human_Made_Object Instances Collection (osm2lod:E22_Human_Made_Object_collection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "instancecount": 3,
+        "type": "collectionclass",
+        "text": " (gsp:FeatureCollection) [7]",
+        "data": {
+          "from": {},
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 3,
+              "http://www.w3.org/ns/adms#Asset": 3,
+              "http://rdfs.org/ns/void#Dataset": 3,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 7
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 180,
+              "http://research-squirrel-engineers.github.io/osm2lod/Benchmark": 66,
+              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 66,
+              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 66,
+              "http://www.w3.org/ns/dcat#Dataset": 66
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "instancecount": 827
+            }
+          }
+        }
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Dataset_collection_suniv0_",
+        "parent": "http://www.w3.org/ns/dcat#Catalog",
+        "type": "instance",
+        "text": "Dataset Instances Collection (osm2lod:Dataset_collection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.w3.org/ns/dcat#Catalog",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "instancecount": 1,
+        "type": "collectionclass",
+        "text": " (dcat:Catalog) [4]",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.w3.org/2004/02/skos/core#Collection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "Collection (skos:Collection) [4]",
+        "data": {
+          "from": {},
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 4
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "instancecount": 862,
+              "http://research-squirrel-engineers.github.io/osm2lod/Benchmark": 22,
+              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 22,
+              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 22,
+              "http://www.w3.org/ns/dcat#Dataset": 23,
+              "http://research-squirrel-engineers.github.io/osm2lod/Dataset": 1
+            }
+          }
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Point_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "instance",
+        "text": "Point Instances Collection (osm2lod:Point_collection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "instancecount": 1,
+        "type": "collectionclass",
+        "text": " (gsp:GeometryCollection) [1]",
+        "data": {
+          "from": {},
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/dcat#dataset": {
+              "instancecount": 857,
+              "http://www.opengis.net/ont/sf#Point": 22
+            }
+          }
+        }
+      },
+      {
+        "id": "http://research-squirrel-engineers.github.io/osm2lod/Dataset_collection_suniv1_",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "type": "instance",
+        "text": "Dataset Instances Collection (osm2lod:Dataset_collection)",
+        "data": {
+          "from": {},
+          "to": {}
+        }
+      },
+      {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/node_10040750611_suniv0_",
         "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
         "type": "geoinstance",
@@ -1097,17 +2606,6 @@ var tree={
         "parent": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
         "type": "geoinstance",
         "text": "Drumlohan Souterrain and Ogham Stones (osm2lod:way_1209135262)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
-        "parent": "#",
-        "type": "geoclass",
-        "instancecount": 106,
-        "text": "E22_Human_Made_Object (crm:E22_Human_Made_Object) [106]",
         "data": {
           "from": {},
           "to": {}
@@ -2184,17 +3682,6 @@ var tree={
         }
       },
       {
-        "id": "http://www.w3.org/ns/dcat#Dataset",
-        "parent": "#",
-        "type": "halfgeoclass",
-        "instancecount": 107,
-        "text": "Dataset (dcat:Dataset) [126]",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/node_10040750611_suniv2_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
@@ -3249,17 +4736,6 @@ var tree={
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
         "type": "geoinstance",
         "text": "Drumlohan Souterrain and Ogham Stones (osm2lod:way_1209135262)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity",
-        "parent": "#",
-        "type": "geoclass",
-        "instancecount": 106,
-        "text": "OSMEntity (osm2lod:OSMEntity) [123]",
         "data": {
           "from": {},
           "to": {}
@@ -4340,8 +5816,8 @@ var tree={
               "http://www.w3.org/ns/dcat#Catalog": 106,
               "http://www.w3.org/2004/02/skos/core#Collection": 106,
               "http://www.opengis.net/ont/geosparql#FeatureCollection": 212,
-              "http://www.w3.org/ns/ldp#Resource": 170,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 170
+              "http://www.w3.org/ns/ldp#Resource": 124,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 124
             }
           },
           "to": {
@@ -4358,10 +5834,10 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 106,
-              "http://rdfs.org/ns/void#Dataset": 106,
               "http://www.w3.org/ns/adms#Asset": 106,
-              "http://www.w3.org/ns/ldp#Resource": 22,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 22
+              "http://rdfs.org/ns/void#Dataset": 106,
+              "http://www.w3.org/ns/ldp#Resource": 60,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 60
             },
             "http://research-squirrel-engineers.github.io/osm2lod/exportType": {
               "instancecount": 106
@@ -4375,6 +5851,9 @@ var tree={
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": {
               "instancecount": 55
             },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": {
+              "instancecount": 58
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 106,
               "http://www.opengis.net/ont/sf#Point": 106
@@ -4385,38 +5864,35 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 107
             },
-            "http://xmlns.com/foaf/0.1/primaryTopic": {
-              "instancecount": 106
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": {
-              "instancecount": 58
-            },
             "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 58
+            },
+            "http://xmlns.com/foaf/0.1/primaryTopic": {
+              "instancecount": 106
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": {
               "instancecount": 8
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": {
-              "instancecount": 7
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": {
+              "instancecount": 19
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
-              "instancecount": 11
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": {
+              "instancecount": 5
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": {
+              "instancecount": 2
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": {
               "instancecount": 15
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": {
-              "instancecount": 19
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
+              "instancecount": 11
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": {
-              "instancecount": 2
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": {
+              "instancecount": 7
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization": {
               "instancecount": 1
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": {
-              "instancecount": 2
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": {
               "instancecount": 4
@@ -4424,19 +5900,19 @@ var tree={
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
               "instancecount": 1
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": {
-              "instancecount": 1
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": {
-              "instancecount": 5
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url": {
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": {
               "instancecount": 1
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": {
               "instancecount": 2
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": {
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": {
+              "instancecount": 2
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": {
+              "instancecount": 1
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url": {
               "instancecount": 1
             }
           }
@@ -5503,120 +6979,10 @@ var tree={
         }
       },
       {
-        "id": "http://www.opengis.net/ont/sf#Point",
-        "parent": "#",
-        "type": "geoclass",
-        "instancecount": 106,
-        "text": "Point (sf:Point) [123]",
-        "data": {
-          "from": {
-            "http://www.opengis.net/ont/geosparql#hasGeometry": {
-              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 106,
-              "http://www.w3.org/ns/dcat#Dataset": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 106
-            },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "http://www.opengis.net/ont/geosparql#GeometryCollection": 106,
-              "http://www.w3.org/ns/ldp#Resource": 105,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 105
-            }
-          },
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 106,
-              "http://rdfs.org/ns/void#Dataset": 106,
-              "http://www.w3.org/ns/adms#Asset": 106,
-              "http://www.w3.org/ns/ldp#Resource": 21,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 21
-            },
-            "http://www.opengis.net/ont/geosparql#asWKT": {
-              "instancecount": 106
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 106
-            }
-          }
-        }
-      },
-      {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/ogham__2025-12-21_093336Z_suniv1_",
         "parent": "http://research-squirrel-engineers.github.io/osm2lod/Dataset",
         "type": "instance",
         "text": "OSM Overpass Export (osm2lod:ogham__2025-12-21_093336Z)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/Dataset",
-        "parent": "#",
-        "type": "class",
-        "instancecount": 1,
-        "text": "Dataset (osm2lod:Dataset) [3]",
-        "data": {
-          "from": {
-            "http://purl.org/dc/terms/isPartOf": {
-              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 106,
-              "http://www.w3.org/ns/dcat#Dataset": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 106
-            },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "http://www.w3.org/ns/dcat#Catalog": 1,
-              "http://www.w3.org/2004/02/skos/core#Collection": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            }
-          },
-          "to": {
-            "http://purl.org/dc/terms/created": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/identifier": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/provenance": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/rights": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/title": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/type": {
-              "instancecount": 1
-            },
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 2
-            }
-          }
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/E22_Human_Made_Object_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "featurecollection",
-        "text": "E22_Human_Made_Object Instances Collection (osm2lod:E22_Human_Made_Object_collection)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "instance",
-        "text": "OSMEntity Instances Collection (osm2lod:OSMEntity_collection)",
         "data": {
           "from": {},
           "to": {}
@@ -5633,55 +6999,6 @@ var tree={
         }
       },
       {
-        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "instancecount": 3,
-        "type": "collectionclass",
-        "text": " (gsp:FeatureCollection) [6]",
-        "data": {
-          "from": {},
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 3,
-              "http://rdfs.org/ns/void#Dataset": 3,
-              "http://www.w3.org/ns/adms#Asset": 3,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 5
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 3
-            },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "instancecount": 933,
-              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 212,
-              "http://www.w3.org/ns/dcat#Dataset": 212,
-              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 212,
-              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 212
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 114,
-              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 106,
-              "http://www.w3.org/ns/dcat#Dataset": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 106
-            }
-          }
-        }
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
         "id": "http://research-squirrel-engineers.github.io/osm2lod/Dataset_collection_suniv0_",
         "parent": "http://www.w3.org/ns/dcat#Catalog",
         "type": "instance",
@@ -5689,84 +7006,6 @@ var tree={
         "data": {
           "from": {},
           "to": {}
-        }
-      },
-      {
-        "id": "http://www.w3.org/ns/dcat#Catalog",
-        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
-        "instancecount": 1,
-        "type": "collectionclass",
-        "text": " (dcat:Catalog) [3]",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://www.w3.org/2004/02/skos/core#Collection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "Collection (skos:Collection) [3]",
-        "data": {
-          "from": {},
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 4
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "instancecount": 839,
-              "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object": 106,
-              "http://www.w3.org/ns/dcat#Dataset": 107,
-              "http://research-squirrel-engineers.github.io/osm2lod/OSMEntity": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/OghamStone": 106,
-              "http://research-squirrel-engineers.github.io/osm2lod/Dataset": 1
-            }
-          }
-        }
-      },
-      {
-        "id": "http://research-squirrel-engineers.github.io/osm2lod/Point_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "type": "instance",
-        "text": "Point Instances Collection (osm2lod:Point_collection)",
-        "data": {
-          "from": {},
-          "to": {}
-        }
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "instancecount": 1,
-        "type": "collectionclass",
-        "text": " (gsp:GeometryCollection) [1]",
-        "data": {
-          "from": {},
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/dcat#dataset": {
-              "instancecount": 835,
-              "http://www.opengis.net/ont/sf#Point": 106
-            }
-          }
         }
       },
       {

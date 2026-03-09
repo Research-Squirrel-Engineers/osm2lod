@@ -10,6 +10,7 @@
     void:property dcterms:created ;
     void:triples 9,
         10,
+        23,
         107,
         713 .
 

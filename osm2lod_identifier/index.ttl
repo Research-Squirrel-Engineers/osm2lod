@@ -10,6 +10,7 @@
     void:property dcterms:identifier ;
     void:triples 10,
         15,
+        23,
         107,
         713 .
 
