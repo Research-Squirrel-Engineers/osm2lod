@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import re
+import shutil
 import time
 import json
 from datetime import datetime, timezone
@@ -157,7 +158,7 @@ SELECTED_EXPORTS: List[str] = [
     # "drillcores",
 ]
 
-DIST_DIR = Path("dist")
+DIST_BASE_DIR = Path("dist")
 CLEAR_DIST_ON_START = True
 
 DIST_CLEAN_PREFIXES = (
@@ -249,7 +250,32 @@ def clean_value(v: Any) -> Optional[str]:
     return s
 
 
+def get_or_create_run_dir(base_dir: Path) -> Path:
+    """
+    Erstellt einen datumsspezifischen Unterordner für den aktuellen Durchlauf.
+    Format: YYYY-MM-DD
+    Falls der Ordner bereits existiert, wird er komplett gelöscht und neu erstellt.
+    """
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    run_dir = base_dir / today
+    
+    # Falls der Ordner existiert, lösche ihn komplett
+    if run_dir.exists():
+        shutil.rmtree(run_dir)
+        print(f"🗑️  Existing run directory deleted: {run_dir}")
+    
+    # Erstelle den Ordner neu
+    run_dir.mkdir(parents=True, exist_ok=True)
+    print(f"📁 Run directory created: {run_dir}")
+    
+    return run_dir
+
+
 def clear_dist(dist_dir: Path) -> None:
+    """
+    Legacy-Funktion: Löscht alte Export-Dateien im dist-Verzeichnis.
+    Wird nicht mehr benötigt, da wir datumsspezifische Unterordner verwenden.
+    """
     if not dist_dir.exists():
         return
     for p in dist_dir.iterdir():
@@ -866,10 +892,10 @@ def export_to_rdf(
 
 
 def main() -> None:
-    DIST_DIR.mkdir(exist_ok=True)
+    DIST_BASE_DIR.mkdir(exist_ok=True)
 
-    if CLEAR_DIST_ON_START:
-        clear_dist(DIST_DIR)
+    # Erstelle oder überschreibe den datumsspezifischen Unterordner
+    run_dir = get_or_create_run_dir(DIST_BASE_DIR)
 
     exports_to_run = SELECTED_EXPORTS or list(EXPORTS.keys())
 
@@ -886,7 +912,7 @@ def main() -> None:
             export_type=exp,
             elements=data.get("elements", []),
             entity_base_class=cfg["entity_base_class"],
-            dist_dir=DIST_DIR,
+            dist_dir=run_dir,  # Verwende den datumsspezifischen Unterordner
             overpass_query=cfg["query"],
         )
 
