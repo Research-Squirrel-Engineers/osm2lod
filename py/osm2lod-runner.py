@@ -9,13 +9,41 @@ import time
 import json
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple, Set, NamedTuple
 from urllib.parse import quote, urlparse
 
 import requests
 import pandas as pd
 from rdflib import Graph, Namespace, URIRef, Literal
 from rdflib.namespace import RDF, RDFS, XSD, OWL, DCTERMS, FOAF
+
+
+# =================================================
+# Changelog types
+# =================================================
+
+
+class ChangelogItem(NamedTuple):
+    osm_id: str
+    osm_type: str
+    osm_numeric_id: int
+    name: str
+    old_version: Optional[int] = None
+    new_version: Optional[int] = None
+    old_timestamp: Optional[str] = None
+    new_timestamp: Optional[str] = None
+    field_changes: Optional[Dict[str, Tuple[Any, Any]]] = (
+        None  # field_name -> (old_value, new_value)
+    )
+
+
+class ChangelogReport(NamedTuple):
+    export_type: str
+    old_date: str
+    new_date: str
+    added: List[ChangelogItem]
+    deleted: List[ChangelogItem]
+    modified: List[ChangelogItem]
 
 
 # =================================================
@@ -258,16 +286,16 @@ def get_or_create_run_dir(base_dir: Path) -> Path:
     """
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     run_dir = base_dir / today
-    
+
     # Falls der Ordner existiert, lösche ihn komplett
     if run_dir.exists():
         shutil.rmtree(run_dir)
         print(f"🗑️  Existing run directory deleted: {run_dir}")
-    
+
     # Erstelle den Ordner neu
     run_dir.mkdir(parents=True, exist_ok=True)
     print(f"📁 Run directory created: {run_dir}")
-    
+
     return run_dir
 
 
@@ -891,6 +919,466 @@ def export_to_rdf(
         print(f"  → URL expansion cache size: {len(_URL_EXPAND_CACHE)}")
 
 
+# =================================================
+# Changelog generation
+# =================================================
+
+
+def find_previous_run_dir(base_dir: Path, current_date: str) -> Optional[Path]:
+    """
+    Findet den vorherigen Run-Ordner (der Ordner mit dem jüngsten Datum vor current_date).
+    """
+    if not base_dir.exists():
+        return None
+
+    run_dirs = []
+    for p in base_dir.iterdir():
+        if p.is_dir() and p.name != current_date:
+            # Prüfe ob es ein Datums-Ordner ist (Format: YYYY-MM-DD)
+            if re.match(r"^\d{4}-\d{2}-\d{2}$", p.name):
+                run_dirs.append(p)
+
+    if not run_dirs:
+        return None
+
+    # Sortiere nach Datum (Name ist im Format YYYY-MM-DD, sortiert lexikographisch korrekt)
+    run_dirs.sort(key=lambda x: x.name)
+
+    # Finde den jüngsten vor current_date
+    for p in reversed(run_dirs):
+        if p.name < current_date:
+            return p
+
+    return None
+
+
+def compare_csv_exports(
+    old_csv: Path, new_csv: Path, export_type: str
+) -> ChangelogReport:
+    """
+    Vergleicht zwei CSV-Exporte und findet Änderungen.
+    """
+    old_df = pd.read_csv(old_csv)
+    new_df = pd.read_csv(new_csv)
+
+    # Erstelle OSM IDs
+    old_df["osm_id"] = old_df["type"] + "/" + old_df["id"].astype(str)
+    new_df["osm_id"] = new_df["type"] + "/" + new_df["id"].astype(str)
+
+    old_ids = set(old_df["osm_id"])
+    new_ids = set(new_df["osm_id"])
+
+    # Finde Änderungen
+    added_ids = new_ids - old_ids
+    deleted_ids = old_ids - new_ids
+    common_ids = old_ids & new_ids
+
+    added: List[ChangelogItem] = []
+    deleted: List[ChangelogItem] = []
+    modified: List[ChangelogItem] = []
+
+    # Added items
+    for osm_id in sorted(added_ids):
+        row = new_df[new_df["osm_id"] == osm_id].iloc[0]
+        name = clean_value(row.get("tag:name")) or "Unnamed"
+        added.append(
+            ChangelogItem(
+                osm_id=osm_id,
+                osm_type=row["type"],
+                osm_numeric_id=int(row["id"]),
+                name=name,
+                new_version=(
+                    int(row["version"]) if pd.notna(row.get("version")) else None
+                ),
+                new_timestamp=row.get("timestamp"),
+            )
+        )
+
+    # Deleted items
+    for osm_id in sorted(deleted_ids):
+        row = old_df[old_df["osm_id"] == osm_id].iloc[0]
+        name = clean_value(row.get("tag:name")) or "Unnamed"
+        deleted.append(
+            ChangelogItem(
+                osm_id=osm_id,
+                osm_type=row["type"],
+                osm_numeric_id=int(row["id"]),
+                name=name,
+                old_version=(
+                    int(row["version"]) if pd.notna(row.get("version")) else None
+                ),
+                old_timestamp=row.get("timestamp"),
+            )
+        )
+
+    # Modified items (version oder timestamp geändert)
+    for osm_id in sorted(common_ids):
+        old_row = old_df[old_df["osm_id"] == osm_id].iloc[0]
+        new_row = new_df[new_df["osm_id"] == osm_id].iloc[0]
+
+        old_ver = int(old_row["version"]) if pd.notna(old_row.get("version")) else None
+        new_ver = int(new_row["version"]) if pd.notna(new_row.get("version")) else None
+
+        if old_ver != new_ver or old_row.get("timestamp") != new_row.get("timestamp"):
+            name = clean_value(new_row.get("tag:name")) or "Unnamed"
+
+            # Finde alle geänderten Felder
+            field_changes: Dict[str, Tuple[Any, Any]] = {}
+
+            # Vergleiche alle Spalten
+            for col in new_df.columns:
+                if col in ("osm_id", "type", "id"):  # Überspringe Meta-Felder
+                    continue
+
+                old_val = clean_value(old_row.get(col))
+                new_val = clean_value(new_row.get(col))
+
+                # Nur echte Änderungen tracken (nicht None -> None)
+                if old_val != new_val and not (old_val is None and new_val is None):
+                    # Formatiere Feldnamen schöner (entferne "tag:" prefix)
+                    display_name = (
+                        col.replace("tag:", "") if col.startswith("tag:") else col
+                    )
+                    field_changes[display_name] = (old_val, new_val)
+
+            modified.append(
+                ChangelogItem(
+                    osm_id=osm_id,
+                    osm_type=new_row["type"],
+                    osm_numeric_id=int(new_row["id"]),
+                    name=name,
+                    old_version=old_ver,
+                    new_version=new_ver,
+                    old_timestamp=old_row.get("timestamp"),
+                    new_timestamp=new_row.get("timestamp"),
+                    field_changes=field_changes if field_changes else None,
+                )
+            )
+
+    old_date = old_csv.parent.name
+    new_date = new_csv.parent.name
+
+    return ChangelogReport(
+        export_type=export_type,
+        old_date=old_date,
+        new_date=new_date,
+        added=added,
+        deleted=deleted,
+        modified=modified,
+    )
+
+
+def generate_changelog_html(reports: List[ChangelogReport], output_path: Path) -> None:
+    """
+    Generiert eine HTML-Datei mit allen Changelog-Reports.
+    """
+    html_parts = [
+        "<!DOCTYPE html>",
+        "<html lang='en'>",
+        "<head>",
+        "  <meta charset='UTF-8'>",
+        "  <meta name='viewport' content='width=device-width, initial-scale=1.0'>",
+        "  <title>OSM2LOD Changelog</title>",
+        "  <style>",
+        "    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; margin: 20px; background: #f5f5f5; }",
+        "    .container { max-width: 1200px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }",
+        "    h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }",
+        "    h2 { color: #34495e; margin-top: 30px; border-left: 4px solid #3498db; padding-left: 15px; }",
+        "    .date-range { background: #ecf0f1; padding: 10px 15px; border-radius: 5px; margin: 15px 0; font-size: 14px; }",
+        "    .stats { display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap; }",
+        "    .stat-box { flex: 1; min-width: 150px; padding: 15px; border-radius: 5px; text-align: center; }",
+        "    .stat-box.added { background: #d4edda; border: 2px solid #28a745; }",
+        "    .stat-box.modified { background: #fff3cd; border: 2px solid #ffc107; }",
+        "    .stat-box.deleted { background: #f8d7da; border: 2px solid #dc3545; }",
+        "    .stat-number { font-size: 32px; font-weight: bold; margin: 5px 0; }",
+        "    .stat-label { font-size: 14px; color: #666; text-transform: uppercase; }",
+        "    table { width: 100%; border-collapse: collapse; margin: 20px 0; }",
+        "    th { background: #34495e; color: white; padding: 12px; text-align: left; font-weight: 600; }",
+        "    td { padding: 10px; border-bottom: 1px solid #ddd; }",
+        "    tr:hover { background: #f8f9fa; }",
+        "    .osm-link { color: #3498db; text-decoration: none; font-family: monospace; }",
+        "    .osm-link:hover { text-decoration: underline; }",
+        "    .version-info { font-size: 12px; color: #7f8c8d; }",
+        "    .section { margin: 30px 0; }",
+        "    .section-title { color: #2c3e50; font-size: 18px; font-weight: 600; margin: 20px 0 10px 0; }",
+        "    .empty-state { text-align: center; color: #95a5a6; padding: 40px; font-style: italic; }",
+        "    .wikibase-action { background: #e8f4f8; padding: 15px; border-left: 4px solid #3498db; margin: 10px 0; }",
+        "    .wikibase-action h3 { margin: 0 0 10px 0; color: #2980b9; font-size: 16px; }",
+        "    .wikibase-action ul { margin: 5px 0; padding-left: 20px; }",
+        "    .wikibase-action li { margin: 5px 0; }",
+        "    details { margin: 10px 0; }",
+        "    summary { cursor: pointer; padding: 8px; background: #f8f9fa; border-radius: 4px; font-weight: 500; user-select: none; }",
+        "    summary:hover { background: #e9ecef; }",
+        "    .field-changes { margin: 10px 0; padding: 10px; background: #f8f9fa; border-radius: 4px; }",
+        "    .field-change { margin: 8px 0; padding: 8px; background: white; border-left: 3px solid #ffc107; }",
+        "    .field-name { font-weight: 600; color: #495057; margin-bottom: 4px; font-size: 13px; }",
+        "    .field-diff { display: flex; gap: 10px; align-items: center; font-family: monospace; font-size: 12px; }",
+        "    .field-old { color: #dc3545; background: #f8d7da; padding: 4px 8px; border-radius: 3px; flex: 1; word-break: break-all; }",
+        "    .field-new { color: #28a745; background: #d4edda; padding: 4px 8px; border-radius: 3px; flex: 1; word-break: break-all; }",
+        "    .field-arrow { color: #6c757d; font-weight: bold; }",
+        "    .field-null { color: #6c757d; font-style: italic; }",
+        "  </style>",
+        "</head>",
+        "<body>",
+        "  <div class='container'>",
+        "    <h1>🔄 OSM2LOD Changelog</h1>",
+        f"    <p>Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}</p>",
+    ]
+
+    if not reports:
+        html_parts.append(
+            "    <div class='empty-state'>No changelog reports available.</div>"
+        )
+
+    for report in reports:
+        total_changes = len(report.added) + len(report.deleted) + len(report.modified)
+
+        html_parts.extend(
+            [
+                f"    <h2>📦 {report.export_type.upper()}</h2>",
+                f"    <div class='date-range'>",
+                f"      <strong>Comparing:</strong> {report.old_date} → {report.new_date}",
+                f"    </div>",
+                f"    <div class='stats'>",
+                f"      <div class='stat-box added'>",
+                f"        <div class='stat-number'>{len(report.added)}</div>",
+                f"        <div class='stat-label'>Added</div>",
+                f"      </div>",
+                f"      <div class='stat-box modified'>",
+                f"        <div class='stat-number'>{len(report.modified)}</div>",
+                f"        <div class='stat-label'>Modified</div>",
+                f"      </div>",
+                f"      <div class='stat-box deleted'>",
+                f"        <div class='stat-number'>{len(report.deleted)}</div>",
+                f"        <div class='stat-label'>Deleted</div>",
+                f"      </div>",
+                f"    </div>",
+            ]
+        )
+
+        # Wikibase Actions Summary
+        if total_changes > 0:
+            html_parts.extend(
+                [
+                    "    <div class='wikibase-action'>",
+                    "      <h3>📝 Wikibase Update Actions</h3>",
+                    "      <ul>",
+                ]
+            )
+            if report.added:
+                html_parts.append(
+                    f"        <li><strong>Create {len(report.added)} new items</strong> in Wikibase using QuickStatements</li>"
+                )
+            if report.modified:
+                html_parts.append(
+                    f"        <li><strong>Update {len(report.modified)} existing items</strong> with new data from OSM</li>"
+                )
+            if report.deleted:
+                html_parts.append(
+                    f"        <li><strong>Mark {len(report.deleted)} items as deleted/deprecated</strong> (no longer in OSM)</li>"
+                )
+            html_parts.extend(
+                [
+                    "      </ul>",
+                    "    </div>",
+                ]
+            )
+
+        # Added items
+        if report.added:
+            html_parts.extend(
+                [
+                    "    <div class='section'>",
+                    "      <div class='section-title'>✅ Added Items</div>",
+                    "      <table>",
+                    "        <thead><tr><th>OSM ID</th><th>Name</th><th>Version</th></tr></thead>",
+                    "        <tbody>",
+                ]
+            )
+            for item in report.added:
+                osm_url = f"https://www.openstreetmap.org/{item.osm_type}/{item.osm_numeric_id}"
+                html_parts.append(
+                    f"          <tr>"
+                    f"<td><a href='{osm_url}' class='osm-link' target='_blank'>{item.osm_id}</a></td>"
+                    f"<td>{item.name}</td>"
+                    f"<td class='version-info'>v{item.new_version or '?'}</td>"
+                    f"</tr>"
+                )
+            html_parts.extend(
+                [
+                    "        </tbody>",
+                    "      </table>",
+                    "    </div>",
+                ]
+            )
+
+        # Modified items
+        if report.modified:
+            html_parts.extend(
+                [
+                    "    <div class='section'>",
+                    "      <div class='section-title'>📝 Modified Items</div>",
+                    "      <table>",
+                    "        <thead><tr><th>OSM ID</th><th>Name</th><th>Version Change</th><th>Changes</th></tr></thead>",
+                    "        <tbody>",
+                ]
+            )
+            for item in report.modified:
+                osm_url = f"https://www.openstreetmap.org/{item.osm_type}/{item.osm_numeric_id}"
+                version_change = (
+                    f"v{item.old_version or '?'} → v{item.new_version or '?'}"
+                )
+
+                # Zähle die Feldänderungen
+                num_changes = len(item.field_changes) if item.field_changes else 0
+
+                # Baue die Zeile
+                row_html = f"          <tr><td><a href='{osm_url}' class='osm-link' target='_blank'>{item.osm_id}</a></td><td>{item.name}</td><td class='version-info'>{version_change}</td><td>"
+
+                if item.field_changes and num_changes > 0:
+                    # Erstelle Details/Summary für Änderungen
+                    row_html += f"<details><summary>{num_changes} field(s) changed</summary><div class='field-changes'>"
+
+                    for field_name, (old_val, new_val) in sorted(
+                        item.field_changes.items()
+                    ):
+                        # Formatiere die Werte
+                        old_display = (
+                            old_val
+                            if old_val is not None
+                            else "<span class='field-null'>empty</span>"
+                        )
+                        new_display = (
+                            new_val
+                            if new_val is not None
+                            else "<span class='field-null'>empty</span>"
+                        )
+
+                        # Kürze sehr lange Werte
+                        if isinstance(old_display, str) and len(old_display) > 100:
+                            old_display = old_display[:97] + "..."
+                        if isinstance(new_display, str) and len(new_display) > 100:
+                            new_display = new_display[:97] + "..."
+
+                        row_html += f"""
+                        <div class='field-change'>
+                          <div class='field-name'>{field_name}</div>
+                          <div class='field-diff'>
+                            <div class='field-old'>{old_display}</div>
+                            <div class='field-arrow'>→</div>
+                            <div class='field-new'>{new_display}</div>
+                          </div>
+                        </div>"""
+
+                    row_html += "</div></details>"
+                else:
+                    row_html += "<span class='version-info'>Timestamp only</span>"
+
+                row_html += "</td></tr>"
+                html_parts.append(row_html)
+
+            html_parts.extend(
+                [
+                    "        </tbody>",
+                    "      </table>",
+                    "    </div>",
+                ]
+            )
+
+        # Deleted items
+        if report.deleted:
+            html_parts.extend(
+                [
+                    "    <div class='section'>",
+                    "      <div class='section-title'>🗑️ Deleted Items</div>",
+                    "      <table>",
+                    "        <thead><tr><th>OSM ID</th><th>Name</th><th>Last Version</th></tr></thead>",
+                    "        <tbody>",
+                ]
+            )
+            for item in report.deleted:
+                osm_url = f"https://www.openstreetmap.org/{item.osm_type}/{item.osm_numeric_id}"
+                html_parts.append(
+                    f"          <tr>"
+                    f"<td><a href='{osm_url}' class='osm-link' target='_blank'>{item.osm_id}</a></td>"
+                    f"<td>{item.name}</td>"
+                    f"<td class='version-info'>v{item.old_version or '?'}</td>"
+                    f"</tr>"
+                )
+            html_parts.extend(
+                [
+                    "        </tbody>",
+                    "      </table>",
+                    "    </div>",
+                ]
+            )
+
+        if total_changes == 0:
+            html_parts.append("    <div class='empty-state'>No changes detected.</div>")
+
+    html_parts.extend(
+        [
+            "  </div>",
+            "</body>",
+            "</html>",
+        ]
+    )
+
+    output_path.write_text("\n".join(html_parts), encoding="utf-8")
+
+
+def generate_changelog_for_run(
+    base_dir: Path, current_run_dir: Path, export_types: List[str]
+) -> Optional[Path]:
+    """
+    Generiert einen Changelog für den aktuellen Run, falls ein vorheriger Run existiert.
+    """
+    current_date = current_run_dir.name
+    previous_run_dir = find_previous_run_dir(base_dir, current_date)
+
+    if previous_run_dir is None:
+        print("ℹ️  No previous run found, skipping changelog generation.")
+        return None
+
+    print(f"📊 Generating changelog: {previous_run_dir.name} → {current_date}")
+
+    reports: List[ChangelogReport] = []
+
+    for export_type in export_types:
+        # Finde CSV-Dateien für diesen Export-Typ
+        old_csvs = list(previous_run_dir.glob(f"osm_export_{export_type}_*.csv"))
+        new_csvs = list(current_run_dir.glob(f"osm_export_{export_type}_*.csv"))
+
+        if not old_csvs or not new_csvs:
+            continue
+
+        # Verwende die neueste Datei (sollte nur eine sein)
+        old_csv = sorted(old_csvs)[-1]
+        new_csv = sorted(new_csvs)[-1]
+
+        try:
+            report = compare_csv_exports(old_csv, new_csv, export_type)
+            reports.append(report)
+
+            total = len(report.added) + len(report.deleted) + len(report.modified)
+            print(
+                f"  ✔ {export_type}: {total} changes ({len(report.added)} added, {len(report.modified)} modified, {len(report.deleted)} deleted)"
+            )
+        except Exception as e:
+            print(f"  ✘ {export_type}: Error - {e}")
+
+    if not reports:
+        print("ℹ️  No changelog reports generated.")
+        return None
+
+    # Generiere HTML im dist-Ordner
+    changelog_path = base_dir / "changelog.html"
+    generate_changelog_html(reports, changelog_path)
+
+    print(f"📄 Changelog saved: {changelog_path}")
+    return changelog_path
+
+
 def main() -> None:
     DIST_BASE_DIR.mkdir(exist_ok=True)
 
@@ -915,6 +1403,21 @@ def main() -> None:
             dist_dir=run_dir,  # Verwende den datumsspezifischen Unterordner
             overpass_query=cfg["query"],
         )
+
+    print()
+    print("=" * 60)
+
+    # Generiere Changelog
+    changelog_path = generate_changelog_for_run(
+        base_dir=DIST_BASE_DIR, current_run_dir=run_dir, export_types=exports_to_run
+    )
+
+    if changelog_path:
+        print("=" * 60)
+        print(f"✅ Run completed with changelog")
+    else:
+        print("=" * 60)
+        print(f"✅ Run completed (first run, no changelog)")
 
 
 if __name__ == "__main__":
