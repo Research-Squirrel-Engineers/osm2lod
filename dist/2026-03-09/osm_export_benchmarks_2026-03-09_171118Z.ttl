@@ -13,15 +13,15 @@ osm2lod:node_12600848879 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12600848879"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12600848879" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__source "survey;25inch map" ;
     osm2lod:osmtag__survey__date "2025-02-19" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at St. Nicholas' Collegiate Church.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20St.%20Nicholas%27%20Collegiate%20Church.jpg> ;
     geosparql:hasGeometry osm2lod:12600848879_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12600848879> .
 
@@ -30,14 +30,14 @@ osm2lod:node_12888689968 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12888689968"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12888689968" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-05" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at Ardreigh Lock.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20Ardreigh%20Lock.jpg> ;
     geosparql:hasGeometry osm2lod:12888689968_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12888689968> .
 
@@ -46,15 +46,15 @@ osm2lod:node_12919476068 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12919476068"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12919476068" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-16" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at the corner of West Campbell Street and Bath Street.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20the%20corner%20of%20West%20Campbell%20Street%20and%20Bath%20Street.jpg> ;
     geosparql:hasGeometry osm2lod:12919476068_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12919476068> .
 
@@ -63,15 +63,15 @@ osm2lod:node_12919738910 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12919738910"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12919738910" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-16" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at St George's Tron Parish Church.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20St%20George%27s%20Tron%20Parish%20Church.jpg> ;
     geosparql:hasGeometry osm2lod:12919738910_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12919738910> .
 
@@ -80,15 +80,15 @@ osm2lod:node_12922675575 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12922675575"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12922675575" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at corner of Blantyre St and Argyle St.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20corner%20of%20Blantyre%20St%20and%20Argyle%20St.jpg> ;
     geosparql:hasGeometry osm2lod:12922675575_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12922675575> .
 
@@ -97,15 +97,15 @@ osm2lod:node_12923698705 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923698705"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923698705" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark on City Union Railway Bridge.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20on%20City%20Union%20Railway%20Bridge.jpg> ;
     geosparql:hasGeometry osm2lod:12923698705_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12923698705> .
 
@@ -114,15 +114,15 @@ osm2lod:node_12923704831 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923704831"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923704831" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark on Albert Bridge.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20on%20Albert%20Bridge.jpg> ;
     geosparql:hasGeometry osm2lod:12923704831_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12923704831> .
 
@@ -131,15 +131,15 @@ osm2lod:node_12923752174 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923752174"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923752174" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at the corner of Trongate- Chrisholm Street.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20the%20corner%20of%20Trongate-%20Chrisholm%20Street.jpg> ;
     geosparql:hasGeometry osm2lod:12923752174_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12923752174> .
 
@@ -148,15 +148,15 @@ osm2lod:node_12923754806 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923754806"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923754806" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at Blackstock's Close (Saltmarket).jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20Blackstock%27s%20Close%20%28Saltmarket%29.jpg> ;
     geosparql:hasGeometry osm2lod:12923754806_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12923754806> .
 
@@ -165,15 +165,15 @@ osm2lod:node_12924781327 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12924781327"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12924781327" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark in the East side of the City Chambers.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20in%20the%20East%20side%20of%20the%20City%20Chambers.jpg> ;
     geosparql:hasGeometry osm2lod:12924781327_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12924781327> .
 
@@ -182,15 +182,15 @@ osm2lod:node_12924782280 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12924782280"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12924782280" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark on the North side of the City Chambers.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20on%20the%20North%20side%20of%20the%20City%20Chambers.jpg> ;
     geosparql:hasGeometry osm2lod:12924782280_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12924782280> .
 
@@ -199,15 +199,15 @@ osm2lod:node_12924784584 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12924784584"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12924784584" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-18" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark on the South side of the City Chambers.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20on%20the%20South%20side%20of%20the%20City%20Chambers.jpg> ;
     geosparql:hasGeometry osm2lod:12924784584_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12924784584> .
 
@@ -216,15 +216,15 @@ osm2lod:node_12925489820 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12925489820"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12925489820" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-19" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark on the Cathedral gate lodge.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20on%20the%20Cathedral%20gate%20lodge.jpg> ;
     geosparql:hasGeometry osm2lod:12925489820_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12925489820> .
 
@@ -233,15 +233,15 @@ osm2lod:node_12925655350 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12925655350"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12925655350" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-19" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Barony Halls benchmark.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Barony%20Halls%20benchmark.jpg> ;
     geosparql:hasGeometry osm2lod:12925655350_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12925655350> .
 
@@ -250,15 +250,15 @@ osm2lod:node_12925919541 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12925919541"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12925919541" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-19" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Govan Road benchmark.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Govan%20Road%20benchmark.jpg> ;
     geosparql:hasGeometry osm2lod:12925919541_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12925919541> .
 
@@ -267,15 +267,15 @@ osm2lod:node_12936028929 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12936028929"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12936028929" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-06-20" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at Melrose Abbey.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20Melrose%20Abbey.jpg> ;
     geosparql:hasGeometry osm2lod:12936028929_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/12936028929> .
 
@@ -284,15 +284,15 @@ osm2lod:node_13331549275 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 13331549275"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13331549275" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__survey__date "2025-11-25" ;
     osm2lod:osmtag__survey_point__structure "cut" ;
-    osm2lod:osmtag__wikimedia_commons "File:OS benchmark.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:OS%20benchmark.jpg> ;
     geosparql:hasGeometry osm2lod:13331549275_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/13331549275> .
 
@@ -301,14 +301,14 @@ osm2lod:node_6666122939 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 6666122939"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6666122939" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__historic "milestone" ;
     osm2lod:osmtag__man_made "survey_point" ;
-    osm2lod:osmtag__wikimedia_commons "File:MilestoneDublin8Howth1.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:MilestoneDublin8Howth1.jpg> ;
     geosparql:hasGeometry osm2lod:6666122939_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/6666122939> .
 
@@ -317,14 +317,14 @@ osm2lod:node_6721748182 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 6721748182"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6721748182" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__historic "milestone" ;
     osm2lod:osmtag__man_made "survey_point" ;
-    osm2lod:osmtag__wikimedia_commons "File:MilestoneDublin9Howth.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:MilestoneDublin9Howth.jpg> ;
     geosparql:hasGeometry osm2lod:6721748182_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/6721748182> .
 
@@ -333,16 +333,16 @@ osm2lod:node_6967103228 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 6967103228"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6967103228" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__historic "milestone" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__source "survey" ;
     osm2lod:osmtag__survey__date "2024-04-02" ;
-    osm2lod:osmtag__wikimedia_commons "File:Milestone Old Dublin Road.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Milestone%20Old%20Dublin%20Road.jpg> ;
     geosparql:hasGeometry osm2lod:6967103228_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/6967103228> .
 
@@ -351,16 +351,16 @@ osm2lod:node_7873204616 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 7873204616"@en ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7873204616" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__description "horizontal type with dot" ;
     osm2lod:osmtag__historic "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
     osm2lod:osmtag__source "survey;OS 6'' Cassini map" ;
-    osm2lod:osmtag__wikimedia_commons "File:Benchmark at Scots Church.jpg" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20Scots%20Church.jpg> ;
     geosparql:hasGeometry osm2lod:7873204616_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/7873204616> .
 
@@ -374,9 +374,9 @@ osm2lod:way_186483490 a osm2lod:Benchmark,
         "Irlande"@fr,
         "아일랜드"@ko,
         "Irlandia"@pl ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/186483490" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_170104Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-09_171118Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__name "أيرلندا" ;
     osm2lod:osmtag__natural "coastline" ;
@@ -451,10 +451,10 @@ osm2lod:6967103228_geom a sf:Point ;
 osm2lod:7873204616_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-7.6966593 52.3531682)"^^geosparql:wktLiteral .
 
-osm2lod:benchmarks__2026-03-09_170104Z a osm2lod:Dataset,
+osm2lod:benchmarks__2026-03-09_171118Z a osm2lod:Dataset,
         dcat:Dataset ;
-    dcterms:created "2026-03-09T17:01:04.138974+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:benchmarks:2026-03-09_170104Z" ;
+    dcterms:created "2026-03-09T17:11:18.270658+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:benchmarks:2026-03-09_171118Z" ;
     dcterms:provenance """[out:json][timeout:180];
 (
   area["name:en"="Ireland"]->.ie;

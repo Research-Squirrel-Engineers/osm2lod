@@ -888,6 +888,26 @@ def export_to_rdf(
                 g.add((rec, osmtag_predicate(key), parse_wikipedia_literal(raw)))
                 continue
 
+            # Spezielle Behandlung für wikimedia_commons
+            if key == "wikimedia_commons":
+                # Erstelle Commons URI aus "File:..." oder direkter URL
+                if raw.lower().startswith(("http://", "https://")):
+                    commons_uri = URIRef(raw)
+                elif raw.startswith("File:"):
+                    # Konvertiere "File:XYZ.jpg" zu "https://commons.wikimedia.org/wiki/File:XYZ.jpg"
+                    encoded_filename = quote(raw, safe=":")
+                    commons_uri = URIRef(
+                        f"https://commons.wikimedia.org/wiki/{encoded_filename}"
+                    )
+                else:
+                    # Fallback: nehme an es ist ein Dateiname ohne "File:" Präfix
+                    encoded_filename = quote(f"File:{raw}", safe=":")
+                    commons_uri = URIRef(
+                        f"https://commons.wikimedia.org/wiki/{encoded_filename}"
+                    )
+                g.add((rec, osmtag_predicate(key), commons_uri))
+                continue
+
             if key in URL_TAG_KEYS and raw.lower().startswith(("http://", "https://")):
                 g.add((rec, osmtag_predicate(key), URIRef(raw)))
             else:
