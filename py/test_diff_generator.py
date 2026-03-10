@@ -11,12 +11,48 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 import pandas as pd
 import requests
+
+
+# =================================================
+# Report Logger
+# =================================================
+
+
+class ReportLogger:
+    """Logs console output to both terminal and file."""
+
+    def __init__(self, report_path: Path):
+        self.report_path = report_path
+        self.report_path.parent.mkdir(parents=True, exist_ok=True)
+        self.file = open(report_path, "w", encoding="utf-8")
+        self.terminal = sys.stdout
+
+    def write(self, message):
+        self.terminal.write(message)
+        self.file.write(message)
+
+    def flush(self):
+        self.terminal.flush()
+        self.file.flush()
+
+    def close(self):
+        self.file.close()
+
+    def __enter__(self):
+        sys.stdout = self
+        return self
+
+    def __exit__(self, *args):
+        sys.stdout = self.terminal
+        self.close()
+
 
 # =================================================
 # Configuration
@@ -382,28 +418,10 @@ def generate_diff_quickstatements(
         lines.append("# ---------------------")
         lines.append("")
 
-        debug_count = 0
-
         for key in sorted(common_keys):
             osm_item = osm_index[key]
             wb_item = wb_index[key]
             qid = wb_item["qid"]
-
-            # DEBUG: Zeige erste 3 Items zum Vergleich
-            if debug_count < 3:
-                print(f"\n🔍 DEBUG Item {debug_count + 1}: {key}")
-                print(f"   OSM coords: '{osm_item['coordinates']}'")
-                print(f"   WB coords:  '{wb_item['coordinates']}'")
-                print(
-                    f"   Coords equal: {osm_item['coordinates'] == wb_item['coordinates']}"
-                )
-                print(
-                    f"   OSM version: {osm_item['version']} / WB version: {wb_item['version']}"
-                )
-                print(
-                    f"   OSM label: '{osm_item['label']}' / WB label: '{wb_item['label']}'"
-                )
-                debug_count += 1
 
             changes = []
             change_notes = []
@@ -446,20 +464,6 @@ def generate_diff_quickstatements(
 
             if osm_wiki_normalized != wb_wiki_normalized:
                 if osm_item["wikipedia"]:
-                    # DEBUG: Zeige bei Wikipedia-Änderung ohne Version-Änderung
-                    if not version_changed and debug_count < 5:
-                        print(f"\n⚠️  Wikipedia change WITHOUT version change:")
-                        print(f"   {key} ({qid})")
-                        print(
-                            f"   OSM version: {osm_item['version']} / WB version: {wb_item['version']}"
-                        )
-                        print(
-                            f"   OSM wiki: '{osm_item['wikipedia']}' / WB wiki: '{wb_item['wikipedia']}'"
-                        )
-                        print(
-                            f"   Normalized: '{osm_wiki_normalized}' vs '{wb_wiki_normalized}'"
-                        )
-
                     changes.append(f'{qid}|P7|"{osm_item["wikipedia"]}"')
                 change_notes.append("wikipedia")
 
@@ -513,75 +517,87 @@ def generate_diff_quickstatements(
 
 
 def main():
-    print("=" * 60)
-    print("🧪 DIFF-QUICKSTATEMENTS TEST (ALL EXPORT TYPES)")
-    print("=" * 60)
-    print()
+    # Start Report Logging
+    report_path = (
+        TEST_DIR
+        / f"diff_report_{datetime.now(timezone.utc).strftime('%Y-%m-%d_%H%M%S')}.txt"
+    )
 
-    # Finde neuesten Run
-    latest_run = find_latest_run_dir()
-    if not latest_run:
-        print("❌ No run directories found in dist/")
-        return
+    with ReportLogger(report_path):
+        print("=" * 60)
+        print("🧪 DIFF-QUICKSTATEMENTS TEST (ALL EXPORT TYPES)")
+        print("=" * 60)
+        print()
 
-    print(f"📁 Using latest run: {latest_run.name}")
-    print()
+        # Finde neuesten Run
+        latest_run = find_latest_run_dir()
+        if not latest_run:
+            print("❌ No run directories found in dist/")
+            return
 
-    # Statistiken
-    total_added = 0
-    total_modified = 0
+        print(f"📁 Using latest run: {latest_run.name}")
+        print()
 
-    # Verarbeite alle Export-Typen
-    for export_type, query_item_qid in TEST_EXPORTS.items():
-        print("-" * 60)
-        print(f"🔄 Processing: {export_type.upper()}")
-        print("-" * 60)
+        # Statistiken
+        total_added = 0
+        total_modified = 0
 
-        # Finde CSV
-        csv_pattern = f"osm_export_{export_type}_*.csv"
-        csv_files = list(latest_run.glob(csv_pattern))
+        # Verarbeite alle Export-Typen
+        for export_type, query_item_qid in TEST_EXPORTS.items():
+            print("-" * 60)
+            print(f"🔄 Processing: {export_type.upper()}")
+            print("-" * 60)
 
-        if not csv_files:
-            print(f"⚠️  No CSV found matching: {csv_pattern}")
+            # Finde CSV
+            csv_pattern = f"osm_export_{export_type}_*.csv"
+            csv_files = list(latest_run.glob(csv_pattern))
+
+            if not csv_files:
+                print(f"⚠️  No CSV found matching: {csv_pattern}")
+                print()
+                continue
+
+            csv_path = csv_files[0]
+
+            # Lade OSM Daten
+            osm_df = load_osm_csv(csv_path)
+            osm_items = [parse_osm_item(row) for _, row in osm_df.iterrows()]
             print()
-            continue
 
-        csv_path = csv_files[0]
-
-        # Lade OSM Daten
-        osm_df = load_osm_csv(csv_path)
-        osm_items = [parse_osm_item(row) for _, row in osm_df.iterrows()]
-        print()
-
-        # Hole Wikibase Daten
-        wikibase_items = fetch_wikibase_items(export_type, query_item_qid)
-        print()
-
-        if not wikibase_items:
-            print(f"⚠️  No items found in Wikibase for {export_type}")
+            # Hole Wikibase Daten
+            wikibase_items = fetch_wikibase_items(export_type, query_item_qid)
             print()
-            continue
 
-        # Generiere Diff
-        output_filename = f"quickstatements_DIFF_{export_type}_{latest_run.name}.txt"
-        output_path = TEST_DIR / output_filename
+            if not wikibase_items:
+                print(f"⚠️  No items found in Wikibase for {export_type}")
+                print()
+                continue
 
-        added, modified = generate_diff_quickstatements(
-            osm_items, wikibase_items, export_type, output_path
-        )
+            # Generiere Diff
+            output_filename = (
+                f"quickstatements_DIFF_{export_type}_{latest_run.name}.txt"
+            )
+            output_path = TEST_DIR / output_filename
 
-        total_added += added
-        total_modified += modified
+            added, modified = generate_diff_quickstatements(
+                osm_items, wikibase_items, export_type, output_path
+            )
 
+            total_added += added
+            total_modified += modified
+
+            print()
+
+        print("=" * 60)
+        print("✅ TEST COMPLETE - ALL EXPORT TYPES")
+        print("=" * 60)
+        print(f"📊 TOTAL SUMMARY:")
+        print(f"   ✅ {total_added} items ADDED across all types")
+        print(f"   📝 {total_modified} items MODIFIED across all types")
+        print("=" * 60)
         print()
-
-    print("=" * 60)
-    print("✅ TEST COMPLETE - ALL EXPORT TYPES")
-    print("=" * 60)
-    print(f"📊 TOTAL SUMMARY:")
-    print(f"   ✅ {total_added} items ADDED across all types")
-    print(f"   📝 {total_modified} items MODIFIED across all types")
-    print("=" * 60)
+        print(f"📄 Report saved to: {report_path}")
+        print("=" * 60)
 
 
 if __name__ == "__main__":
