@@ -975,14 +975,14 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "http://www.opengis.net/ont/geosparql#FeatureCollection": 66,
-              "http://www.w3.org/ns/ldp#Resource": 31,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 31
+              "http://www.w3.org/ns/ldp#Resource": 23,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 23
             },
             "http://www.w3.org/ns/dcat#dataset": {
               "http://www.w3.org/ns/dcat#Catalog": 22,
               "http://www.w3.org/2004/02/skos/core#Collection": 22,
-              "http://www.w3.org/ns/ldp#Resource": 15,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 15
+              "http://www.w3.org/ns/ldp#Resource": 2,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 2
             }
           },
           "to": {
@@ -1001,8 +1001,8 @@ var tree={
               "instancecount": 22,
               "http://rdfs.org/ns/void#Dataset": 22,
               "http://www.w3.org/ns/adms#Asset": 22,
-              "http://www.w3.org/ns/ldp#Resource": 18,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 18
+              "http://www.w3.org/ns/ldp#Resource": 16,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 16
             },
             "http://research-squirrel-engineers.github.io/osm2lod/exportType": {
               "instancecount": 22
@@ -1010,14 +1010,11 @@ var tree={
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__benchmark": {
               "instancecount": 21
             },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": {
+              "instancecount": 4
+            },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__man_made": {
               "instancecount": 21
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__survey__date": {
-              "instancecount": 18
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__survey_point__structure": {
-              "instancecount": 15
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": {
               "instancecount": 21
@@ -1035,11 +1032,11 @@ var tree={
             "http://xmlns.com/foaf/0.1/primaryTopic": {
               "instancecount": 22
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": {
-              "instancecount": 4
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__survey__date": {
+              "instancecount": 18
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
-              "instancecount": 1
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__survey_point__structure": {
+              "instancecount": 15
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": {
               "instancecount": 4
@@ -1051,6 +1048,9 @@ var tree={
               "instancecount": 1
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
+              "instancecount": 1
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
               "instancecount": 1
             }
           }
@@ -1292,8 +1292,8 @@ var tree={
             },
             "http://www.w3.org/ns/dcat#dataset": {
               "http://www.opengis.net/ont/geosparql#GeometryCollection": 22,
-              "http://www.w3.org/ns/ldp#Resource": 8,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 8
+              "http://www.w3.org/ns/ldp#Resource": 22,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 22
             }
           },
           "to": {
@@ -1301,8 +1301,8 @@ var tree={
               "instancecount": 22,
               "http://rdfs.org/ns/void#Dataset": 22,
               "http://www.w3.org/ns/adms#Asset": 22,
-              "http://www.w3.org/ns/ldp#Resource": 16,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 16
+              "http://www.w3.org/ns/ldp#Resource": 15,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 15
             },
             "http://www.opengis.net/ont/geosparql#asWKT": {
               "instancecount": 22
@@ -1522,9 +1522,7 @@ var tree={
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
               "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+              "http://www.w3.org/ns/adms#Asset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 3
@@ -5814,8 +5812,8 @@ var tree={
               "http://www.w3.org/ns/dcat#Catalog": 106,
               "http://www.w3.org/2004/02/skos/core#Collection": 106,
               "http://www.opengis.net/ont/geosparql#FeatureCollection": 212,
-              "http://www.w3.org/ns/ldp#Resource": 111,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 111
+              "http://www.w3.org/ns/ldp#Resource": 83,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 83
             }
           },
           "to": {
@@ -5834,14 +5832,23 @@ var tree={
               "instancecount": 106,
               "http://rdfs.org/ns/void#Dataset": 106,
               "http://www.w3.org/ns/adms#Asset": 106,
-              "http://www.w3.org/ns/ldp#Resource": 69,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 69
+              "http://www.w3.org/ns/ldp#Resource": 79,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 79
             },
             "http://research-squirrel-engineers.github.io/osm2lod/exportType": {
               "instancecount": 106
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic": {
               "instancecount": 106
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": {
+              "instancecount": 8
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": {
+              "instancecount": 58
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": {
+              "instancecount": 19
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 106,
@@ -5853,6 +5860,9 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 107
             },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 58
+            },
             "http://xmlns.com/foaf/0.1/primaryTopic": {
               "instancecount": 106
             },
@@ -5862,56 +5872,44 @@ var tree={
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source": {
               "instancecount": 55
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikidata": {
-              "instancecount": 58
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": {
+              "instancecount": 1
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikimedia_commons": {
               "instancecount": 15
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 58
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": {
+              "instancecount": 5
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__description": {
               "instancecount": 11
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": {
-              "instancecount": 7
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": {
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": {
               "instancecount": 2
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": {
-              "instancecount": 4
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__wikipedia": {
-              "instancecount": 19
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": {
-              "instancecount": 1
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__note": {
-              "instancecount": 8
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
-              "instancecount": 1
-            },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__website": {
-              "instancecount": 5
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__url": {
               "instancecount": 1
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__archaeological_site": {
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__access": {
+              "instancecount": 7
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__image": {
+              "instancecount": 4
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__source__ref": {
+              "instancecount": 1
+            },
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__alt_name": {
               "instancecount": 2
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": {
-              "instancecount": 2
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__ref": {
+              "instancecount": 1
             },
             "http://research-squirrel-engineers.github.io/osm2lod/osmtag__historic__civilization": {
               "instancecount": 1
             },
-            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__loc_name": {
-              "instancecount": 1
+            "http://research-squirrel-engineers.github.io/osm2lod/osmtag__tourism": {
+              "instancecount": 2
             }
           }
         }
