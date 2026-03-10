@@ -44,30 +44,6 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_Q25226810</wfs:Name>
-                    <wfs:Title>nonns_Q25226810</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q25226810</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_7778324735</wfs:Name>
-                    <wfs:Title>nonns_7778324735</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_7778324735</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_Q12296153</wfs:Name>
-                    <wfs:Title>nonns_Q12296153</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q12296153</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_369821847</wfs:Name>
-                    <wfs:Title>nonns_369821847</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_369821847</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
                     <wfs:Name>nonns_Q20565511</wfs:Name>
                     <wfs:Title>nonns_Q20565511</wfs:Title>
                     <wfs:Abstract>FeatureCollection nonns_Q20565511</wfs:Abstract>
@@ -77,6 +53,30 @@
                     <wfs:Name>nonns_11107939919</wfs:Name>
                     <wfs:Title>nonns_11107939919</wfs:Title>
                     <wfs:Abstract>FeatureCollection nonns_11107939919</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q2037533</wfs:Name>
+                    <wfs:Title>nonns_Q2037533</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q2037533</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_8814442373</wfs:Name>
+                    <wfs:Title>nonns_8814442373</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_8814442373</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q3777010</wfs:Name>
+                    <wfs:Title>nonns_Q3777010</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q3777010</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_2293681037</wfs:Name>
+                    <wfs:Title>nonns_2293681037</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_2293681037</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -92,15 +92,39 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_Q2037533</wfs:Name>
-                    <wfs:Title>nonns_Q2037533</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q2037533</wfs:Abstract>
+                    <wfs:Name>nonns_Q12296153</wfs:Name>
+                    <wfs:Title>nonns_Q12296153</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q12296153</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_8814442373</wfs:Name>
-                    <wfs:Title>nonns_8814442373</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_8814442373</wfs:Abstract>
+                    <wfs:Name>nonns_369821847</wfs:Name>
+                    <wfs:Title>nonns_369821847</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_369821847</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q25226810</wfs:Name>
+                    <wfs:Title>nonns_Q25226810</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q25226810</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_7778324735</wfs:Name>
+                    <wfs:Title>nonns_7778324735</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_7778324735</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q121418883</wfs:Name>
+                    <wfs:Title>nonns_Q121418883</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q121418883</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_10879170567</wfs:Name>
+                    <wfs:Title>nonns_10879170567</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_10879170567</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -128,39 +152,15 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_Q3777010</wfs:Name>
-                    <wfs:Title>nonns_Q3777010</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q3777010</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_2293681037</wfs:Name>
-                    <wfs:Title>nonns_2293681037</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_2293681037</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_Q121418883</wfs:Name>
-                    <wfs:Title>nonns_Q121418883</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q121418883</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_10879170567</wfs:Name>
-                    <wfs:Title>nonns_10879170567</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_10879170567</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+                    <wfs:Name>OSMEntity_collection</wfs:Name>
+                    <wfs:Title>OSMEntity_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection OSMEntity_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
                     <wfs:Name>Maar_collection</wfs:Name>
                     <wfs:Title>Maar_collection</wfs:Title>
                     <wfs:Abstract>FeatureCollection Maar_collection</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>OSMEntity_collection</wfs:Name>
-                    <wfs:Title>OSMEntity_collection</wfs:Title>
-                    <wfs:Abstract>FeatureCollection OSMEntity_collection</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -182,69 +182,21 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_Q1257548</wfs:Name>
-                    <wfs:Title>nonns_Q1257548</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q1257548</wfs:Abstract>
+                    <wfs:Name>nonns_einobjekt.php?id=777</wfs:Name>
+                    <wfs:Title>nonns_einobjekt.php?id=777</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_einobjekt.php?id=777</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_144726746</wfs:Name>
-                    <wfs:Title>nonns_144726746</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_144726746</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_einobjekt.php?id=30134</wfs:Name>
-                    <wfs:Title>nonns_einobjekt.php?id=30134</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_einobjekt.php?id=30134</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_Q134466471</wfs:Name>
-                    <wfs:Title>nonns_Q134466471</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q134466471</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_13200955773</wfs:Name>
-                    <wfs:Title>nonns_13200955773</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_13200955773</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_Q1501226</wfs:Name>
-                    <wfs:Title>nonns_Q1501226</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q1501226</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_72767715</wfs:Name>
-                    <wfs:Title>nonns_72767715</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_72767715</wfs:Abstract>
+                    <wfs:Name>nonns_144719688</wfs:Name>
+                    <wfs:Title>nonns_144719688</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_144719688</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
                     <wfs:Name>nonns_144726755</wfs:Name>
                     <wfs:Title>nonns_144726755</wfs:Title>
                     <wfs:Abstract>FeatureCollection nonns_144726755</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_einobjekt.php?id=30207</wfs:Name>
-                    <wfs:Title>nonns_einobjekt.php?id=30207</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_einobjekt.php?id=30207</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_Q134466523</wfs:Name>
-                    <wfs:Title>nonns_Q134466523</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_Q134466523</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_13200943487</wfs:Name>
-                    <wfs:Title>nonns_13200943487</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_13200943487</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -266,15 +218,63 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_einobjekt.php?id=777</wfs:Name>
-                    <wfs:Title>nonns_einobjekt.php?id=777</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_einobjekt.php?id=777</wfs:Abstract>
+                    <wfs:Name>nonns_einobjekt.php?id=30134</wfs:Name>
+                    <wfs:Title>nonns_einobjekt.php?id=30134</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_einobjekt.php?id=30134</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_144719688</wfs:Name>
-                    <wfs:Title>nonns_144719688</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_144719688</wfs:Abstract>
+                    <wfs:Name>nonns_Q134466471</wfs:Name>
+                    <wfs:Title>nonns_Q134466471</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q134466471</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_13200955773</wfs:Name>
+                    <wfs:Title>nonns_13200955773</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_13200955773</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q1257548</wfs:Name>
+                    <wfs:Title>nonns_Q1257548</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q1257548</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_144726746</wfs:Name>
+                    <wfs:Title>nonns_144726746</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_144726746</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_einobjekt.php?id=30207</wfs:Name>
+                    <wfs:Title>nonns_einobjekt.php?id=30207</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_einobjekt.php?id=30207</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q134466523</wfs:Name>
+                    <wfs:Title>nonns_Q134466523</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q134466523</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_13200943487</wfs:Name>
+                    <wfs:Title>nonns_13200943487</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_13200943487</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q1501226</wfs:Name>
+                    <wfs:Title>nonns_Q1501226</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q1501226</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_72767715</wfs:Name>
+                    <wfs:Title>nonns_72767715</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_72767715</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/EPSG:4326</wfs:DefaultSRS></wfs:FeatureType>
 </wfs:FeatureTypeList>
             <ogc:Filter_Capabilities></ogc:Filter_Capabilities>
