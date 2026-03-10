@@ -1,0 +1,219 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix wd: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+osm2lod:node_13200943487 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Vulkan Dehner Maar"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13200943487" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__name "Vulkan Dehner Maar" ;
+    osm2lod:osmtag__natural "volcano" ;
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=30207> ;
+    osm2lod:osmtag__volcano__type "Trockenmaar" ;
+    osm2lod:osmtag__wikidata "Q134466523" ;
+    geosparql:hasGeometry osm2lod:13200943487_geom ;
+    owl:sameAs wd:Q134466523 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200943487> .
+
+osm2lod:node_13200955773 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Vulkan Aueler Maar"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13200955773" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__name "Vulkan Aueler Maar" ;
+    osm2lod:osmtag__natural "volcano" ;
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=30134> ;
+    osm2lod:osmtag__volcano__type "Trockenmaar" ;
+    osm2lod:osmtag__wikidata "Q134466471" ;
+    geosparql:hasGeometry osm2lod:13200955773_geom ;
+    owl:sameAs wd:Q134466471 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13200955773> .
+
+osm2lod:way_144719688 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Holzmaar"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
+        "osm:way/144719688" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__name "Holzmaar" ;
+    osm2lod:osmtag__natural "water" ;
+    osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=777> ;
+    osm2lod:osmtag__wikipedia "Holzmaar"@de ;
+    geosparql:hasGeometry osm2lod:144719688_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/144719688> .
+
+osm2lod:way_144726746 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Ulmener Maar"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
+        "osm:way/144726746" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__name "Ulmener Maar" ;
+    osm2lod:osmtag__natural "water" ;
+    osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
+    osm2lod:osmtag__wikidata "Q1257548" ;
+    osm2lod:osmtag__wikipedia "Ulmener Maar"@de ;
+    geosparql:hasGeometry osm2lod:144726746_geom ;
+    owl:sameAs wd:Q1257548 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/144726746> .
+
+osm2lod:way_144726755 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Jungferweiher"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
+        "osm:way/144726755" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__name "Jungferweiher" ;
+    osm2lod:osmtag__natural "water" ;
+    osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
+    geosparql:hasGeometry osm2lod:144726755_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/144726755> .
+
+osm2lod:way_23450728 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Schalkenmehrener Maar"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
+        "osm:way/23450728" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__ele "421" ;
+    osm2lod:osmtag__name "Schalkenmehrener Maar" ;
+    osm2lod:osmtag__natural "water" ;
+    osm2lod:osmtag__source "http://www.badeseen.rlp.de/servlet/is/1131/" ;
+    osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
+    osm2lod:osmtag__source__url <https://kulturdb.de/einobjekt.php?id=16656> ;
+    osm2lod:osmtag__water "lake" ;
+    osm2lod:osmtag__wikidata "Q2230360" ;
+    osm2lod:osmtag__wikipedia "Schalkenmehrener Maar"@de ;
+    geosparql:hasGeometry osm2lod:23450728_geom ;
+    owl:sameAs wd:Q2230360 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/23450728> .
+
+osm2lod:way_56428302 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Laacher See"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
+        "osm:way/56428302" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__ele "275" ;
+    osm2lod:osmtag__loc_name "Loch;Lösche See" ;
+    osm2lod:osmtag__name "Laacher See" ;
+    osm2lod:osmtag__natural "water" ;
+    osm2lod:osmtag__source "www.dive-links.com" ;
+    osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
+    osm2lod:osmtag__water "lake" ;
+    osm2lod:osmtag__wikidata "Q549267" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Laacher%20See> ;
+    osm2lod:osmtag__wikipedia "Laacher See"@de ;
+    geosparql:hasGeometry osm2lod:56428302_geom ;
+    owl:sameAs wd:Q549267 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/56428302> .
+
+osm2lod:way_72767715 a osm2lod:Maar,
+        osm2lod:OSMEntity,
+        crm:E55_Place,
+        dcat:Dataset ;
+    rdfs:label "Gemündener Maar"@en ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier <https://doi.org/10.1016/j.quascirev.2012.09.01>,
+        "osm:way/72767715" ;
+    dcterms:isPartOf osm2lod:drillcores__2026-03-10_204225Z ;
+    dcterms:source <https://doi.org/10.1016/j.quascirev.2012.09.01> ;
+    osm2lod:exportType "drillcores" ;
+    osm2lod:osmtag__ele "407" ;
+    osm2lod:osmtag__name "Gemündener Maar" ;
+    osm2lod:osmtag__natural "water" ;
+    osm2lod:osmtag__source__ref "doi=10.1016/j.quascirev.2012.09.01" ;
+    osm2lod:osmtag__water "lake" ;
+    osm2lod:osmtag__wikidata "Q1501226" ;
+    osm2lod:osmtag__wikipedia "Gemündener Maar"@de ;
+    geosparql:hasGeometry osm2lod:72767715_geom ;
+    owl:sameAs wd:Q1501226 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/72767715> .
+
+osm2lod:13200943487_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.5052787 50.2943837)"^^geosparql:wktLiteral .
+
+osm2lod:13200955773_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.5933215 50.2775941)"^^geosparql:wktLiteral .
+
+osm2lod:144719688_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.877961894565216 50.11885730326084)"^^geosparql:wktLiteral .
+
+osm2lod:144726746_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.982133803260868 50.21039865652174)"^^geosparql:wktLiteral .
+
+osm2lod:144726755_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.9800719269406395 50.21789210593608)"^^geosparql:wktLiteral .
+
+osm2lod:23450728_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.857113904918035 50.169354029508206)"^^geosparql:wktLiteral .
+
+osm2lod:56428302_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.266722015923566 50.410125483439494)"^^geosparql:wktLiteral .
+
+osm2lod:72767715_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.83644002 50.177668450000006)"^^geosparql:wktLiteral .
+
+osm2lod:drillcores__2026-03-10_204225Z a osm2lod:Dataset,
+        dcat:Dataset ;
+    dcterms:created "2026-03-10T20:42:25.818877+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:drillcores:2026-03-10_204225Z" ;
+    dcterms:provenance """[out:json][timeout:25];
+(
+  way(23450728);
+  way(56428302);
+  way(72767715);
+  way(144726755);
+  way(144726746);
+  way(144719688);
+  node(13200955773);
+  node(13200943487);
+);
+out meta geom;""" ;
+    dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
+    dcterms:title "OSM Overpass Export"@en ;
+    dcterms:type "drillcores" .
+
