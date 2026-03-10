@@ -26,9 +26,14 @@ import requests
 WIKIBASE_SPARQL_ENDPOINT = "https://osm2wiki.wikibase.cloud/query/sparql"
 WIKIBASE_ENTITY_PREFIX = "https://osm2wiki.wikibase.cloud/entity/"
 
-# Export type to test
-TEST_EXPORT_TYPE = "holywells"
-TEST_QUERY_ITEM = "Q25"  # holywells query item
+# Export types to test (mit Query Item QIDs)
+TEST_EXPORTS = {
+    "ogham": "Q24",
+    "holywells": "Q25",
+    "ci": "Q26",
+    "drillcores": "Q27",
+    "benchmarks": "Q890",
+}
 
 # Input/Output paths
 DIST_DIR = Path("dist")
@@ -303,9 +308,12 @@ def generate_diff_quickstatements(
     wikibase_items: List[Dict[str, Any]],
     export_type: str,
     output_path: Path,
-) -> None:
+) -> Tuple[int, int]:
     """
     Generiert Diff-QuickStatements: OSM vs Wikibase.
+
+    Returns:
+        (added_count, modified_count)
     """
 
     # Index: "type/id" -> item
@@ -470,12 +478,33 @@ def generate_diff_quickstatements(
     # Update Summary
     lines.insert(7, f"#   - {modified_count} MODIFIED (UPDATE)")
 
+    # DELETED Items (automatic deprecation)
+    if deleted_keys:
+        lines.append("# ===============================================")
+        lines.append(f"# 🗑️  DELETED ITEMS ({len(deleted_keys)}) - DEPRECATION")
+        lines.append("# ===============================================")
+        lines.append("# These items exist in Wikibase but were deleted from OSM.")
+        lines.append("# Automatically marking as deprecated (P18 = Q891).")
+        lines.append("")
+
+        for key in sorted(deleted_keys):
+            wb_item = wb_index[key]
+            qid = wb_item["qid"]
+            name = wb_item["label"]
+            version = wb_item["version"]
+
+            lines.append(f'# {key} ({qid}) - "{name}" - Last OSM version: {version}')
+            lines.append(f"{qid}|P18|Q891  # status = deprecated")
+            lines.append("")
+
     # Schreibe Datei
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("\n".join(lines), encoding="utf-8")
 
     print(f"\n✅ Diff QuickStatements written to: {output_path}")
     print(f"   📝 {modified_count} items with actual changes")
+
+    return (len(added_keys), modified_count)
 
 
 # =================================================
@@ -485,7 +514,7 @@ def generate_diff_quickstatements(
 
 def main():
     print("=" * 60)
-    print("🧪 DIFF-QUICKSTATEMENTS TEST")
+    print("🧪 DIFF-QUICKSTATEMENTS TEST (ALL EXPORT TYPES)")
     print("=" * 60)
     print()
 
@@ -498,39 +527,60 @@ def main():
     print(f"📁 Using latest run: {latest_run.name}")
     print()
 
-    # Finde CSV
-    csv_pattern = f"osm_export_{TEST_EXPORT_TYPE}_*.csv"
-    csv_files = list(latest_run.glob(csv_pattern))
+    # Statistiken
+    total_added = 0
+    total_modified = 0
 
-    if not csv_files:
-        print(f"❌ No CSV found matching: {csv_pattern}")
-        return
+    # Verarbeite alle Export-Typen
+    for export_type, query_item_qid in TEST_EXPORTS.items():
+        print("-" * 60)
+        print(f"🔄 Processing: {export_type.upper()}")
+        print("-" * 60)
 
-    csv_path = csv_files[0]
+        # Finde CSV
+        csv_pattern = f"osm_export_{export_type}_*.csv"
+        csv_files = list(latest_run.glob(csv_pattern))
 
-    # Lade OSM Daten
-    osm_df = load_osm_csv(csv_path)
-    osm_items = [parse_osm_item(row) for _, row in osm_df.iterrows()]
-    print()
+        if not csv_files:
+            print(f"⚠️  No CSV found matching: {csv_pattern}")
+            print()
+            continue
 
-    # Hole Wikibase Daten
-    wikibase_items = fetch_wikibase_items(TEST_EXPORT_TYPE, TEST_QUERY_ITEM)
-    print()
+        csv_path = csv_files[0]
 
-    if not wikibase_items:
-        print("⚠️  No items found in Wikibase - all OSM items will be marked as ADDED")
+        # Lade OSM Daten
+        osm_df = load_osm_csv(csv_path)
+        osm_items = [parse_osm_item(row) for _, row in osm_df.iterrows()]
+        print()
 
-    # Generiere Diff
-    output_filename = f"quickstatements_DIFF_{TEST_EXPORT_TYPE}_{latest_run.name}.txt"
-    output_path = TEST_DIR / output_filename
+        # Hole Wikibase Daten
+        wikibase_items = fetch_wikibase_items(export_type, query_item_qid)
+        print()
 
-    generate_diff_quickstatements(
-        osm_items, wikibase_items, TEST_EXPORT_TYPE, output_path
-    )
+        if not wikibase_items:
+            print(f"⚠️  No items found in Wikibase for {export_type}")
+            print()
+            continue
 
-    print()
+        # Generiere Diff
+        output_filename = f"quickstatements_DIFF_{export_type}_{latest_run.name}.txt"
+        output_path = TEST_DIR / output_filename
+
+        added, modified = generate_diff_quickstatements(
+            osm_items, wikibase_items, export_type, output_path
+        )
+
+        total_added += added
+        total_modified += modified
+
+        print()
+
     print("=" * 60)
-    print("✅ TEST COMPLETE")
+    print("✅ TEST COMPLETE - ALL EXPORT TYPES")
+    print("=" * 60)
+    print(f"📊 TOTAL SUMMARY:")
+    print(f"   ✅ {total_added} items ADDED across all types")
+    print(f"   📝 {total_modified} items MODIFIED across all types")
     print("=" * 60)
 
 
