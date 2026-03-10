@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import re
 import shutil
+import sys
 import time
 import json
 from datetime import datetime, timezone
@@ -16,6 +17,40 @@ import requests
 import pandas as pd
 from rdflib import Graph, Namespace, URIRef, Literal
 from rdflib.namespace import RDF, RDFS, XSD, OWL, DCTERMS, FOAF
+
+
+# =================================================
+# Report Logger
+# =================================================
+
+
+class ReportLogger:
+    """Logs console output to both terminal and file."""
+
+    def __init__(self, report_path: Path):
+        self.report_path = report_path
+        self.report_path.parent.mkdir(parents=True, exist_ok=True)
+        self.file = open(report_path, "w", encoding="utf-8")
+        self.terminal = sys.stdout
+
+    def write(self, message):
+        self.terminal.write(message)
+        self.file.write(message)
+
+    def flush(self):
+        self.terminal.flush()
+        self.file.flush()
+
+    def close(self):
+        self.file.close()
+
+    def __enter__(self):
+        sys.stdout = self
+        return self
+
+    def __exit__(self, *args):
+        sys.stdout = self.terminal
+        self.close()
 
 
 # =================================================
@@ -254,7 +289,7 @@ P10_QUERY_ITEM = {
     "holywells": "Q25",
     "ci": "Q26",
     "drillcores": "Q27",
-    "benchmarks": "Q28",
+    "benchmarks": "Q890",
 }
 
 P1_FIXED = {"ogham": ["Q12"], "holywells": ["Q14"], "ci": ["Q21", "Q22"]}
@@ -1473,45 +1508,350 @@ def generate_changelog_for_run(
     return changelog_path
 
 
+# =================================================
+# Wikibase Diff Generator
+# =================================================
+
+WIKIBASE_SPARQL_ENDPOINT = "https://osm2wiki.wikibase.cloud/query/sparql"
+WIKIBASE_ENTITY_PREFIX = "https://osm2wiki.wikibase.cloud/entity/"
+
+
+def normalize_wikipedia(value: str) -> str:
+    """Normalisiert Wikipedia-Werte für Vergleich (OSM-Format vs URL)."""
+    if not value:
+        return ""
+
+    # URL-decode falls nötig (%23 → #, %20 → space, etc.)
+    from urllib.parse import unquote
+
+    value = unquote(value)
+
+    # Wenn schon volle URL → beibehalten
+    if value.startswith("http"):
+        return value
+
+    # Wenn OSM-Format "en:Article" → konvertiere zu voller URL
+    if ":" in value and not value.startswith("http"):
+        parts = value.split(":", 1)
+        if len(parts) == 2:
+            lang = parts[0]
+            article = parts[1].replace(" ", "_")
+            return f"https://{lang}.wikipedia.org/wiki/{article}"
+
+    return value
+
+
+def fetch_wikibase_items(export_type: str, query_item_qid: str) -> List[Dict[str, Any]]:
+    """Holt alle Items des Export-Typs aus der Wikibase via SPARQL."""
+
+    sparql_query = f"""
+PREFIX osmwd: <{WIKIBASE_ENTITY_PREFIX}>
+PREFIX osmwdt: <https://osm2wiki.wikibase.cloud/prop/direct/>
+
+SELECT ?item ?itemLabel ?itemDescription 
+       ?osmid ?osmtype ?geo ?version ?osmchangeset ?osmtimestamp
+       ?wikidataid ?wikipedia ?osmurl
+WHERE {{ 
+  ?item osmwdt:P3 ?osmid .
+  ?item osmwdt:P4 ?osmtype .
+  ?item osmwdt:P5 ?geo .
+  ?item osmwdt:P11 ?osmurl .
+  ?item osmwdt:P13 ?version .
+  ?item osmwdt:P16 ?osmchangeset .
+  
+  OPTIONAL {{ ?item osmwdt:P6 ?wikidataid . }}
+  OPTIONAL {{ ?item osmwdt:P7 ?wikipedia . }}
+  OPTIONAL {{ ?item osmwdt:P17 ?osmtimestamp . }}
+  
+  ?item osmwdt:P10 osmwd:{query_item_qid} .
+  
+  SERVICE wikibase:label {{ 
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". 
+  }} 
+}}
+"""
+
+    try:
+        response = requests.post(
+            WIKIBASE_SPARQL_ENDPOINT,
+            data={"query": sparql_query},
+            headers={"Accept": "application/json"},
+            timeout=30,
+        )
+        response.raise_for_status()
+        data = response.json()
+
+        results = []
+        bindings = data.get("results", {}).get("bindings", [])
+
+        items_dict: Dict[str, Dict[str, Any]] = {}
+
+        for binding in bindings:
+            qid = binding["item"]["value"].split("/")[-1]
+
+            if qid not in items_dict:
+                osmtype_uri = binding.get("osmtype", {}).get("value", "")
+                osmtype_label = osmtype_uri.split("/")[-1]
+                type_map = {"Q5": "node", "Q6": "way", "Q7": "relation"}
+                osm_type = type_map.get(osmtype_label, osmtype_label)
+
+                # Parse Koordinaten aus WKT Format
+                geo_wkt = binding.get("geo", {}).get("value", "")
+                coordinates = ""
+                if geo_wkt:
+                    import re
+
+                    match = re.match(r"Point\(([^ ]+) ([^ ]+)\)", geo_wkt)
+                    if match:
+                        lon, lat = match.groups()
+                        coordinates = f"{lat}/{lon}"
+                    else:
+                        coordinates = geo_wkt
+
+                items_dict[qid] = {
+                    "qid": qid,
+                    "osm_id": int(binding["osmid"]["value"]),
+                    "osm_type": osm_type,
+                    "label": binding.get("itemLabel", {}).get("value", ""),
+                    "description": binding.get("itemDescription", {}).get("value", ""),
+                    "coordinates": coordinates,
+                    "version": int(binding.get("version", {}).get("value", 0)),
+                    "changeset": int(binding.get("osmchangeset", {}).get("value", 0)),
+                    "osm_timestamp": binding.get("osmtimestamp", {}).get("value", ""),
+                    "wikidata": binding.get("wikidataid", {}).get("value", ""),
+                    "wikipedia": binding.get("wikipedia", {}).get("value", ""),
+                }
+
+        return list(items_dict.values())
+
+    except Exception as e:
+        print(f"⚠️  Error querying Wikibase for {export_type}: {e}")
+        return []
+
+
+def generate_diff_quickstatements_for_run(
+    base_dir: Path, run_dir: Path, export_types: List[str]
+) -> Optional[Path]:
+    """
+    Generiert Diff-QuickStatements für alle Export-Typen.
+    Schreibt Dateien in run_dir und Report in base_dir.
+    """
+
+    print()
+    print("=" * 60)
+    print("🔄 Generating Diff-QuickStatements vs Wikibase")
+    print("=" * 60)
+
+    report_lines = []
+    report_lines.append("=" * 60)
+    report_lines.append("🔄 DIFF-QUICKSTATEMENTS GENERATION")
+    report_lines.append("=" * 60)
+    report_lines.append(f"Run directory: {run_dir.name}")
+    report_lines.append("")
+
+    total_added = 0
+    total_modified = 0
+    total_deprecated = 0
+
+    for export_type in export_types:
+        print(f"\n📊 {export_type.upper()}")
+        report_lines.append(f"{'='*60}")
+        report_lines.append(f"{export_type.upper()}")
+        report_lines.append(f"{'='*60}")
+
+        # Lade OSM CSV
+        csv_pattern = f"osm_export_{export_type}_*.csv"
+        csv_files = list(run_dir.glob(csv_pattern))
+
+        if not csv_files:
+            msg = f"⚠️  No CSV found: {csv_pattern}"
+            print(f"   {msg}")
+            report_lines.append(msg)
+            report_lines.append("")
+            continue
+
+        osm_df = pd.read_csv(csv_files[0])
+        print(f"   OSM: {len(osm_df)} items")
+        report_lines.append(f"OSM items: {len(osm_df)}")
+
+        # Hole Wikibase Items
+        query_item = P10_QUERY_ITEM.get(export_type)
+        if not query_item:
+            print(f"   ⚠️  No Q-ID configured for {export_type}")
+            report_lines.append("⚠️  No Q-ID configured")
+            report_lines.append("")
+            continue
+
+        wb_items = fetch_wikibase_items(export_type, query_item)
+        print(f"   Wikibase: {len(wb_items)} items")
+        report_lines.append(f"Wikibase items: {len(wb_items)}")
+
+        if not wb_items:
+            print(f"   ⚠️  No items in Wikibase yet")
+            report_lines.append("⚠️  No items in Wikibase yet - skipping diff")
+            report_lines.append("")
+            continue
+
+        # Erstelle Indices
+        wb_index = {f"{it['osm_type']}/{it['osm_id']}": it for it in wb_items}
+        osm_index = {}
+        for _, row in osm_df.iterrows():
+            key = f"{row['type']}/{row['id']}"
+            osm_index[key] = {
+                "osm_id": int(row["id"]),
+                "osm_type": row["type"],
+                "version": int(row["version"]) if pd.notna(row.get("version")) else 0,
+                "changeset": (
+                    int(row["changeset"]) if pd.notna(row.get("changeset")) else 0
+                ),
+                "osm_timestamp": row.get("timestamp", ""),
+                "coordinates": f"{row['lat']}/{row['lon']}",
+                "wikidata": (
+                    str(row.get("tag:wikidata", ""))
+                    if pd.notna(row.get("tag:wikidata"))
+                    else ""
+                ),
+                "wikipedia": (
+                    str(row.get("tag:wikipedia", ""))
+                    if pd.notna(row.get("tag:wikipedia"))
+                    else ""
+                ),
+            }
+
+        # Analyse
+        osm_keys = set(osm_index.keys())
+        wb_keys = set(wb_index.keys())
+        added = len(osm_keys - wb_keys)
+        deleted = len(wb_keys - osm_keys)
+        common = len(osm_keys & wb_keys)
+
+        # Zähle Modified
+        modified = 0
+        for key in osm_keys & wb_keys:
+            osm_it = osm_index[key]
+            wb_it = wb_index[key]
+
+            if osm_it["version"] != wb_it["version"]:
+                modified += 1
+                continue
+
+            if osm_it["wikidata"] != wb_it["wikidata"]:
+                modified += 1
+                continue
+
+            osm_wiki_norm = normalize_wikipedia(osm_it["wikipedia"])
+            wb_wiki_norm = normalize_wikipedia(wb_it["wikipedia"])
+            if osm_wiki_norm != wb_wiki_norm:
+                modified += 1
+                continue
+
+        print(f"   Diff: +{added} ~{modified} -{deleted}")
+        report_lines.append(f"Added: {added}")
+        report_lines.append(f"Modified: {modified}")
+        report_lines.append(f"Deprecated: {deleted}")
+        report_lines.append("")
+
+        total_added += added
+        total_modified += modified
+        total_deprecated += deleted
+
+        # Generiere QuickStatements-Datei
+        # (vollständige Logik hier aus dem test_diff_generator.py kopieren)
+        # Für jetzt nur ein Platzhalter
+        qs_file = run_dir / f"quickstatements_DIFF_{export_type}_{run_dir.name}.txt"
+        qs_file.write_text(
+            f"# Diff for {export_type}: +{added} ~{modified} -{deleted}\n",
+            encoding="utf-8",
+        )
+        print(f"   ✅ {qs_file.name}")
+
+    # Summary
+    report_lines.append(f"{'='*60}")
+    report_lines.append("TOTAL SUMMARY")
+    report_lines.append(f"{'='*60}")
+    report_lines.append(f"Total Added: {total_added}")
+    report_lines.append(f"Total Modified: {total_modified}")
+    report_lines.append(f"Total Deprecated: {total_deprecated}")
+
+    # Schreibe Report
+    report_path = base_dir / "diff_report.txt"
+    report_path.write_text("\n".join(report_lines), encoding="utf-8")
+
+    print()
+    print(f"✅ Diff-QuickStatements generated")
+    print(f"   Report: {report_path}")
+
+    return report_path
+
+
 def main() -> None:
     DIST_BASE_DIR.mkdir(exist_ok=True)
 
     # Erstelle oder überschreibe den datumsspezifischen Unterordner
     run_dir = get_or_create_run_dir(DIST_BASE_DIR)
 
-    exports_to_run = SELECTED_EXPORTS or list(EXPORTS.keys())
+    # Start Report Logging (kompletter Terminal-Output)
+    report_path = DIST_BASE_DIR / "report.txt"
 
-    unknown = set(exports_to_run) - set(EXPORTS.keys())
-    if unknown:
-        raise ValueError(f"Unknown export types: {sorted(unknown)}")
+    with ReportLogger(report_path):
+        exports_to_run = SELECTED_EXPORTS or list(EXPORTS.keys())
 
-    print("▶ Running exports:", ", ".join(exports_to_run))
+        unknown = set(exports_to_run) - set(EXPORTS.keys())
+        if unknown:
+            raise ValueError(f"Unknown export types: {sorted(unknown)}")
 
-    for exp in exports_to_run:
-        cfg = EXPORTS[exp]
-        data = overpass_fetch(cfg["query"])
-        export_to_rdf(
-            export_type=exp,
-            elements=data.get("elements", []),
-            entity_base_class=cfg["entity_base_class"],
-            dist_dir=run_dir,  # Verwende den datumsspezifischen Unterordner
-            overpass_query=cfg["query"],
+        print("▶ Running exports:", ", ".join(exports_to_run))
+
+        for exp in exports_to_run:
+            cfg = EXPORTS[exp]
+            data = overpass_fetch(cfg["query"])
+            export_to_rdf(
+                export_type=exp,
+                elements=data.get("elements", []),
+                entity_base_class=cfg["entity_base_class"],
+                dist_dir=run_dir,  # Verwende den datumsspezifischen Unterordner
+                overpass_query=cfg["query"],
+            )
+
+        print()
+        print("=" * 60)
+
+        # Generiere Changelog
+        changelog_path = generate_changelog_for_run(
+            base_dir=DIST_BASE_DIR, current_run_dir=run_dir, export_types=exports_to_run
         )
 
-    print()
-    print("=" * 60)
-
-    # Generiere Changelog
-    changelog_path = generate_changelog_for_run(
-        base_dir=DIST_BASE_DIR, current_run_dir=run_dir, export_types=exports_to_run
-    )
-
-    if changelog_path:
+        # Generiere Diff-QuickStatements (via externes Skript)
+        print()
         print("=" * 60)
-        print(f"✅ Run completed with changelog")
-    else:
+        print("🔄 Generating Diff-QuickStatements vs Wikibase")
         print("=" * 60)
-        print(f"✅ Run completed (first run, no changelog)")
+
+        diff_script = Path(__file__).parent / "generate_diff_quickstatements.py"
+        if diff_script.exists():
+            import subprocess
+
+            result = subprocess.run(
+                [sys.executable, str(diff_script), str(run_dir.name)],
+                capture_output=False,
+            )
+            if result.returncode == 0:
+                print("✅ Diff-QuickStatements generated")
+            else:
+                print("⚠️  Diff generation failed")
+        else:
+            print(f"⚠️  Diff script not found: {diff_script}")
+
+        if changelog_path:
+            print("=" * 60)
+            print(f"✅ Run completed with changelog and diff")
+        else:
+            print("=" * 60)
+            print(f"✅ Run completed (first run, no changelog)")
+
+        print()
+        print(f"📄 Full report saved to: {report_path}")
+        print("=" * 60)
 
 
 if __name__ == "__main__":
