@@ -1,34 +1,29 @@
 ▶ Running exports: ogham, holywells, ci, drillcores, benchmarks
 ✔ ogham: 106 records
-  → osm_export_ogham_2026-03-15_134228Z.csv
-  → osm_export_ogham_2026-03-15_134228Z.ttl
-  → metadata_ogham_2026-03-15_134228Z.json
-  → quickstatements_ogham_2026-03-15_134228Z.txt
-  → URL expansion cache size: 28
+  → osm_export_ogham_2026-03-15_152311Z.csv
+  → osm_export_ogham_2026-03-15_152311Z.ttl
+  → metadata_ogham_2026-03-15_152311Z.json
+  → URL expansion cache size: 0
 ✔ holywells: 734 records
-  → osm_export_holywells_2026-03-15_134242Z.csv
-  → osm_export_holywells_2026-03-15_134242Z.ttl
-  → metadata_holywells_2026-03-15_134242Z.json
-  → quickstatements_holywells_2026-03-15_134242Z.txt
-  → URL expansion cache size: 54
+  → osm_export_holywells_2026-03-15_152320Z.csv
+  → osm_export_holywells_2026-03-15_152320Z.ttl
+  → metadata_holywells_2026-03-15_152320Z.json
+  → URL expansion cache size: 0
 ✔ ci: 9 records
-  → osm_export_ci_2026-03-15_134329Z.csv
-  → osm_export_ci_2026-03-15_134329Z.ttl
-  → metadata_ci_2026-03-15_134329Z.json
-  → quickstatements_ci_2026-03-15_134329Z.txt
-  → URL expansion cache size: 60
+  → osm_export_ci_2026-03-15_152325Z.csv
+  → osm_export_ci_2026-03-15_152325Z.ttl
+  → metadata_ci_2026-03-15_152325Z.json
+  → URL expansion cache size: 0
 ✔ drillcores: 8 records
-  → osm_export_drillcores_2026-03-15_134344Z.csv
-  → osm_export_drillcores_2026-03-15_134344Z.ttl
-  → metadata_drillcores_2026-03-15_134344Z.json
-  → quickstatements_drillcores_2026-03-15_134344Z.txt
-  → URL expansion cache size: 69
+  → osm_export_drillcores_2026-03-15_152407Z.csv
+  → osm_export_drillcores_2026-03-15_152407Z.ttl
+  → metadata_drillcores_2026-03-15_152407Z.json
+  → URL expansion cache size: 0
 ✔ benchmarks: 21 records
-  → osm_export_benchmarks_2026-03-15_134404Z.csv
-  → osm_export_benchmarks_2026-03-15_134404Z.ttl
-  → metadata_benchmarks_2026-03-15_134404Z.json
-  → quickstatements_benchmarks_2026-03-15_134404Z.txt
-  → URL expansion cache size: 69
+  → osm_export_benchmarks_2026-03-15_152411Z.csv
+  → osm_export_benchmarks_2026-03-15_152411Z.ttl
+  → metadata_benchmarks_2026-03-15_152411Z.json
+  → URL expansion cache size: 0
 
 ============================================================
 📊 Generating complete changelog history (3 runs)

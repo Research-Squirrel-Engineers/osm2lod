@@ -996,19 +996,20 @@ def export_to_rdf(
         dataset_uri=dataset,
     )
 
-    qs_path = export_to_quickstatements(
-        export_type=export_type,
-        df=df,
-        dist_dir=dist_dir,
-        ts=ts,
-        now_edtf=now_edtf,
-    )
+    # QuickStatements - auskommentiert, wird jetzt über DIFF-QS generiert
+    # qs_path = export_to_quickstatements(
+    #     export_type=export_type,
+    #     df=df,
+    #     dist_dir=dist_dir,
+    #     ts=ts,
+    #     now_edtf=now_edtf,
+    # )
 
     print(f"✔ {export_type}: {len(df)} records")
     print(f"  → {csv_path.name}")
     print(f"  → {ttl_path.name}")
     print(f"  → {meta_path.name}")
-    print(f"  → {qs_path.name}")
+    # print(f"  → {qs_path.name}")  # auskommentiert
     if ENABLE_URL_EXPANSION:
         print(f"  → URL expansion cache size: {len(_URL_EXPAND_CACHE)}")
 

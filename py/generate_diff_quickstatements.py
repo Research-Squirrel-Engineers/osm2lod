@@ -71,6 +71,9 @@ TEST_EXPORTS = {
     "benchmarks": "Q890",
 }
 
+# Gleiche Konstante für CREATE statements
+P10_QUERY_ITEM = TEST_EXPORTS
+
 # Input/Output paths
 DIST_BASE_DIR = Path("dist")
 
@@ -395,7 +398,7 @@ def generate_diff_quickstatements(
 
     modified_count = 0
 
-    # ADDED Items
+    # ADDED Items - vollständige CREATE statements wie in normaler QS
     if added_keys:
         lines.append("# ----------------")
         lines.append(f"# ADDED ITEMS ({len(added_keys)})")
@@ -404,10 +407,76 @@ def generate_diff_quickstatements(
 
         for key in sorted(added_keys):
             item = osm_index[key]
+
+            # CREATE mit allen Properties
             lines.append("CREATE")
             lines.append(f'LAST|Len|"{qs_escape(item["label"])}"')
             lines.append(f'LAST|Den|"OSM import snapshot ({export_type}) – {key}"')
-            # ... (vollständiges Item wie im Hauptskript)
+
+            # P1 (instance of) - spezifisch für Export-Typ
+            if export_type == "drillcores":
+                # Maar vs Crater Lake Logik
+                is_maar = any(
+                    tag.lower().find("maar") >= 0 for tag in item.get("tags", [])
+                )
+                p1_val = "Q20" if is_maar else "Q17"
+                lines.append(f"LAST|P1|{p1_val}")
+            elif export_type == "ogham":
+                lines.append("LAST|P1|Q12")
+            elif export_type == "holywells":
+                lines.append("LAST|P1|Q14")
+            elif export_type == "ci":
+                lines.append("LAST|P1|Q21")
+                lines.append("LAST|P1|Q22")
+
+            # P3 (OSM numeric ID)
+            lines.append(f"LAST|P3|{item['osm_id']}")
+
+            # P4 (OSM type: node=Q5, way=Q6, relation=Q7)
+            type_map = {"node": "Q5", "way": "Q6", "relation": "Q7"}
+            p4_val = type_map.get(item["osm_type"], "Q5")
+            lines.append(f"LAST|P4|{p4_val}")
+
+            # P5 (coordinates)
+            lines.append(f"LAST|P5|@{item['coordinates']}")
+
+            # P6 (Wikidata QID) - optional
+            if item.get("wikidata") and item["wikidata"].startswith("Q"):
+                lines.append(f'LAST|P6|"{qs_escape(item["wikidata"])}"')
+
+            # P7 (Wikipedia URL) - optional
+            if item.get("wikipedia"):
+                lines.append(f'LAST|P7|"{qs_escape(item["wikipedia"])}"')
+
+            # P8 (External links) - nicht in CSV, skip
+
+            # P9 (Tags) - nicht mehr importiert, skip
+
+            # P10 (Query item)
+            p10_qid = P10_QUERY_ITEM.get(export_type, "Q24")
+            lines.append(f"LAST|P10|{p10_qid}")
+
+            # P11 (OSM URL)
+            osm_url = (
+                f"https://www.openstreetmap.org/{item['osm_type']}/{item['osm_id']}"
+            )
+            lines.append(f"LAST|P11|<{osm_url}>")
+
+            # P12 (Snapshot timestamp)
+            lines.append(f'LAST|P12|"{timestamp}"')
+
+            # P13 (OSM version)
+            if item.get("version"):
+                lines.append(f"LAST|P13|{item['version']}")
+
+            # P16 (OSM changeset)
+            if item.get("changeset"):
+                lines.append(f"LAST|P16|{item['changeset']}")
+
+            # P17 (OSM timestamp)
+            if item.get("osm_timestamp"):
+                lines.append(f'LAST|P17|"{item["osm_timestamp"]}"')
+
             lines.append("")
 
     # MODIFIED Items
