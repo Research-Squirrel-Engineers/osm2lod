@@ -58,11 +58,214 @@ var minivowlresult={
  ],
  "links": [
   {
-   "source": 3,
-   "target": 4,
-   "valueTo": "hasGeometry",
+   "source": 8,
+   "target": 1,
+   "valueTo": "dataset",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 8,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 1,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 9,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 1,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 2,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 4,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 0,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 3,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 7,
+   "target": 5,
+   "valueTo": "dataset",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/ns/dcat#dataset"
+  },
+  {
+   "source": 6,
+   "target": 2,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 6,
+   "target": 3,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 6,
+   "target": 0,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 6,
+   "target": 1,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 2,
+   "target": 5,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 2,
+   "target": 3,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 3,
+   "target": 5,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 3,
+   "target": 3,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 0,
+   "target": 5,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 0,
+   "target": 3,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 1,
+   "target": 5,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
+  },
+  {
+   "source": 1,
+   "target": 3,
+   "valueTo": "isPartOf",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isPartOf"
   },
   {
    "source": 2,
@@ -72,7 +275,7 @@ var minivowlresult={
    "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
-   "source": 1,
+   "source": 3,
    "target": 4,
    "valueTo": "hasGeometry",
    "propertyTo": "class",
@@ -86,214 +289,11 @@ var minivowlresult={
    "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
-   "source": 3,
-   "target": 5,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 3,
-   "target": 3,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 2,
-   "target": 5,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 2,
-   "target": 3,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
    "source": 1,
-   "target": 5,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 1,
-   "target": 3,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 0,
-   "target": 5,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 0,
-   "target": 3,
-   "valueTo": "isPartOf",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isPartOf"
-  },
-  {
-   "source": 8,
-   "target": 2,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
    "target": 4,
-   "valueTo": "dataset",
+   "valueTo": "hasGeometry",
    "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 0,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 8,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 2,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 4,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 0,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 7,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 2,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 4,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 3,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 0,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 5,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 9,
-   "target": 1,
-   "valueTo": "dataset",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/ns/dcat#dataset"
-  },
-  {
-   "source": 6,
-   "target": 3,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
-   "target": 2,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
-   "target": 1,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
-   "target": 0,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   }
  ]
 }
