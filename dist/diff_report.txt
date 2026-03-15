@@ -7,7 +7,7 @@
 ------------------------------------------------------------
 🔄 Processing: OGHAM
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ogham_2026-03-15_152311Z.csv
+📂 Loading OSM CSV: osm_export_ogham_2026-03-15_153139Z.csv
 ✅ Loaded 106 OSM items
 
 🔍 Querying Wikibase for ogham items (Q10=Q24)...
@@ -26,7 +26,7 @@
 ------------------------------------------------------------
 🔄 Processing: HOLYWELLS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_holywells_2026-03-15_152320Z.csv
+📂 Loading OSM CSV: osm_export_holywells_2026-03-15_153146Z.csv
 ✅ Loaded 734 OSM items
 
 🔍 Querying Wikibase for holywells items (Q10=Q25)...
@@ -45,7 +45,7 @@
 ------------------------------------------------------------
 🔄 Processing: CI
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ci_2026-03-15_152325Z.csv
+📂 Loading OSM CSV: osm_export_ci_2026-03-15_153402Z.csv
 ✅ Loaded 9 OSM items
 
 🔍 Querying Wikibase for ci items (Q10=Q26)...
@@ -64,7 +64,7 @@
 ------------------------------------------------------------
 🔄 Processing: DRILLCORES
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_152407Z.csv
+📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_153405Z.csv
 ✅ Loaded 8 OSM items
 
 🔍 Querying Wikibase for drillcores items (Q10=Q27)...
@@ -83,20 +83,27 @@
 ------------------------------------------------------------
 🔄 Processing: BENCHMARKS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_152411Z.csv
+📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_153410Z.csv
 ✅ Loaded 21 OSM items
 
 🔍 Querying Wikibase for benchmarks items (Q10=Q890)...
 ✅ Found 0 bindings in Wikibase
 ✅ Processed 0 unique items from Wikibase
 
-⚠️  No items found in Wikibase for benchmarks
+
+📊 Diff Analysis:
+   ✅ Added: 21
+   📝 Common (potential updates): 0
+   🗑️  Deleted: 0
+
+✅ Diff QuickStatements written to: dist\2026-03-15\quickstatements_DIFF_benchmarks_2026-03-15.txt
+   📝 0 items with actual changes
 
 ============================================================
 ✅ DIFF-QUICKSTATEMENTS COMPLETE
 ============================================================
 📊 TOTAL SUMMARY:
-   ✅ 26 items ADDED across all types
+   ✅ 47 items ADDED across all types
    📝 16 items MODIFIED across all types
 ============================================================
 

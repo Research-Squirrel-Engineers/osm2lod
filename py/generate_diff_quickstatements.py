@@ -636,19 +636,19 @@ def main():
 
             # Lade OSM Daten
             osm_df = load_osm_csv(csv_path)
-            osm_items = [parse_osm_item(row) for _, row in osm_df.iterrows()]
-            print()
-
-            # Hole Wikibase Daten
-            wikibase_items = fetch_wikibase_items(export_type, query_item_qid)
-            print()
-
-            if not wikibase_items:
-                print(f"⚠️  No items found in Wikibase for {export_type}")
+            if osm_df is None:
+                print(f"⚠️  Skipping {export_type} - empty CSV")
                 print()
                 continue
 
-            # Generiere Diff (in run_dir statt TEST_DIR!)
+            osm_items = [parse_osm_item(row) for _, row in osm_df.iterrows()]
+            print()
+
+            # Hole Wikibase Daten (kann leer sein wenn noch nichts importiert)
+            wikibase_items = fetch_wikibase_items(export_type, query_item_qid)
+            print()
+
+            # Generiere Diff (auch wenn wikibase_items leer - dann alle CREATE!)
             output_filename = (
                 f"quickstatements_DIFF_{export_type}_{latest_run.name}.txt"
             )
