@@ -1,28 +1,28 @@
 ▶ Running exports: ogham, holywells, ci, drillcores, benchmarks
 ✔ ogham: 106 records
-  → osm_export_ogham_2026-03-15_153139Z.csv
-  → osm_export_ogham_2026-03-15_153139Z.ttl
-  → metadata_ogham_2026-03-15_153139Z.json
+  → osm_export_ogham_2026-03-15_155431Z.csv
+  → osm_export_ogham_2026-03-15_155431Z.ttl
+  → metadata_ogham_2026-03-15_155431Z.json
   → URL expansion cache size: 0
 ✔ holywells: 734 records
-  → osm_export_holywells_2026-03-15_153146Z.csv
-  → osm_export_holywells_2026-03-15_153146Z.ttl
-  → metadata_holywells_2026-03-15_153146Z.json
+  → osm_export_holywells_2026-03-15_155454Z.csv
+  → osm_export_holywells_2026-03-15_155454Z.ttl
+  → metadata_holywells_2026-03-15_155454Z.json
   → URL expansion cache size: 0
-✔ ci: 9 records
-  → osm_export_ci_2026-03-15_153402Z.csv
-  → osm_export_ci_2026-03-15_153402Z.ttl
-  → metadata_ci_2026-03-15_153402Z.json
+✔ ci: 10 records
+  → osm_export_ci_2026-03-15_155500Z.csv
+  → osm_export_ci_2026-03-15_155500Z.ttl
+  → metadata_ci_2026-03-15_155500Z.json
   → URL expansion cache size: 0
 ✔ drillcores: 8 records
-  → osm_export_drillcores_2026-03-15_153405Z.csv
-  → osm_export_drillcores_2026-03-15_153405Z.ttl
-  → metadata_drillcores_2026-03-15_153405Z.json
+  → osm_export_drillcores_2026-03-15_155614Z.csv
+  → osm_export_drillcores_2026-03-15_155614Z.ttl
+  → metadata_drillcores_2026-03-15_155614Z.json
   → URL expansion cache size: 0
 ✔ benchmarks: 21 records
-  → osm_export_benchmarks_2026-03-15_153410Z.csv
-  → osm_export_benchmarks_2026-03-15_153410Z.ttl
-  → metadata_benchmarks_2026-03-15_153410Z.json
+  → osm_export_benchmarks_2026-03-15_155628Z.csv
+  → osm_export_benchmarks_2026-03-15_155628Z.ttl
+  → metadata_benchmarks_2026-03-15_155628Z.json
   → URL expansion cache size: 0
 
 ============================================================
@@ -34,16 +34,17 @@
      ✔ holywells: 11 changes (3 added, 8 modified, 0 deleted)
      ✔ ci: 1 changes (0 added, 1 modified, 0 deleted)
      ✔ drillcores: 1 changes (0 added, 1 modified, 0 deleted)
+     ✔ benchmarks: 22 changes (22 added, 0 modified, 0 deleted)
 
    Comparing: 2026-03-09 → 2026-03-15
      ✔ ogham: 2 changes (0 added, 2 modified, 0 deleted)
      ✔ holywells: 19 changes (19 added, 0 modified, 0 deleted)
-     ✔ ci: 0 changes (0 added, 0 modified, 0 deleted)
+     ✔ ci: 1 changes (1 added, 0 modified, 0 deleted)
      ✔ drillcores: 0 changes (0 added, 0 modified, 0 deleted)
      ✔ benchmarks: 1 changes (0 added, 0 modified, 1 deleted)
 
 📄 Complete changelog history saved: dist\changelog.html
-   Total comparisons: 9
+   Total comparisons: 10
 
 ============================================================
 🔄 Generating Diff-QuickStatements vs Wikibase

@@ -202,6 +202,7 @@ out meta geom;
   node(10879170567);
   node(11107939919);
   node(11109379095);
+  node(1918839400);
 );
 out meta geom;
 """,
@@ -1493,12 +1494,58 @@ def generate_changelog_for_run(
             old_csvs = list(old_run_dir.glob(f"osm_export_{export_type}_*.csv"))
             new_csvs = list(new_run_dir.glob(f"osm_export_{export_type}_*.csv"))
 
-            if not old_csvs or not new_csvs:
+            # Skip wenn neue CSV nicht existiert
+            if not new_csvs:
                 continue
 
-            # Verwende die neueste Datei (sollte nur eine sein)
-            old_csv = sorted(old_csvs)[-1]
             new_csv = sorted(new_csvs)[-1]
+
+            # Wenn alte CSV nicht existiert → alle sind "added"
+            if not old_csvs:
+                try:
+                    new_df = pd.read_csv(new_csv)
+                    if len(new_df) == 0:
+                        continue  # Skip leere CSVs
+
+                    added: List[ChangelogItem] = []
+                    new_df["osm_id"] = new_df["type"] + "/" + new_df["id"].astype(str)
+
+                    for osm_id in sorted(new_df["osm_id"]):
+                        row = new_df[new_df["osm_id"] == osm_id].iloc[0]
+                        name = clean_value(row.get("tag:name")) or "Unnamed"
+                        added.append(
+                            ChangelogItem(
+                                osm_id=osm_id,
+                                osm_type=row["type"],
+                                osm_numeric_id=int(row["id"]),
+                                name=name,
+                                new_version=(
+                                    int(row["version"])
+                                    if pd.notna(row.get("version"))
+                                    else None
+                                ),
+                                new_timestamp=row.get("timestamp"),
+                            )
+                        )
+
+                    report = ChangelogReport(
+                        export_type=export_type,
+                        old_date=old_run_dir.name,
+                        new_date=new_run_dir.name,
+                        added=added,
+                        deleted=[],
+                        modified=[],
+                    )
+                    all_reports.append(report)
+                    print(
+                        f"     ✔ {export_type}: {len(added)} changes ({len(added)} added, 0 modified, 0 deleted)"
+                    )
+                except Exception as e:
+                    print(f"     ✘ {export_type}: Error - {e}")
+                continue
+
+            # Beide CSVs existieren → normaler Vergleich
+            old_csv = sorted(old_csvs)[-1]
 
             try:
                 report = compare_csv_exports(old_csv, new_csv, export_type)

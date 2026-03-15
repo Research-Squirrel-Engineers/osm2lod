@@ -7,7 +7,7 @@
 ------------------------------------------------------------
 🔄 Processing: OGHAM
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ogham_2026-03-15_153139Z.csv
+📂 Loading OSM CSV: osm_export_ogham_2026-03-15_155431Z.csv
 ✅ Loaded 106 OSM items
 
 🔍 Querying Wikibase for ogham items (Q10=Q24)...
@@ -26,7 +26,7 @@
 ------------------------------------------------------------
 🔄 Processing: HOLYWELLS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_holywells_2026-03-15_153146Z.csv
+📂 Loading OSM CSV: osm_export_holywells_2026-03-15_155454Z.csv
 ✅ Loaded 734 OSM items
 
 🔍 Querying Wikibase for holywells items (Q10=Q25)...
@@ -45,8 +45,8 @@
 ------------------------------------------------------------
 🔄 Processing: CI
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ci_2026-03-15_153402Z.csv
-✅ Loaded 9 OSM items
+📂 Loading OSM CSV: osm_export_ci_2026-03-15_155500Z.csv
+✅ Loaded 10 OSM items
 
 🔍 Querying Wikibase for ci items (Q10=Q26)...
 ✅ Found 18 bindings in Wikibase
@@ -54,7 +54,7 @@
 
 
 📊 Diff Analysis:
-   ✅ Added: 0
+   ✅ Added: 1
    📝 Common (potential updates): 9
    🗑️  Deleted: 0
 
@@ -64,7 +64,7 @@
 ------------------------------------------------------------
 🔄 Processing: DRILLCORES
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_153405Z.csv
+📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_155614Z.csv
 ✅ Loaded 8 OSM items
 
 🔍 Querying Wikibase for drillcores items (Q10=Q27)...
@@ -83,7 +83,7 @@
 ------------------------------------------------------------
 🔄 Processing: BENCHMARKS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_153410Z.csv
+📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_155628Z.csv
 ✅ Loaded 21 OSM items
 
 🔍 Querying Wikibase for benchmarks items (Q10=Q890)...
@@ -103,7 +103,7 @@
 ✅ DIFF-QUICKSTATEMENTS COMPLETE
 ============================================================
 📊 TOTAL SUMMARY:
-   ✅ 47 items ADDED across all types
+   ✅ 48 items ADDED across all types
    📝 16 items MODIFIED across all types
 ============================================================
 
