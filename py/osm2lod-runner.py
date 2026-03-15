@@ -162,8 +162,14 @@ EXPORTS: Dict[str, Dict[str, Any]] = {
     "ogham": {
         "query": """
 [out:json][timeout:25];
-area["name"="Ireland"]->.boundaryarea;
-nwr(area.boundaryarea)["historic"="ogham_stone"];
+(
+  area(3600062273)->.roi;
+  area(3600156393)->.ni;
+);
+(
+  nwr(area.roi)["historic"="ogham_stone"];
+  nwr(area.ni)["historic"="ogham_stone"];
+);
 out meta geom;
 """,
         "entity_base_class": CRM.E22_Human_Made_Object,
@@ -171,8 +177,14 @@ out meta geom;
     "holywells": {
         "query": """
 [out:json][timeout:25];
-area["name"="Ireland"]->.boundaryarea;
-nwr(area.boundaryarea)["place_of_worship"="holy_well"];
+(
+  area(3600062273)->.roi;
+  area(3600156393)->.ni;
+);
+(
+  nwr(area.roi)["place_of_worship"="holy_well"];
+  nwr(area.ni)["place_of_worship"="holy_well"];
+);
 out meta geom;
 """,
         "entity_base_class": CRM.E26_Physical_Feature,
@@ -216,11 +228,14 @@ out meta geom;
         "query": """
 [out:json][timeout:180];
 (
-  area["name:en"="Ireland"]->.ie;
-  area["name:en"="Scotland"]->.sc;
-  
-  node(area.ie)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
-  node(area.sc)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  area(3600062273)->.roi;
+  area(3600156393)->.ni;
+  area(3600058446)->.scotland;
+);
+(
+  nwr(area.roi)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  nwr(area.ni)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  nwr(area.scotland)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
 );
 out meta geom;
 """,

@@ -13,9 +13,9 @@ osm2lod:node_12600848879 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12600848879"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12600848879" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -30,9 +30,9 @@ osm2lod:node_12888689968 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12888689968"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12888689968" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -46,9 +46,9 @@ osm2lod:node_12919476068 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12919476068"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12919476068" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -63,9 +63,9 @@ osm2lod:node_12919738910 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12919738910"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12919738910" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -80,9 +80,9 @@ osm2lod:node_12922675575 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12922675575"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12922675575" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -97,9 +97,9 @@ osm2lod:node_12923698705 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923698705"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923698705" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -114,9 +114,9 @@ osm2lod:node_12923704831 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923704831"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923704831" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -131,9 +131,9 @@ osm2lod:node_12923752174 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923752174"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923752174" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -148,9 +148,9 @@ osm2lod:node_12923754806 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12923754806"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12923754806" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -165,9 +165,9 @@ osm2lod:node_12924781327 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12924781327"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12924781327" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -182,9 +182,9 @@ osm2lod:node_12924782280 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12924782280"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12924782280" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -199,9 +199,9 @@ osm2lod:node_12924784584 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12924784584"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12924784584" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -216,9 +216,9 @@ osm2lod:node_12925489820 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12925489820"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12925489820" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -233,9 +233,9 @@ osm2lod:node_12925655350 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12925655350"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12925655350" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -250,9 +250,9 @@ osm2lod:node_12925919541 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12925919541"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12925919541" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -267,9 +267,9 @@ osm2lod:node_12936028929 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 12936028929"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12936028929" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -284,9 +284,9 @@ osm2lod:node_13331549275 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 13331549275"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13331549275" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__man_made "survey_point" ;
@@ -301,9 +301,9 @@ osm2lod:node_6666122939 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 6666122939"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6666122939" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__historic "milestone" ;
@@ -317,9 +317,9 @@ osm2lod:node_6721748182 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 6721748182"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6721748182" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__historic "milestone" ;
@@ -333,9 +333,9 @@ osm2lod:node_6967103228 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 6967103228"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6967103228" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__historic "milestone" ;
@@ -351,9 +351,9 @@ osm2lod:node_7873204616 a osm2lod:Benchmark,
         crm:E22_Human_Made_Object,
         dcat:Dataset ;
     rdfs:label "OSM node 7873204616"@en ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7873204616" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
+    dcterms:isPartOf osm2lod:benchmarks__2026-03-15_134404Z ;
     osm2lod:exportType "benchmarks" ;
     osm2lod:osmtag__benchmark "yes" ;
     osm2lod:osmtag__description "horizontal type with dot" ;
@@ -363,27 +363,6 @@ osm2lod:node_7873204616 a osm2lod:Benchmark,
     osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Benchmark%20at%20Scots%20Church.jpg> ;
     geosparql:hasGeometry osm2lod:7873204616_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/7873204616> .
-
-osm2lod:way_186483490 a osm2lod:Benchmark,
-        osm2lod:OSMEntity,
-        crm:E22_Human_Made_Object,
-        dcat:Dataset ;
-    rdfs:label "أيرلندا"@ar,
-        "Irland"@de,
-        "Ireland"@en,
-        "Irlande"@fr,
-        "아일랜드"@ko,
-        "Irlandia"@pl ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm:way/186483490" ;
-    dcterms:isPartOf osm2lod:benchmarks__2026-03-10_222941Z ;
-    osm2lod:exportType "benchmarks" ;
-    osm2lod:osmtag__name "أيرلندا" ;
-    osm2lod:osmtag__natural "coastline" ;
-    osm2lod:osmtag__ref "E2" ;
-    osm2lod:osmtag__source "Bing" ;
-    geosparql:hasGeometry osm2lod:186483490_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/way/186483490> .
 
 osm2lod:12600848879_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-9.0538691 53.2725397)"^^geosparql:wktLiteral .
@@ -436,9 +415,6 @@ osm2lod:12936028929_geom a sf:Point ;
 osm2lod:13331549275_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-8.4683873 54.2726815)"^^geosparql:wktLiteral .
 
-osm2lod:186483490_geom a sf:Point ;
-    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(55.158701534883726 25.22187154418604)"^^geosparql:wktLiteral .
-
 osm2lod:6666122939_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-6.0906714 53.390985)"^^geosparql:wktLiteral .
 
@@ -451,17 +427,20 @@ osm2lod:6967103228_geom a sf:Point ;
 osm2lod:7873204616_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-7.6966593 52.3531682)"^^geosparql:wktLiteral .
 
-osm2lod:benchmarks__2026-03-10_222941Z a osm2lod:Dataset,
+osm2lod:benchmarks__2026-03-15_134404Z a osm2lod:Dataset,
         dcat:Dataset ;
-    dcterms:created "2026-03-10T22:29:41.768485+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:benchmarks:2026-03-10_222941Z" ;
+    dcterms:created "2026-03-15T13:44:04.722411+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:benchmarks:2026-03-15_134404Z" ;
     dcterms:provenance """[out:json][timeout:180];
 (
-  area["name:en"="Ireland"]->.ie;
-  area["name:en"="Scotland"]->.sc;
-  
-  node(area.ie)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
-  node(area.sc)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  area(3600062273)->.roi;
+  area(3600156393)->.ni;
+  area(3600058446)->.scotland;
+);
+(
+  nwr(area.roi)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  nwr(area.ni)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
+  nwr(area.scotland)["man_made"="survey_point"]["benchmark"="yes"]["wikimedia_commons"];
 );
 out meta geom;""" ;
     dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;

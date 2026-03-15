@@ -7,18 +7,18 @@
     "osm2lod": "http://research-squirrel-engineers.github.io/osm2lod/",
     "wd": "http://wikidata.org/entity/"
   },
-  "exportType": "drillcores",
-  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/drillcores__2026-03-10_222922Z",
+  "exportType": "benchmarks",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/benchmarks__2026-03-15_134404Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2026-03-10T22:29:22.623173+00:00",
+  "dcterms:created": "2026-03-15T13:44:04.722411+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\n(\n  way(23450728);\n  way(56428302);\n  way(72767715);\n  way(144726755);\n  way(144726746);\n  way(144719688);\n  node(13200955773);\n  node(13200943487);\n);\nout meta geom;",
-  "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E55_Place",
+  "overpassQuery": "[out:json][timeout:180];\n(\n  area(3600062273)->.roi;\n  area(3600156393)->.ni;\n  area(3600058446)->.scotland;\n);\n(\n  nwr(area.roi)[\"man_made\"=\"survey_point\"][\"benchmark\"=\"yes\"][\"wikimedia_commons\"];\n  nwr(area.ni)[\"man_made\"=\"survey_point\"][\"benchmark\"=\"yes\"][\"wikimedia_commons\"];\n  nwr(area.scotland)[\"man_made\"=\"survey_point\"][\"benchmark\"=\"yes\"][\"wikimedia_commons\"];\n);\nout meta geom;",
+  "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object",
   "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
   "geometry": {
@@ -59,10 +59,11 @@
     "url"
   ],
   "extraTagKeys": [
-    "volcano:status",
-    "volcano:type"
+    "benchmark",
+    "survey:date",
+    "survey_point:structure"
   ],
-  "recordCount": 8,
+  "recordCount": 21,
   "columns": [
     "type",
     "id",
@@ -73,39 +74,36 @@
     "uid",
     "lat",
     "lon",
-    "tag:name",
-    "tag:natural",
-    "tag:source:url",
-    "tag:volcano:type",
-    "tag:wikidata",
-    "tag:ele",
-    "tag:salt",
-    "tag:source",
-    "tag:source:ele",
-    "tag:source:ref",
-    "tag:tidal",
-    "tag:water",
-    "tag:wikipedia",
-    "tag:geological",
-    "tag:loc_name",
-    "tag:sport",
+    "tag:benchmark",
+    "tag:direction",
+    "tag:distance",
+    "tag:highway",
+    "tag:historic",
+    "tag:inscription",
+    "tag:man_made",
+    "tag:mapillary",
+    "tag:material",
+    "tag:milestone:destination",
     "tag:wikimedia_commons",
-    "tag:windsurfing:conditional"
+    "tag:source",
+    "tag:survey:date",
+    "tag:description",
+    "tag:survey_point:structure"
   ],
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_drillcores_2026-03-10_222922Z.csv",
-      "dcat:byteSize": 2155
+      "dcat:downloadURL": "osm_export_benchmarks_2026-03-15_134404Z.csv",
+      "dcat:byteSize": 4292
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_drillcores_2026-03-10_222922Z.ttl",
-      "dcat:byteSize": 9796
+      "dcat:downloadURL": "osm_export_benchmarks_2026-03-15_134404Z.ttl",
+      "dcat:byteSize": 21925
     }
   ],
   "output": {
-    "csv": "osm_export_drillcores_2026-03-10_222922Z.csv",
-    "ttl": "osm_export_drillcores_2026-03-10_222922Z.ttl"
+    "csv": "osm_export_benchmarks_2026-03-15_134404Z.csv",
+    "ttl": "osm_export_benchmarks_2026-03-15_134404Z.ttl"
   }
 }

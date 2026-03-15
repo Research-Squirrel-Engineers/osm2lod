@@ -1,0 +1,164 @@
+# ===============================================
+# DIFF QuickStatements: holywells
+# Generated: 2026-03-15T13:44:15Z
+# Wikibase Query: 2026-03-15T13:44:15Z
+# 
+# Summary:
+#   - 22 ADDED (CREATE)
+#   - 9 MODIFIED (UPDATE)
+#   - 712 POTENTIAL UPDATES (checking...)
+#   - 0 DELETED (ignored)
+# ===============================================
+
+# ----------------
+# ADDED ITEMS (22)
+# ----------------
+
+CREATE
+LAST|Len|"Tobernamonastrach"
+LAST|Den|"OSM import snapshot (holywells) – node/10604931491"
+
+CREATE
+LAST|Len|"Unnamed"
+LAST|Den|"OSM import snapshot (holywells) – node/10606418457"
+
+CREATE
+LAST|Len|"Unnamed"
+LAST|Den|"OSM import snapshot (holywells) – node/10609196058"
+
+CREATE
+LAST|Len|"St. Eany's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/10617060152"
+
+CREATE
+LAST|Len|"Unnamed"
+LAST|Den|"OSM import snapshot (holywells) – node/10617060203"
+
+CREATE
+LAST|Len|"St. Soorney's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/10624927598"
+
+CREATE
+LAST|Len|"Ballán an Cheathrair Álainn"
+LAST|Den|"OSM import snapshot (holywells) – node/10625014062"
+
+CREATE
+LAST|Len|"Tobar Bhreacáin"
+LAST|Den|"OSM import snapshot (holywells) – node/10625213344"
+
+CREATE
+LAST|Len|"Tobernacrusha"
+LAST|Den|"OSM import snapshot (holywells) – node/10655986284"
+
+CREATE
+LAST|Len|"Unnamed"
+LAST|Den|"OSM import snapshot (holywells) – node/10656123227"
+
+CREATE
+LAST|Len|"Toberasool"
+LAST|Den|"OSM import snapshot (holywells) – node/12688721198"
+
+CREATE
+LAST|Len|"St Isleamáin's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/13242968401"
+
+CREATE
+LAST|Len|"Saint Brendan's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/1327909072"
+
+CREATE
+LAST|Len|"Lady's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/13406646979"
+
+CREATE
+LAST|Len|"St Michael's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/13635811708"
+
+CREATE
+LAST|Len|"Tobernacogany"
+LAST|Den|"OSM import snapshot (holywells) – node/3052028545"
+
+CREATE
+LAST|Len|"Tobar Chiaráin"
+LAST|Den|"OSM import snapshot (holywells) – node/4743461156"
+
+CREATE
+LAST|Len|"Tobar Éinne"
+LAST|Den|"OSM import snapshot (holywells) – node/5813468157"
+
+CREATE
+LAST|Len|"Unnamed"
+LAST|Den|"OSM import snapshot (holywells) – node/6562966192"
+
+CREATE
+LAST|Len|"Toberfeheen"
+LAST|Den|"OSM import snapshot (holywells) – node/659795151"
+
+CREATE
+LAST|Len|"Saint Deribla's Well"
+LAST|Den|"OSM import snapshot (holywells) – node/6842022746"
+
+CREATE
+LAST|Len|"Tobar Sinean"
+LAST|Den|"OSM import snapshot (holywells) – way/414675753"
+
+# ---------------------
+# CHECKING FOR UPDATES
+# ---------------------
+
+# node/10251520756 (Q521): version 3→4
+Q521|P12|"2026-03-15T13:44:15Z"
+Q521|P13|4
+Q521|P16|177199032
+Q521|P17|"2026-01-13T22:50:05Z"
+
+# node/11124027029 (Q607): version 3→4
+Q607|P12|"2026-03-15T13:44:15Z"
+Q607|P13|4
+Q607|P16|177972679
+Q607|P17|"2026-02-01T16:51:44Z"
+
+# node/11480678586 (Q637): version 1→2
+Q637|P12|"2026-03-15T13:44:15Z"
+Q637|P13|2
+Q637|P16|176151275
+Q637|P17|"2025-12-19T17:53:00Z"
+
+# node/11654700923 (Q652): version 1→2
+Q652|P12|"2026-03-15T13:44:15Z"
+Q652|P13|2
+Q652|P16|177825951
+Q652|P17|"2026-01-29T00:10:16Z"
+
+# node/3433695110 (Q225): version 5→6
+Q225|P12|"2026-03-15T13:44:15Z"
+Q225|P13|6
+Q225|P16|178303468
+Q225|P17|"2026-02-09T10:07:10Z"
+
+# node/451716106 (Q156): version 4→5
+Q156|P12|"2026-03-15T13:44:15Z"
+Q156|P13|5
+Q156|P16|178425112
+Q156|P17|"2026-02-11T20:41:35Z"
+
+# node/622010723 (Q158): version 5→6, wikidata
+Q158|P12|"2026-03-15T13:44:15Z"
+Q158|P13|6
+Q158|P16|176582633
+Q158|P17|"2025-12-29T15:06:59Z"
+Q158|P6|"Q32786157"
+
+# node/9018125980 (Q398): version 2→3, coordinates
+Q398|P12|"2026-03-15T13:44:15Z"
+Q398|P13|3
+Q398|P16|179060976
+Q398|P17|"2026-02-25T23:02:47Z"
+Q398|P5|@52.3267634/-9.7941962
+
+# way/1217189886 (Q848): version 2→3, coordinates
+Q848|P12|"2026-03-15T13:44:15Z"
+Q848|P13|3
+Q848|P16|177496662
+Q848|P17|"2026-01-20T21:52:13Z"
+Q848|P5|@53.44295521666666/-6.886271272222222

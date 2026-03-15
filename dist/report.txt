@@ -1,38 +1,38 @@
 ▶ Running exports: ogham, holywells, ci, drillcores, benchmarks
 ✔ ogham: 106 records
-  → osm_export_ogham_2026-03-10_222855Z.csv
-  → osm_export_ogham_2026-03-10_222855Z.ttl
-  → metadata_ogham_2026-03-10_222855Z.json
-  → quickstatements_ogham_2026-03-10_222855Z.txt
+  → osm_export_ogham_2026-03-15_134228Z.csv
+  → osm_export_ogham_2026-03-15_134228Z.ttl
+  → metadata_ogham_2026-03-15_134228Z.json
+  → quickstatements_ogham_2026-03-15_134228Z.txt
   → URL expansion cache size: 28
-✔ holywells: 715 records
-  → osm_export_holywells_2026-03-10_222902Z.csv
-  → osm_export_holywells_2026-03-10_222902Z.ttl
-  → metadata_holywells_2026-03-10_222902Z.json
-  → quickstatements_holywells_2026-03-10_222902Z.txt
+✔ holywells: 734 records
+  → osm_export_holywells_2026-03-15_134242Z.csv
+  → osm_export_holywells_2026-03-15_134242Z.ttl
+  → metadata_holywells_2026-03-15_134242Z.json
+  → quickstatements_holywells_2026-03-15_134242Z.txt
   → URL expansion cache size: 54
 ✔ ci: 9 records
-  → osm_export_ci_2026-03-10_222917Z.csv
-  → osm_export_ci_2026-03-10_222917Z.ttl
-  → metadata_ci_2026-03-10_222917Z.json
-  → quickstatements_ci_2026-03-10_222917Z.txt
+  → osm_export_ci_2026-03-15_134329Z.csv
+  → osm_export_ci_2026-03-15_134329Z.ttl
+  → metadata_ci_2026-03-15_134329Z.json
+  → quickstatements_ci_2026-03-15_134329Z.txt
   → URL expansion cache size: 60
 ✔ drillcores: 8 records
-  → osm_export_drillcores_2026-03-10_222922Z.csv
-  → osm_export_drillcores_2026-03-10_222922Z.ttl
-  → metadata_drillcores_2026-03-10_222922Z.json
-  → quickstatements_drillcores_2026-03-10_222922Z.txt
+  → osm_export_drillcores_2026-03-15_134344Z.csv
+  → osm_export_drillcores_2026-03-15_134344Z.ttl
+  → metadata_drillcores_2026-03-15_134344Z.json
+  → quickstatements_drillcores_2026-03-15_134344Z.txt
   → URL expansion cache size: 69
-✔ benchmarks: 22 records
-  → osm_export_benchmarks_2026-03-10_222941Z.csv
-  → osm_export_benchmarks_2026-03-10_222941Z.ttl
-  → metadata_benchmarks_2026-03-10_222941Z.json
-  → quickstatements_benchmarks_2026-03-10_222941Z.txt
+✔ benchmarks: 21 records
+  → osm_export_benchmarks_2026-03-15_134404Z.csv
+  → osm_export_benchmarks_2026-03-15_134404Z.ttl
+  → metadata_benchmarks_2026-03-15_134404Z.json
+  → quickstatements_benchmarks_2026-03-15_134404Z.txt
   → URL expansion cache size: 69
 
 ============================================================
 📊 Generating complete changelog history (3 runs)
-   Date range: 2025-12-21 → 2026-03-10
+   Date range: 2025-12-21 → 2026-03-15
 
    Comparing: 2025-12-21 → 2026-03-09
      ✔ ogham: 1 changes (0 added, 1 modified, 0 deleted)
@@ -40,12 +40,12 @@
      ✔ ci: 1 changes (0 added, 1 modified, 0 deleted)
      ✔ drillcores: 1 changes (0 added, 1 modified, 0 deleted)
 
-   Comparing: 2026-03-09 → 2026-03-10
-     ✔ ogham: 0 changes (0 added, 0 modified, 0 deleted)
-     ✔ holywells: 0 changes (0 added, 0 modified, 0 deleted)
+   Comparing: 2026-03-09 → 2026-03-15
+     ✔ ogham: 2 changes (0 added, 2 modified, 0 deleted)
+     ✔ holywells: 19 changes (19 added, 0 modified, 0 deleted)
      ✔ ci: 0 changes (0 added, 0 modified, 0 deleted)
      ✔ drillcores: 0 changes (0 added, 0 modified, 0 deleted)
-     ✔ benchmarks: 0 changes (0 added, 0 modified, 0 deleted)
+     ✔ benchmarks: 1 changes (0 added, 0 modified, 1 deleted)
 
 📄 Complete changelog history saved: dist\changelog.html
    Total comparisons: 9

@@ -8,16 +8,16 @@
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "holywells",
-  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/holywells__2026-03-10_222902Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/holywells__2026-03-15_134242Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2026-03-10T22:29:02.199028+00:00",
+  "dcterms:created": "2026-03-15T13:42:42.361119+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.openstreetmap.ru/api/interpreter"
   ],
-  "overpassQuery": "[out:json][timeout:25];\narea[\"name\"=\"Ireland\"]->.boundaryarea;\nnwr(area.boundaryarea)[\"place_of_worship\"=\"holy_well\"];\nout meta geom;",
+  "overpassQuery": "[out:json][timeout:25];\n(\n  area(3600062273)->.roi;\n  area(3600156393)->.ni;\n);\n(\n  nwr(area.roi)[\"place_of_worship\"=\"holy_well\"];\n  nwr(area.ni)[\"place_of_worship\"=\"holy_well\"];\n);\nout meta geom;",
   "entityBaseClass": "http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature",
   "recordUriPattern": "http://research-squirrel-engineers.github.io/osm2lod/{type}_{id}",
   "canonicalOsmUriPattern": "http://openstreetmap.org/{type}/{id}",
@@ -59,7 +59,7 @@
     "url"
   ],
   "extraTagKeys": [],
-  "recordCount": 715,
+  "recordCount": 734,
   "columns": [
     "type",
     "id",
@@ -87,29 +87,29 @@
     "tag:source",
     "tag:subject:wikidata",
     "tag:wikidata",
+    "tag:historic",
+    "tag:loc_name",
+    "tag:name:etymology:wikipedia",
+    "tag:source:name",
     "tag:fixme",
     "tag:man_made",
     "tag:name:etymology",
     "tag:wikimedia_commons",
     "tag:covered",
-    "tag:name:etymology:wikipedia",
-    "tag:drinking_water",
     "tag:name:ga",
+    "tag:drinking_water",
     "tag:wheelchair",
     "tag:alt_name",
     "tag:bubbleid",
     "tag:description",
     "tag:disused:amenity",
-    "tag:historic",
     "tag:pump",
     "tag:intermittent",
     "tag:saint:name",
     "tag:was:amenity",
     "tag:note",
-    "tag:source:name",
     "tag:disused",
     "tag:level",
-    "tag:loc_name",
     "tag:loc_name:etymology",
     "tag:loc_name:etymology:wikidata",
     "tag:ref:IE:nm",
@@ -165,17 +165,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_holywells_2026-03-10_222902Z.csv",
-      "dcat:byteSize": 196902
+      "dcat:downloadURL": "osm_export_holywells_2026-03-15_134242Z.csv",
+      "dcat:byteSize": 202108
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_holywells_2026-03-10_222902Z.ttl",
-      "dcat:byteSize": 649127
+      "dcat:downloadURL": "osm_export_holywells_2026-03-15_134242Z.ttl",
+      "dcat:byteSize": 666579
     }
   ],
   "output": {
-    "csv": "osm_export_holywells_2026-03-10_222902Z.csv",
-    "ttl": "osm_export_holywells_2026-03-10_222902Z.ttl"
+    "csv": "osm_export_holywells_2026-03-15_134242Z.csv",
+    "ttl": "osm_export_holywells_2026-03-15_134242Z.ttl"
   }
 }

@@ -1,0 +1,22 @@
+type,id,version,timestamp,changeset,user,uid,lat,lon,tag:benchmark,tag:direction,tag:distance,tag:highway,tag:historic,tag:inscription,tag:man_made,tag:mapillary,tag:material,tag:milestone:destination,tag:wikimedia_commons,tag:source,tag:survey:date,tag:description,tag:survey_point:structure
+node,6666122939,3,2024-02-26T13:33:57Z,147932304,b-unicycling,1713634,53.390985,-6.0906714,yes,185,8,milestone,milestone,P.O Dublin 8 Howth 1,survey_point,805418053850230,stone;cast_iron,post_office,File:MilestoneDublin8Howth1.jpg,,,,
+node,6721748182,3,2024-02-26T18:41:14Z,147944514,b-unicycling,1713634,53.387749,-6.0681842,yes,,9 miles,milestone,milestone,P.O Dublin 9 Howth,survey_point,,,post_office,File:MilestoneDublin9Howth.jpg,,,,
+node,6967103228,5,2024-04-04T21:41:21Z,149588608,b-unicycling,1713634,52.6468593,-7.2121484,yes,,,,milestone,CARLOW 17 [...] ROYAL OAK 9,survey_point,,,,File:Milestone Old Dublin Road.jpg,survey,2024-04-02,,
+node,7873204616,3,2023-08-21T09:35:57Z,140171492,b-unicycling,1713634,52.3531682,-7.6966593,yes,,,,yes,,survey_point,,,,File:Benchmark at Scots Church.jpg,survey;OS 6'' Cassini map,,horizontal type with dot,
+node,12600848879,4,2025-02-21T11:53:01Z,162776933,b-unicycling,1713634,53.2725397,-9.0538691,yes,,,,,LM 2,survey_point,,,,File:Benchmark at St. Nicholas' Collegiate Church.jpg,survey;25inch map,2025-02-19,,
+node,12888689968,2,2025-06-05T20:53:32Z,167241460,b-unicycling,1713634,52.9774432,-6.9790004,yes,,,,,,survey_point,,,,File:Benchmark at Ardreigh Lock.jpg,,2025-06-05,,
+node,12919476068,4,2025-06-24T22:07:27Z,168069083,b-unicycling,1713634,55.8642448,-4.260726,yes,,,,,,survey_point,,,,File:Benchmark at the corner of West Campbell Street and Bath Street.jpg,,2025-06-16,,cut
+node,12919738910,3,2025-06-18T15:55:49Z,167788856,b-unicycling,1713634,55.8620198,-4.2537467,yes,,,,,,survey_point,,,,File:Benchmark at St George's Tron Parish Church.jpg,,2025-06-16,,cut
+node,12922675575,2,2025-06-19T22:35:27Z,167847134,b-unicycling,1713634,55.8685438,-4.2924895,yes,,,,,,survey_point,,,,File:Benchmark at corner of Blantyre St and Argyle St.jpg,,2025-06-18,,cut
+node,12923698705,2,2025-06-18T18:24:32Z,167794637,b-unicycling,1713634,55.8526441,-4.2497576,yes,,,,,,survey_point,,,,File:Benchmark on City Union Railway Bridge.jpg,,2025-06-18,,cut
+node,12923704831,2,2025-06-18T18:25:43Z,167794702,b-unicycling,1713634,55.8527993,-4.247294,yes,,,,,,survey_point,,,,File:Benchmark on Albert Bridge.jpg,,2025-06-18,,cut
+node,12923752174,3,2025-08-06T20:45:09Z,170078132,tagishsimon,9198745,55.8568563,-4.2453643,yes,,,,,,survey_point,,,,File:Benchmark at the corner of Trongate- Chrisholm Street.jpg,,2025-06-18,,cut
+node,12923754806,2,2025-06-18T18:26:51Z,167794747,b-unicycling,1713634,55.8547441,-4.2454407,yes,,,,,,survey_point,,,,File:Benchmark at Blackstock's Close (Saltmarket).jpg,,2025-06-18,,cut
+node,12924781327,2,2025-06-18T22:02:48Z,167801537,b-unicycling,1713634,55.860784,-4.2477111,yes,,,,,,survey_point,,,,File:Benchmark in the East side of the City Chambers.jpg,,2025-06-18,,cut
+node,12924782280,2,2025-06-18T22:04:00Z,167801563,b-unicycling,1713634,55.8611989,-4.2478655,yes,,,,,,survey_point,,,,File:Benchmark on the North side of the City Chambers.jpg,,2025-06-18,,cut
+node,12924784584,2,2025-06-18T22:01:10Z,167801496,b-unicycling,1713634,55.8606261,-4.2485537,yes,,,,,,survey_point,,,,File:Benchmark on the South side of the City Chambers.jpg,,2025-06-18,,cut
+node,12925489820,3,2025-06-19T22:31:29Z,167847070,b-unicycling,1713634,55.8623444,-4.2353755,yes,,,,,,survey_point,,,,File:Benchmark on the Cathedral gate lodge.jpg,,2025-06-19,,cut
+node,12925655350,2,2025-06-19T22:06:14Z,167846603,b-unicycling,1713634,55.8620442,-4.2368032,yes,,,,,,survey_point,,,,File:Barony Halls benchmark.jpg,,2025-06-19,,cut
+node,12925919541,2,2025-06-19T14:50:09Z,167830422,b-unicycling,1713634,55.8636907,-4.3147383,yes,,,,,,survey_point,,,,File:Govan Road benchmark.jpg,,2025-06-19,,cut
+node,12936028929,3,2025-06-22T16:38:56Z,167966881,b-unicycling,1713634,55.5989376,-2.7178857,yes,,,,,,survey_point,,,,File:Benchmark at Melrose Abbey.jpg,,2025-06-20,,cut
+node,13331549275,2,2025-11-25T23:12:10Z,175131816,b-unicycling,1713634,54.2726815,-8.4683873,yes,,,,,,survey_point,,,,File:OS benchmark.jpg,,2025-11-25,,cut
