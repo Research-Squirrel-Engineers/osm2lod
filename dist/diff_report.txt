@@ -7,7 +7,7 @@
 ------------------------------------------------------------
 🔄 Processing: OGHAM
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ogham_2026-03-15_155431Z.csv
+📂 Loading OSM CSV: osm_export_ogham_2026-03-15_163813Z.csv
 ✅ Loaded 106 OSM items
 
 🔍 Querying Wikibase for ogham items (Q10=Q24)...
@@ -26,7 +26,7 @@
 ------------------------------------------------------------
 🔄 Processing: HOLYWELLS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_holywells_2026-03-15_155454Z.csv
+📂 Loading OSM CSV: osm_export_holywells_2026-03-15_163822Z.csv
 ✅ Loaded 734 OSM items
 
 🔍 Querying Wikibase for holywells items (Q10=Q25)...
@@ -45,7 +45,7 @@
 ------------------------------------------------------------
 🔄 Processing: CI
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ci_2026-03-15_155500Z.csv
+📂 Loading OSM CSV: osm_export_ci_2026-03-15_164034Z.csv
 ✅ Loaded 10 OSM items
 
 🔍 Querying Wikibase for ci items (Q10=Q26)...
@@ -64,7 +64,7 @@
 ------------------------------------------------------------
 🔄 Processing: DRILLCORES
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_155614Z.csv
+📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_164040Z.csv
 ✅ Loaded 8 OSM items
 
 🔍 Querying Wikibase for drillcores items (Q10=Q27)...
@@ -83,7 +83,7 @@
 ------------------------------------------------------------
 🔄 Processing: BENCHMARKS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_155628Z.csv
+📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_164057Z.csv
 ✅ Loaded 21 OSM items
 
 🔍 Querying Wikibase for benchmarks items (Q10=Q890)...

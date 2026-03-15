@@ -203,6 +203,8 @@ out meta geom;
   node(11107939919);
   node(11109379095);
   node(1918839400);
+  relation(9343404);
+  node(13650180080);
 );
 out meta geom;
 """,

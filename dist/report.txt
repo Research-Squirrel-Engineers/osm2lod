@@ -1,28 +1,28 @@
 ▶ Running exports: ogham, holywells, ci, drillcores, benchmarks
 ✔ ogham: 106 records
-  → osm_export_ogham_2026-03-15_155431Z.csv
-  → osm_export_ogham_2026-03-15_155431Z.ttl
-  → metadata_ogham_2026-03-15_155431Z.json
+  → osm_export_ogham_2026-03-15_163813Z.csv
+  → osm_export_ogham_2026-03-15_163813Z.ttl
+  → metadata_ogham_2026-03-15_163813Z.json
   → URL expansion cache size: 0
 ✔ holywells: 734 records
-  → osm_export_holywells_2026-03-15_155454Z.csv
-  → osm_export_holywells_2026-03-15_155454Z.ttl
-  → metadata_holywells_2026-03-15_155454Z.json
+  → osm_export_holywells_2026-03-15_163822Z.csv
+  → osm_export_holywells_2026-03-15_163822Z.ttl
+  → metadata_holywells_2026-03-15_163822Z.json
   → URL expansion cache size: 0
 ✔ ci: 10 records
-  → osm_export_ci_2026-03-15_155500Z.csv
-  → osm_export_ci_2026-03-15_155500Z.ttl
-  → metadata_ci_2026-03-15_155500Z.json
+  → osm_export_ci_2026-03-15_164034Z.csv
+  → osm_export_ci_2026-03-15_164034Z.ttl
+  → metadata_ci_2026-03-15_164034Z.json
   → URL expansion cache size: 0
 ✔ drillcores: 8 records
-  → osm_export_drillcores_2026-03-15_155614Z.csv
-  → osm_export_drillcores_2026-03-15_155614Z.ttl
-  → metadata_drillcores_2026-03-15_155614Z.json
+  → osm_export_drillcores_2026-03-15_164040Z.csv
+  → osm_export_drillcores_2026-03-15_164040Z.ttl
+  → metadata_drillcores_2026-03-15_164040Z.json
   → URL expansion cache size: 0
 ✔ benchmarks: 21 records
-  → osm_export_benchmarks_2026-03-15_155628Z.csv
-  → osm_export_benchmarks_2026-03-15_155628Z.ttl
-  → metadata_benchmarks_2026-03-15_155628Z.json
+  → osm_export_benchmarks_2026-03-15_164057Z.csv
+  → osm_export_benchmarks_2026-03-15_164057Z.ttl
+  → metadata_benchmarks_2026-03-15_164057Z.json
   → URL expansion cache size: 0
 
 ============================================================
