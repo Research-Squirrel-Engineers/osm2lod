@@ -1,0 +1,361 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix wd: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+osm2lod:node_1796082995 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Römische Umfassungmauer"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/1796082995" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__access "permissive" ;
+    osm2lod:osmtag__archaeological_site "fortification" ;
+    osm2lod:osmtag__description "Die Informationsstelle ist mit einem Schlüssel gesichert. Dieser ist bei der Information im Innern des Basler Münsters erhältlich." ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__name "Römische Umfassungmauer" ;
+    osm2lod:osmtag__website <https://www.archaeologie.bs.ch> ;
+    osm2lod:osmtag__wikidata "Q104230976" ;
+    geosparql:hasGeometry osm2lod:1796082995_geom ;
+    owl:sameAs wd:Q104230976 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/1796082995> .
+
+osm2lod:node_1930543644 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "OSM node 1930543644"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/1930543644" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__archaeological_site "fortification" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "roman" ;
+    osm2lod:osmtag__wikidata "Q2202639" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:R%C3%B6misches%20Stadttor%20%28K%C3%A4strich%2C%20Mainz%29> ;
+    osm2lod:osmtag__wikipedia "Römisches Stadttor Mainz"@de ;
+    geosparql:hasGeometry osm2lod:1930543644_geom ;
+    owl:sameAs wd:Q2202639 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/1930543644> .
+
+osm2lod:node_333175552 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "UNESCO-Weltkulturebe Römischer Wachturm"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/333175552" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "roman" ;
+    osm2lod:osmtag__name "UNESCO-Weltkulturebe Römischer Wachturm" ;
+    osm2lod:osmtag__wikidata "Q116031243" ;
+    geosparql:hasGeometry osm2lod:333175552_geom ;
+    owl:sameAs wd:Q116031243 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/333175552> .
+
+osm2lod:node_3483897061 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Lindenhof-Keller"@en,
+        "Линденхоф- Липовый двор"@ru ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/3483897061" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__description "Der Lindenhof war einst Brennpunkt und Machtzentrum der städtischen Siedlung. Im Lindenhof-Keller mit seinen imposanten, historischen Mauern können heute die Reste des römischen Kastells und der mittelalterlichen Königspfalz besichtigt werden." ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__name "Lindenhof-Keller" ;
+    osm2lod:osmtag__website <https://www.stadt-zuerich.ch/hbd/de/index/staedtebau/archaeo_denkmal/archaeo/geschichte/a_fenster/lindenhofkeller.html> ;
+    osm2lod:osmtag__wikidata "Q62931744" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Lindenhof-Keller> ;
+    geosparql:hasGeometry osm2lod:3483897061_geom ;
+    owl:sameAs wd:Q62931744 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/3483897061> .
+
+osm2lod:node_6358516450 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Tuffsteine aus dem Römerlager"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/6358516450" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__description "Römisches Lager Novaesium" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__name "Tuffsteine aus dem Römerlager" ;
+    geosparql:hasGeometry osm2lod:6358516450_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/6358516450> .
+
+osm2lod:node_6654634631 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Amphitheater Augusta Raurica"@de,
+        "Augst Amphitheatre"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/6654634631" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__archaeological_site "amphitheatre" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "ancient_roman" ;
+    osm2lod:osmtag__name "Amphitheater Augusta Raurica" ;
+    osm2lod:osmtag__wikidata "Q29001161" ;
+    geosparql:hasGeometry osm2lod:6654634631_geom ;
+    owl:sameAs wd:Q29001161 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/6654634631> .
+
+osm2lod:node_7878861331 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Forum"@en,
+        "Foro"@es,
+        "Forum"@fr ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/7878861331" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__archaeological_site "roman_forum" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "ancient_roman" ;
+    osm2lod:osmtag__name "Fórum" ;
+    geosparql:hasGeometry osm2lod:7878861331_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/node/7878861331> .
+
+osm2lod:way_104871217 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Franzensknüppchen"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/104871217" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__archaeological_site "tumulus" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "ancient_roman" ;
+    osm2lod:osmtag__man_made "embankment" ;
+    osm2lod:osmtag__name "Franzensknüppchen" ;
+    osm2lod:osmtag__wikidata "Q1450060" ;
+    osm2lod:osmtag__wikipedia "Franzensknüppchen"@de ;
+    geosparql:hasGeometry osm2lod:104871217_geom ;
+    owl:sameAs wd:Q1450060 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/104871217> .
+
+osm2lod:way_1054468269 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Römisches Kastell Tenedo"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/1054468269" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__historic "castle" ;
+    osm2lod:osmtag__historic__civilization "ancient_roman" ;
+    osm2lod:osmtag__name "Römisches Kastell Tenedo" ;
+    osm2lod:osmtag__wikidata "Q25388900" ;
+    osm2lod:osmtag__wikipedia "Römisches Militärlager Zurzach"@de ;
+    geosparql:hasGeometry osm2lod:1054468269_geom ;
+    owl:sameAs wd:Q25388900 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/1054468269> .
+
+osm2lod:way_157929084 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Römerpark"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/157929084" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__archaeological_site "fortification" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "ancient_roman" ;
+    osm2lod:osmtag__name "Römerpark" ;
+    osm2lod:osmtag__wikidata "Q577724" ;
+    osm2lod:osmtag__wikipedia "Römerlager Oberaden"@de ;
+    geosparql:hasGeometry osm2lod:157929084_geom ;
+    owl:sameAs wd:Q577724 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/157929084> .
+
+osm2lod:way_168318389 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Keltische Befestigung «Murus Gallicus»"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/168318389" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__name "Keltische Befestigung «Murus Gallicus»" ;
+    osm2lod:osmtag__source "local knowledge" ;
+    geosparql:hasGeometry osm2lod:168318389_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/168318389> .
+
+osm2lod:way_32545380 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Titelberg"@en,
+        "Tëtelbierg"@lb ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/32545380" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__archaeological_site "settlement" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "celtic" ;
+    osm2lod:osmtag__name "Titelberg" ;
+    osm2lod:osmtag__wikipedia "Kelteschen Oppidum um Tëtelbierg"@lb ;
+    geosparql:hasGeometry osm2lod:32545380_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/32545380> .
+
+osm2lod:way_346290310 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Romeinse Tempelsite"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/346290310" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__access "permissive" ;
+    osm2lod:osmtag__archaeological_site "temple" ;
+    osm2lod:osmtag__description "grootschalig, op terrassen aangelegde Romeins tempelcomplex" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "roman" ;
+    osm2lod:osmtag__image "File:Partial reconstruction of the Roman Temple over the remaining foundations, Atuatuca Tungrorum, Tongeren, Belgium (27645030025).jpg" ;
+    osm2lod:osmtag__name "Romeinse Tempelsite" ;
+    osm2lod:osmtag__tourism "attraction" ;
+    osm2lod:osmtag__wikidata "Q4910752" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Roman%20temple%20of%20Tongeren> ;
+    osm2lod:osmtag__wikipedia "Gallo-Romeins tempelcomplex Tongeren"@nl ;
+    geosparql:hasGeometry osm2lod:346290310_geom ;
+    owl:sameAs wd:Q4910752 ;
+    foaf:primaryTopic <http://openstreetmap.org/way/346290310> .
+
+osm2lod:way_435021824 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Römerbaustelle Aliso"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/435021824" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__description "LWL-Ausgrabung Aliso (Westtor)" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__name "Römerbaustelle Aliso" ;
+    geosparql:hasGeometry osm2lod:435021824_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/435021824> .
+
+osm2lod:way_699387398 a osm2lod:OSMEntity,
+        osm2lod:RomanSite,
+        crm:E26_Physical_Feature,
+        dcat:Dataset ;
+    rdfs:label "Lousonna"@en ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:way/699387398" ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    osm2lod:exportType "romansites" ;
+    osm2lod:osmtag__access "private" ;
+    osm2lod:osmtag__archaeological_site "settlement" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
+    osm2lod:osmtag__historic__civilization "roman" ;
+    osm2lod:osmtag__name "Lousonna" ;
+    osm2lod:osmtag__source "https://www.unil.ch/iasa/fr/home/menuinst/recherche/chantiers-archeologiques/vidy.html" ;
+    geosparql:hasGeometry osm2lod:699387398_geom ;
+    foaf:primaryTopic <http://openstreetmap.org/way/699387398> .
+
+osm2lod:104871217_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.66114754 49.75391126)"^^geosparql:wktLiteral .
+
+osm2lod:1054468269_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.300539374074072 47.58530558703704)"^^geosparql:wktLiteral .
+
+osm2lod:157929084_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.582473435714285 51.61394650714285)"^^geosparql:wktLiteral .
+
+osm2lod:168318389_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.5923628375 47.55540919999999)"^^geosparql:wktLiteral .
+
+osm2lod:1796082995_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.5904057 47.5565042)"^^geosparql:wktLiteral .
+
+osm2lod:1930543644_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.2636571 49.9963009)"^^geosparql:wktLiteral .
+
+osm2lod:32545380_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.858248644444444 49.53922558888889)"^^geosparql:wktLiteral .
+
+osm2lod:333175552_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.7265959 50.3651837)"^^geosparql:wktLiteral .
+
+osm2lod:346290310_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.460070762499999 50.783635043749996)"^^geosparql:wktLiteral .
+
+osm2lod:3483897061_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.5408798 47.3726758)"^^geosparql:wktLiteral .
+
+osm2lod:435021824_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.167889485714286 51.74072197142856)"^^geosparql:wktLiteral .
+
+osm2lod:6358516450_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.7231344 51.1835822)"^^geosparql:wktLiteral .
+
+osm2lod:6654634631_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.7206758 47.5293141)"^^geosparql:wktLiteral .
+
+osm2lod:699387398_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.59475286 46.520347879999996)"^^geosparql:wktLiteral .
+
+osm2lod:7878861331_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-8.4949195 40.0992523)"^^geosparql:wktLiteral .
+
+osm2lod:romansites__2026-03-21_162415Z a osm2lod:Dataset,
+        dcat:Dataset ;
+    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:romansites:2026-03-21_162415Z" ;
+    dcterms:provenance """[out:json][timeout:25];
+(
+  way(104871217);
+  way(168318389);
+  node(6358516450);
+  node(3483897061);
+  way(157929084);
+  way(32545380);
+  node(1796082995);
+  node(7878861331);
+  way(699387398);
+  way(346290310);
+  node(333175552);
+  way(435021824);
+  node(1930543644);
+  node(6654634631);
+  way(1054468269);
+);
+out meta geom;""" ;
+    dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
+    dcterms:title "OSM Overpass Export"@en ;
+    dcterms:type "romansites" .
+
