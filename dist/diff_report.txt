@@ -2,13 +2,13 @@
 🧪 DIFF-QUICKSTATEMENTS GENERATION
 ============================================================
 
-📁 Using run: 2026-03-15
+📁 Using run: 2026-03-21
 
 ------------------------------------------------------------
 🔄 Processing: OGHAM
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ogham_2026-03-15_163813Z.csv
-✅ Loaded 106 OSM items
+📂 Loading OSM CSV: osm_export_ogham_2026-03-21_161402Z.csv
+✅ Loaded 107 OSM items
 
 🔍 Querying Wikibase for ogham items (Q10=Q24)...
 ✅ Found 282 bindings in Wikibase
@@ -16,17 +16,17 @@
 
 
 📊 Diff Analysis:
-   ✅ Added: 0
+   ✅ Added: 1
    📝 Common (potential updates): 106
    🗑️  Deleted: 0
 
-✅ Diff QuickStatements written to: dist\2026-03-15\quickstatements_DIFF_ogham_2026-03-15.txt
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_ogham_2026-03-21.txt
    📝 3 items with actual changes
 
 ------------------------------------------------------------
 🔄 Processing: HOLYWELLS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_holywells_2026-03-15_163822Z.csv
+📂 Loading OSM CSV: osm_export_holywells_2026-03-21_161412Z.csv
 ✅ Loaded 734 OSM items
 
 🔍 Querying Wikibase for holywells items (Q10=Q25)...
@@ -39,14 +39,14 @@
    📝 Common (potential updates): 712
    🗑️  Deleted: 0
 
-✅ Diff QuickStatements written to: dist\2026-03-15\quickstatements_DIFF_holywells_2026-03-15.txt
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_holywells_2026-03-21.txt
    📝 9 items with actual changes
 
 ------------------------------------------------------------
 🔄 Processing: CI
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_ci_2026-03-15_164034Z.csv
-✅ Loaded 10 OSM items
+📂 Loading OSM CSV: osm_export_ci_2026-03-21_162128Z.csv
+✅ Loaded 11 OSM items
 
 🔍 Querying Wikibase for ci items (Q10=Q26)...
 ✅ Found 18 bindings in Wikibase
@@ -54,17 +54,17 @@
 
 
 📊 Diff Analysis:
-   ✅ Added: 1
+   ✅ Added: 2
    📝 Common (potential updates): 9
    🗑️  Deleted: 0
 
-✅ Diff QuickStatements written to: dist\2026-03-15\quickstatements_DIFF_ci_2026-03-15.txt
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_ci_2026-03-21.txt
    📝 1 items with actual changes
 
 ------------------------------------------------------------
 🔄 Processing: DRILLCORES
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_drillcores_2026-03-15_164040Z.csv
+📂 Loading OSM CSV: osm_export_drillcores_2026-03-21_162134Z.csv
 ✅ Loaded 8 OSM items
 
 🔍 Querying Wikibase for drillcores items (Q10=Q27)...
@@ -77,13 +77,13 @@
    📝 Common (potential updates): 4
    🗑️  Deleted: 7
 
-✅ Diff QuickStatements written to: dist\2026-03-15\quickstatements_DIFF_drillcores_2026-03-15.txt
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_drillcores_2026-03-21.txt
    📝 3 items with actual changes
 
 ------------------------------------------------------------
 🔄 Processing: BENCHMARKS
 ------------------------------------------------------------
-📂 Loading OSM CSV: osm_export_benchmarks_2026-03-15_164057Z.csv
+📂 Loading OSM CSV: osm_export_benchmarks_2026-03-21_162224Z.csv
 ✅ Loaded 21 OSM items
 
 🔍 Querying Wikibase for benchmarks items (Q10=Q890)...
@@ -96,14 +96,52 @@
    📝 Common (potential updates): 0
    🗑️  Deleted: 0
 
-✅ Diff QuickStatements written to: dist\2026-03-15\quickstatements_DIFF_benchmarks_2026-03-15.txt
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_benchmarks_2026-03-21.txt
+   📝 0 items with actual changes
+
+------------------------------------------------------------
+🔄 Processing: SISAL
+------------------------------------------------------------
+📂 Loading OSM CSV: osm_export_sisal_2026-03-21_162234Z.csv
+✅ Loaded 221 OSM items
+
+🔍 Querying Wikibase for sisal items (Q10=Q894)...
+✅ Found 0 bindings in Wikibase
+✅ Processed 0 unique items from Wikibase
+
+
+📊 Diff Analysis:
+   ✅ Added: 221
+   📝 Common (potential updates): 0
+   🗑️  Deleted: 0
+
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_sisal_2026-03-21.txt
+   📝 0 items with actual changes
+
+------------------------------------------------------------
+🔄 Processing: ROMANSITES
+------------------------------------------------------------
+📂 Loading OSM CSV: osm_export_romansites_2026-03-21_162415Z.csv
+✅ Loaded 15 OSM items
+
+🔍 Querying Wikibase for romansites items (Q10=Q895)...
+✅ Found 0 bindings in Wikibase
+✅ Processed 0 unique items from Wikibase
+
+
+📊 Diff Analysis:
+   ✅ Added: 15
+   📝 Common (potential updates): 0
+   🗑️  Deleted: 0
+
+✅ Diff QuickStatements written to: dist\2026-03-21\quickstatements_DIFF_romansites_2026-03-21.txt
    📝 0 items with actual changes
 
 ============================================================
 ✅ DIFF-QUICKSTATEMENTS COMPLETE
 ============================================================
 📊 TOTAL SUMMARY:
-   ✅ 48 items ADDED across all types
+   ✅ 286 items ADDED across all types
    📝 16 items MODIFIED across all types
 ============================================================
 

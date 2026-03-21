@@ -1,0 +1,5178 @@
+======================================================================
+SISAL-OSM DETAILED MATCH REPORT
+======================================================================
+
+Total SISAL sites: 305
+Matched: 232 (76.1%)
+Unmatched: 73 (23.9%)
+
+======================================================================
+
+MATCHED SITES (232)
+======================================================================
+Sorted by match score (best matches first)
+
+  1. Grotta di Carburangeli
+     SISAL ID: 129
+     SISAL Coords: 38.1665, 13.1603
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta di Carburangeli
+       OSM ID: 8422630011.0
+       OSM Coords: 38.1666, 13.1603
+
+     MATCH QUALITY:
+       Distance: 0.001 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 1.000
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  2. Lancaster Hole
+     SISAL ID: 8
+     SISAL Coords: 54.2209, -2.5168
+
+     ✓ MATCHED TO:
+       OSM Name: Lancaster Hole
+       OSM ID: 554858725.0
+       OSM Coords: 54.2211, -2.5168
+
+     MATCH QUALITY:
+       Distance: 0.002 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 1.000
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  3. Coves de Campanet
+     SISAL ID: 265
+     SISAL Coords: 39.7937, 2.9683
+
+     ✓ MATCHED TO:
+       OSM Name: Coves de Campanet
+       OSM ID: 5503469510.0
+       OSM Coords: 39.7926, 2.9684
+
+     MATCH QUALITY:
+       Distance: 0.006 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 1.000
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  4. Hoq cave
+     SISAL ID: 253
+     SISAL Coords: 12.5866, 54.3543
+
+     ✓ MATCHED TO:
+       OSM Name: Hoq Cave
+       OSM ID: 9753722102.0
+       OSM Coords: 12.5877, 54.3545
+
+     MATCH QUALITY:
+       Distance: 0.020 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.999
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  5. Minnetonka cave
+     SISAL ID: 200
+     SISAL Coords: 42.0875, -111.5190
+
+     ✓ MATCHED TO:
+       OSM Name: Minnetonka Cave
+       OSM ID: 9858176658.0
+       OSM Coords: 42.0874, -111.5188
+
+     MATCH QUALITY:
+       Distance: 0.017 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.999
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  6. Mitoho
+     SISAL ID: 255
+     SISAL Coords: -24.0477, 43.7533
+
+     ✓ MATCHED TO:
+       OSM Name: Mitoho
+       OSM ID: 3570423899.0
+       OSM Coords: -24.0477, 43.7531
+
+     MATCH QUALITY:
+       Distance: 0.016 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.999
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  7. Cathedral cave
+     SISAL ID: 301
+     SISAL Coords: -32.6170, 148.9400
+
+     ✓ MATCHED TO:
+       OSM Name: Cathedral Cave
+       OSM ID: 4153384278.0
+       OSM Coords: -32.6221, 148.9396
+
+     MATCH QUALITY:
+       Distance: 0.038 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.998
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  8. Strašna peć cave
+     SISAL ID: 264
+     SISAL Coords: 44.0049, 15.0388
+
+     ✓ MATCHED TO:
+       OSM Name: Strašna peć
+       OSM ID: 2375460063.0
+       OSM Coords: 44.0045, 15.0385
+
+     MATCH QUALITY:
+       Distance: 0.027 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.998
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+  9. White Scar cave
+     SISAL ID: 66
+     SISAL Coords: 54.1656, -2.4419
+
+     ✓ MATCHED TO:
+       OSM Name: White Scar Cave
+       OSM ID: 6957595702.0
+       OSM Coords: 54.1657, -2.4413
+
+     MATCH QUALITY:
+       Distance: 0.037 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.998
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 10. La Vallina
+     SISAL ID: 324
+     SISAL Coords: 43.4100, -4.8067
+
+     ✓ MATCHED TO:
+       OSM Name: La Vallina
+       OSM ID: 5949505815.0
+       OSM Coords: 43.4104, -4.8061
+
+     MATCH QUALITY:
+       Distance: 0.047 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.997
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 11. Yonderup cave
+     SISAL ID: 357
+     SISAL Coords: -31.5470, 115.6900
+
+     ✓ MATCHED TO:
+       OSM Name: Yonderup Cave
+       OSM ID: 3658668205.0
+       OSM Coords: -31.5476, 115.6907
+
+     MATCH QUALITY:
+       Distance: 0.063 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.996
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 12. Lehman caves
+     SISAL ID: 14
+     SISAL Coords: 39.0100, -114.2200
+
+     ✓ MATCHED TO:
+       OSM Name: Lehman Caves
+       OSM ID: 298946850.0
+       OSM Coords: 39.0054, -114.2207
+
+     MATCH QUALITY:
+       Distance: 0.059 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.996
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 13. Cueva Victoria
+     SISAL ID: 266
+     SISAL Coords: 37.6322, -0.8215
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva Victoria
+       OSM ID: 3905429443.0
+       OSM Coords: 37.6326, -0.8208
+
+     MATCH QUALITY:
+       Distance: 0.063 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.996
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 14. Toca da Boa Vista
+     SISAL ID: 236
+     SISAL Coords: -10.1602, -40.8605
+
+     ✓ MATCHED TO:
+       OSM Name: Toca da Boa Vista
+       OSM ID: 7318685910.0
+       OSM Coords: -10.1625, -40.8597
+
+     MATCH QUALITY:
+       Distance: 0.088 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.995
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 15. Pippikin Pot cave
+     SISAL ID: 53
+     SISAL Coords: 54.2143, -2.5123
+
+     ✓ MATCHED TO:
+       OSM Name: Pippikin Pot
+       OSM ID: 13028255810.0
+       OSM Coords: 54.2154, -2.5105
+
+     MATCH QUALITY:
+       Distance: 0.119 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.993
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 16. Jersey cave
+     SISAL ID: 271
+     SISAL Coords: -35.7200, 148.4900
+
+     ✓ MATCHED TO:
+       OSM Name: Jersey Cave
+       OSM ID: 1074302540.0
+       OSM Coords: -35.7235, 148.4870
+
+     MATCH QUALITY:
+       Distance: 0.269 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.984
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 17. Katerloch cave
+     SISAL ID: 100
+     SISAL Coords: 47.0833, 15.5500
+
+     ✓ MATCHED TO:
+       OSM Name: Katerloch
+       OSM ID: 354842709.0
+       OSM Coords: 47.2528, 15.5495
+
+     MATCH QUALITY:
+       Distance: 0.331 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.980
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 18. Dos Anas cave
+     SISAL ID: 183
+     SISAL Coords: 22.3800, -83.9700
+
+     ✓ MATCHED TO:
+       OSM Name: Dos Anas
+       OSM ID: 4705261283.0
+       OSM Coords: 22.3820, -83.9741
+
+     MATCH QUALITY:
+       Distance: 0.419 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.975
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 19. Crystal cave
+     SISAL ID: 273
+     SISAL Coords: 36.5900, -118.8200
+
+     ✓ MATCHED TO:
+       OSM Name: Crystal Cave
+       OSM ID: 696792182.0
+       OSM Coords: 36.5892, -118.8262
+
+     MATCH QUALITY:
+       Distance: 0.549 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.967
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 20. Anjohibe
+     SISAL ID: 94
+     SISAL Coords: -15.5300, 46.8800
+
+     ✓ MATCHED TO:
+       OSM Name: Anjohibe
+       OSM ID: 2510360072.0
+       OSM Coords: -15.5423, 46.8854
+
+     MATCH QUALITY:
+       Distance: 0.577 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.965
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 21. Cueva Rosa
+     SISAL ID: 305
+     SISAL Coords: 43.4436, -5.1403
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva Rosa
+       OSM ID: 13169167192.0
+       OSM Coords: 43.4435, -5.1318
+
+     MATCH QUALITY:
+       Distance: 0.689 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.959
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 22. Metro cave
+     SISAL ID: 272
+     SISAL Coords: -41.9300, 171.4700
+
+     ✓ MATCHED TO:
+       OSM Name: Metro Cave
+       OSM ID: 4480576512.0
+       OSM Coords: -41.9359, 171.4796
+
+     MATCH QUALITY:
+       Distance: 0.796 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.952
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 23. Crag cave
+     SISAL ID: 98
+     SISAL Coords: 52.2500, -9.4300
+
+     ✓ MATCHED TO:
+       OSM Name: Crag Cave
+       OSM ID: 475710521.0
+       OSM Coords: 52.2471, -9.4444
+
+     MATCH QUALITY:
+       Distance: 0.977 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.941
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 24. Cango cave
+     SISAL ID: 74
+     SISAL Coords: -33.3925, 22.2147
+
+     ✓ MATCHED TO:
+       OSM Name: Cango Caves
+       OSM ID: 503858812.0
+       OSM Coords: -33.3923, 22.2144
+
+     MATCH QUALITY:
+       Distance: 0.030 km
+       Name similarity: 0.909 (0=different, 1=identical)
+       Overall score: 0.935
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 25. Cave of the Bells
+     SISAL ID: 134
+     SISAL Coords: 31.7500, -110.7500
+
+     ✓ MATCHED TO:
+       OSM Name: Cave of the Bells
+       OSM ID: 2824859401.0
+       OSM Coords: 31.7289, -110.7685
+
+     MATCH QUALITY:
+       Distance: 1.749 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.895
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 26. Manita peć cave
+     SISAL ID: 327
+     SISAL Coords: 45.3142, 15.4754
+
+     ✓ MATCHED TO:
+       OSM Name: Manita peć
+       OSM ID: 1312824946.0
+       OSM Coords: 44.3143, 15.4750
+
+     MATCH QUALITY:
+       Distance: 1.941 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.884
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 27. Coves del pirata
+     SISAL ID: 338
+     SISAL Coords: 39.5046, 3.3009
+
+     ✓ MATCHED TO:
+       OSM Name: Cova des Pirata
+       OSM ID: 1325351976.0
+       OSM Coords: 39.5070, 3.2995
+
+     MATCH QUALITY:
+       Distance: 0.119 km
+       Name similarity: 0.839 (0=different, 1=identical)
+       Overall score: 0.880
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 28. Buca della Renella
+     SISAL ID: 133
+     SISAL Coords: 44.0800, 10.2100
+
+     ✓ MATCHED TO:
+       OSM Name: Buca della Renella
+       OSM ID: 10905682924.0
+       OSM Coords: 44.0937, 10.1825
+
+     MATCH QUALITY:
+       Distance: 2.196 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.868
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 29. Belum cave
+     SISAL ID: 298
+     SISAL Coords: 15.1000, 78.1000
+
+     ✓ MATCHED TO:
+       OSM Name: Belum Caves
+       OSM ID: 4523782074.0
+       OSM Coords: 15.1022, 78.1117
+
+     MATCH QUALITY:
+       Distance: 1.253 km
+       Name similarity: 0.909 (0=different, 1=identical)
+       Overall score: 0.861
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 30. Matupi cave
+     SISAL ID: 329
+     SISAL Coords: 1.2500, 29.8200
+
+     ✓ MATCHED TO:
+       OSM Name: Matupi
+       OSM ID: 8358838507.0
+       OSM Coords: 1.2813, 29.8408
+
+     MATCH QUALITY:
+       Distance: 2.315 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.861
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 31. Meravelles cave
+     SISAL ID: 330
+     SISAL Coords: 40.9488, 0.5127
+
+     ✓ MATCHED TO:
+       OSM Name: Cova Meravelles
+       OSM ID: 1961032052.0
+       OSM Coords: 40.9500, 0.5111
+
+     MATCH QUALITY:
+       Distance: 0.137 km
+       Name similarity: 0.800 (0=different, 1=identical)
+       Overall score: 0.852
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 32. Sa balma des quartó cave
+     SISAL ID: 342
+     SISAL Coords: 39.5145, 3.3059
+
+     ✓ MATCHED TO:
+       OSM Name: cova de sa balma des cuartó
+       OSM ID: 11687476904.0
+       OSM Coords: 39.5146, 3.3059
+
+     MATCH QUALITY:
+       Distance: 0.004 km
+       Name similarity: 0.783 (0=different, 1=identical)
+       Overall score: 0.848
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 33. Zoolithen cave
+     SISAL ID: 359
+     SISAL Coords: 49.7793, 11.2829
+
+     ✓ MATCHED TO:
+       OSM Name: Zoolithenhöhle
+       OSM ID: 556748045.0
+       OSM Coords: 49.7793, 11.2826
+
+     MATCH QUALITY:
+       Distance: 0.021 km
+       Name similarity: 0.783 (0=different, 1=identical)
+       Overall score: 0.847
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 34. Sofular cave
+     SISAL ID: 141
+     SISAL Coords: 41.4167, 31.9333
+
+     ✓ MATCHED TO:
+       OSM Name: Sofular Cave
+       OSM ID: 9249065418.0
+       OSM Coords: 41.4469, 31.9640
+
+     MATCH QUALITY:
+       Distance: 2.560 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.846
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 35. Spannagel cave
+     SISAL ID: 58
+     SISAL Coords: 47.0800, 11.6700
+
+     ✓ MATCHED TO:
+       OSM Name: Spannagelhöhle
+       OSM ID: 1488744824.0
+       OSM Coords: 47.0801, 11.6714
+
+     MATCH QUALITY:
+       Distance: 0.107 km
+       Name similarity: 0.783 (0=different, 1=identical)
+       Overall score: 0.841
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 36. Harrison's cave
+     SISAL ID: 195
+     SISAL Coords: 13.2000, -59.6000
+
+     ✓ MATCHED TO:
+       OSM Name: Harrison's Cave
+       OSM ID: 3887334792.0
+       OSM Coords: 13.1853, -59.5742
+
+     MATCH QUALITY:
+       Distance: 2.791 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.833
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 37. Cueva del Diamante
+     SISAL ID: 226
+     SISAL Coords: -5.7300, -77.5000
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Diamante
+       OSM ID: 7713840588.0
+       OSM Coords: -5.7532, -77.5258
+
+     MATCH QUALITY:
+       Distance: 2.854 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.829
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 38. Frasassi cave system - Grotta Grande del Vento
+     SISAL ID: 193
+     SISAL Coords: 43.4008, 12.9619
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta Grande del Vento
+       OSM ID: 4557134896.0
+       OSM Coords: 43.3998, 12.9615
+
+     MATCH QUALITY:
+       Distance: 0.032 km
+       Name similarity: 0.719 (0=different, 1=identical)
+       Overall score: 0.801
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 39. Liang Luar
+     SISAL ID: 104
+     SISAL Coords: -8.5300, 120.4300
+
+     ✓ MATCHED TO:
+       OSM Name: Liang Bua
+       OSM ID: 4285191320.0
+       OSM Coords: -8.5308, 120.4435
+
+     MATCH QUALITY:
+       Distance: 1.485 km
+       Name similarity: 0.842 (0=different, 1=identical)
+       Overall score: 0.800
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 40. Toca da Barriguda
+     SISAL ID: 350
+     SISAL Coords: -10.1600, -40.8600
+
+     ✓ MATCHED TO:
+       OSM Name: Toca da Boa Vista
+       OSM ID: 7318685910.0
+       OSM Coords: -10.1625, -40.8597
+
+     MATCH QUALITY:
+       Distance: 0.033 km
+       Name similarity: 0.706 (0=different, 1=identical)
+       Overall score: 0.792
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 41. Cesare Battisti cave
+     SISAL ID: 187
+     SISAL Coords: 46.1300, 11.0300
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta Cesare Battisti
+       OSM ID: 9958994170.0
+       OSM Coords: 46.1471, 11.0483
+
+     MATCH QUALITY:
+       Distance: 1.408 km
+       Name similarity: 0.811 (0=different, 1=identical)
+       Overall score: 0.783
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 42. Nova Grgosova cave
+     SISAL ID: 334
+     SISAL Coords: 45.8188, 15.6783
+
+     ✓ MATCHED TO:
+       OSM Name: Nova Grgosova špilja
+       OSM ID: 2729783661.0
+       OSM Coords: 45.8187, 15.6783
+
+     MATCH QUALITY:
+       Distance: 0.001 km
+       Name similarity: 0.684 (0=different, 1=identical)
+       Overall score: 0.779
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 43. Lake Shasta cave
+     SISAL ID: 363
+     SISAL Coords: 40.8040, -122.3040
+
+     ✓ MATCHED TO:
+       OSM Name: Lake Shasta Caverns
+       OSM ID: 320120939.0
+       OSM Coords: 40.7974, -122.2767
+
+     MATCH QUALITY:
+       Distance: 2.300 km
+       Name similarity: 0.880 (0=different, 1=identical)
+       Overall score: 0.778
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 44. Wadi Sannur cave
+     SISAL ID: 282
+     SISAL Coords: 28.6167, 31.2833
+
+     ✓ MATCHED TO:
+       OSM Name: Sannur Cave
+       OSM ID: 942519597.0
+       OSM Coords: 28.6231, 31.2864
+
+     MATCH QUALITY:
+       Distance: 0.305 km
+       Name similarity: 0.706 (0=different, 1=identical)
+       Overall score: 0.776
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 45. Ruakuri cave
+     SISAL ID: 165
+     SISAL Coords: -36.2700, 175.0800
+
+     ✓ MATCHED TO:
+       OSM Name: Ruakuri Cave
+       OSM ID: 7743122549.0
+       OSM Coords: -38.2682, 175.0784
+
+     MATCH QUALITY:
+       Distance: 3.881 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.767
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 46. Gruta do Casal da Lebre
+     SISAL ID: 267
+     SISAL Coords: 39.3000, -9.2667
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta dos Bolhos - Gruta Casal da Lebre
+       OSM ID: 4917192240.0
+       OSM Coords: 39.3087, -9.2769
+
+     MATCH QUALITY:
+       Distance: 0.877 km
+       Name similarity: 0.742 (0=different, 1=identical)
+       Overall score: 0.767
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 47. Gassel Tropfsteinhöhle
+     SISAL ID: 289
+     SISAL Coords: 47.8228, 13.8428
+
+     ✓ MATCHED TO:
+       OSM Name: Gasselhöhle
+       OSM ID: 1389940709.0
+       OSM Coords: 47.8231, 13.8427
+
+     MATCH QUALITY:
+       Distance: 0.004 km
+       Name similarity: 0.667 (0=different, 1=identical)
+       Overall score: 0.766
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 48. Palestina cave
+     SISAL ID: 25
+     SISAL Coords: -5.9200, -77.3500
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva de Palestina
+       OSM ID: 7713740998.0
+       OSM Coords: -5.9268, -77.3518
+
+     MATCH QUALITY:
+       Distance: 0.198 km
+       Name similarity: 0.667 (0=different, 1=identical)
+       Overall score: 0.755
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 49. Bue Marino cave
+     SISAL ID: 97
+     SISAL Coords: 40.2467, 9.6228
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta del Bue marino
+       OSM ID: 308354506.0
+       OSM Coords: 40.2467, 9.6228
+
+     MATCH QUALITY:
+       Distance: 0.002 km
+       Name similarity: 0.645 (0=different, 1=identical)
+       Overall score: 0.752
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 50. Schratten cave
+     SISAL ID: 345
+     SISAL Coords: 46.7833, 8.2667
+
+     ✓ MATCHED TO:
+       OSM Name: Schrattenhöhle
+       OSM ID: 7315412515.0
+       OSM Coords: 46.7800, 8.2888
+
+     MATCH QUALITY:
+       Distance: 1.680 km
+       Name similarity: 0.783 (0=different, 1=identical)
+       Overall score: 0.747
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 51. La Garma cave
+     SISAL ID: 286
+     SISAL Coords: 43.4306, -3.6658
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva de La Garma
+       OSM ID: 418784261.0
+       OSM Coords: 43.4307, -3.6659
+
+     MATCH QUALITY:
+       Distance: 0.010 km
+       Name similarity: 0.640 (0=different, 1=identical)
+       Overall score: 0.747
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 52. Clearwater cave
+     SISAL ID: 118
+     SISAL Coords: 4.1000, 114.8333
+
+     ✓ MATCHED TO:
+       OSM Name: Clearwater Resurgence
+       OSM ID: 10084842668.0
+       OSM Coords: 4.0650, 114.8314
+
+     MATCH QUALITY:
+       Distance: 0.223 km
+       Name similarity: 0.645 (0=different, 1=identical)
+       Overall score: 0.738
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 53. Botuverá cave
+     SISAL ID: 144
+     SISAL Coords: -27.2247, -49.1569
+
+     ✓ MATCHED TO:
+       OSM Name: Grutas de Botuverá
+       OSM ID: 2677612603.0
+       OSM Coords: -27.2253, -49.1574
+
+     MATCH QUALITY:
+       Distance: 0.053 km
+       Name similarity: 0.615 (0=different, 1=identical)
+       Overall score: 0.728
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 54. Herbstlabyrinth cave
+     SISAL ID: 313
+     SISAL Coords: 50.6875, 8.2058
+
+     ✓ MATCHED TO:
+       OSM Name: Herbstlabyrinth-Adventhöhle-System
+       OSM ID: 644792344.0
+       OSM Coords: 50.6878, 8.2064
+
+     MATCH QUALITY:
+       Distance: 0.041 km
+       Name similarity: 0.612 (0=different, 1=identical)
+       Overall score: 0.726
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 55. Fort Stanton cave
+     SISAL ID: 147
+     SISAL Coords: 33.5067, -105.4433
+
+     ✓ MATCHED TO:
+       OSM Name: Fort Stanton Cave
+       OSM ID: 7885338123.0
+       OSM Coords: 33.5068, -105.4935
+
+     MATCH QUALITY:
+       Distance: 4.651 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.721
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 56. Clamouse cave
+     SISAL ID: 108
+     SISAL Coords: 43.7100, 3.5500
+
+     ✓ MATCHED TO:
+       OSM Name: Grotte de Clamouse
+       OSM ID: 686817231.0
+       OSM Coords: 43.7096, 3.5526
+
+     MATCH QUALITY:
+       Distance: 0.208 km
+       Name similarity: 0.615 (0=different, 1=identical)
+       Overall score: 0.718
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 57. Patate cave
+     SISAL ID: 222
+     SISAL Coords: -19.7583, 63.3864
+
+     ✓ MATCHED TO:
+       OSM Name: Caverne Patate
+       OSM ID: 440011392.0
+       OSM Coords: -19.7547, 63.3868
+
+     MATCH QUALITY:
+       Distance: 0.047 km
+       Name similarity: 0.600 (0=different, 1=identical)
+       Overall score: 0.717
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 58. Lapa Doce cave
+     SISAL ID: 103
+     SISAL Coords: -12.3344, -41.6043
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta Lapa Doce Exit
+       OSM ID: 4153268605.0
+       OSM Coords: -12.3278, -41.6073
+
+     MATCH QUALITY:
+       Distance: 0.328 km
+       Name similarity: 0.621 (0=different, 1=identical)
+       Overall score: 0.715
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 59. Santo Tomas cave
+     SISAL ID: 177
+     SISAL Coords: 22.5500, -83.8400
+
+     ✓ MATCHED TO:
+       OSM Name: Caverna de Santo Tomás
+       OSM ID: 2267151473.0
+       OSM Coords: 22.5476, -83.8430
+
+     MATCH QUALITY:
+       Distance: 0.310 km
+       Name similarity: 0.606 (0=different, 1=identical)
+       Overall score: 0.706
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 60. Huagapo cave
+     SISAL ID: 277
+     SISAL Coords: -11.2700, -75.7900
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta de Huagapo
+       OSM ID: 286783901.0
+       OSM Coords: -11.2683, -75.7866
+
+     MATCH QUALITY:
+       Distance: 0.372 km
+       Name similarity: 0.609 (0=different, 1=identical)
+       Overall score: 0.704
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 61. Entrische Kirche cave
+     SISAL ID: 121
+     SISAL Coords: 47.1600, 13.1500
+
+     ✓ MATCHED TO:
+       OSM Name: Entrische Kirche
+       OSM ID: 1017924795.0
+       OSM Coords: 47.2797, 13.0847
+
+     MATCH QUALITY:
+       Distance: 4.940 km
+       Name similarity: 1.000 (0=different, 1=identical)
+       Overall score: 0.704
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 62. Karaca cave
+     SISAL ID: 196
+     SISAL Coords: 40.5443, 39.4029
+
+     ✓ MATCHED TO:
+       OSM Name: Karaca Mağarası
+       OSM ID: 4874702122.0
+       OSM Coords: 40.5443, 39.4029
+
+     MATCH QUALITY:
+       Distance: 0.001 km
+       Name similarity: 0.571 (0=different, 1=identical)
+       Overall score: 0.700
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 63. Kocain cave
+     SISAL ID: 361
+     SISAL Coords: 37.2325, 30.7117
+
+     ✓ MATCHED TO:
+       OSM Name: Kocain Mağarası
+       OSM ID: 1572294886.0
+       OSM Coords: 37.2325, 30.7114
+
+     MATCH QUALITY:
+       Distance: 0.027 km
+       Name similarity: 0.571 (0=different, 1=identical)
+       Overall score: 0.698
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 64. La Vierge cave
+     SISAL ID: 221
+     SISAL Coords: -19.7572, 63.3703
+
+     ✓ MATCHED TO:
+       OSM Name: La Grande Caverne
+       OSM ID: 6632690571.0
+       OSM Coords: -19.7531, 63.3705
+
+     MATCH QUALITY:
+       Distance: 0.027 km
+       Name similarity: 0.571 (0=different, 1=identical)
+       Overall score: 0.698
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 65. Gardener's Gut
+     SISAL ID: 163
+     SISAL Coords: -38.2500, 175.0200
+
+     ✓ MATCHED TO:
+       OSM Name: Gardner's Gut
+       OSM ID: 4771754221.0
+       OSM Coords: -38.2646, 175.0732
+
+     MATCH QUALITY:
+       Distance: 4.641 km
+       Name similarity: 0.963 (0=different, 1=identical)
+       Overall score: 0.696
+
+     MATCH REASON: Strong name match (>0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 66. Labyrintgrottan cave
+     SISAL ID: 46
+     SISAL Coords: 66.0600, 14.6800
+
+     ✓ MATCHED TO:
+       OSM Name: Schaktgrottan
+       OSM ID: 11876346537.0
+       OSM Coords: 65.8959, 14.6602
+
+     MATCH QUALITY:
+       Distance: 0.952 km
+       Name similarity: 0.643 (0=different, 1=identical)
+       Overall score: 0.693
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 67. Hölloch im Mahdtal
+     SISAL ID: 115
+     SISAL Coords: 47.3781, 10.1506
+
+     ✓ MATCHED TO:
+       OSM Name: Hölloch
+       OSM ID: 923447187.0
+       OSM Coords: 47.3778, 10.1504
+
+     MATCH QUALITY:
+       Distance: 0.015 km
+       Name similarity: 0.560 (0=different, 1=identical)
+       Overall score: 0.691
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 68. Pindal cave
+     SISAL ID: 87
+     SISAL Coords: 43.4000, -4.5300
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva el Pindal
+       OSM ID: 558629070.0
+       OSM Coords: 43.3976, -4.5330
+
+     MATCH QUALITY:
+       Distance: 0.238 km
+       Name similarity: 0.571 (0=different, 1=identical)
+       Overall score: 0.686
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 69. Villars cave
+     SISAL ID: 4
+     SISAL Coords: 45.4300, 0.7800
+
+     ✓ MATCHED TO:
+       OSM Name: Grotte de Villars
+       OSM ID: 2423303117.0
+       OSM Coords: 45.4426, 0.7853
+
+     MATCH QUALITY:
+       Distance: 0.414 km
+       Name similarity: 0.583 (0=different, 1=identical)
+       Overall score: 0.683
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 70. Ursilor cave
+     SISAL ID: 91
+     SISAL Coords: 46.5537, 22.5695
+
+     ✓ MATCHED TO:
+       OSM Name: Peștera Urșilor
+       OSM ID: 2634652214.0
+       OSM Coords: 46.5539, 22.5693
+
+     MATCH QUALITY:
+       Distance: 0.013 km
+       Name similarity: 0.545 (0=different, 1=identical)
+       Overall score: 0.681
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 71. Beatus cave
+     SISAL ID: 185
+     SISAL Coords: 46.6847, 7.7819
+
+     ✓ MATCHED TO:
+       OSM Name: St.Beatus-Höhlen
+       OSM ID: 745919883.0
+       OSM Coords: 46.6847, 7.7823
+
+     MATCH QUALITY:
+       Distance: 0.031 km
+       Name similarity: 0.545 (0=different, 1=identical)
+       Overall score: 0.680
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 72. Antro del Corchia
+     SISAL ID: 145
+     SISAL Coords: 43.9833, 10.2167
+
+     ✓ MATCHED TO:
+       OSM Name: Buca della goccia
+       OSM ID: 4935677369.0
+       OSM Coords: 44.1389, 10.2222
+
+     MATCH QUALITY:
+       Distance: 0.534 km
+       Name similarity: 0.588 (0=different, 1=identical)
+       Overall score: 0.680
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 73. Cueva del Tigre Perdido
+     SISAL ID: 235
+     SISAL Coords: -5.9406, -77.3081
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Viento
+       OSM ID: 7713923814.0
+       OSM Coords: -5.9713, -77.3169
+
+     MATCH QUALITY:
+       Distance: 0.970 km
+       Name similarity: 0.615 (0=different, 1=identical)
+       Overall score: 0.673
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 74. Clearwater/Wind caves connection
+     SISAL ID: 67
+     SISAL Coords: 4.1000, 114.8300
+
+     ✓ MATCHED TO:
+       OSM Name: Clearwater Resurgence
+       OSM ID: 10084842668.0
+       OSM Coords: 4.0650, 114.8314
+
+     MATCH QUALITY:
+       Distance: 0.168 km
+       Name similarity: 0.542 (0=different, 1=identical)
+       Overall score: 0.669
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 75. Leány cave
+     SISAL ID: 84
+     SISAL Coords: 47.7000, 18.8400
+
+     ✓ MATCHED TO:
+       OSM Name: Leány-barlang
+       OSM ID: 1192434410.0
+       OSM Coords: 47.7000, 18.8444
+
+     MATCH QUALITY:
+       Distance: 0.332 km
+       Name similarity: 0.556 (0=different, 1=identical)
+       Overall score: 0.669
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 76. Modric cave
+     SISAL ID: 86
+     SISAL Coords: 44.2568, 15.5372
+
+     ✓ MATCHED TO:
+       OSM Name: Špilja Modrič
+       OSM ID: 7008567688.0
+       OSM Coords: 44.2568, 15.5373
+
+     MATCH QUALITY:
+       Distance: 0.010 km
+       Name similarity: 0.526 (0=different, 1=identical)
+       Overall score: 0.668
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 77. Klang
+     SISAL ID: 321
+     SISAL Coords: 8.3300, 98.7300
+
+     ✓ MATCHED TO:
+       OSM Name: Tham Klang
+       OSM ID: 7161046616.0
+       OSM Coords: 8.3379, 98.7456
+
+     MATCH QUALITY:
+       Distance: 1.716 km
+       Name similarity: 0.667 (0=different, 1=identical)
+       Overall score: 0.664
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 78. Bigonda cave
+     SISAL ID: 360
+     SISAL Coords: 46.0180, 11.5810
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta della Bigonda
+       OSM ID: 4388840122.0
+       OSM Coords: 46.0182, 11.5810
+
+     MATCH QUALITY:
+       Distance: 0.000 km
+       Name similarity: 0.519 (0=different, 1=identical)
+       Overall score: 0.663
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 79. Tausoare cave
+     SISAL ID: 213
+     SISAL Coords: 47.4333, 24.5167
+
+     ✓ MATCHED TO:
+       OSM Name: Peştera Tăuşoare
+       OSM ID: 12184077155.0
+       OSM Coords: 47.4458, 24.5272
+
+     MATCH QUALITY:
+       Distance: 0.787 km
+       Name similarity: 0.583 (0=different, 1=identical)
+       Overall score: 0.661
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 80. Abaliget cave
+     SISAL ID: 31
+     SISAL Coords: 46.1333, 18.1167
+
+     ✓ MATCHED TO:
+       OSM Name: Abaligeti-cseppkőbarlang
+       OSM ID: 707254947.0
+       OSM Coords: 46.1367, 18.1165
+
+     MATCH QUALITY:
+       Distance: 0.015 km
+       Name similarity: 0.500 (0=different, 1=identical)
+       Overall score: 0.649
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 81. Yok Balum cave
+     SISAL ID: 107
+     SISAL Coords: 16.2086, -89.0735
+
+     ✓ MATCHED TO:
+       OSM Name: Kabal Cave
+       OSM ID: 9693174633.0
+       OSM Coords: 16.6468, -89.0767
+
+     MATCH QUALITY:
+       Distance: 0.918 km
+       Name similarity: 0.571 (0=different, 1=identical)
+       Overall score: 0.645
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 82. Trió cave
+     SISAL ID: 90
+     SISAL Coords: 46.1100, 18.1500
+
+     ✓ MATCHED TO:
+       OSM Name: Trió-barlang
+       OSM ID: 3440813505.0
+       OSM Coords: 46.1181, 18.1513
+
+     MATCH QUALITY:
+       Distance: 0.105 km
+       Name similarity: 0.500 (0=different, 1=identical)
+       Overall score: 0.644
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 83. Chen Ha cave
+     SISAL ID: 189
+     SISAL Coords: 16.6769, -89.0925
+
+     ✓ MATCHED TO:
+       OSM Name: Actun Halen
+       OSM ID: 13152004017.0
+       OSM Coords: 16.2981, -89.0907
+
+     MATCH QUALITY:
+       Distance: 0.760 km
+       Name similarity: 0.556 (0=different, 1=identical)
+       Overall score: 0.643
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 84. Shatuca cave
+     SISAL ID: 207
+     SISAL Coords: -5.7000, -77.9000
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Rio Shatuca
+       OSM ID: 7807817048.0
+       OSM Coords: -5.7015, -77.9013
+
+     MATCH QUALITY:
+       Distance: 0.143 km
+       Name similarity: 0.500 (0=different, 1=identical)
+       Overall score: 0.641
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 85. Crovassa Azzurra
+     SISAL ID: 260
+     SISAL Coords: 39.2800, 8.4800
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta Santa Barbara
+       OSM ID: 8755803759.0
+       OSM Coords: 39.2895, 8.4895
+
+     MATCH QUALITY:
+       Distance: 0.814 km
+       Name similarity: 0.556 (0=different, 1=identical)
+       Overall score: 0.640
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 86. Atta cave
+     SISAL ID: 280
+     SISAL Coords: 51.1000, 7.9000
+
+     ✓ MATCHED TO:
+       OSM Name: Atta-Höhle
+       OSM ID: 194177073.0
+       OSM Coords: 51.1255, 7.9150
+
+     MATCH QUALITY:
+       Distance: 1.048 km
+       Name similarity: 0.571 (0=different, 1=identical)
+       Overall score: 0.637
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 87. Cobre cave
+     SISAL ID: 259
+     SISAL Coords: 42.9800, -4.3700
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Cobre
+       OSM ID: 7412451779.0
+       OSM Coords: 42.9869, -4.3731
+
+     MATCH QUALITY:
+       Distance: 0.250 km
+       Name similarity: 0.500 (0=different, 1=identical)
+       Overall score: 0.635
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 88. Pere Noel cave
+     SISAL ID: 268
+     SISAL Coords: 50.0000, 5.2000
+
+     ✓ MATCHED TO:
+       OSM Name: Grotte du Père Noël
+       OSM ID: 5459800715.0
+       OSM Coords: 50.1113, 5.1966
+
+     MATCH QUALITY:
+       Distance: 0.324 km
+       Name similarity: 0.500 (0=different, 1=identical)
+       Overall score: 0.631
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 89. Calcite cave (Mt Luxmore, Fiordland)
+     SISAL ID: 162
+     SISAL Coords: -46.0200, 167.7400
+
+     ✓ MATCHED TO:
+       OSM Name: Clifden Caves - Lower Entrance
+       OSM ID: 10773895664.0
+       OSM Coords: -46.0185, 167.7406
+
+     MATCH QUALITY:
+       Distance: 0.043 km
+       Name similarity: 0.464 (0=different, 1=identical)
+       Overall score: 0.622
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 90. Hüttenbläserschachthöhle
+     SISAL ID: 316
+     SISAL Coords: 51.3689, 7.6547
+
+     ✓ MATCHED TO:
+       OSM Name: Geßhardthöhle
+       OSM ID: 4209573222.0
+       OSM Coords: 51.2604, 7.6503
+
+     MATCH QUALITY:
+       Distance: 0.370 km
+       Name similarity: 0.486 (0=different, 1=identical)
+       Overall score: 0.618
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 91. El Condor cave
+     SISAL ID: 192
+     SISAL Coords: -5.9300, -77.3000
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Héctor
+       OSM ID: 13014990612.0
+       OSM Coords: -6.0415, -77.2970
+
+     MATCH QUALITY:
+       Distance: 0.397 km
+       Name similarity: 0.480 (0=different, 1=identical)
+       Overall score: 0.612
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 92. Schneckenloch cave
+     SISAL ID: 105
+     SISAL Coords: 47.4333, 9.8667
+
+     ✓ MATCHED TO:
+       OSM Name: Banzenloch
+       OSM ID: 340386100.0
+       OSM Coords: 48.4067, 9.8734
+
+     MATCH QUALITY:
+       Distance: 1.954 km
+       Name similarity: 0.609 (0=different, 1=identical)
+       Overall score: 0.609
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 93. Bunker cave
+     SISAL ID: 117
+     SISAL Coords: 51.3675, 7.6647
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 2970889616.0
+       OSM Coords: 51.3669, 7.6683
+
+     MATCH QUALITY:
+       Distance: 0.253 km
+       Name similarity: 0.462 (0=different, 1=identical)
+       Overall score: 0.608
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 94. Baradla cave
+     SISAL ID: 71
+     SISAL Coords: 48.4667, 20.5000
+
+     ✓ MATCHED TO:
+       OSM Name: Baradla-barlang bejárat
+       OSM ID: 981440188.0
+       OSM Coords: 48.4716, 20.4954
+
+     MATCH QUALITY:
+       Distance: 0.336 km
+       Name similarity: 0.467 (0=different, 1=identical)
+       Overall score: 0.607
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+ 95. Buraca Gloriosa
+     SISAL ID: 275
+     SISAL Coords: 39.5333, -8.7833
+
+     ✓ MATCHED TO:
+       OSM Name: Buraco Roto
+       OSM ID: 12595360316.0
+       OSM Coords: 39.6399, -8.7590
+
+     MATCH QUALITY:
+       Distance: 2.094 km
+       Name similarity: 0.615 (0=different, 1=identical)
+       Overall score: 0.605
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 96. Santana cave
+     SISAL ID: 234
+     SISAL Coords: -24.5308, -48.7267
+
+     ✓ MATCHED TO:
+       OSM Name: Caverna Santana
+       OSM ID: 903676829.0
+       OSM Coords: -24.5338, -48.7022
+
+     MATCH QUALITY:
+       Distance: 2.476 km
+       Name similarity: 0.636 (0=different, 1=identical)
+       Overall score: 0.597
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 97. Calabrez
+     SISAL ID: 299
+     SISAL Coords: 43.4500, -5.1300
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva de la Cabrera
+       OSM ID: 10903529963.0
+       OSM Coords: 42.9476, -5.1188
+
+     MATCH QUALITY:
+       Distance: 1.334 km
+       Name similarity: 0.519 (0=different, 1=identical)
+       Overall score: 0.583
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+ 98. Han-sur-Lesse cave
+     SISAL ID: 16
+     SISAL Coords: 50.1164, 5.1884
+
+     ✓ MATCHED TO:
+       OSM Name: Chantoir de la Laide Fosse
+       OSM ID: 3783268558.0
+       OSM Coords: 50.1393, 5.2029
+
+     MATCH QUALITY:
+       Distance: 1.033 km
+       Name similarity: 0.462 (0=different, 1=identical)
+       Overall score: 0.561
+
+     MATCH REASON: Within search radius (1.03 km)
+
+----------------------------------------------------------------------
+
+ 99. Savi cave
+     SISAL ID: 366
+     SISAL Coords: 45.6167, 13.8833
+
+     ✓ MATCHED TO:
+       OSM Name: Bestažovca
+       OSM ID: 13556252331.0
+       OSM Coords: 45.6926, 13.8917
+
+     MATCH QUALITY:
+       Distance: 0.668 km
+       Name similarity: 0.429 (0=different, 1=identical)
+       Overall score: 0.560
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+100. Dim cave
+     SISAL ID: 79
+     SISAL Coords: 36.5340, 32.1056
+
+     ✓ MATCHED TO:
+       OSM Name: Dim Mağarası
+       OSM ID: 715290197.0
+       OSM Coords: 36.5392, 32.1098
+
+     MATCH QUALITY:
+       Distance: 0.374 km
+       Name similarity: 0.400 (0=different, 1=identical)
+       Overall score: 0.558
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+101. La Mine cave
+     SISAL ID: 83
+     SISAL Coords: 36.0300, 9.6800
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 10768872262.0
+       OSM Coords: 35.7269, 9.6848
+
+     MATCH QUALITY:
+       Distance: 0.728 km
+       Name similarity: 0.429 (0=different, 1=identical)
+       Overall score: 0.556
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+102. Andriamaniloke
+     SISAL ID: 252
+     SISAL Coords: -24.0510, 43.7569
+
+     ✓ MATCHED TO:
+       OSM Name: Malaza Manga
+       OSM ID: 3570423898.0
+       OSM Coords: -24.0303, 43.7548
+
+     MATCH QUALITY:
+       Distance: 0.215 km
+       Name similarity: 0.385 (0=different, 1=identical)
+       Overall score: 0.556
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+103. Whiterock cave
+     SISAL ID: 65
+     SISAL Coords: 4.1500, 114.8600
+
+     ✓ MATCHED TO:
+       OSM Name: Whiterock Cave (Midnight Entrance)
+       OSM ID: 10135300285.0
+       OSM Coords: 4.1221, 114.8720
+
+     MATCH QUALITY:
+       Distance: 1.331 km
+       Name similarity: 0.474 (0=different, 1=identical)
+       Overall score: 0.552
+
+     MATCH REASON: Within search radius (1.33 km)
+
+----------------------------------------------------------------------
+
+104. Umajalanta cave
+     SISAL ID: 237
+     SISAL Coords: -18.1200, -65.7700
+
+     ✓ MATCHED TO:
+       OSM Name: Caverna Umajalanta
+       OSM ID: 2264386190.0
+       OSM Coords: -18.1143, -65.8115
+
+     MATCH QUALITY:
+       Distance: 4.388 km
+       Name similarity: 0.714 (0=different, 1=identical)
+       Overall score: 0.537
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+105. Careys cave
+     SISAL ID: 300
+     SISAL Coords: -35.0700, 148.6600
+
+     ✓ MATCHED TO:
+       OSM Name: Barbers Cave
+       OSM ID: 3292745497.0
+       OSM Coords: -35.6251, 148.6945
+
+     MATCH QUALITY:
+       Distance: 3.305 km
+       Name similarity: 0.615 (0=different, 1=identical)
+       Overall score: 0.532
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+106. Xinya cave
+     SISAL ID: 112
+     SISAL Coords: 30.7500, 109.4700
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 9006583904.0
+       OSM Coords: 30.7496, 109.4691
+
+     MATCH QUALITY:
+       Distance: 0.085 km
+       Name similarity: 0.333 (0=different, 1=identical)
+       Overall score: 0.528
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+107. Bourgeois–Delaunay cave
+     SISAL ID: 73
+     SISAL Coords: 45.6678, 0.5133
+
+     ✓ MATCHED TO:
+       OSM Name: Grotte de Lavaud
+       OSM ID: 5204252292.0
+       OSM Coords: 45.6783, 0.4997
+
+     MATCH QUALITY:
+       Distance: 1.059 km
+       Name similarity: 0.412 (0=different, 1=identical)
+       Overall score: 0.525
+
+     MATCH REASON: Within search radius (1.06 km)
+
+----------------------------------------------------------------------
+
+108. Lynds cave
+     SISAL ID: 199
+     SISAL Coords: -41.5800, 146.2500
+
+     ✓ MATCHED TO:
+       OSM Name: King Solomon Caves
+       OSM ID: 1201366333.0
+       OSM Coords: -41.5516, 146.2481
+
+     MATCH QUALITY:
+       Distance: 0.164 km
+       Name similarity: 0.333 (0=different, 1=identical)
+       Overall score: 0.523
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+109. Juxtlahuaca cave
+     SISAL ID: 136
+     SISAL Coords: 17.4000, -99.2000
+
+     ✓ MATCHED TO:
+       OSM Name: Grutas de Juxtlahuaca
+       OSM ID: 8972797679.0
+       OSM Coords: 17.4393, -99.1594
+
+     MATCH QUALITY:
+       Distance: 4.304 km
+       Name similarity: 0.688 (0=different, 1=identical)
+       Overall score: 0.523
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+110. Nettlebed cave
+     SISAL ID: 158
+     SISAL Coords: -41.2300, 172.6800
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 1123061620.0
+       OSM Coords: -41.5658, 172.6777
+
+     MATCH QUALITY:
+       Distance: 0.680 km
+       Name similarity: 0.375 (0=different, 1=identical)
+       Overall score: 0.522
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+111. Oregon caves national monument
+     SISAL ID: 139
+     SISAL Coords: 42.0981, -123.4072
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 3427512355.0
+       OSM Coords: 42.0981, -123.4074
+
+     MATCH QUALITY:
+       Distance: 0.014 km
+       Name similarity: 0.312 (0=different, 1=identical)
+       Overall score: 0.518
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+112. Klapferloch cave
+     SISAL ID: 101
+     SISAL Coords: 46.9500, 10.5500
+
+     ✓ MATCHED TO:
+       OSM Name: Kammerlochhöhle
+       OSM ID: 274302247.0
+       OSM Coords: 48.7750, 10.5531
+
+     MATCH QUALITY:
+       Distance: 3.550 km
+       Name similarity: 0.615 (0=different, 1=identical)
+       Overall score: 0.518
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+113. Furong cave
+     SISAL ID: 80
+     SISAL Coords: 29.2289, 107.9036
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 4503846516.0
+       OSM Coords: 29.2289, 107.9033
+
+     MATCH QUALITY:
+       Distance: 0.026 km
+       Name similarity: 0.308 (0=different, 1=identical)
+       Overall score: 0.514
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+114. Baschg cave
+     SISAL ID: 15
+     SISAL Coords: 47.2501, 9.6667
+
+     ✓ MATCHED TO:
+       OSM Name: Eretsloch
+       OSM ID: 12879668276.0
+       OSM Coords: 46.9699, 9.6540
+
+     MATCH QUALITY:
+       Distance: 1.104 km
+       Name similarity: 0.400 (0=different, 1=identical)
+       Overall score: 0.514
+
+     MATCH REASON: Within search radius (1.10 km)
+
+----------------------------------------------------------------------
+
+115. Sieben Hengste cave
+     SISAL ID: 55
+     SISAL Coords: 46.7500, 7.8100
+
+     ✓ MATCHED TO:
+       OSM Name: Bierkeller Theophil Roniger
+       OSM ID: 496887249.0
+       OSM Coords: 47.5353, 7.8034
+
+     MATCH QUALITY:
+       Distance: 1.604 km
+       Name similarity: 0.439 (0=different, 1=identical)
+       Overall score: 0.511
+
+     MATCH REASON: Within search radius (1.60 km)
+
+----------------------------------------------------------------------
+
+116. Murada
+     SISAL ID: 332
+     SISAL Coords: 39.9560, 3.9650
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13130638123.0
+       OSM Coords: 39.9329, 3.9661
+
+     MATCH QUALITY:
+       Distance: 0.104 km
+       Name similarity: 0.308 (0=different, 1=identical)
+       Overall score: 0.509
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+117. Bleßberg cave
+     SISAL ID: 262
+     SISAL Coords: 50.4244, 11.0203
+
+     ✓ MATCHED TO:
+       OSM Name: Blaubeerhöhle
+       OSM ID: 7415334685.0
+       OSM Coords: 49.6740, 10.9989
+
+     MATCH QUALITY:
+       Distance: 2.110 km
+       Name similarity: 0.476 (0=different, 1=identical)
+       Overall score: 0.507
+
+     MATCH REASON: Within search radius (2.11 km)
+
+----------------------------------------------------------------------
+
+118. Golgotha cave
+     SISAL ID: 310
+     SISAL Coords: -34.0830, 115.0500
+
+     ✓ MATCHED TO:
+       OSM Name: Ngilgi Cave Entrance
+       OSM ID: 3544073316.0
+       OSM Coords: -33.6415, 115.0349
+
+     MATCH QUALITY:
+       Distance: 1.637 km
+       Name similarity: 0.435 (0=different, 1=identical)
+       Overall score: 0.506
+
+     MATCH REASON: Within search radius (1.64 km)
+
+----------------------------------------------------------------------
+
+119. Ascunsa cave
+     SISAL ID: 72
+     SISAL Coords: 45.0000, 22.6000
+
+     ✓ MATCHED TO:
+       OSM Name: PESTERA CURECEA
+       OSM ID: 9054470052.0
+       OSM Coords: 44.8793, 22.6100
+
+     MATCH QUALITY:
+       Distance: 0.818 km
+       Name similarity: 0.364 (0=different, 1=identical)
+       Overall score: 0.505
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+120. Pot au Feu
+     SISAL ID: 365
+     SISAL Coords: 42.5200, 0.2400
+
+     ✓ MATCHED TO:
+       OSM Name: Cova Terreu
+       OSM ID: 2486226122.0
+       OSM Coords: 42.0528, 0.2489
+
+     MATCH QUALITY:
+       Distance: 1.165 km
+       Name similarity: 0.381 (0=different, 1=identical)
+       Overall score: 0.497
+
+     MATCH REASON: Within search radius (1.17 km)
+
+----------------------------------------------------------------------
+
+121. Bàsura cave
+     SISAL ID: 297
+     SISAL Coords: 44.1300, 8.2000
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 4018446140.0
+       OSM Coords: 44.1754, 8.1964
+
+     MATCH QUALITY:
+       Distance: 0.300 km
+       Name similarity: 0.308 (0=different, 1=identical)
+       Overall score: 0.497
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+122. Grete-Ruth Shaft
+     SISAL ID: 290
+     SISAL Coords: 47.5429, 12.0272
+
+     ✓ MATCHED TO:
+       OSM Name: Unteres Wetterloch
+       OSM ID: 977664869.0
+       OSM Coords: 47.7077, 12.0166
+
+     MATCH QUALITY:
+       Distance: 0.856 km
+       Name similarity: 0.353 (0=different, 1=identical)
+       Overall score: 0.496
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+123. Seso cave
+     SISAL ID: 106
+     SISAL Coords: 42.4600, 0.0400
+
+     ✓ MATCHED TO:
+       OSM Name: Manatuero
+       OSM ID: 10926006942.0
+       OSM Coords: 42.5319, 0.0444
+
+     MATCH QUALITY:
+       Distance: 0.388 km
+       Name similarity: 0.308 (0=different, 1=identical)
+       Overall score: 0.492
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+124. Chauvet cave
+     SISAL ID: 77
+     SISAL Coords: 44.2300, 4.2600
+
+     ✓ MATCHED TO:
+       OSM Name: arche
+       OSM ID: 11954189744.0
+       OSM Coords: 44.3994, 4.2271
+
+     MATCH QUALITY:
+       Distance: 2.637 km
+       Name similarity: 0.500 (0=different, 1=identical)
+       Overall score: 0.492
+
+     MATCH REASON: Within search radius (2.64 km)
+
+----------------------------------------------------------------------
+
+125. Hollywood cave
+     SISAL ID: 82
+     SISAL Coords: -41.9500, 171.4700
+
+     ✓ MATCHED TO:
+       OSM Name: Hole in the Hill
+       OSM ID: 1123061603.0
+       OSM Coords: -41.9519, 171.4769
+
+     MATCH QUALITY:
+       Distance: 0.567 km
+       Name similarity: 0.320 (0=different, 1=identical)
+       Overall score: 0.490
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+126. São Bernardo cave
+     SISAL ID: 205
+     SISAL Coords: -13.8100, -46.3500
+
+     ✓ MATCHED TO:
+       OSM Name: Terra Ronca
+       OSM ID: 6986158611.0
+       OSM Coords: -13.7351, -46.3586
+
+     MATCH QUALITY:
+       Distance: 0.938 km
+       Name similarity: 0.348 (0=different, 1=identical)
+       Overall score: 0.487
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+127. Macal Chasm
+     SISAL ID: 85
+     SISAL Coords: 16.8830, -89.1080
+
+     ✓ MATCHED TO:
+       OSM Name: Actun Chapat Cave Adventure
+       OSM ID: 2875516784.0
+       OSM Coords: 17.0492, -89.0973
+
+     MATCH QUALITY:
+       Distance: 1.187 km
+       Name similarity: 0.364 (0=different, 1=identical)
+       Overall score: 0.483
+
+     MATCH REASON: Within search radius (1.19 km)
+
+----------------------------------------------------------------------
+
+128. Lithophagus cave
+     SISAL ID: 256
+     SISAL Coords: 46.8280, 22.6000
+
+     ✓ MATCHED TO:
+       OSM Name: Peștera Măgura
+       OSM ID: 9007272454.0
+       OSM Coords: 46.5316, 22.5944
+
+     MATCH QUALITY:
+       Distance: 0.719 km
+       Name similarity: 0.320 (0=different, 1=identical)
+       Overall score: 0.481
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+129. Bukit Assam cave
+     SISAL ID: 116
+     SISAL Coords: 4.0300, 114.8000
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 10135316701.0
+       OSM Coords: 4.0193, 114.8082
+
+     MATCH QUALITY:
+       Distance: 0.905 km
+       Name similarity: 0.333 (0=different, 1=identical)
+       Overall score: 0.479
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+130. Soylegrotta cave
+     SISAL ID: 57
+     SISAL Coords: 66.0000, 14.0000
+
+     ✓ MATCHED TO:
+       OSM Name: Bjurälvsgrottan
+       OSM ID: 4998330664.0
+       OSM Coords: 64.9114, 14.0560
+
+     MATCH QUALITY:
+       Distance: 3.341 km
+       Name similarity: 0.538 (0=different, 1=identical)
+       Overall score: 0.476
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+131. Soreq cave
+     SISAL ID: 160
+     SISAL Coords: 31.7558, 35.0226
+
+     ✓ MATCHED TO:
+       OSM Name: Oren
+       OSM ID: 11737465821.0
+       OSM Coords: 32.7146, 34.9741
+
+     MATCH QUALITY:
+       Distance: 4.924 km
+       Name similarity: 0.667 (0=different, 1=identical)
+       Overall score: 0.471
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+132. Jaraguá cave
+     SISAL ID: 10
+     SISAL Coords: -21.0830, -56.5830
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta do Lago Azul
+       OSM ID: 2382055156.0
+       OSM Coords: -21.1447, -56.5915
+
+     MATCH QUALITY:
+       Distance: 0.891 km
+       Name similarity: 0.320 (0=different, 1=identical)
+       Overall score: 0.471
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+133. Klaus Cramer cave
+     SISAL ID: 197
+     SISAL Coords: 47.2600, 9.5200
+
+     ✓ MATCHED TO:
+       OSM Name: Heuscheuerle
+       OSM ID: 2483192759.0
+       OSM Coords: 48.2810, 9.5134
+
+     MATCH QUALITY:
+       Distance: 2.042 km
+       Name similarity: 0.417 (0=different, 1=identical)
+       Overall score: 0.469
+
+     MATCH REASON: Within search radius (2.04 km)
+
+----------------------------------------------------------------------
+
+134. Cueva Bonita
+     SISAL ID: 304
+     SISAL Coords: 23.0000, -99.0000
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Salitre
+       OSM ID: 4848050737.0
+       OSM Coords: 21.3872, -98.9819
+
+     MATCH QUALITY:
+       Distance: 3.644 km
+       Name similarity: 0.552 (0=different, 1=identical)
+       Overall score: 0.468
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+135. Torrinha cave
+     SISAL ID: 62
+     SISAL Coords: -12.3495, -41.6038
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta Lapa Doce Entrance
+       OSM ID: 4153268606.0
+       OSM Coords: -12.3339, -41.6048
+
+     MATCH QUALITY:
+       Distance: 0.109 km
+       Name similarity: 0.250 (0=different, 1=identical)
+       Overall score: 0.468
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+136. Sant'Angelo cave
+     SISAL ID: 343
+     SISAL Coords: 40.7000, 17.5000
+
+     ✓ MATCHED TO:
+       OSM Name: Grotte di Montevicoli
+       OSM ID: 3420452460.0
+       OSM Coords: 40.6399, 17.5020
+
+     MATCH QUALITY:
+       Distance: 0.207 km
+       Name similarity: 0.250 (0=different, 1=identical)
+       Overall score: 0.463
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+137. Babylon cave
+     SISAL ID: 283
+     SISAL Coords: -41.9500, 171.4700
+
+     ✓ MATCHED TO:
+       OSM Name: Ballroom Overhang
+       OSM ID: 1123061615.0
+       OSM Coords: -42.0436, 171.4437
+
+     MATCH QUALITY:
+       Distance: 2.184 km
+       Name similarity: 0.417 (0=different, 1=identical)
+       Overall score: 0.461
+
+     MATCH REASON: Within search radius (2.18 km)
+
+----------------------------------------------------------------------
+
+138. Molinos cave
+     SISAL ID: 109
+     SISAL Coords: 40.7925, -0.4492
+
+     ✓ MATCHED TO:
+       OSM Name: Cima el Dómine
+       OSM ID: 13404301868.0
+       OSM Coords: 40.4491, -0.4296
+
+     MATCH QUALITY:
+       Distance: 1.780 km
+       Name similarity: 0.381 (0=different, 1=identical)
+       Overall score: 0.460
+
+     MATCH REASON: Within search radius (1.78 km)
+
+----------------------------------------------------------------------
+
+139. Ejulve cave
+     SISAL ID: 120
+     SISAL Coords: 40.7600, -0.5900
+
+     ✓ MATCHED TO:
+       OSM Name: La Cueva
+       OSM ID: 12080122765.0
+       OSM Coords: 40.4325, -0.5879
+
+     MATCH QUALITY:
+       Distance: 0.659 km
+       Name similarity: 0.286 (0=different, 1=identical)
+       Overall score: 0.460
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+140. Wintimdouine
+     SISAL ID: 353
+     SISAL Coords: 30.7700, -9.4900
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 10676966439.0
+       OSM Coords: 30.6083, -9.4795
+
+     MATCH QUALITY:
+       Distance: 1.054 km
+       Name similarity: 0.316 (0=different, 1=identical)
+       Overall score: 0.458
+
+     MATCH REASON: Within search radius (1.05 km)
+
+----------------------------------------------------------------------
+
+141. Korallgrottan cave
+     SISAL ID: 102
+     SISAL Coords: 64.8900, 14.1600
+
+     ✓ MATCHED TO:
+       OSM Name: Bjurälvsgrottan
+       OSM ID: 4998330664.0
+       OSM Coords: 64.9114, 14.0560
+
+     MATCH QUALITY:
+       Distance: 4.904 km
+       Name similarity: 0.643 (0=different, 1=identical)
+       Overall score: 0.456
+
+     MATCH REASON: Moderate name match (0.5-0.8 similarity)
+
+----------------------------------------------------------------------
+
+142. Piani Eterni karst system
+     SISAL ID: 202
+     SISAL Coords: 46.1600, 11.9900
+
+     ✓ MATCHED TO:
+       OSM Name: Miniere del Fursil /Ru
+       OSM ID: 6640740634.0
+       OSM Coords: 46.4575, 12.0136
+
+     MATCH QUALITY:
+       Distance: 1.900 km
+       Name similarity: 0.383 (0=different, 1=identical)
+       Overall score: 0.454
+
+     MATCH REASON: Within search radius (1.90 km)
+
+----------------------------------------------------------------------
+
+143. Secret cave
+     SISAL ID: 20
+     SISAL Coords: 4.0848, 114.8503
+
+     ✓ MATCHED TO:
+       OSM Name: Gua Metrik
+       OSM ID: 10135300283.0
+       OSM Coords: 4.0981, 114.8539
+
+     MATCH QUALITY:
+       Distance: 0.396 km
+       Name similarity: 0.250 (0=different, 1=identical)
+       Overall score: 0.451
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+144. Neotektonik cave
+     SISAL ID: 333
+     SISAL Coords: 46.7833, 8.2667
+
+     ✓ MATCHED TO:
+       OSM Name: Bettenhöhle
+       OSM ID: 13324454762.0
+       OSM Coords: 46.7881, 8.2894
+
+     MATCH QUALITY:
+       Distance: 1.730 km
+       Name similarity: 0.364 (0=different, 1=identical)
+       Overall score: 0.451
+
+     MATCH REASON: Within search radius (1.73 km)
+
+----------------------------------------------------------------------
+
+145. Tham Doun Mai
+     SISAL ID: 293
+     SISAL Coords: 20.7500, 102.6500
+
+     ✓ MATCHED TO:
+       OSM Name: Pha Tok Cave
+       OSM ID: 3294134845.0
+       OSM Coords: 20.5532, 102.6295
+
+     MATCH QUALITY:
+       Distance: 2.164 km
+       Name similarity: 0.400 (0=different, 1=identical)
+       Overall score: 0.450
+
+     MATCH REASON: Within search radius (2.16 km)
+
+----------------------------------------------------------------------
+
+146. Ostolo cave
+     SISAL ID: 335
+     SISAL Coords: 43.1878, -0.2678
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Onso
+       OSM ID: 11298621603.0
+       OSM Coords: 42.7336, -0.2736
+
+     MATCH QUALITY:
+       Distance: 1.000 km
+       Name similarity: 0.300 (0=different, 1=identical)
+       Overall score: 0.450
+
+     MATCH REASON: Within search radius (1.00 km)
+
+----------------------------------------------------------------------
+
+147. Labyrinth cave
+     SISAL ID: 362
+     SISAL Coords: -34.3000, 115.1000
+
+     ✓ MATCHED TO:
+       OSM Name: Moondyne Cave
+       OSM ID: 2285744211.0
+       OSM Coords: -34.2734, 115.0970
+
+     MATCH QUALITY:
+       Distance: 0.284 km
+       Name similarity: 0.235 (0=different, 1=identical)
+       Overall score: 0.448
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+148. Jeita cave
+     SISAL ID: 11
+     SISAL Coords: 33.9500, 35.6500
+
+     ✓ MATCHED TO:
+       OSM Name: Upper Grotto
+       OSM ID: 5382854703.0
+       OSM Coords: 33.9433, 35.6468
+
+     MATCH QUALITY:
+       Distance: 0.291 km
+       Name similarity: 0.235 (0=different, 1=identical)
+       Overall score: 0.447
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+149. Poleva cave
+     SISAL ID: 203
+     SISAL Coords: 44.7144, 21.7469
+
+     ✓ MATCHED TO:
+       OSM Name: Peștera Lenuța
+       OSM ID: 7746558018.0
+       OSM Coords: 45.0242, 21.7748
+
+     MATCH QUALITY:
+       Distance: 2.280 km
+       Name similarity: 0.400 (0=different, 1=identical)
+       Overall score: 0.443
+
+     MATCH REASON: Within search radius (2.28 km)
+
+----------------------------------------------------------------------
+
+150. Wazpretti cave
+     SISAL ID: 168
+     SISAL Coords: -42.1000, 171.4000
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 11423443988.0
+       OSM Coords: -42.1311, 171.4070
+
+     MATCH QUALITY:
+       Distance: 0.578 km
+       Name similarity: 0.250 (0=different, 1=identical)
+       Overall score: 0.440
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+151. Naharon
+     SISAL ID: 364
+     SISAL Coords: 20.1800, -87.5400
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 6050984397.0
+       OSM Coords: 20.1884, -87.5506
+
+     MATCH QUALITY:
+       Distance: 1.103 km
+       Name similarity: 0.286 (0=different, 1=identical)
+       Overall score: 0.434
+
+     MATCH REASON: Within search radius (1.10 km)
+
+----------------------------------------------------------------------
+
+152. Bribin cave
+     SISAL ID: 186
+     SISAL Coords: -8.0500, 110.6330
+
+     ✓ MATCHED TO:
+       OSM Name: Goa Jomblang
+       OSM ID: 4376800615.0
+       OSM Coords: -8.0286, 110.6382
+
+     MATCH QUALITY:
+       Distance: 0.579 km
+       Name similarity: 0.222 (0=different, 1=identical)
+       Overall score: 0.421
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+153. Crystal cave, Australia
+     SISAL ID: 303
+     SISAL Coords: -34.1000, 115.0000
+
+     ✓ MATCHED TO:
+       OSM Name: Calgardup Cave
+       OSM ID: 370538351.0
+       OSM Coords: -34.0503, 115.0249
+
+     MATCH QUALITY:
+       Distance: 2.297 km
+       Name similarity: 0.370 (0=different, 1=identical)
+       Overall score: 0.421
+
+     MATCH REASON: Within search radius (2.30 km)
+
+----------------------------------------------------------------------
+
+154. PP29
+     SISAL ID: 254
+     SISAL Coords: -34.2078, 22.0876
+
+     ✓ MATCHED TO:
+       OSM Name: Pinnacle Point 13B
+       OSM ID: 3657259352.0
+       OSM Coords: -34.2078, 22.0895
+
+     MATCH QUALITY:
+       Distance: 0.177 km
+       Name similarity: 0.182 (0=different, 1=identical)
+       Overall score: 0.417
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+155. Ball Gown cave
+     SISAL ID: 13
+     SISAL Coords: -17.0300, 125.0000
+
+     ✓ MATCHED TO:
+       OSM Name: Carpenter's Gap 1
+       OSM ID: 10302261247.0
+       OSM Coords: -17.4309, 125.0005
+
+     MATCH QUALITY:
+       Distance: 0.780 km
+       Name similarity: 0.231 (0=different, 1=identical)
+       Overall score: 0.415
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+156. Bittoo cave
+     SISAL ID: 1
+     SISAL Coords: 30.7903, 77.7764
+
+     ✓ MATCHED TO:
+       OSM Name: Gorcha cave
+       OSM ID: 11300105382.0
+       OSM Coords: 30.7903, 77.7769
+
+     MATCH QUALITY:
+       Distance: 0.052 km
+       Name similarity: 0.167 (0=different, 1=identical)
+       Overall score: 0.414
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+157. Devil's Icebox cave
+     SISAL ID: 191
+     SISAL Coords: 38.1500, -92.0500
+
+     ✓ MATCHED TO:
+       OSM Name: Miller Cave
+       OSM ID: 8349784316.0
+       OSM Coords: 37.7095, -92.0659
+
+     MATCH QUALITY:
+       Distance: 1.638 km
+       Name similarity: 0.300 (0=different, 1=identical)
+       Overall score: 0.412
+
+     MATCH REASON: Within search radius (1.64 km)
+
+----------------------------------------------------------------------
+
+158. Kleegruben cave
+     SISAL ID: 132
+     SISAL Coords: 47.0800, 11.6700
+
+     ✓ MATCHED TO:
+       OSM Name: Spannagelhöhle
+       OSM ID: 1488744824.0
+       OSM Coords: 47.0801, 11.6714
+
+     MATCH QUALITY:
+       Distance: 0.107 km
+       Name similarity: 0.167 (0=different, 1=identical)
+       Overall score: 0.410
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+159. Rey Marcos
+     SISAL ID: 341
+     SISAL Coords: 15.4277, -90.2807
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva de Chicoy
+       OSM ID: 11135158274.0
+       OSM Coords: 15.2560, -90.2630
+
+     MATCH QUALITY:
+       Distance: 1.926 km
+       Name similarity: 0.320 (0=different, 1=identical)
+       Overall score: 0.408
+
+     MATCH REASON: Within search radius (1.93 km)
+
+----------------------------------------------------------------------
+
+160. Qadisha cave
+     SISAL ID: 295
+     SISAL Coords: 34.2439, 36.0364
+
+     ✓ MATCHED TO:
+       OSM Name: Zahlan Grotto
+       OSM ID: 10969878099.0
+       OSM Coords: 34.3919, 36.0178
+
+     MATCH QUALITY:
+       Distance: 1.731 km
+       Name similarity: 0.300 (0=different, 1=identical)
+       Overall score: 0.406
+
+     MATCH REASON: Within search radius (1.73 km)
+
+----------------------------------------------------------------------
+
+161. Kinderlinskaya cave
+     SISAL ID: 137
+     SISAL Coords: 54.1500, 56.8500
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 2174721117.0
+       OSM Coords: 54.1314, 56.8426
+
+     MATCH QUALITY:
+       Distance: 0.480 km
+       Name similarity: 0.190 (0=different, 1=identical)
+       Overall score: 0.405
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+162. Xibalba cave
+     SISAL ID: 204
+     SISAL Coords: 16.5000, -89.0000
+
+     ✓ MATCHED TO:
+       OSM Name: Closing Jaw Cave
+       OSM ID: 11520700149.0
+       OSM Coords: 16.9729, -88.9995
+
+     MATCH QUALITY:
+       Distance: 0.919 km
+       Name similarity: 0.222 (0=different, 1=identical)
+       Overall score: 0.400
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+163. Leviathan cave
+     SISAL ID: 48
+     SISAL Coords: 37.8900, -115.5800
+
+     ✓ MATCHED TO:
+       OSM Name: Pintwater Cave
+       OSM ID: 8177727382.0
+       OSM Coords: 36.7942, -115.5694
+
+     MATCH QUALITY:
+       Distance: 2.325 km
+       Name similarity: 0.333 (0=different, 1=identical)
+       Overall score: 0.394
+
+     MATCH REASON: Within search radius (2.33 km)
+
+----------------------------------------------------------------------
+
+164. Sarma cave
+     SISAL ID: 344
+     SISAL Coords: 43.3900, 40.3700
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 2972577607.0
+       OSM Coords: 43.2460, 40.3986
+
+     MATCH QUALITY:
+       Distance: 2.329 km
+       Name similarity: 0.333 (0=different, 1=identical)
+       Overall score: 0.394
+
+     MATCH REASON: Within search radius (2.33 km)
+
+----------------------------------------------------------------------
+
+165. Lianhua cave, Hunan
+     SISAL ID: 198
+     SISAL Coords: 29.4800, 109.5333
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 5058896537.0
+       OSM Coords: 29.9735, 109.5488
+
+     MATCH QUALITY:
+       Distance: 1.776 km
+       Name similarity: 0.286 (0=different, 1=identical)
+       Overall score: 0.393
+
+     MATCH REASON: Within search radius (1.78 km)
+
+----------------------------------------------------------------------
+
+166. Tangga cave
+     SISAL ID: 208
+     SISAL Coords: -0.3600, 100.7600
+
+     ✓ MATCHED TO:
+       OSM Name: Lubang Tambang Mbah Soero
+       OSM ID: 5909253343.0
+       OSM Coords: -0.6793, 100.7795
+
+     MATCH QUALITY:
+       Distance: 2.254 km
+       Name similarity: 0.323 (0=different, 1=identical)
+       Overall score: 0.391
+
+     MATCH REASON: Within search radius (2.25 km)
+
+----------------------------------------------------------------------
+
+167. Milchbach cave
+     SISAL ID: 123
+     SISAL Coords: 46.6167, 8.0830
+
+     ✓ MATCHED TO:
+       OSM Name: Hügeliloch
+       OSM ID: 4306709100.0
+       OSM Coords: 47.3109, 8.0412
+
+     MATCH QUALITY:
+       Distance: 3.450 km
+       Name similarity: 0.421 (0=different, 1=identical)
+       Overall score: 0.388
+
+     MATCH REASON: Within search radius (3.45 km)
+
+----------------------------------------------------------------------
+
+168. Ifoulki cave
+     SISAL ID: 42
+     SISAL Coords: 30.7080, -9.3275
+
+     ✓ MATCHED TO:
+       OSM Name: Wintindouine وينتيمدوين
+       OSM ID: 516610283.0
+       OSM Coords: 30.6805, -9.3448
+
+     MATCH QUALITY:
+       Distance: 1.651 km
+       Name similarity: 0.267 (0=different, 1=identical)
+       Overall score: 0.388
+
+     MATCH REASON: Within search radius (1.65 km)
+
+----------------------------------------------------------------------
+
+169. Chiflonkhakha cave
+     SISAL ID: 225
+     SISAL Coords: -18.1222, -65.7739
+
+     ✓ MATCHED TO:
+       OSM Name: Caverna ToroToro
+       OSM ID: 4086768866.0
+       OSM Coords: -18.1101, -65.7753
+
+     MATCH QUALITY:
+       Distance: 0.151 km
+       Name similarity: 0.138 (0=different, 1=identical)
+       Overall score: 0.387
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+170. Pozzo Cucù cave
+     SISAL ID: 339
+     SISAL Coords: 40.9000, 17.1600
+
+     ✓ MATCHED TO:
+       OSM Name: Grotta Valentini
+       OSM ID: 1825661457.0
+       OSM Coords: 41.0321, 17.1566
+
+     MATCH QUALITY:
+       Distance: 0.384 km
+       Name similarity: 0.154 (0=different, 1=identical)
+       Overall score: 0.385
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+171. Waiau cave
+     SISAL ID: 167
+     SISAL Coords: -46.0000, 167.7300
+
+     ✓ MATCHED TO:
+       OSM Name: Te Ana-au Glow-Worm Caves
+       OSM ID: 495996579.0
+       OSM Coords: -45.2945, 167.7264
+
+     MATCH QUALITY:
+       Distance: 1.397 km
+       Name similarity: 0.240 (0=different, 1=identical)
+       Overall score: 0.384
+
+     MATCH REASON: Within search radius (1.40 km)
+
+----------------------------------------------------------------------
+
+172. Aurora cave
+     SISAL ID: 161
+     SISAL Coords: -45.2953, 167.6979
+
+     ✓ MATCHED TO:
+       OSM Name: Te Ana-au Glow-Worm Caves
+       OSM ID: 495996579.0
+       OSM Coords: -45.2945, 167.7264
+
+     MATCH QUALITY:
+       Distance: 2.233 km
+       Name similarity: 0.308 (0=different, 1=identical)
+       Overall score: 0.381
+
+     MATCH REASON: Within search radius (2.23 km)
+
+----------------------------------------------------------------------
+
+173. Palawan cave
+     SISAL ID: 246
+     SISAL Coords: 10.2000, 118.9000
+
+     ✓ MATCHED TO:
+       OSM Name: Elephant Cave
+       OSM ID: 4100771303.0
+       OSM Coords: 10.1419, 118.8685
+
+     MATCH QUALITY:
+       Distance: 3.445 km
+       Name similarity: 0.400 (0=different, 1=identical)
+       Overall score: 0.373
+
+     MATCH REASON: Within search radius (3.44 km)
+
+----------------------------------------------------------------------
+
+174. White moon cave
+     SISAL ID: 210
+     SISAL Coords: 37.0000, -122.1830
+
+     ✓ MATCHED TO:
+       OSM Name: Bodhidharma Cave
+       OSM ID: 776040430.0
+       OSM Coords: 37.2841, -122.1598
+
+     MATCH QUALITY:
+       Distance: 2.128 km
+       Name similarity: 0.286 (0=different, 1=identical)
+       Overall score: 0.372
+
+     MATCH REASON: Within search radius (2.13 km)
+
+----------------------------------------------------------------------
+
+175. São Matheus cave
+     SISAL ID: 206
+     SISAL Coords: -13.8100, -46.3500
+
+     ✓ MATCHED TO:
+       OSM Name: Terra Ronca
+       OSM ID: 6986158611.0
+       OSM Coords: -13.7351, -46.3586
+
+     MATCH QUALITY:
+       Distance: 0.938 km
+       Name similarity: 0.182 (0=different, 1=identical)
+       Overall score: 0.371
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+176. Perdida cave
+     SISAL ID: 173
+     SISAL Coords: 18.0000, -67.0000
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 2163196165.0
+       OSM Coords: 18.4081, -66.9812
+
+     MATCH QUALITY:
+       Distance: 2.142 km
+       Name similarity: 0.286 (0=different, 1=identical)
+       Overall score: 0.371
+
+     MATCH REASON: Within search radius (2.14 km)
+
+----------------------------------------------------------------------
+
+177. Kyok-Tash cave
+     SISAL ID: 323
+     SISAL Coords: 51.7290, 85.6560
+
+     ✓ MATCHED TO:
+       OSM Name: Кек-Таш
+       OSM ID: 5677995348.0
+       OSM Coords: 51.7202, 85.6504
+
+     MATCH QUALITY:
+       Distance: 0.386 km
+       Name similarity: 0.125 (0=different, 1=identical)
+       Overall score: 0.364
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+178. Yangkou cave
+     SISAL ID: 5
+     SISAL Coords: 29.0333, 107.1833
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13566719139.0
+       OSM Coords: 29.0356, 107.1899
+
+     MATCH QUALITY:
+       Distance: 0.641 km
+       Name similarity: 0.143 (0=different, 1=identical)
+       Overall score: 0.362
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+179. Heifeng cave
+     SISAL ID: 312
+     SISAL Coords: 29.0167, 107.1833
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13566719139.0
+       OSM Coords: 29.0356, 107.1899
+
+     MATCH QUALITY:
+       Distance: 0.642 km
+       Name similarity: 0.143 (0=different, 1=identical)
+       Overall score: 0.361
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+180. Excentrica cave
+     SISAL ID: 40
+     SISAL Coords: 37.1000, -7.7700
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 7206231475.0
+       OSM Coords: 37.1054, -7.7745
+
+     MATCH QUALITY:
+       Distance: 0.401 km
+       Name similarity: 0.118 (0=different, 1=identical)
+       Overall score: 0.358
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+181. Jinfo cave
+     SISAL ID: 318
+     SISAL Coords: 29.0167, 107.1792
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13566719139.0
+       OSM Coords: 29.0356, 107.1899
+
+     MATCH QUALITY:
+       Distance: 1.040 km
+       Name similarity: 0.167 (0=different, 1=identical)
+       Overall score: 0.354
+
+     MATCH REASON: Within search radius (1.04 km)
+
+----------------------------------------------------------------------
+
+182. Disbelief cave
+     SISAL ID: 285
+     SISAL Coords: -38.8200, 177.5200
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 1123061406.0
+       OSM Coords: -38.8964, 177.5265
+
+     MATCH QUALITY:
+       Distance: 0.584 km
+       Name similarity: 0.125 (0=different, 1=identical)
+       Overall score: 0.352
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+183. Te Reinga cave
+     SISAL ID: 166
+     SISAL Coords: -38.8200, 177.5200
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 1123061406.0
+       OSM Coords: -38.8964, 177.5265
+
+     MATCH QUALITY:
+       Distance: 0.584 km
+       Name similarity: 0.125 (0=different, 1=identical)
+       Overall score: 0.352
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+184. Staircase cave
+     SISAL ID: 279
+     SISAL Coords: -34.2071, 22.0899
+
+     ✓ MATCHED TO:
+       OSM Name: Pinnacle Point 13B
+       OSM ID: 3657259352.0
+       OSM Coords: -34.2078, 22.0895
+
+     MATCH QUALITY:
+       Distance: 0.035 km
+       Name similarity: 0.074 (0=different, 1=identical)
+       Overall score: 0.350
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+185. Gueldaman cave
+     SISAL ID: 81
+     SISAL Coords: 36.4333, 4.5667
+
+     ✓ MATCHED TO:
+       OSM Name: Grotte Tizi Maghlaz
+       OSM ID: 12497973563.0
+       OSM Coords: 36.5480, 4.5382
+
+     MATCH QUALITY:
+       Distance: 2.554 km
+       Name similarity: 0.286 (0=different, 1=identical)
+       Overall score: 0.347
+
+     MATCH REASON: Within search radius (2.55 km)
+
+----------------------------------------------------------------------
+
+186. Larga cave
+     SISAL ID: 325
+     SISAL Coords: 18.3200, -66.8000
+
+     ✓ MATCHED TO:
+       OSM Name: Cueva del Arco
+       OSM ID: 3269827185.0
+       OSM Coords: 18.3160, -66.7721
+
+     MATCH QUALITY:
+       Distance: 2.948 km
+       Name similarity: 0.316 (0=different, 1=identical)
+       Overall score: 0.344
+
+     MATCH REASON: Within search radius (2.95 km)
+
+----------------------------------------------------------------------
+
+187. Pink Panther cave
+     SISAL ID: 278
+     SISAL Coords: 32.0000, -105.2000
+
+     ✓ MATCHED TO:
+       OSM Name: Drill Hole
+       OSM ID: 3835819480.0
+       OSM Coords: 33.8089, -105.2018
+
+     MATCH QUALITY:
+       Distance: 3.514 km
+       Name similarity: 0.364 (0=different, 1=identical)
+       Overall score: 0.344
+
+     MATCH REASON: Within search radius (3.51 km)
+
+----------------------------------------------------------------------
+
+188. Guillotine cave
+     SISAL ID: 151
+     SISAL Coords: -42.3108, 172.2178
+
+     ✓ MATCHED TO:
+       OSM Name: Miners Cave
+       OSM ID: 1123061543.0
+       OSM Coords: -41.2026, 172.1818
+
+     MATCH QUALITY:
+       Distance: 3.682 km
+       Name similarity: 0.375 (0=different, 1=identical)
+       Overall score: 0.342
+
+     MATCH REASON: Within search radius (3.68 km)
+
+----------------------------------------------------------------------
+
+189. Bulgarian Orlova Chuka cave
+     SISAL ID: 263
+     SISAL Coords: 43.5937, 25.9597
+
+     ✓ MATCHED TO:
+       OSM Name: Орлова чука
+       OSM ID: 1174578048.0
+       OSM Coords: 43.5933, 25.9601
+
+     MATCH QUALITY:
+       Distance: 0.031 km
+       Name similarity: 0.061 (0=different, 1=identical)
+       Overall score: 0.341
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+190. McLean's cave
+     SISAL ID: 49
+     SISAL Coords: 38.0700, -120.4200
+
+     ✓ MATCHED TO:
+       OSM Name: Moaning Cave
+       OSM ID: 992092588.0
+       OSM Coords: 38.0690, -120.4660
+
+     MATCH QUALITY:
+       Distance: 4.030 km
+       Name similarity: 0.400 (0=different, 1=identical)
+       Overall score: 0.338
+
+     MATCH REASON: Within search radius (4.03 km)
+
+----------------------------------------------------------------------
+
+191. Kanaan cave
+     SISAL ID: 19
+     SISAL Coords: 33.9069, 35.6069
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13073296633.0
+       OSM Coords: 33.2754, 35.5777
+
+     MATCH QUALITY:
+       Distance: 2.965 km
+       Name similarity: 0.308 (0=different, 1=identical)
+       Overall score: 0.337
+
+     MATCH REASON: Within search radius (2.96 km)
+
+----------------------------------------------------------------------
+
+192. Max's cave
+     SISAL ID: 164
+     SISAL Coords: -38.2667, 175.0167
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 1123061583.0
+       OSM Coords: -37.5450, 175.0161
+
+     MATCH QUALITY:
+       Distance: 1.401 km
+       Name similarity: 0.167 (0=different, 1=identical)
+       Overall score: 0.333
+
+     MATCH REASON: Within search radius (1.40 km)
+
+----------------------------------------------------------------------
+
+193. Zhuliuping cave
+     SISAL ID: 174
+     SISAL Coords: 26.0167, 104.0950
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 6975770077.0
+       OSM Coords: 24.9029, 104.0880
+
+     MATCH QUALITY:
+       Distance: 2.273 km
+       Name similarity: 0.235 (0=different, 1=identical)
+       Overall score: 0.328
+
+     MATCH REASON: Within search radius (2.27 km)
+
+----------------------------------------------------------------------
+
+194. Larshullet cave
+     SISAL ID: 47
+     SISAL Coords: 66.4381, 14.1822
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13093008192.0
+       OSM Coords: 66.7810, 14.1324
+
+     MATCH QUALITY:
+       Distance: 2.298 km
+       Name similarity: 0.235 (0=different, 1=identical)
+       Overall score: 0.327
+
+     MATCH REASON: Within search radius (2.30 km)
+
+----------------------------------------------------------------------
+
+195. Pacupahuain cave
+     SISAL ID: 231
+     SISAL Coords: -11.2400, -75.8200
+
+     ✓ MATCHED TO:
+       OSM Name: Sima de Racas Marca
+       OSM ID: 11478460514.0
+       OSM Coords: -11.2457, -75.7947
+
+     MATCH QUALITY:
+       Distance: 2.761 km
+       Name similarity: 0.267 (0=different, 1=identical)
+       Overall score: 0.321
+
+     MATCH REASON: Within search radius (2.76 km)
+
+----------------------------------------------------------------------
+
+196. Skala Marion cave
+     SISAL ID: 56
+     SISAL Coords: 40.6387, 24.5144
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 12521313377.0
+       OSM Coords: 40.6224, 24.5397
+
+     MATCH QUALITY:
+       Distance: 2.134 km
+       Name similarity: 0.211 (0=different, 1=identical)
+       Overall score: 0.319
+
+     MATCH REASON: Within search radius (2.13 km)
+
+----------------------------------------------------------------------
+
+197. Mavri Trypa cave
+     SISAL ID: 156
+     SISAL Coords: 36.7360, 21.7596
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 7192265387.0
+       OSM Coords: 36.9356, 21.7460
+
+     MATCH QUALITY:
+       Distance: 1.269 km
+       Name similarity: 0.111 (0=different, 1=identical)
+       Overall score: 0.302
+
+     MATCH REASON: Within search radius (1.27 km)
+
+----------------------------------------------------------------------
+
+198. Kulishu cave
+     SISAL ID: 45
+     SISAL Coords: 39.6800, 115.6500
+
+     ✓ MATCHED TO:
+       OSM Name: 泄水洞
+       OSM ID: 9927050233.0
+       OSM Coords: 39.6950, 115.6498
+
+     MATCH QUALITY:
+       Distance: 0.035 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.298
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+199. Limnon cave
+     SISAL ID: 292
+     SISAL Coords: 37.9605, 22.1403
+
+     ✓ MATCHED TO:
+       OSM Name: Σπήλαιο Λιμνών
+       OSM ID: 5097880046.0
+       OSM Coords: 37.9597, 22.1398
+
+     MATCH QUALITY:
+       Distance: 0.042 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.297
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+200. Diva cave
+     SISAL ID: 38
+     SISAL Coords: -12.3819, -41.5733
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta da Fumaça
+       OSM ID: 6176987555.0
+       OSM Coords: -12.3321, -41.5967
+
+     MATCH QUALITY:
+       Distance: 2.545 km
+       Name similarity: 0.211 (0=different, 1=identical)
+       Overall score: 0.295
+
+     MATCH REASON: Within search radius (2.54 km)
+
+----------------------------------------------------------------------
+
+201. Lapa grande cave
+     SISAL ID: 23
+     SISAL Coords: -14.3700, -44.2800
+
+     ✓ MATCHED TO:
+       OSM Name: Gruta do Janelão
+       OSM ID: 13307603920.0
+       OSM Coords: -15.1165, -44.2412
+
+     MATCH QUALITY:
+       Distance: 4.413 km
+       Name similarity: 0.370 (0=different, 1=identical)
+       Overall score: 0.294
+
+     MATCH REASON: Within search radius (4.41 km)
+
+----------------------------------------------------------------------
+
+202. Gol-E-Zard cave
+     SISAL ID: 270
+     SISAL Coords: 35.8400, 52.0000
+
+     ✓ MATCHED TO:
+       OSM Name: غار گل زرد
+       OSM ID: 5894264165.0
+       OSM Coords: 35.8422, 52.0021
+
+     MATCH QUALITY:
+       Distance: 0.188 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.289
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+203. Katalekhor
+     SISAL ID: 320
+     SISAL Coords: 35.8500, 48.1600
+
+     ✓ MATCHED TO:
+       OSM Name: غار کتله خور
+       OSM ID: 3096058666.0
+       OSM Coords: 35.8360, 48.1621
+
+     MATCH QUALITY:
+       Distance: 0.196 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.288
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+204. Amir Timur cave
+     SISAL ID: 296
+     SISAL Coords: 39.4227, 66.7632
+
+     ✓ MATCHED TO:
+       OSM Name: Zarautsay Cave
+       OSM ID: 9801979591.0
+       OSM Coords: 37.8538, 66.7345
+
+     MATCH QUALITY:
+       Distance: 3.936 km
+       Name similarity: 0.316 (0=different, 1=identical)
+       Overall score: 0.285
+
+     MATCH REASON: Within search radius (3.94 km)
+
+----------------------------------------------------------------------
+
+205. Hoti cave
+     SISAL ID: 152
+     SISAL Coords: 23.0833, 57.3500
+
+     ✓ MATCHED TO:
+       OSM Name: كهف الهوتة
+       OSM ID: 4358968290.0
+       OSM Coords: 23.0821, 57.3544
+
+     MATCH QUALITY:
+       Distance: 0.446 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.273
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+206. Gejkar cave
+     SISAL ID: 269
+     SISAL Coords: 35.8000, 45.1645
+
+     ✓ MATCHED TO:
+       OSM Name: كهف سركلو
+       OSM ID: 7016608685.0
+       OSM Coords: 35.8736, 45.1695
+
+     MATCH QUALITY:
+       Distance: 0.473 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.272
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+207. Wanxiang cave
+     SISAL ID: 223
+     SISAL Coords: 33.3200, 105.0000
+
+     ✓ MATCHED TO:
+       OSM Name: 万象洞
+       OSM ID: 8354378120.0
+       OSM Coords: 33.3300, 105.0050
+
+     MATCH QUALITY:
+       Distance: 0.467 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.272
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+208. Jiangjun cave
+     SISAL ID: 317
+     SISAL Coords: 22.9500, 104.8167
+
+     ✓ MATCHED TO:
+       OSM Name: 曼棍洞
+       OSM ID: 11443521790.0
+       OSM Coords: 22.9664, 104.8117
+
+     MATCH QUALITY:
+       Distance: 0.509 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.269
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+209. Shijiangjun cave
+     SISAL ID: 346
+     SISAL Coords: 26.2000, 105.5000
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 6989696617.0
+       OSM Coords: 27.7013, 105.5114
+
+     MATCH QUALITY:
+       Distance: 3.124 km
+       Name similarity: 0.222 (0=different, 1=identical)
+       Overall score: 0.268
+
+     MATCH REASON: Within search radius (3.12 km)
+
+----------------------------------------------------------------------
+
+210. Shizi cave
+     SISAL ID: 347
+     SISAL Coords: 29.6822, 106.2881
+
+     ✓ MATCHED TO:
+       OSM Name: 果老寨遗址
+       OSM ID: 11876859066.0
+       OSM Coords: 29.6611, 106.2955
+
+     MATCH QUALITY:
+       Distance: 0.718 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.257
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+211. War Eagle
+     SISAL ID: 352
+     SISAL Coords: 34.6700, -86.0500
+
+     ✓ MATCHED TO:
+       OSM Name: Tumbling Rock Cave
+       OSM ID: 10110882090.0
+       OSM Coords: 34.8231, -86.0696
+
+     MATCH QUALITY:
+       Distance: 1.812 km
+       Name similarity: 0.091 (0=different, 1=identical)
+       Overall score: 0.255
+
+     MATCH REASON: Within search radius (1.81 km)
+
+----------------------------------------------------------------------
+
+212. Pentadactylos
+     SISAL ID: 336
+     SISAL Coords: 35.2700, 33.4700
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 7327265062.0
+       OSM Coords: 35.2798, 33.4357
+
+     MATCH QUALITY:
+       Distance: 3.112 km
+       Name similarity: 0.200 (0=different, 1=identical)
+       Overall score: 0.253
+
+     MATCH REASON: Within search radius (3.11 km)
+
+----------------------------------------------------------------------
+
+213. Tonnel’naya cave
+     SISAL ID: 9
+     SISAL Coords: 38.4000, 67.2300
+
+     ✓ MATCHED TO:
+       OSM Name: пещера Вьюнок
+       OSM ID: 9186866184.0
+       OSM Coords: 38.3801, 67.2397
+
+     MATCH QUALITY:
+       Distance: 0.844 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.249
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+214. Xinglong cave
+     SISAL ID: 69
+     SISAL Coords: 40.5000, 117.5000
+
+     ✓ MATCHED TO:
+       OSM Name: 兴隆溶洞
+       OSM ID: 2495014138.0
+       OSM Coords: 40.4870, 117.4890
+
+     MATCH QUALITY:
+       Distance: 0.931 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.244
+
+     MATCH REASON: Close proximity (<1 km, despite low name similarity)
+
+----------------------------------------------------------------------
+
+215. Shigao cave
+     SISAL ID: 249
+     SISAL Coords: 28.1830, 107.1670
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13566719139.0
+       OSM Coords: 29.0356, 107.1899
+
+     MATCH QUALITY:
+       Distance: 2.780 km
+       Name similarity: 0.154 (0=different, 1=identical)
+       Overall score: 0.241
+
+     MATCH REASON: Within search radius (2.78 km)
+
+----------------------------------------------------------------------
+
+216. Heshang cave
+     SISAL ID: 122
+     SISAL Coords: 30.4500, 110.4167
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 5048285229.0
+       OSM Coords: 29.3440, 110.4342
+
+     MATCH QUALITY:
+       Distance: 2.729 km
+       Name similarity: 0.143 (0=different, 1=identical)
+       Overall score: 0.236
+
+     MATCH REASON: Within search radius (2.73 km)
+
+----------------------------------------------------------------------
+
+217. Lianhua cave, Shanxi
+     SISAL ID: 244
+     SISAL Coords: 38.1667, 113.7167
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 5438822822.0
+       OSM Coords: 38.6083, 113.7402
+
+     MATCH QUALITY:
+       Distance: 2.220 km
+       Name similarity: 0.091 (0=different, 1=identical)
+       Overall score: 0.230
+
+     MATCH REASON: Within search radius (2.22 km)
+
+----------------------------------------------------------------------
+
+218. B7 cave
+     SISAL ID: 258
+     SISAL Coords: 49.0000, 7.0000
+
+     ✓ MATCHED TO:
+       OSM Name: La Grotte Dagobert
+       OSM ID: 278574320.0
+       OSM Coords: 48.0405, 7.0208
+
+     MATCH QUALITY:
+       Distance: 2.411 km
+       Name similarity: 0.100 (0=different, 1=identical)
+       Overall score: 0.225
+
+     MATCH REASON: Within search radius (2.41 km)
+
+----------------------------------------------------------------------
+
+219. Xiaobailong cave
+     SISAL ID: 127
+     SISAL Coords: 24.2000, 103.3600
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 9098145258.0
+       OSM Coords: 25.0691, 103.3804
+
+     MATCH QUALITY:
+       Distance: 2.666 km
+       Name similarity: 0.111 (0=different, 1=identical)
+       Overall score: 0.218
+
+     MATCH REASON: Within search radius (2.67 km)
+
+----------------------------------------------------------------------
+
+220. Dongge cave
+     SISAL ID: 39
+     SISAL Coords: 25.2833, 108.0833
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 5228393368.0
+       OSM Coords: 25.3444, 108.0493
+
+     MATCH QUALITY:
+       Distance: 3.415 km
+       Name similarity: 0.154 (0=different, 1=identical)
+       Overall score: 0.203
+
+     MATCH REASON: Within search radius (3.42 km)
+
+----------------------------------------------------------------------
+
+221. Wulu cave
+     SISAL ID: 354
+     SISAL Coords: 26.0500, 105.0833
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 5501815824.0
+       OSM Coords: 26.8127, 105.1182
+
+     MATCH QUALITY:
+       Distance: 3.774 km
+       Name similarity: 0.182 (0=different, 1=identical)
+       Overall score: 0.201
+
+     MATCH REASON: Within search radius (3.77 km)
+
+----------------------------------------------------------------------
+
+222. Dark cave
+     SISAL ID: 216
+     SISAL Coords: 27.2000, 106.1667
+
+     ✓ MATCHED TO:
+       OSM Name: Zhongdong cave
+       OSM ID: 2509040859.0
+       OSM Coords: 25.4100, 106.1600
+
+     MATCH QUALITY:
+       Distance: 3.537 km
+       Name similarity: 0.154 (0=different, 1=identical)
+       Overall score: 0.195
+
+     MATCH REASON: Within search radius (3.54 km)
+
+----------------------------------------------------------------------
+
+223. Terciopelo cave
+     SISAL ID: 274
+     SISAL Coords: 10.1700, -85.3300
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 5905508413.0
+       OSM Coords: 10.7813, -85.3566
+
+     MATCH QUALITY:
+       Distance: 3.138 km
+       Name similarity: 0.118 (0=different, 1=identical)
+       Overall score: 0.194
+
+     MATCH REASON: Within search radius (3.14 km)
+
+----------------------------------------------------------------------
+
+224. Buckeye creek
+     SISAL ID: 128
+     SISAL Coords: 37.9800, -80.4000
+
+     ✓ MATCHED TO:
+       OSM Name: Organ Cave
+       OSM ID: 9913438479.0
+       OSM Coords: 37.7182, -80.4363
+
+     MATCH QUALITY:
+       Distance: 3.227 km
+       Name similarity: 0.111 (0=different, 1=identical)
+       Overall score: 0.184
+
+     MATCH REASON: Within search radius (3.23 km)
+
+----------------------------------------------------------------------
+
+225. Sanbao cave
+     SISAL ID: 140
+     SISAL Coords: 31.6670, 110.4333
+
+     ✓ MATCHED TO:
+       OSM Name: 野人洞
+       OSM ID: 9887908804.0
+       OSM Coords: 31.7202, 110.4587
+
+     MATCH QUALITY:
+       Distance: 2.410 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.155
+
+     MATCH REASON: Within search radius (2.41 km)
+
+----------------------------------------------------------------------
+
+226. Suozi cave
+     SISAL ID: 59
+     SISAL Coords: 32.4300, 107.1700
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13581390702.0
+       OSM Coords: 30.3029, 107.1867
+
+     MATCH QUALITY:
+       Distance: 4.423 km
+       Name similarity: 0.167 (0=different, 1=identical)
+       Overall score: 0.151
+
+     MATCH REASON: Within search radius (4.42 km)
+
+----------------------------------------------------------------------
+
+227. Hulu cave
+     SISAL ID: 6
+     SISAL Coords: 32.5000, 119.1700
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 12150637414.0
+       OSM Coords: 32.0955, 119.2211
+
+     MATCH QUALITY:
+       Distance: 4.865 km
+       Name similarity: 0.182 (0=different, 1=identical)
+       Overall score: 0.135
+
+     MATCH REASON: Within search radius (4.87 km)
+
+----------------------------------------------------------------------
+
+228. Xiangshui cave
+     SISAL ID: 211
+     SISAL Coords: 25.2500, 110.9200
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 13586189099.0
+       OSM Coords: 24.4894, 110.9598
+
+     MATCH QUALITY:
+       Distance: 4.277 km
+       Name similarity: 0.125 (0=different, 1=identical)
+       Overall score: 0.131
+
+     MATCH REASON: Within search radius (4.28 km)
+
+----------------------------------------------------------------------
+
+229. Haozhu cave
+     SISAL ID: 242
+     SISAL Coords: 30.6833, 109.9833
+
+     ✓ MATCHED TO:
+       OSM Name: Unnamed
+       OSM ID: 8944365518.0
+       OSM Coords: 31.0733, 109.9335
+
+     MATCH QUALITY:
+       Distance: 4.811 km
+       Name similarity: 0.154 (0=different, 1=identical)
+       Overall score: 0.119
+
+     MATCH REASON: Within search radius (4.81 km)
+
+----------------------------------------------------------------------
+
+230. Timta cave
+     SISAL ID: 61
+     SISAL Coords: 29.8381, 82.0336
+
+     ✓ MATCHED TO:
+       OSM Name: सिद्ध गुफा
+       OSM ID: 11268539252.0
+       OSM Coords: 28.3808, 82.0087
+
+     MATCH QUALITY:
+       Distance: 3.722 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.077
+
+     MATCH REASON: Within search radius (3.72 km)
+
+----------------------------------------------------------------------
+
+231. Huangchao cave
+     SISAL ID: 315
+     SISAL Coords: 36.6167, 118.3333
+
+     ✓ MATCHED TO:
+       OSM Name: 藏兵洞（西洞口）
+       OSM ID: 9247925660.0
+       OSM Coords: 34.1969, 118.3384
+
+     MATCH QUALITY:
+       Distance: 4.719 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.017
+
+     MATCH REASON: Within search radius (4.72 km)
+
+----------------------------------------------------------------------
+
+232. Yangzi cave
+     SISAL ID: 356
+     SISAL Coords: 29.7830, 107.7830
+
+     ✓ MATCHED TO:
+       OSM Name: 虎穴探险
+       OSM ID: 9908902505.0
+       OSM Coords: 29.3769, 107.7338
+
+     MATCH QUALITY:
+       Distance: 4.824 km
+       Name similarity: 0.000 (0=different, 1=identical)
+       Overall score: 0.011
+
+     MATCH REASON: Within search radius (4.82 km)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+
+UNMATCHED SITES (73)
+======================================================================
+No OSM cave features found within 5 km radius
+
+  1. Abaco Island cave
+     SISAL ID: 70
+     Coords: 26.2300, -77.1600
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  2. Anjokipoty
+     SISAL ID: 32
+     Coords: -15.5784, 46.7344
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  3. Arch cave
+     SISAL ID: 149
+     Coords: 50.5500, -127.0700
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  4. Baluk cave
+     SISAL ID: 239
+     Coords: 42.4330, 84.7330
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  5. Brown's cave
+     SISAL ID: 95
+     Coords: 27.8894, -82.5186
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  6. Cave C126
+     SISAL ID: 214
+     Coords: -22.1000, 113.9000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  7. Chaara cave
+     SISAL ID: 215
+     Coords: 33.9558, -4.2461
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  8. Chilibrillo cave
+     SISAL ID: 78
+     Coords: 9.1741, -79.6164
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+  9. Cold Air cave
+     SISAL ID: 7
+     Coords: -24.0000, 29.1833
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 10. Cold Water cave
+     SISAL ID: 190
+     Coords: 43.4678, -91.9750
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 11. Creighton`s cave
+     SISAL ID: 284
+     Coords: -40.6300, 172.4700
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 12. Cueva del Diablo
+     SISAL ID: 34
+     Coords: 18.1920, -99.9210
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 13. Curupira cave
+     SISAL ID: 35
+     Coords: -15.2002, -56.7839
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 14. Cuíca cave
+     SISAL ID: 306
+     Coords: -11.6822, -60.6431
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 15. Dandak cave
+     SISAL ID: 130
+     Coords: 19.0000, 82.0000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 16. Dante cave
+     SISAL ID: 99
+     Coords: -19.4000, 17.8833
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 17. Dayu cave
+     SISAL ID: 36
+     Coords: 33.1330, 106.3000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 18. Doubtful Xanadu
+     SISAL ID: 169
+     Coords: -45.3735, 167.0476
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 19. Efflux cave
+     SISAL ID: 307
+     Coords: -33.4100, 22.3400
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 20. Forestry cave
+     SISAL ID: 181
+     Coords: -9.4890, 159.9740
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 21. GD8
+     SISAL ID: 308
+     Coords: 80.3777, -21.7468
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 22. Gempa bumi cave
+     SISAL ID: 241
+     Coords: -5.0000, 120.0000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 23. Grotte de Piste
+     SISAL ID: 135
+     Coords: 33.9500, -4.2460
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 24. Gunung-buda cave (snail shell cave)
+     SISAL ID: 146
+     Coords: 4.0200, 114.4800
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 25. Herolds Bay cave
+     SISAL ID: 314
+     Coords: -34.0500, 22.3900
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 26. Huangye cave
+     SISAL ID: 17
+     Coords: 33.5833, 105.1167
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 27. Jiulong cave
+     SISAL ID: 319
+     Coords: 27.8000, 113.9000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 28. Jiuxian cave
+     SISAL ID: 154
+     Coords: 33.5667, 109.1000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 29. KNI-51
+     SISAL ID: 155
+     Coords: -15.3000, 128.6200
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 30. Kailash cave
+     SISAL ID: 243
+     Coords: 18.8445, 81.9915
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 31. Kesang cave
+     SISAL ID: 2
+     Coords: 42.8700, 81.7500
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 32. Kotumsar cave
+     SISAL ID: 182
+     Coords: 19.0000, 82.0000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 33. Lapa sem fim cave
+     SISAL ID: 24
+     Coords: -16.1503, -44.6281
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 34. Linzhu cave
+     SISAL ID: 326
+     Coords: 31.5167, 110.3167
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 35. Mairs cave
+     SISAL ID: 29
+     Coords: -32.1600, 138.8300
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 36. Marota cave
+     SISAL ID: 230
+     Coords: -12.6227, -41.0216
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 37. Mata Virgem cave
+     SISAL ID: 328
+     Coords: -11.6200, -47.4900
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 38. Mawmluh cave
+     SISAL ID: 12
+     Coords: 25.2622, 91.8817
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 39. Moomi cave
+     SISAL ID: 138
+     Coords: 12.5500, 54.2000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 40. Munagamanu cave
+     SISAL ID: 157
+     Coords: 15.1500, 77.9200
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 41. Nakarallu cave
+     SISAL ID: 245
+     Coords: 14.5200, 77.9900
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 42. Okshola cave
+     SISAL ID: 26
+     Coords: 67.0000, 15.0000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 43. Paixão cave
+     SISAL ID: 113
+     Coords: -12.6182, -41.0184
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 44. Palco cave
+     SISAL ID: 294
+     Coords: 18.3500, -66.5000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 45. Paraiso cave
+     SISAL ID: 3
+     Coords: -4.0667, -55.4500
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 46. Pir Ghar cave
+     SISAL ID: 337
+     Coords: 35.2300, 57.4200
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 47. Qujia cave
+     SISAL ID: 340
+     Coords: 35.7000, 118.4000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 48. Rainha cave
+     SISAL ID: 111
+     Coords: -5.5782, -37.6432
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 49. Rio Secreto cave system
+     SISAL ID: 232
+     Coords: 20.5900, -87.1300
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 50. Robinson cave
+     SISAL ID: 233
+     Coords: 33.0000, -107.7000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 51. Sahiya cave
+     SISAL ID: 54
+     Coords: 30.6000, 77.8667
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 52. Shennong cave
+     SISAL ID: 219
+     Coords: 28.7100, 117.2600
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 53. Shenqi cave
+     SISAL ID: 248
+     Coords: 28.3330, 103.1000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 54. Sudwala cave
+     SISAL ID: 348
+     Coords: -25.3700, 20.7000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 55. Talisman cave
+     SISAL ID: 349
+     Coords: 40.3900, 72.3500
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 56. Tamboril cave
+     SISAL ID: 27
+     Coords: -16.0000, -47.0000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 57. Taurius cave
+     SISAL ID: 60
+     Coords: -15.5333, 167.0167
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 58. Tianmen
+     SISAL ID: 142
+     Coords: 30.9167, 90.0667
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 59. Trapiá cave
+     SISAL ID: 351
+     Coords: -5.6000, -37.7000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 60. Twin Forks cave
+     SISAL ID: 287
+     Coords: -40.6300, 172.4800
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 61. Tzabnah cave
+     SISAL ID: 63
+     Coords: 20.7300, -89.7160
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 62. Uluu-Too cave
+     SISAL ID: 209
+     Coords: 40.4000, 72.3500
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 63. Valmiki cave 
+     SISAL ID: 28
+     Coords: 15.1500, 77.8167
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 64. Venado cave
+     SISAL ID: 281
+     Coords: 10.5500, -84.7700
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 65. Wah Shikhar cave
+     SISAL ID: 64
+     Coords: 25.2500, 91.8667
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 66. Wet Neck cave
+     SISAL ID: 288
+     Coords: -40.7000, 172.4800
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 67. Wolkberg cave
+     SISAL ID: 172
+     Coords: -24.1000, 29.8800
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 68. Wuya cave
+     SISAL ID: 250
+     Coords: 33.8200, 105.4300
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 69. Xianglong cave
+     SISAL ID: 224
+     Coords: 33.0000, 106.3300
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 70. Xiniu cave
+     SISAL ID: 355
+     Coords: 31.5167, 110.5700
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 71. Yamen cave
+     SISAL ID: 178
+     Coords: 25.4833, 107.9000
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 72. Yaoba Don cave
+     SISAL ID: 175
+     Coords: 28.8000, 109.8300
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+ 73. Zhangjia cave
+     SISAL ID: 358
+     Coords: 32.5833, 105.0833
+     ✗ REASON: No OSM elements within 5 km radius
+
+     POSSIBLE CAUSES:
+       - Cave not yet mapped in OpenStreetMap
+       - Cave mapped with different tags
+       - SISAL coordinates imprecise
+       - Cave in remote/unmapped area
+
+----------------------------------------------------------------------
+
+
+======================================================================
+
+DETAILED STATISTICS
+======================================================================
+
+DISTANCE STATISTICS (km):
+  Minimum:  0.000
+  Maximum:  4.940
+  Mean:     1.331
+  Median:   0.816
+  Std Dev:  1.376
+
+NAME SIMILARITY STATISTICS:
+  Minimum:  0.000
+  Maximum:  1.000
+  Mean:     0.470
+  Median:   0.414
+  Std Dev:  0.302
+
+MATCH SCORE STATISTICS:
+  Minimum:  0.011
+  Maximum:  1.000
+  Mean:     0.549
+  Median:   0.508
+  Std Dev:  0.237
+
+MATCH QUALITY CATEGORIES:
+  Strong name match (sim > 0.8):         40 ( 17.2%)
+  Moderate name match (0.5 < sim ≤ 0.8):  55 ( 23.7%)
+  Close proximity (dist < 1km):          65 ( 28.0%)
+  Weak match (low sim, dist ≥ 1km):      72 ( 31.0%)

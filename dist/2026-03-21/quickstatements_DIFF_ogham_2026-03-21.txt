@@ -1,0 +1,53 @@
+# ===============================================
+# DIFF QuickStatements: ogham
+# Generated: 2026-03-21T16:24:36Z
+# Wikibase Query: 2026-03-21T16:24:36Z
+# 
+# Summary:
+#   - 1 ADDED (CREATE)
+#   - 3 MODIFIED (UPDATE)
+#   - 106 POTENTIAL UPDATES (checking...)
+#   - 0 DELETED (ignored)
+# ===============================================
+
+# ----------------
+# ADDED ITEMS (1)
+# ----------------
+
+CREATE
+LAST|Len|"Unnamed"
+LAST|Den|"OSM import snapshot (ogham) – node/13666664175"
+LAST|P1|Q12
+LAST|P3|13666664175
+LAST|P4|Q5
+LAST|P5|@51.9351635/-9.1529692
+LAST|P10|Q24
+LAST|P11|<https://www.openstreetmap.org/node/13666664175>
+LAST|P12|"2026-03-21T16:24:36Z"
+LAST|P13|1
+LAST|P16|180203449
+LAST|P17|"2026-03-21T11:49:07Z"
+
+# ---------------------
+# CHECKING FOR UPDATES
+# ---------------------
+
+# node/7110849500 (Q58): version 12→13, coordinates
+Q58|P12|"2026-03-21T16:24:36Z"
+Q58|P13|13
+Q58|P16|179877570
+Q58|P17|"2026-03-14T22:11:27Z"
+Q58|P5|@52.6554723/-7.1460975
+
+# node/7110849501 (Q59): version 10→11, coordinates
+Q59|P12|"2026-03-21T16:24:36Z"
+Q59|P13|11
+Q59|P16|179877570
+Q59|P17|"2026-03-14T22:11:27Z"
+Q59|P5|@52.6554369/-7.1459396
+
+# node/9110402648 (Q72): version 12→13
+Q72|P12|"2026-03-21T16:24:36Z"
+Q72|P13|13
+Q72|P16|179465157
+Q72|P17|"2026-03-06T21:38:51Z"

@@ -1,0 +1,127 @@
+# ===============================================
+# DIFF QuickStatements: drillcores
+# Generated: 2026-03-21T16:24:49Z
+# Wikibase Query: 2026-03-21T16:24:49Z
+# 
+# Summary:
+#   - 4 ADDED (CREATE)
+#   - 3 MODIFIED (UPDATE)
+#   - 4 POTENTIAL UPDATES (checking...)
+#   - 7 DELETED (ignored)
+# ===============================================
+
+# ----------------
+# ADDED ITEMS (4)
+# ----------------
+
+CREATE
+LAST|Len|"Holzmaar"
+LAST|Den|"OSM import snapshot (drillcores) – way/144719688"
+LAST|P1|Q17
+LAST|P3|144719688
+LAST|P4|Q6
+LAST|P5|@50.11885730326084/6.877961894565216
+LAST|P7|"de:Holzmaar"
+LAST|P10|Q27
+LAST|P11|<https://www.openstreetmap.org/way/144719688>
+LAST|P12|"2026-03-21T16:24:49Z"
+LAST|P13|6
+LAST|P16|176211971
+LAST|P17|"2025-12-21T10:53:18Z"
+
+CREATE
+LAST|Len|"Ulmener Maar"
+LAST|Den|"OSM import snapshot (drillcores) – way/144726746"
+LAST|P1|Q17
+LAST|P3|144726746
+LAST|P4|Q6
+LAST|P5|@50.21039865652174/6.982133803260868
+LAST|P6|"Q1257548"
+LAST|P7|"de:Ulmener Maar"
+LAST|P10|Q27
+LAST|P11|<https://www.openstreetmap.org/way/144726746>
+LAST|P12|"2026-03-21T16:24:49Z"
+LAST|P13|14
+LAST|P16|176212609
+LAST|P17|"2025-12-21T11:10:12Z"
+
+CREATE
+LAST|Len|"Jungferweiher"
+LAST|Den|"OSM import snapshot (drillcores) – way/144726755"
+LAST|P1|Q17
+LAST|P3|144726755
+LAST|P4|Q6
+LAST|P5|@50.21789210593608/6.98007192694064
+LAST|P10|Q27
+LAST|P11|<https://www.openstreetmap.org/way/144726755>
+LAST|P12|"2026-03-21T16:24:49Z"
+LAST|P13|18
+LAST|P16|176212110
+LAST|P17|"2025-12-21T10:56:06Z"
+
+CREATE
+LAST|Len|"Gemündener Maar"
+LAST|Den|"OSM import snapshot (drillcores) – way/72767715"
+LAST|P1|Q17
+LAST|P3|72767715
+LAST|P4|Q6
+LAST|P5|@50.177668450000006/6.83644002
+LAST|P6|"Q1501226"
+LAST|P7|"de:Gemündener Maar"
+LAST|P10|Q27
+LAST|P11|<https://www.openstreetmap.org/way/72767715>
+LAST|P12|"2026-03-21T16:24:49Z"
+LAST|P13|6
+LAST|P16|176211538
+LAST|P17|"2025-12-21T10:40:41Z"
+
+# ---------------------
+# CHECKING FOR UPDATES
+# ---------------------
+
+# node/13200943487 (Q37): version 2→3, coordinates
+Q37|P12|"2026-03-21T16:24:49Z"
+Q37|P13|3
+Q37|P16|176226337
+Q37|P17|"2025-12-21T16:59:49Z"
+Q37|P5|@50.2943837/6.5052787
+
+# node/13200955773 (Q38): version 2→3
+Q38|P12|"2026-03-21T16:24:49Z"
+Q38|P13|3
+Q38|P16|176226251
+Q38|P17|"2025-12-21T16:57:27Z"
+
+# way/56428302 (Q889): version 36→37, coordinates
+Q889|P12|"2026-03-21T16:24:49Z"
+Q889|P13|37
+Q889|P16|177968884
+Q889|P17|"2026-02-01T15:29:02Z"
+Q889|P5|@50.41012548343949/7.266722015923566
+
+# ===============================================
+# 🗑️  DELETED ITEMS (7) - DEPRECATION
+# ===============================================
+# These items exist in Wikibase but were deleted from OSM.
+# Automatically marking as deprecated (P18 = Q891).
+
+# node/13200939169 (Q884) - "Walsdorfer Maar" - Last OSM version: 2
+Q884|P18|Q891  # status = deprecated
+
+# node/13200972050 (Q885) - "Hoher List Maar" - Last OSM version: 2
+Q885|P18|Q891  # status = deprecated
+
+# node/13386703821 (Q39) - "AU3" - Last OSM version: 3
+Q39|P18|Q891  # status = deprecated
+
+# node/13386723672 (Q40) - "DE4" - Last OSM version: 1
+Q40|P18|Q891  # status = deprecated
+
+# node/13386786938 (Q41) - "AU4" - Last OSM version: 1
+Q41|P18|Q891  # status = deprecated
+
+# node/13388641643 (Q886) - "HL1" - Last OSM version: 2
+Q886|P18|Q891  # status = deprecated
+
+# node/13388651352 (Q887) - "WD1" - Last OSM version: 2
+Q887|P18|Q891  # status = deprecated

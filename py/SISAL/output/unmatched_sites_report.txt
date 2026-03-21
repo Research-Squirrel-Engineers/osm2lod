@@ -1,0 +1,1940 @@
+======================================================================
+UNMATCHED SISAL SITES - DETAILED REPORT
+======================================================================
+
+Sites without OSM cave match within 5 km radius
+Total unmatched: 73 of 305 (23.9%)
+
+======================================================================
+
+  1. Abaco Island cave
+======================================================================
+SISAL Information:
+  Site ID: 70
+  Site Name: Abaco Island cave
+  Latitude: 26.230000
+  Longitude: -77.160000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/26.2300/-77.1600
+  Google Maps: https://www.google.com/maps/@26.2300,-77.1600,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,26.23,-77.16););out;&R
+
+----------------------------------------------------------------------
+
+  2. Anjokipoty
+======================================================================
+SISAL Information:
+  Site ID: 32
+  Site Name: Anjokipoty
+  Latitude: -15.578400
+  Longitude: 46.734400
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-15.5784/46.7344
+  Google Maps: https://www.google.com/maps/@-15.5784,46.7344,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-15.5784,46.7344););out;&R
+
+----------------------------------------------------------------------
+
+  3. Arch cave
+======================================================================
+SISAL Information:
+  Site ID: 149
+  Site Name: Arch cave
+  Latitude: 50.550000
+  Longitude: -127.070000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/50.5500/-127.0700
+  Google Maps: https://www.google.com/maps/@50.5500,-127.0700,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,50.55,-127.07););out;&R
+
+----------------------------------------------------------------------
+
+  4. Baluk cave
+======================================================================
+SISAL Information:
+  Site ID: 239
+  Site Name: Baluk cave
+  Latitude: 42.433000
+  Longitude: 84.733000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/42.4330/84.7330
+  Google Maps: https://www.google.com/maps/@42.4330,84.7330,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,42.433,84.733););out;&R
+
+----------------------------------------------------------------------
+
+  5. Brown's cave
+======================================================================
+SISAL Information:
+  Site ID: 95
+  Site Name: Brown's cave
+  Latitude: 27.889400
+  Longitude: -82.518600
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/27.8894/-82.5186
+  Google Maps: https://www.google.com/maps/@27.8894,-82.5186,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,27.8894,-82.5186););out;&R
+
+----------------------------------------------------------------------
+
+  6. Cave C126
+======================================================================
+SISAL Information:
+  Site ID: 214
+  Site Name: Cave C126
+  Latitude: -22.100000
+  Longitude: 113.900000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-22.1000/113.9000
+  Google Maps: https://www.google.com/maps/@-22.1000,113.9000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-22.1,113.9););out;&R
+
+----------------------------------------------------------------------
+
+  7. Chaara cave
+======================================================================
+SISAL Information:
+  Site ID: 215
+  Site Name: Chaara cave
+  Latitude: 33.955800
+  Longitude: -4.246100
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.9558/-4.2461
+  Google Maps: https://www.google.com/maps/@33.9558,-4.2461,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.9558,-4.2461););out;&R
+
+----------------------------------------------------------------------
+
+  8. Chilibrillo cave
+======================================================================
+SISAL Information:
+  Site ID: 78
+  Site Name: Chilibrillo cave
+  Latitude: 9.174100
+  Longitude: -79.616400
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/9.1741/-79.6164
+  Google Maps: https://www.google.com/maps/@9.1741,-79.6164,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,9.1741,-79.6164););out;&R
+
+----------------------------------------------------------------------
+
+  9. Cold Air cave
+======================================================================
+SISAL Information:
+  Site ID: 7
+  Site Name: Cold Air cave
+  Latitude: -24.000000
+  Longitude: 29.183300
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-24.0000/29.1833
+  Google Maps: https://www.google.com/maps/@-24.0000,29.1833,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-24.0,29.1833););out;&R
+
+----------------------------------------------------------------------
+
+ 10. Cold Water cave
+======================================================================
+SISAL Information:
+  Site ID: 190
+  Site Name: Cold Water cave
+  Latitude: 43.467800
+  Longitude: -91.975000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/43.4678/-91.9750
+  Google Maps: https://www.google.com/maps/@43.4678,-91.9750,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,43.4678,-91.975););out;&R
+
+----------------------------------------------------------------------
+
+ 11. Creighton`s cave
+======================================================================
+SISAL Information:
+  Site ID: 284
+  Site Name: Creighton`s cave
+  Latitude: -40.630000
+  Longitude: 172.470000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-40.6300/172.4700
+  Google Maps: https://www.google.com/maps/@-40.6300,172.4700,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-40.63,172.47););out;&R
+
+----------------------------------------------------------------------
+
+ 12. Cueva del Diablo
+======================================================================
+SISAL Information:
+  Site ID: 34
+  Site Name: Cueva del Diablo
+  Latitude: 18.192000
+  Longitude: -99.921000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/18.1920/-99.9210
+  Google Maps: https://www.google.com/maps/@18.1920,-99.9210,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,18.192,-99.921););out;&R
+
+----------------------------------------------------------------------
+
+ 13. Curupira cave
+======================================================================
+SISAL Information:
+  Site ID: 35
+  Site Name: Curupira cave
+  Latitude: -15.200200
+  Longitude: -56.783900
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-15.2002/-56.7839
+  Google Maps: https://www.google.com/maps/@-15.2002,-56.7839,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-15.2002,-56.7839););out;&R
+
+----------------------------------------------------------------------
+
+ 14. Cuíca cave
+======================================================================
+SISAL Information:
+  Site ID: 306
+  Site Name: Cuíca cave
+  Latitude: -11.682200
+  Longitude: -60.643100
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-11.6822/-60.6431
+  Google Maps: https://www.google.com/maps/@-11.6822,-60.6431,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-11.6822,-60.6431););out;&R
+
+----------------------------------------------------------------------
+
+ 15. Dandak cave
+======================================================================
+SISAL Information:
+  Site ID: 130
+  Site Name: Dandak cave
+  Latitude: 19.000000
+  Longitude: 82.000000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/19.0000/82.0000
+  Google Maps: https://www.google.com/maps/@19.0000,82.0000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,19.0,82.0););out;&R
+
+----------------------------------------------------------------------
+
+ 16. Dante cave
+======================================================================
+SISAL Information:
+  Site ID: 99
+  Site Name: Dante cave
+  Latitude: -19.400000
+  Longitude: 17.883300
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-19.4000/17.8833
+  Google Maps: https://www.google.com/maps/@-19.4000,17.8833,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-19.4,17.8833););out;&R
+
+----------------------------------------------------------------------
+
+ 17. Dayu cave
+======================================================================
+SISAL Information:
+  Site ID: 36
+  Site Name: Dayu cave
+  Latitude: 33.133000
+  Longitude: 106.300000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.1330/106.3000
+  Google Maps: https://www.google.com/maps/@33.1330,106.3000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.133,106.3););out;&R
+
+----------------------------------------------------------------------
+
+ 18. Doubtful Xanadu
+======================================================================
+SISAL Information:
+  Site ID: 169
+  Site Name: Doubtful Xanadu
+  Latitude: -45.373500
+  Longitude: 167.047600
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-45.3735/167.0476
+  Google Maps: https://www.google.com/maps/@-45.3735,167.0476,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-45.3735,167.0476););out;&R
+
+----------------------------------------------------------------------
+
+ 19. Efflux cave
+======================================================================
+SISAL Information:
+  Site ID: 307
+  Site Name: Efflux cave
+  Latitude: -33.410000
+  Longitude: 22.340000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-33.4100/22.3400
+  Google Maps: https://www.google.com/maps/@-33.4100,22.3400,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-33.41,22.34););out;&R
+
+----------------------------------------------------------------------
+
+ 20. Forestry cave
+======================================================================
+SISAL Information:
+  Site ID: 181
+  Site Name: Forestry cave
+  Latitude: -9.489000
+  Longitude: 159.974000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-9.4890/159.9740
+  Google Maps: https://www.google.com/maps/@-9.4890,159.9740,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-9.489,159.974););out;&R
+
+----------------------------------------------------------------------
+
+ 21. GD8
+======================================================================
+SISAL Information:
+  Site ID: 308
+  Site Name: GD8
+  Latitude: 80.377700
+  Longitude: -21.746800
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/80.3777/-21.7468
+  Google Maps: https://www.google.com/maps/@80.3777,-21.7468,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,80.3777,-21.7468););out;&R
+
+----------------------------------------------------------------------
+
+ 22. Gempa bumi cave
+======================================================================
+SISAL Information:
+  Site ID: 241
+  Site Name: Gempa bumi cave
+  Latitude: -5.000000
+  Longitude: 120.000000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-5.0000/120.0000
+  Google Maps: https://www.google.com/maps/@-5.0000,120.0000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-5.0,120.0););out;&R
+
+----------------------------------------------------------------------
+
+ 23. Grotte de Piste
+======================================================================
+SISAL Information:
+  Site ID: 135
+  Site Name: Grotte de Piste
+  Latitude: 33.950000
+  Longitude: -4.246000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.9500/-4.2460
+  Google Maps: https://www.google.com/maps/@33.9500,-4.2460,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.95,-4.246););out;&R
+
+----------------------------------------------------------------------
+
+ 24. Gunung-buda cave (snail shell cave)
+======================================================================
+SISAL Information:
+  Site ID: 146
+  Site Name: Gunung-buda cave (snail shell cave)
+  Latitude: 4.020000
+  Longitude: 114.480000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/4.0200/114.4800
+  Google Maps: https://www.google.com/maps/@4.0200,114.4800,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,4.02,114.48););out;&R
+
+----------------------------------------------------------------------
+
+ 25. Herolds Bay cave
+======================================================================
+SISAL Information:
+  Site ID: 314
+  Site Name: Herolds Bay cave
+  Latitude: -34.050000
+  Longitude: 22.390000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-34.0500/22.3900
+  Google Maps: https://www.google.com/maps/@-34.0500,22.3900,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-34.05,22.39););out;&R
+
+----------------------------------------------------------------------
+
+ 26. Huangye cave
+======================================================================
+SISAL Information:
+  Site ID: 17
+  Site Name: Huangye cave
+  Latitude: 33.583300
+  Longitude: 105.116700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.5833/105.1167
+  Google Maps: https://www.google.com/maps/@33.5833,105.1167,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.5833,105.1167););out;&R
+
+----------------------------------------------------------------------
+
+ 27. Jiulong cave
+======================================================================
+SISAL Information:
+  Site ID: 319
+  Site Name: Jiulong cave
+  Latitude: 27.800000
+  Longitude: 113.900000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/27.8000/113.9000
+  Google Maps: https://www.google.com/maps/@27.8000,113.9000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,27.8,113.9););out;&R
+
+----------------------------------------------------------------------
+
+ 28. Jiuxian cave
+======================================================================
+SISAL Information:
+  Site ID: 154
+  Site Name: Jiuxian cave
+  Latitude: 33.566700
+  Longitude: 109.100000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.5667/109.1000
+  Google Maps: https://www.google.com/maps/@33.5667,109.1000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.5667,109.1););out;&R
+
+----------------------------------------------------------------------
+
+ 29. KNI-51
+======================================================================
+SISAL Information:
+  Site ID: 155
+  Site Name: KNI-51
+  Latitude: -15.300000
+  Longitude: 128.620000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-15.3000/128.6200
+  Google Maps: https://www.google.com/maps/@-15.3000,128.6200,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-15.3,128.62););out;&R
+
+----------------------------------------------------------------------
+
+ 30. Kailash cave
+======================================================================
+SISAL Information:
+  Site ID: 243
+  Site Name: Kailash cave
+  Latitude: 18.844500
+  Longitude: 81.991500
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/18.8445/81.9915
+  Google Maps: https://www.google.com/maps/@18.8445,81.9915,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,18.8445,81.9915););out;&R
+
+----------------------------------------------------------------------
+
+ 31. Kesang cave
+======================================================================
+SISAL Information:
+  Site ID: 2
+  Site Name: Kesang cave
+  Latitude: 42.870000
+  Longitude: 81.750000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/42.8700/81.7500
+  Google Maps: https://www.google.com/maps/@42.8700,81.7500,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,42.87,81.75););out;&R
+
+----------------------------------------------------------------------
+
+ 32. Kotumsar cave
+======================================================================
+SISAL Information:
+  Site ID: 182
+  Site Name: Kotumsar cave
+  Latitude: 19.000000
+  Longitude: 82.000000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/19.0000/82.0000
+  Google Maps: https://www.google.com/maps/@19.0000,82.0000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,19.0,82.0););out;&R
+
+----------------------------------------------------------------------
+
+ 33. Lapa sem fim cave
+======================================================================
+SISAL Information:
+  Site ID: 24
+  Site Name: Lapa sem fim cave
+  Latitude: -16.150300
+  Longitude: -44.628100
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-16.1503/-44.6281
+  Google Maps: https://www.google.com/maps/@-16.1503,-44.6281,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-16.1503,-44.6281););out;&R
+
+----------------------------------------------------------------------
+
+ 34. Linzhu cave
+======================================================================
+SISAL Information:
+  Site ID: 326
+  Site Name: Linzhu cave
+  Latitude: 31.516700
+  Longitude: 110.316700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/31.5167/110.3167
+  Google Maps: https://www.google.com/maps/@31.5167,110.3167,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,31.5167,110.3167););out;&R
+
+----------------------------------------------------------------------
+
+ 35. Mairs cave
+======================================================================
+SISAL Information:
+  Site ID: 29
+  Site Name: Mairs cave
+  Latitude: -32.160000
+  Longitude: 138.830000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-32.1600/138.8300
+  Google Maps: https://www.google.com/maps/@-32.1600,138.8300,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-32.16,138.83););out;&R
+
+----------------------------------------------------------------------
+
+ 36. Marota cave
+======================================================================
+SISAL Information:
+  Site ID: 230
+  Site Name: Marota cave
+  Latitude: -12.622700
+  Longitude: -41.021600
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-12.6227/-41.0216
+  Google Maps: https://www.google.com/maps/@-12.6227,-41.0216,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-12.6227,-41.0216););out;&R
+
+----------------------------------------------------------------------
+
+ 37. Mata Virgem cave
+======================================================================
+SISAL Information:
+  Site ID: 328
+  Site Name: Mata Virgem cave
+  Latitude: -11.620000
+  Longitude: -47.490000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-11.6200/-47.4900
+  Google Maps: https://www.google.com/maps/@-11.6200,-47.4900,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-11.62,-47.49););out;&R
+
+----------------------------------------------------------------------
+
+ 38. Mawmluh cave
+======================================================================
+SISAL Information:
+  Site ID: 12
+  Site Name: Mawmluh cave
+  Latitude: 25.262200
+  Longitude: 91.881700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/25.2622/91.8817
+  Google Maps: https://www.google.com/maps/@25.2622,91.8817,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,25.2622,91.8817););out;&R
+
+----------------------------------------------------------------------
+
+ 39. Moomi cave
+======================================================================
+SISAL Information:
+  Site ID: 138
+  Site Name: Moomi cave
+  Latitude: 12.550000
+  Longitude: 54.200000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/12.5500/54.2000
+  Google Maps: https://www.google.com/maps/@12.5500,54.2000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,12.55,54.2););out;&R
+
+----------------------------------------------------------------------
+
+ 40. Munagamanu cave
+======================================================================
+SISAL Information:
+  Site ID: 157
+  Site Name: Munagamanu cave
+  Latitude: 15.150000
+  Longitude: 77.920000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/15.1500/77.9200
+  Google Maps: https://www.google.com/maps/@15.1500,77.9200,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,15.15,77.92););out;&R
+
+----------------------------------------------------------------------
+
+ 41. Nakarallu cave
+======================================================================
+SISAL Information:
+  Site ID: 245
+  Site Name: Nakarallu cave
+  Latitude: 14.520000
+  Longitude: 77.990000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/14.5200/77.9900
+  Google Maps: https://www.google.com/maps/@14.5200,77.9900,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,14.52,77.99););out;&R
+
+----------------------------------------------------------------------
+
+ 42. Okshola cave
+======================================================================
+SISAL Information:
+  Site ID: 26
+  Site Name: Okshola cave
+  Latitude: 67.000000
+  Longitude: 15.000000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/67.0000/15.0000
+  Google Maps: https://www.google.com/maps/@67.0000,15.0000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,67.0,15.0););out;&R
+
+----------------------------------------------------------------------
+
+ 43. Paixão cave
+======================================================================
+SISAL Information:
+  Site ID: 113
+  Site Name: Paixão cave
+  Latitude: -12.618200
+  Longitude: -41.018400
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-12.6182/-41.0184
+  Google Maps: https://www.google.com/maps/@-12.6182,-41.0184,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-12.6182,-41.0184););out;&R
+
+----------------------------------------------------------------------
+
+ 44. Palco cave
+======================================================================
+SISAL Information:
+  Site ID: 294
+  Site Name: Palco cave
+  Latitude: 18.350000
+  Longitude: -66.500000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/18.3500/-66.5000
+  Google Maps: https://www.google.com/maps/@18.3500,-66.5000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,18.35,-66.5););out;&R
+
+----------------------------------------------------------------------
+
+ 45. Paraiso cave
+======================================================================
+SISAL Information:
+  Site ID: 3
+  Site Name: Paraiso cave
+  Latitude: -4.066700
+  Longitude: -55.450000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-4.0667/-55.4500
+  Google Maps: https://www.google.com/maps/@-4.0667,-55.4500,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-4.0667,-55.45););out;&R
+
+----------------------------------------------------------------------
+
+ 46. Pir Ghar cave
+======================================================================
+SISAL Information:
+  Site ID: 337
+  Site Name: Pir Ghar cave
+  Latitude: 35.230000
+  Longitude: 57.420000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/35.2300/57.4200
+  Google Maps: https://www.google.com/maps/@35.2300,57.4200,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,35.23,57.42););out;&R
+
+----------------------------------------------------------------------
+
+ 47. Qujia cave
+======================================================================
+SISAL Information:
+  Site ID: 340
+  Site Name: Qujia cave
+  Latitude: 35.700000
+  Longitude: 118.400000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/35.7000/118.4000
+  Google Maps: https://www.google.com/maps/@35.7000,118.4000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,35.7,118.4););out;&R
+
+----------------------------------------------------------------------
+
+ 48. Rainha cave
+======================================================================
+SISAL Information:
+  Site ID: 111
+  Site Name: Rainha cave
+  Latitude: -5.578200
+  Longitude: -37.643200
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-5.5782/-37.6432
+  Google Maps: https://www.google.com/maps/@-5.5782,-37.6432,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-5.5782,-37.6432););out;&R
+
+----------------------------------------------------------------------
+
+ 49. Rio Secreto cave system
+======================================================================
+SISAL Information:
+  Site ID: 232
+  Site Name: Rio Secreto cave system
+  Latitude: 20.590000
+  Longitude: -87.130000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/20.5900/-87.1300
+  Google Maps: https://www.google.com/maps/@20.5900,-87.1300,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,20.59,-87.13););out;&R
+
+----------------------------------------------------------------------
+
+ 50. Robinson cave
+======================================================================
+SISAL Information:
+  Site ID: 233
+  Site Name: Robinson cave
+  Latitude: 33.000000
+  Longitude: -107.700000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.0000/-107.7000
+  Google Maps: https://www.google.com/maps/@33.0000,-107.7000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.0,-107.7););out;&R
+
+----------------------------------------------------------------------
+
+ 51. Sahiya cave
+======================================================================
+SISAL Information:
+  Site ID: 54
+  Site Name: Sahiya cave
+  Latitude: 30.600000
+  Longitude: 77.866700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/30.6000/77.8667
+  Google Maps: https://www.google.com/maps/@30.6000,77.8667,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,30.6,77.8667););out;&R
+
+----------------------------------------------------------------------
+
+ 52. Shennong cave
+======================================================================
+SISAL Information:
+  Site ID: 219
+  Site Name: Shennong cave
+  Latitude: 28.710000
+  Longitude: 117.260000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/28.7100/117.2600
+  Google Maps: https://www.google.com/maps/@28.7100,117.2600,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,28.71,117.26););out;&R
+
+----------------------------------------------------------------------
+
+ 53. Shenqi cave
+======================================================================
+SISAL Information:
+  Site ID: 248
+  Site Name: Shenqi cave
+  Latitude: 28.333000
+  Longitude: 103.100000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/28.3330/103.1000
+  Google Maps: https://www.google.com/maps/@28.3330,103.1000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,28.333,103.1););out;&R
+
+----------------------------------------------------------------------
+
+ 54. Sudwala cave
+======================================================================
+SISAL Information:
+  Site ID: 348
+  Site Name: Sudwala cave
+  Latitude: -25.370000
+  Longitude: 20.700000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-25.3700/20.7000
+  Google Maps: https://www.google.com/maps/@-25.3700,20.7000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-25.37,20.7););out;&R
+
+----------------------------------------------------------------------
+
+ 55. Talisman cave
+======================================================================
+SISAL Information:
+  Site ID: 349
+  Site Name: Talisman cave
+  Latitude: 40.390000
+  Longitude: 72.350000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/40.3900/72.3500
+  Google Maps: https://www.google.com/maps/@40.3900,72.3500,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,40.39,72.35););out;&R
+
+----------------------------------------------------------------------
+
+ 56. Tamboril cave
+======================================================================
+SISAL Information:
+  Site ID: 27
+  Site Name: Tamboril cave
+  Latitude: -16.000000
+  Longitude: -47.000000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-16.0000/-47.0000
+  Google Maps: https://www.google.com/maps/@-16.0000,-47.0000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-16.0,-47.0););out;&R
+
+----------------------------------------------------------------------
+
+ 57. Taurius cave
+======================================================================
+SISAL Information:
+  Site ID: 60
+  Site Name: Taurius cave
+  Latitude: -15.533300
+  Longitude: 167.016700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-15.5333/167.0167
+  Google Maps: https://www.google.com/maps/@-15.5333,167.0167,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-15.5333,167.0167););out;&R
+
+----------------------------------------------------------------------
+
+ 58. Tianmen
+======================================================================
+SISAL Information:
+  Site ID: 142
+  Site Name: Tianmen
+  Latitude: 30.916700
+  Longitude: 90.066700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/30.9167/90.0667
+  Google Maps: https://www.google.com/maps/@30.9167,90.0667,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,30.9167,90.0667););out;&R
+
+----------------------------------------------------------------------
+
+ 59. Trapiá cave
+======================================================================
+SISAL Information:
+  Site ID: 351
+  Site Name: Trapiá cave
+  Latitude: -5.600000
+  Longitude: -37.700000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-5.6000/-37.7000
+  Google Maps: https://www.google.com/maps/@-5.6000,-37.7000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-5.6,-37.7););out;&R
+
+----------------------------------------------------------------------
+
+ 60. Twin Forks cave
+======================================================================
+SISAL Information:
+  Site ID: 287
+  Site Name: Twin Forks cave
+  Latitude: -40.630000
+  Longitude: 172.480000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-40.6300/172.4800
+  Google Maps: https://www.google.com/maps/@-40.6300,172.4800,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-40.63,172.48););out;&R
+
+----------------------------------------------------------------------
+
+ 61. Tzabnah cave
+======================================================================
+SISAL Information:
+  Site ID: 63
+  Site Name: Tzabnah cave
+  Latitude: 20.730000
+  Longitude: -89.716000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/20.7300/-89.7160
+  Google Maps: https://www.google.com/maps/@20.7300,-89.7160,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,20.73,-89.716););out;&R
+
+----------------------------------------------------------------------
+
+ 62. Uluu-Too cave
+======================================================================
+SISAL Information:
+  Site ID: 209
+  Site Name: Uluu-Too cave
+  Latitude: 40.400000
+  Longitude: 72.350000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/40.4000/72.3500
+  Google Maps: https://www.google.com/maps/@40.4000,72.3500,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,40.4,72.35););out;&R
+
+----------------------------------------------------------------------
+
+ 63. Valmiki cave 
+======================================================================
+SISAL Information:
+  Site ID: 28
+  Site Name: Valmiki cave 
+  Latitude: 15.150000
+  Longitude: 77.816700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/15.1500/77.8167
+  Google Maps: https://www.google.com/maps/@15.1500,77.8167,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,15.15,77.8167););out;&R
+
+----------------------------------------------------------------------
+
+ 64. Venado cave
+======================================================================
+SISAL Information:
+  Site ID: 281
+  Site Name: Venado cave
+  Latitude: 10.550000
+  Longitude: -84.770000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/10.5500/-84.7700
+  Google Maps: https://www.google.com/maps/@10.5500,-84.7700,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,10.55,-84.77););out;&R
+
+----------------------------------------------------------------------
+
+ 65. Wah Shikhar cave
+======================================================================
+SISAL Information:
+  Site ID: 64
+  Site Name: Wah Shikhar cave
+  Latitude: 25.250000
+  Longitude: 91.866700
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/25.2500/91.8667
+  Google Maps: https://www.google.com/maps/@25.2500,91.8667,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,25.25,91.8667););out;&R
+
+----------------------------------------------------------------------
+
+ 66. Wet Neck cave
+======================================================================
+SISAL Information:
+  Site ID: 288
+  Site Name: Wet Neck cave
+  Latitude: -40.700000
+  Longitude: 172.480000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-40.7000/172.4800
+  Google Maps: https://www.google.com/maps/@-40.7000,172.4800,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-40.7,172.48););out;&R
+
+----------------------------------------------------------------------
+
+ 67. Wolkberg cave
+======================================================================
+SISAL Information:
+  Site ID: 172
+  Site Name: Wolkberg cave
+  Latitude: -24.100000
+  Longitude: 29.880000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/-24.1000/29.8800
+  Google Maps: https://www.google.com/maps/@-24.1000,29.8800,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,-24.1,29.88););out;&R
+
+----------------------------------------------------------------------
+
+ 68. Wuya cave
+======================================================================
+SISAL Information:
+  Site ID: 250
+  Site Name: Wuya cave
+  Latitude: 33.820000
+  Longitude: 105.430000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.8200/105.4300
+  Google Maps: https://www.google.com/maps/@33.8200,105.4300,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.82,105.43););out;&R
+
+----------------------------------------------------------------------
+
+ 69. Xianglong cave
+======================================================================
+SISAL Information:
+  Site ID: 224
+  Site Name: Xianglong cave
+  Latitude: 33.000000
+  Longitude: 106.330000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/33.0000/106.3300
+  Google Maps: https://www.google.com/maps/@33.0000,106.3300,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,33.0,106.33););out;&R
+
+----------------------------------------------------------------------
+
+ 70. Xiniu cave
+======================================================================
+SISAL Information:
+  Site ID: 355
+  Site Name: Xiniu cave
+  Latitude: 31.516700
+  Longitude: 110.570000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/31.5167/110.5700
+  Google Maps: https://www.google.com/maps/@31.5167,110.5700,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,31.5167,110.57););out;&R
+
+----------------------------------------------------------------------
+
+ 71. Yamen cave
+======================================================================
+SISAL Information:
+  Site ID: 178
+  Site Name: Yamen cave
+  Latitude: 25.483300
+  Longitude: 107.900000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/25.4833/107.9000
+  Google Maps: https://www.google.com/maps/@25.4833,107.9000,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,25.4833,107.9););out;&R
+
+----------------------------------------------------------------------
+
+ 72. Yaoba Don cave
+======================================================================
+SISAL Information:
+  Site ID: 175
+  Site Name: Yaoba Don cave
+  Latitude: 28.800000
+  Longitude: 109.830000
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/28.8000/109.8300
+  Google Maps: https://www.google.com/maps/@28.8000,109.8300,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,28.8,109.83););out;&R
+
+----------------------------------------------------------------------
+
+ 73. Zhangjia cave
+======================================================================
+SISAL Information:
+  Site ID: 358
+  Site Name: Zhangjia cave
+  Latitude: 32.583300
+  Longitude: 105.083300
+
+Match Status:
+  ✗ NO MATCH FOUND
+  Reason: No OSM cave features within 5 km search radius
+
+Possible Causes:
+  • Cave not yet mapped in OpenStreetMap
+  • Cave mapped with different/incorrect tags
+  • SISAL coordinates may be imprecise
+  • Cave in remote/poorly-mapped area
+  • Cave entrance may be mapped as different feature type
+
+Links for Manual Verification:
+  OpenStreetMap: https://www.openstreetmap.org/#map=14/32.5833/105.0833
+  Google Maps: https://www.google.com/maps/@32.5833,105.0833,14z
+  Overpass (10km radius): https://overpass-turbo.eu/?Q=[out:json];(node["natural"="cave_entrance"](around:10000,32.5833,105.0833););out;&R
+
+----------------------------------------------------------------------
+
+
+======================================================================
+GEOGRAPHIC DISTRIBUTION OF UNMATCHED SITES
+======================================================================
+
+Europe            1 sites (  1.4%)
+Asia             33 sites ( 45.2%)
+Americas         21 sites ( 28.8%)
+Africa            9 sites ( 12.3%)
+Oceania           9 sites ( 12.3%)
+
+======================================================================
+RECOMMENDATIONS FOR UNMATCHED SITES
+======================================================================
+
+1. Manual Verification:
+   - Use provided OpenStreetMap/Google Maps links
+   - Check if cave exists but has different name
+   - Verify SISAL coordinates are correct
+
+2. Contribute to OpenStreetMap:
+   - If cave exists but is not mapped: add it!
+   - Use iD editor: https://www.openstreetmap.org/edit
+   - Tag as: natural=cave_entrance + name=...
+
+3. Data Quality Check:
+   - Cross-reference SISAL coordinates with literature
+   - Some sites may need coordinate correction
+
+4. Expand Search Radius:
+   - Try 10km or 20km radius for remote areas
+   - Modify script: radius=10 in sisal_osm_mapper.py
+
