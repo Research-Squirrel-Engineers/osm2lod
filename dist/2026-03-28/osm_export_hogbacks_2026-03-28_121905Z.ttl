@@ -1,0 +1,755 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix wd: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+osm2lod:node_13677371107 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Govan Stone 2"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13677371107" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Govan Stone 2" ;
+    osm2lod:osmtag__ref "ECMS, 2 Lang 1" ;
+    osm2lod:osmtag__wikidata "Q136659904" ;
+    geosparql:hasGeometry osm2lod:13677371107_geom ;
+    owl:sameAs wd:Q136659904 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13677371107> .
+
+osm2lod:node_13677371179 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Govan Stone 3"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13677371179" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Govan Stone 3" ;
+    osm2lod:osmtag__ref "ECMS 12, Lang 3" ;
+    osm2lod:osmtag__wikidata "Q138806762" ;
+    geosparql:hasGeometry osm2lod:13677371179_geom ;
+    owl:sameAs wd:Q138806762 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13677371179> .
+
+osm2lod:node_13680563647 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Govan Stone 4"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13680563647" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Govan Stone 4" ;
+    osm2lod:osmtag__ref "ECMS 3, Lang 4" ;
+    osm2lod:osmtag__wikidata "Q138806836" ;
+    geosparql:hasGeometry osm2lod:13680563647_geom ;
+    owl:sameAs wd:Q138806836 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13680563647> .
+
+osm2lod:node_13681993023 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13681993023"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13681993023" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q15815766" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Heysham%20hogback> ;
+    osm2lod:osmtag__wikipedia "Heysham hogback"@en ;
+    geosparql:hasGeometry osm2lod:13681993023_geom ;
+    owl:sameAs wd:Q15815766 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13681993023> .
+
+osm2lod:node_13683537467 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Inchcolm hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683537467" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Inchcolm hogback" ;
+    osm2lod:osmtag__wikidata "Q1623357" ;
+    geosparql:hasGeometry osm2lod:13683537467_geom ;
+    owl:sameAs wd:Q1623357 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683537467> .
+
+osm2lod:node_13683570386 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683570386"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683570386" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138803526" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:A%20Hogback%20tombstone%20-%20geograph.org.uk%20-%207909871.jpg> ;
+    geosparql:hasGeometry osm2lod:13683570386_geom ;
+    owl:sameAs wd:Q138803526 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683570386> .
+
+osm2lod:node_13683582841 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683582841"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683582841" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138806849" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Logie%20Kirk%20hogback%201> ;
+    geosparql:hasGeometry osm2lod:13683582841_geom ;
+    owl:sameAs wd:Q138806849 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683582841> .
+
+osm2lod:node_13683582842 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683582842"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683582842" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__description "fragmented hogback" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138806858" ;
+    geosparql:hasGeometry osm2lod:13683582842_geom ;
+    owl:sameAs wd:Q138806858 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683582842> .
+
+osm2lod:node_13683583575 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683583575"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683583575" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138806864" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Brechin%20Cathedral%2020090616%20hogback.jpg> ;
+    geosparql:hasGeometry osm2lod:13683583575_geom ;
+    owl:sameAs wd:Q138806864 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683583575> .
+
+osm2lod:node_13683593953 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683593953"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683593953" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q56293517" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Luss%20hogback> ;
+    geosparql:hasGeometry osm2lod:13683593953_geom ;
+    owl:sameAs wd:Q56293517 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683593953> .
+
+osm2lod:node_13683608999 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683608999"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683608999" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138803696" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Brompton%20hogbacks> ;
+    geosparql:hasGeometry osm2lod:13683608999_geom ;
+    owl:sameAs wd:Q138803696 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683608999> .
+
+osm2lod:node_13683609206 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683609206"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683609206" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138803643" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Brompton%20hogbacks> ;
+    geosparql:hasGeometry osm2lod:13683609206_geom ;
+    owl:sameAs wd:Q138803643 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683609206> .
+
+osm2lod:node_13683609207 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683609207"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683609207" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138803608" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Brompton%20hogbacks> ;
+    geosparql:hasGeometry osm2lod:13683609207_geom ;
+    owl:sameAs wd:Q138803608 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683609207> .
+
+osm2lod:node_13683616068 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683616068"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683616068" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__source "wikimedia;Bing" ;
+    osm2lod:osmtag__wikidata "Q138800703" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Hogback%20Grave%20Marker%20-%20geograph.org.uk%20-%205838529.jpg> ;
+    geosparql:hasGeometry osm2lod:13683616068_geom ;
+    owl:sameAs wd:Q138800703 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683616068> .
+
+osm2lod:node_13683626270 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13683626270"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13683626270" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138803435" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Lastingham%20hogback> ;
+    geosparql:hasGeometry osm2lod:13683626270_geom ;
+    owl:sameAs wd:Q138803435 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13683626270> .
+
+osm2lod:node_13684453958 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13684453958"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684453958" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__access "yes" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__historic__civilization "viking" ;
+    osm2lod:osmtag__source "Wikimedia;Bing" ;
+    osm2lod:osmtag__wikidata "Q138807261" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Papa%20Westray%20hogback> ;
+    geosparql:hasGeometry osm2lod:13684453958_geom ;
+    owl:sameAs wd:Q138807261 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684453958> .
+
+osm2lod:node_13684490001 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Abercorn hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684490001" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Abercorn hogback" ;
+    osm2lod:osmtag__wikidata "Q138806672" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Abercorn%20Church%20Museum.%20Old%20Session%20House%2C%20West%20Lothian.%20Hog%20Back%20Stone.jpg> ;
+    geosparql:hasGeometry osm2lod:13684490001_geom ;
+    owl:sameAs wd:Q138806672 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684490001> .
+
+osm2lod:node_13684688331 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13684688331"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684688331" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138803120" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Category:Aspatria%20hogback> ;
+    geosparql:hasGeometry osm2lod:13684688331_geom ;
+    owl:sameAs wd:Q138803120 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684688331> .
+
+osm2lod:node_13684729596 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Govan Stone 5"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684729596" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Govan Stone 5" ;
+    osm2lod:osmtag__ref "ECMS 11, Lang 5" ;
+    osm2lod:osmtag__wikidata "Q138806715" ;
+    geosparql:hasGeometry osm2lod:13684729596_geom ;
+    owl:sameAs wd:Q138806715 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684729596> .
+
+osm2lod:node_13684729597 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Govan Stone 6"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684729597" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Govan Stone 6" ;
+    osm2lod:osmtag__ref "ECMS 10, Lang 2" ;
+    osm2lod:osmtag__wikidata "Q138806805" ;
+    geosparql:hasGeometry osm2lod:13684729597_geom ;
+    owl:sameAs wd:Q138806805 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684729597> .
+
+osm2lod:node_13684730119 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "AS Corpus Wycliffe 05"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684730119" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "AS Corpus Wycliffe 05" ;
+    osm2lod:osmtag__source "wikimedia" ;
+    osm2lod:osmtag__wikidata "Q138806630" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Anglo-Scandinavian%20hogback%2C%20St.%20Mary%27s%20Wycliffe%20-%20geograph.org.uk%20-%205767232.jpg> ;
+    geosparql:hasGeometry osm2lod:13684730119_geom ;
+    owl:sameAs wd:Q138806630 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684730119> .
+
+osm2lod:node_13684730120 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "AS Corpus Wycliffe 07"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684730120" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__description "One of two hogback fragments." ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__image <https://www.megalithic.co.uk/modules.php?op=modload&name=a312&file=index&do=showpic&pid=183325> ;
+    osm2lod:osmtag__name "AS Corpus Wycliffe 07" ;
+    osm2lod:osmtag__source "https://www.megalithic.co.uk/article.php?sid=50227" ;
+    osm2lod:osmtag__wikidata "Q138806644" ;
+    geosparql:hasGeometry osm2lod:13684730120_geom ;
+    owl:sameAs wd:Q138806644 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684730120> .
+
+osm2lod:node_13684733766 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Gosforth Hogback 1"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684733766" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Gosforth Hogback 1" ;
+    osm2lod:osmtag__wikidata "Q138802909" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Viking%20Tomb%20Stones%2C%20Gosforth%20Hogbacks%20-%20geograph.org.uk%20-%207298111.jpg> ;
+    geosparql:hasGeometry osm2lod:13684733766_geom ;
+    owl:sameAs wd:Q138802909 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684733766> .
+
+osm2lod:node_13684733767 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Gosforth Hogback 2"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684733767" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Gosforth Hogback 2" ;
+    osm2lod:osmtag__wikidata "Q138803057" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Viking%20Tomb%20Stones%2C%20Gosforth%20Hogbacks%20-%20geograph.org.uk%20-%207298111.jpg> ;
+    geosparql:hasGeometry osm2lod:13684733767_geom ;
+    owl:sameAs wd:Q138803057 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684733767> .
+
+osm2lod:node_13684741493 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13684741493"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684741493" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__source "wikimedia" ;
+    osm2lod:osmtag__wikidata "Q138803207" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Hogback%20gravestone%20in%20the%20churchyard%20of%20St.%20Bartholomew%20the%20Great%20-%20geograph.org.uk%20-%201124780.jpg> ;
+    geosparql:hasGeometry osm2lod:13684741493_geom ;
+    owl:sameAs wd:Q138803207 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684741493> .
+
+osm2lod:node_13684752127 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Barmston Hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13684752127" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Barmston Hogback" ;
+    osm2lod:osmtag__wikidata "Q138803286" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Fragment%20of%20a%20%22Hogback%22%20-%20geograph.org.uk%20-%201014570.jpg> ;
+    geosparql:hasGeometry osm2lod:13684752127_geom ;
+    owl:sameAs wd:Q138803286 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13684752127> .
+
+osm2lod:node_13685227822 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13685227822"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685227822" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138807197" ;
+    osm2lod:osmtag__wikimedia_commons <https://commons.wikimedia.org/wiki/File:Meigle%2025.jpg> ;
+    geosparql:hasGeometry osm2lod:13685227822_geom ;
+    owl:sameAs wd:Q138807197 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685227822> .
+
+osm2lod:node_13685228574 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Gilling West Hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685228574" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Gilling West Hogback" ;
+    osm2lod:osmtag__wikidata "Q138807227" ;
+    geosparql:hasGeometry osm2lod:13685228574_geom ;
+    owl:sameAs wd:Q138807227 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685228574> .
+
+osm2lod:node_13685235249 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Ingleby Arncliff Hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685235249" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__historic__civilization "viking" ;
+    osm2lod:osmtag__name "Ingleby Arncliff Hogback" ;
+    osm2lod:osmtag__source "https://chacklepie.com/ascorpus/catvol6.php?pageNum_urls=131&totalRows_urls=449" ;
+    osm2lod:osmtag__wikidata "Q138807303" ;
+    geosparql:hasGeometry osm2lod:13685235249_geom ;
+    owl:sameAs wd:Q138807303 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685235249> .
+
+osm2lod:node_13685308673 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Cockburnspath Hogback fragment"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685308673" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__historic__civilization "viking" ;
+    osm2lod:osmtag__name "Cockburnspath Hogback fragment" ;
+    osm2lod:osmtag__wikidata "Q138807326" ;
+    geosparql:hasGeometry osm2lod:13685308673_geom ;
+    owl:sameAs wd:Q138807326 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685308673> .
+
+osm2lod:node_13685365558 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13685365558"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685365558" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__historic__civilization "viking" ;
+    osm2lod:osmtag__wikidata "Q138807713" ;
+    geosparql:hasGeometry osm2lod:13685365558_geom ;
+    owl:sameAs wd:Q138807713 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685365558> .
+
+osm2lod:node_13685386035 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Cockburnspath Hogback 01"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685386035" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__historic__civilization "viking" ;
+    osm2lod:osmtag__name "Cockburnspath Hogback 01" ;
+    osm2lod:osmtag__wikidata "Q138807811" ;
+    geosparql:hasGeometry osm2lod:13685386035_geom ;
+    owl:sameAs wd:Q138807811 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685386035> .
+
+osm2lod:node_13685422331 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13685422331"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685422331" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138807773" ;
+    geosparql:hasGeometry osm2lod:13685422331_geom ;
+    owl:sameAs wd:Q138807773 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685422331> .
+
+osm2lod:node_13685428808 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13685428808"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685428808" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__image <https://www.megalithic.co.uk/a558/a312/gallery/England/Cumbria/thumb/14thAugust2018Crosscanonby05DSC_1753.jpg> ;
+    osm2lod:osmtag__wikidata "Q138807955" ;
+    geosparql:hasGeometry osm2lod:13685428808_geom ;
+    owl:sameAs wd:Q138807955 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685428808> .
+
+osm2lod:node_13685491477 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Wayland Hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685491477" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__access "restricted" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__name "Wayland Hogback" ;
+    osm2lod:osmtag__wikidata "Q138808484" ;
+    geosparql:hasGeometry osm2lod:13685491477_geom ;
+    owl:sameAs wd:Q138808484 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685491477> .
+
+osm2lod:node_13685551075 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "OSM node 13685551075"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685551075" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__description "fragment of a hogback with an interlace pattern" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__wikidata "Q138808463" ;
+    geosparql:hasGeometry osm2lod:13685551075_geom ;
+    owl:sameAs wd:Q138808463 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685551075> .
+
+osm2lod:node_13685596981 a osm2lod:HogbackStone,
+        osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object,
+        dcat:Dataset ;
+    rdfs:label "Sockburn Hogback"@en ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm:node/13685596981" ;
+    dcterms:isPartOf osm2lod:hogbacks__2026-03-28_121905Z ;
+    osm2lod:exportType "hogbacks" ;
+    osm2lod:osmtag__historic "hogback" ;
+    osm2lod:osmtag__historic__civilization "viking" ;
+    osm2lod:osmtag__name "Sockburn Hogback" ;
+    osm2lod:osmtag__wikidata "Q138808537" ;
+    geosparql:hasGeometry osm2lod:13685596981_geom ;
+    owl:sameAs wd:Q138808537 ;
+    foaf:primaryTopic <http://openstreetmap.org/node/13685596981> .
+
+osm2lod:13677371107_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.313125 55.864725)"^^geosparql:wktLiteral .
+
+osm2lod:13677371179_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.3131228 55.8647405)"^^geosparql:wktLiteral .
+
+osm2lod:13680563647_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.3131185 55.8647567)"^^geosparql:wktLiteral .
+
+osm2lod:13681993023_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.9018862 54.0474864)"^^geosparql:wktLiteral .
+
+osm2lod:13683537467_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.3019458 56.0300129)"^^geosparql:wktLiteral .
+
+osm2lod:13683570386_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.0626247 54.2469198)"^^geosparql:wktLiteral .
+
+osm2lod:13683582841_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.9084884 56.1506622)"^^geosparql:wktLiteral .
+
+osm2lod:13683582842_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.9085423 56.1506755)"^^geosparql:wktLiteral .
+
+osm2lod:13683583575_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.6615326 56.7308089)"^^geosparql:wktLiteral .
+
+osm2lod:13683593953_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.6363451 56.100427)"^^geosparql:wktLiteral .
+
+osm2lod:13683608999_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.4264448 54.3614391)"^^geosparql:wktLiteral .
+
+osm2lod:13683609206_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.4264331 54.3614383)"^^geosparql:wktLiteral .
+
+osm2lod:13683609207_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.4264204 54.3614367)"^^geosparql:wktLiteral .
+
+osm2lod:13683616068_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.6008552 55.5160269)"^^geosparql:wktLiteral .
+
+osm2lod:13683626270_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.8826933 54.3045279)"^^geosparql:wktLiteral .
+
+osm2lod:13684453958_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.9017413 59.3575499)"^^geosparql:wktLiteral .
+
+osm2lod:13684490001_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.4742852 55.9959883)"^^geosparql:wktLiteral .
+
+osm2lod:13684688331_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.3271873 54.764835)"^^geosparql:wktLiteral .
+
+osm2lod:13684729596_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.3130902 55.8647341)"^^geosparql:wktLiteral .
+
+osm2lod:13684729597_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.3130854 55.8647514)"^^geosparql:wktLiteral .
+
+osm2lod:13684730119_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.8211876 54.5240568)"^^geosparql:wktLiteral .
+
+osm2lod:13684730120_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.8209673 54.5240387)"^^geosparql:wktLiteral .
+
+osm2lod:13684733766_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.4314403 54.4192547)"^^geosparql:wktLiteral .
+
+osm2lod:13684733767_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.4314321 54.4192405)"^^geosparql:wktLiteral .
+
+osm2lod:13684741493_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.0990999 51.5190225)"^^geosparql:wktLiteral .
+
+osm2lod:13684752127_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.2366734 54.0127465)"^^geosparql:wktLiteral .
+
+osm2lod:13685227822_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.1621134 56.5874994)"^^geosparql:wktLiteral .
+
+osm2lod:13685228574_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.7357129 54.4040097)"^^geosparql:wktLiteral .
+
+osm2lod:13685235249_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.5772879 54.7733422)"^^geosparql:wktLiteral .
+
+osm2lod:13685308673_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.3154104 55.9286457)"^^geosparql:wktLiteral .
+
+osm2lod:13685365558_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.9621472 54.2631399)"^^geosparql:wktLiteral .
+
+osm2lod:13685386035_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.3156604 55.9286166)"^^geosparql:wktLiteral .
+
+osm2lod:13685422331_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.176387 53.3686752)"^^geosparql:wktLiteral .
+
+osm2lod:13685428808_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.4470771 54.7373373)"^^geosparql:wktLiteral .
+
+osm2lod:13685491477_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.5932485 54.291019)"^^geosparql:wktLiteral .
+
+osm2lod:13685551075_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.0497449 54.2022502)"^^geosparql:wktLiteral .
+
+osm2lod:13685596981_geom a sf:Point ;
+    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.5772125 54.7733429)"^^geosparql:wktLiteral .
+
+osm2lod:hogbacks__2026-03-28_121905Z a osm2lod:Dataset,
+        dcat:Dataset ;
+    dcterms:created "2026-03-28T12:19:05.793710+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:hogbacks:2026-03-28_121905Z" ;
+    dcterms:provenance """[out:json][timeout:25];
+node["historic"="hogback"];
+out meta geom;""" ;
+    dcterms:rights "© OpenStreetMap contributors (ODbL)"@en ;
+    dcterms:title "OSM Overpass Export"@en ;
+    dcterms:type "hogbacks" .
+

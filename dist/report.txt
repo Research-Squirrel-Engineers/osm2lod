@@ -1,50 +1,55 @@
-▶ Running exports: ogham, holywells, ci, drillcores, benchmarks, sisal, romansites
+▶ Running exports: ogham, holywells, ci, drillcores, benchmarks, sisal, romansites, hogbacks
 ✔ ogham: 109 records
-  → osm_export_ogham_2026-03-22_115013Z.csv
-  → osm_export_ogham_2026-03-22_115013Z.ttl
-  → metadata_ogham_2026-03-22_115013Z.json
+  → osm_export_ogham_2026-03-28_121551Z.csv
+  → osm_export_ogham_2026-03-28_121551Z.ttl
+  → metadata_ogham_2026-03-28_121551Z.json
   → URL expansion cache size: 0
 ✔ holywells: 736 records
-  → osm_export_holywells_2026-03-22_115020Z.csv
-  → osm_export_holywells_2026-03-22_115020Z.ttl
-  → metadata_holywells_2026-03-22_115020Z.json
+  → osm_export_holywells_2026-03-28_121600Z.csv
+  → osm_export_holywells_2026-03-28_121600Z.ttl
+  → metadata_holywells_2026-03-28_121600Z.json
   → URL expansion cache size: 0
-✔ ci: 11 records
-  → osm_export_ci_2026-03-22_115314Z.csv
-  → osm_export_ci_2026-03-22_115314Z.ttl
-  → metadata_ci_2026-03-22_115314Z.json
+✔ ci: 10 records
+  → osm_export_ci_2026-03-28_121718Z.csv
+  → osm_export_ci_2026-03-28_121718Z.ttl
+  → metadata_ci_2026-03-28_121718Z.json
   → URL expansion cache size: 0
 ✔ drillcores: 8 records
-  → osm_export_drillcores_2026-03-22_115316Z.csv
-  → osm_export_drillcores_2026-03-22_115316Z.ttl
-  → metadata_drillcores_2026-03-22_115316Z.json
+  → osm_export_drillcores_2026-03-28_121722Z.csv
+  → osm_export_drillcores_2026-03-28_121722Z.ttl
+  → metadata_drillcores_2026-03-28_121722Z.json
   → URL expansion cache size: 0
 ✔ benchmarks: 21 records
-  → osm_export_benchmarks_2026-03-22_115320Z.csv
-  → osm_export_benchmarks_2026-03-22_115320Z.ttl
-  → metadata_benchmarks_2026-03-22_115320Z.json
+  → osm_export_benchmarks_2026-03-28_121729Z.csv
+  → osm_export_benchmarks_2026-03-28_121729Z.ttl
+  → metadata_benchmarks_2026-03-28_121729Z.json
   → URL expansion cache size: 0
 ✔ sisal: 219 records
-  → osm_export_sisal_2026-03-22_115449Z.csv
-  → osm_export_sisal_2026-03-22_115449Z.ttl
-  → metadata_sisal_2026-03-22_115449Z.json
+  → osm_export_sisal_2026-03-28_121858Z.csv
+  → osm_export_sisal_2026-03-28_121858Z.ttl
+  → metadata_sisal_2026-03-28_121858Z.json
   → URL expansion cache size: 0
 ✔ romansites: 15 records
-  → osm_export_romansites_2026-03-22_115452Z.csv
-  → osm_export_romansites_2026-03-22_115452Z.ttl
-  → metadata_romansites_2026-03-22_115452Z.json
+  → osm_export_romansites_2026-03-28_121902Z.csv
+  → osm_export_romansites_2026-03-28_121902Z.ttl
+  → metadata_romansites_2026-03-28_121902Z.json
+  → URL expansion cache size: 0
+✔ hogbacks: 37 records
+  → osm_export_hogbacks_2026-03-28_121905Z.csv
+  → osm_export_hogbacks_2026-03-28_121905Z.ttl
+  → metadata_hogbacks_2026-03-28_121905Z.json
   → URL expansion cache size: 0
 
 ============================================================
 🦉 OWL ontology written: dist\osm2lod_ontology.ttl
-   Classes   : 10
+   Classes   : 11
    Obj props : 9
    Data props: 32
-   Triples   : 323
+   Triples   : 330
 
 ============================================================
-📊 Generating complete changelog history (4 runs)
-   Date range: 2025-12-21 → 2026-03-22
+📊 Generating complete changelog history (5 runs)
+   Date range: 2025-12-21 → 2026-03-28
 
    Comparing: 2025-12-21 → 2026-03-09
      ✔ ogham: 1 changes (0 added, 1 modified, 0 deleted)
@@ -69,8 +74,18 @@
      ✔ sisal: 219 changes (219 added, 0 modified, 0 deleted)
      ✔ romansites: 15 changes (15 added, 0 modified, 0 deleted)
 
+   Comparing: 2026-03-22 → 2026-03-28
+     ✔ ogham: 0 changes (0 added, 0 modified, 0 deleted)
+     ✔ holywells: 4 changes (0 added, 4 modified, 0 deleted)
+     ✔ ci: 1 changes (0 added, 0 modified, 1 deleted)
+     ✔ drillcores: 0 changes (0 added, 0 modified, 0 deleted)
+     ✔ benchmarks: 1 changes (0 added, 1 modified, 0 deleted)
+     ✔ sisal: 0 changes (0 added, 0 modified, 0 deleted)
+     ✔ romansites: 0 changes (0 added, 0 modified, 0 deleted)
+     ✔ hogbacks: 37 changes (37 added, 0 modified, 0 deleted)
+
 📄 Complete changelog history saved: dist\changelog.html
-   Total comparisons: 17
+   Total comparisons: 25
 
 ============================================================
 🔄 Generating Diff-QuickStatements vs Wikibase

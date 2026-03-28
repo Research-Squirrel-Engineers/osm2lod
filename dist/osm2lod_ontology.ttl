@@ -39,6 +39,14 @@ osm2lod:CoreProfile a owl:Class ;
     rdfs:subClassOf osm2lod:OSMEntity,
         crm:E55_Place .
 
+osm2lod:HogbackStone a owl:Class ;
+    rdfs:label "Hogback Stone"@en ;
+    rdfs:comment "A Viking-Age carved recumbent monument, typically found in northern England and Scotland."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E22_Human_Made_Object ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object .
+
 osm2lod:HolyWell a owl:Class ;
     rdfs:label "Holy Well"@en ;
     rdfs:comment "A sacred water site, typically a natural spring venerated in folk or religious tradition."@en ;
@@ -375,11 +383,11 @@ osm2lod:OSMEntity a owl:Class ;
 
 osm2lod:ontology a owl:Ontology ;
     rdfs:label "osm2lod Ontology"@en ;
-    dcterms:created "2026-03-22T11:54:52.779865+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-28T12:19:05.841743+00:00"^^xsd:dateTime ;
     dcterms:creator "Research Squirrel Engineers" ;
     dcterms:description "Vocabulary for representing OpenStreetMap features as Linked Data, aligned to CIDOC-CRM, GeoSPARQL, DCAT and Dublin Core."@en ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
     dcterms:title "osm2lod – OSM to Linked Open Data Vocabulary"@en ;
     owl:imports <http://www.opengis.net/ont/geosparql> ;
-    owl:versionInfo "2026-03-22T11:54:52.779865+00:00" .
+    owl:versionInfo "2026-03-28T12:19:05.841743+00:00" .
 
