@@ -1,7 +1,7 @@
 # ===============================================
 # DIFF QuickStatements: ci
-# Generated: 2026-03-21T16:24:48Z
-# Wikibase Query: 2026-03-21T16:24:48Z
+# Generated: 2026-03-22T11:54:58Z
+# Wikibase Query: 2026-03-22T11:54:58Z
 # 
 # Summary:
 #   - 2 ADDED (CREATE)
@@ -24,7 +24,7 @@ LAST|P4|Q5
 LAST|P5|@51.3556012/39.108424
 LAST|P10|Q26
 LAST|P11|<https://www.openstreetmap.org/node/13650180080>
-LAST|P12|"2026-03-21T16:24:48Z"
+LAST|P12|"2026-03-22T11:54:58Z"
 LAST|P13|2
 LAST|P16|179907501
 LAST|P17|"2026-03-15T16:29:38Z"
@@ -41,7 +41,7 @@ LAST|P6|"Q2091689"
 LAST|P7|"sr:Трајанова табла"
 LAST|P10|Q26
 LAST|P11|<https://www.openstreetmap.org/node/1918839400>
-LAST|P12|"2026-03-21T16:24:48Z"
+LAST|P12|"2026-03-22T11:54:58Z"
 LAST|P13|21
 LAST|P16|163363013
 LAST|P17|"2025-03-08T12:55:06Z"
@@ -51,7 +51,7 @@ LAST|P17|"2025-03-08T12:55:06Z"
 # ---------------------
 
 # node/1221172611 (Q30): version 6→8, coordinates
-Q30|P12|"2026-03-21T16:24:48Z"
+Q30|P12|"2026-03-22T11:54:58Z"
 Q30|P13|8
 Q30|P16|178017325
 Q30|P17|"2026-02-02T17:35:55Z"

@@ -15,9 +15,9 @@ osm2lod:node_10084842668 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Clearwater Resurgence"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10084842668" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__description "Main exit for underground Clearwater River" ;
     osm2lod:osmtag__name "Clearwater Resurgence" ;
@@ -30,9 +30,9 @@ osm2lod:node_10110882090 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Tumbling Rock Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10110882090" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__name "Tumbling Rock Cave" ;
@@ -46,9 +46,9 @@ osm2lod:node_10135300283 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Metric Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10135300283" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gua Metrik" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -60,9 +60,9 @@ osm2lod:node_10135300285 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Whiterock Cave (Midnight Entrance)"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10135300285" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__description "Middle level entrance to Whiterock Cave system" ;
     osm2lod:osmtag__name "Whiterock Cave (Midnight Entrance)" ;
@@ -75,11 +75,10 @@ osm2lod:node_10135316701 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Fruit Bat Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10135316701" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
-    osm2lod:osmtag__name "Fruit Bat Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:10135316701_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/10135316701> .
@@ -89,9 +88,9 @@ osm2lod:node_1017924795 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Entrische Kirche"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1017924795" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Entrische Kirche" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -106,9 +105,9 @@ osm2lod:node_10302261247 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Carpenter's Gap 1"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10302261247" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Tangalma Cave" ;
     osm2lod:osmtag__name "Carpenter's Gap 1" ;
@@ -121,9 +120,9 @@ osm2lod:node_10676966439 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 10676966439"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10676966439" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:10676966439_geom ;
@@ -134,9 +133,9 @@ osm2lod:node_1074302540 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Jersey Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1074302540" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Jersey Cave" ;
@@ -149,9 +148,9 @@ osm2lod:node_10768872262 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 10768872262"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10768872262" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:10768872262_geom ;
@@ -162,9 +161,9 @@ osm2lod:node_10773895664 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Clifden Caves - Lower Entrance"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10773895664" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__alt_name "Clifden Caves" ;
@@ -184,9 +183,9 @@ osm2lod:node_10903529963 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva de la Cabrera"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10903529963" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva de la Cabrera" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -198,9 +197,9 @@ osm2lod:node_10905682924 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Buca della Renella"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10905682924" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Buca sopra a Forno" ;
     osm2lod:osmtag__name "Buca della Renella" ;
@@ -215,9 +214,9 @@ osm2lod:node_10926006942 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Manatuero"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10926006942" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Manatuero" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -229,9 +228,9 @@ osm2lod:node_10969878099 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Zahlan Grotto"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/10969878099" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Zahlan Grotto" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -243,9 +242,9 @@ osm2lod:node_11135158274 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva de Chicoy"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11135158274" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva de Chicoy" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -257,9 +256,9 @@ osm2lod:node_1123061406 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 1123061406"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1123061406" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:1123061406_geom ;
@@ -270,9 +269,9 @@ osm2lod:node_1123061543 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Miners Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1123061543" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Miners Cave" ;
@@ -286,9 +285,9 @@ osm2lod:node_1123061583 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 1123061583"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1123061583" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:1123061583_geom ;
@@ -299,9 +298,9 @@ osm2lod:node_1123061603 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Hole in the Hill"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1123061603" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Hole in the Hill" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -316,9 +315,9 @@ osm2lod:node_1123061615 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Ballroom Overhang"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1123061615" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Ballroom Overhang" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -333,9 +332,9 @@ osm2lod:node_1123061620 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 1123061620"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1123061620" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:1123061620_geom ;
@@ -347,9 +346,9 @@ osm2lod:node_11268539252 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Siddha Gufa"@en,
         "सिद्ध गुफा"@ne ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11268539252" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "सिद्ध गुफा" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -361,9 +360,9 @@ osm2lod:node_11298621603 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Onso"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11298621603" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Onso" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -375,9 +374,9 @@ osm2lod:node_11300105382 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gorcha cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11300105382" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Biyar Udiyar" ;
     osm2lod:osmtag__ele "2310" ;
@@ -391,9 +390,9 @@ osm2lod:node_11423443988 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 11423443988"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11423443988" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:11423443988_geom ;
@@ -404,9 +403,9 @@ osm2lod:node_11443521790 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "曼棍洞"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11443521790" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "曼棍洞" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -418,9 +417,9 @@ osm2lod:node_11478460514 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Sima de Racas Marca"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11478460514" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Sima de Racas Marca" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -432,9 +431,9 @@ osm2lod:node_11520700149 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Closing Jaw Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11520700149" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Closing Jaw Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -447,9 +446,9 @@ osm2lod:node_11687476904 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "cova de sa balma des cuartó"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11687476904" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "cova de sa balma des cuartó" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -462,9 +461,9 @@ osm2lod:node_11737465821 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Oren"@en,
         "מערת אורן"@he ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11737465821" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Oren" ;
@@ -479,9 +478,9 @@ osm2lod:node_1174578048 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Орлова чука"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1174578048" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Орлова чука" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -496,9 +495,9 @@ osm2lod:node_11876346537 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Schaktgrottan"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11876346537" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Schaktgrottan" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -510,9 +509,9 @@ osm2lod:node_11876859066 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "果老寨遗址"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11876859066" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -527,9 +526,9 @@ osm2lod:node_1192434410 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Leány-barlang"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1192434410" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__ele "460" ;
@@ -544,9 +543,9 @@ osm2lod:node_11954189744 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "arche"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/11954189744" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "arche" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -558,9 +557,9 @@ osm2lod:node_1201366333 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "King Solomon Caves"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1201366333" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "King Solomon Caves" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -572,9 +571,9 @@ osm2lod:node_12080122765 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "La Cueva"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12080122765" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "La Cueva" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -586,9 +585,9 @@ osm2lod:node_12150637414 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 12150637414"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12150637414" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:12150637414_geom ;
@@ -599,9 +598,9 @@ osm2lod:node_12184077155 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Peştera Tăuşoare"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12184077155" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__ele "950" ;
@@ -617,9 +616,9 @@ osm2lod:node_12497973563 a osm2lod:OSMEntity,
     rdfs:label "مغارة تيزي مغلاز"@ar,
         "Grotte Tizi Maghlaz"@en,
         "Grotte Tizi Maghlaz"@fr ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12497973563" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Grotte Tizi Maghlaz" ;
@@ -632,9 +631,9 @@ osm2lod:node_12521313377 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 12521313377"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12521313377" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:12521313377_geom ;
@@ -645,9 +644,9 @@ osm2lod:node_12595360316 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Buraco Roto"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12595360316" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Buraco Roto" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -659,9 +658,9 @@ osm2lod:node_12879668276 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Eretsloch"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/12879668276" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Eretsloch" ;
@@ -675,9 +674,9 @@ osm2lod:node_13014990612 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Héctor"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13014990612" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Héctor" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -689,9 +688,9 @@ osm2lod:node_13028255810 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Pippikin Pot"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13028255810" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Pippikin Pot" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -703,9 +702,9 @@ osm2lod:node_13073296633 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 13073296633"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13073296633" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:13073296633_geom ;
@@ -716,9 +715,9 @@ osm2lod:node_13093008192 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 13093008192"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13093008192" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:13093008192_geom ;
@@ -729,9 +728,9 @@ osm2lod:node_1312824946 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Manita peć"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1312824946" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__ele "570" ;
@@ -746,9 +745,9 @@ osm2lod:node_13130638123 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 13130638123"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13130638123" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:13130638123_geom ;
@@ -759,9 +758,9 @@ osm2lod:node_13152004017 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Actun Halen"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13152004017" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Actun Halen" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -773,9 +772,9 @@ osm2lod:node_13169167192 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva Rosa"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13169167192" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva Rosa" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -788,9 +787,9 @@ osm2lod:node_1325351976 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Cova des Pirata"@ca,
         "Cova des Pirata"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1325351976" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "private" ;
     osm2lod:osmtag__ele "22" ;
@@ -807,9 +806,9 @@ osm2lod:node_13307603920 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gruta do Janelão"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13307603920" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gruta do Janelão" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -821,9 +820,9 @@ osm2lod:node_13324454762 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Bettenhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13324454762" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Bettenhöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -838,9 +837,9 @@ osm2lod:node_13404301868 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cima el Dómine"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13404301868" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cima el Dómine" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -852,9 +851,9 @@ osm2lod:node_13556252331 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Bestažovca"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13556252331" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__ele "480" ;
     osm2lod:osmtag__name "Bestažovca" ;
@@ -867,48 +866,22 @@ osm2lod:node_13566719139 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 13566719139"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/13566719139" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:13566719139_geom ;
     foaf:primaryTopic <http://openstreetmap.org/node/13566719139> .
-
-osm2lod:node_13581390702 a osm2lod:OSMEntity,
-        osm2lod:SisalSite,
-        crm:E26_Physical_Feature,
-        dcat:Dataset ;
-    rdfs:label "OSM node 13581390702"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm:node/13581390702" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
-    osm2lod:exportType "sisal" ;
-    osm2lod:osmtag__natural "cave_entrance" ;
-    geosparql:hasGeometry osm2lod:13581390702_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13581390702> .
-
-osm2lod:node_13586189099 a osm2lod:OSMEntity,
-        osm2lod:SisalSite,
-        crm:E26_Physical_Feature,
-        dcat:Dataset ;
-    rdfs:label "OSM node 13586189099"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm:node/13586189099" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
-    osm2lod:exportType "sisal" ;
-    osm2lod:osmtag__natural "cave_entrance" ;
-    geosparql:hasGeometry osm2lod:13586189099_geom ;
-    foaf:primaryTopic <http://openstreetmap.org/node/13586189099> .
 
 osm2lod:node_1389940709 a osm2lod:OSMEntity,
         osm2lod:SisalSite,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gasselhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1389940709" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gasselhöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -922,9 +895,9 @@ osm2lod:node_1488744824 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Spannagelhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1488744824" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Spannagelhöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -943,9 +916,9 @@ osm2lod:node_1572294886 a osm2lod:OSMEntity,
     rdfs:label "Kocain-Höhle"@de,
         "Kocain Mağarası"@en,
         "Kocain Mağarası"@tk ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1572294886" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Kocain Mağarası" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -962,9 +935,9 @@ osm2lod:node_1825661457 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta Valentini"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1825661457" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "private" ;
     osm2lod:osmtag__name "Grotta Valentini" ;
@@ -977,9 +950,9 @@ osm2lod:node_194177073 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Atta-Höhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/194177073" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Attendorner Tropfsteinhöhle" ;
     osm2lod:osmtag__name "Atta-Höhle" ;
@@ -998,9 +971,9 @@ osm2lod:node_1961032052 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Cova Meravelles"@ca,
         "Cova Meravelles"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1961032052" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cova Meravelles" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1012,9 +985,9 @@ osm2lod:node_2163196165 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 2163196165"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2163196165" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:2163196165_geom ;
@@ -1025,9 +998,9 @@ osm2lod:node_2174721117 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 2174721117"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2174721117" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:2174721117_geom ;
@@ -1038,9 +1011,9 @@ osm2lod:node_2264386190 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Caverna Umajalanta"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2264386190" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Caverna Umajalanta" ;
@@ -1055,9 +1028,9 @@ osm2lod:node_2267151473 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Cave of Santo Tomás"@en,
         "Caverna de Santo Tomás"@es ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2267151473" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Caverna de Santo Tomás" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1072,9 +1045,9 @@ osm2lod:node_2285744211 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Moondyne Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2285744211" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Moondyne Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1090,9 +1063,9 @@ osm2lod:node_2375460063 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Strašna peć"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2375460063" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Strašna peć" ;
@@ -1109,9 +1082,9 @@ osm2lod:node_2382055156 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Blue Lake Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2382055156" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gruta do Lago Azul" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1126,9 +1099,9 @@ osm2lod:node_2423303117 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotte de Villars"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2423303117" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Grotte Préhistorique du Cluzeau" ;
     osm2lod:osmtag__name "Grotte de Villars" ;
@@ -1147,9 +1120,9 @@ osm2lod:node_2483192759 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Heuscheuerle"@de,
         "Heuscheuerle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2483192759" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Heuscheuerle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1161,9 +1134,9 @@ osm2lod:node_2486226122 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cova Terreu"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2486226122" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cova Terreu" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1176,9 +1149,9 @@ osm2lod:node_2495014138 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "兴隆溶洞"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2495014138" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "兴隆溶洞" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1190,9 +1163,9 @@ osm2lod:node_2509040859 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Zhongdong cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2509040859" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Zhongdong cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1204,9 +1177,9 @@ osm2lod:node_2510360072 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Anjohibe"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2510360072" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Anjohibe" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1219,9 +1192,9 @@ osm2lod:node_2634652214 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Bears' Cave"@en,
         "Medve-barlang"@hu ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2634652214" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Peștera Urșilor" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1238,9 +1211,9 @@ osm2lod:node_2677612603 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grutas de Botuverá"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2677612603" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Cavernas de Botuverá" ;
     osm2lod:osmtag__name "Grutas de Botuverá" ;
@@ -1255,9 +1228,9 @@ osm2lod:node_2729783661 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Nova Grgosova špilja"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2729783661" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__description "Show cave" ;
     osm2lod:osmtag__name "Nova Grgosova špilja" ;
@@ -1270,9 +1243,9 @@ osm2lod:node_274302247 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Kammerlochhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/274302247" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Kammerlochhöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1284,9 +1257,9 @@ osm2lod:node_278574320 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "La Grotte Dagobert"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/278574320" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__ele "1128" ;
     osm2lod:osmtag__name "La Grotte Dagobert" ;
@@ -1299,9 +1272,9 @@ osm2lod:node_2824859401 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cave of the Bells"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2824859401" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cave of the Bells" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1317,9 +1290,9 @@ osm2lod:node_286783901 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gruta de Huagapo"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/286783901" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gruta de Huagapo" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1335,9 +1308,9 @@ osm2lod:node_2875516784 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Actun Chapat Cave Adventure"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2875516784" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Actun Chapat Cave Adventure" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1349,9 +1322,9 @@ osm2lod:node_2970889616 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 2970889616"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2970889616" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:2970889616_geom ;
@@ -1362,9 +1335,9 @@ osm2lod:node_2972577607 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 2972577607"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/2972577607" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:2972577607_geom ;
@@ -1375,9 +1348,9 @@ osm2lod:node_298946850 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Lehman Caves"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/298946850" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Lehman Caves" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1391,9 +1364,9 @@ osm2lod:node_308354506 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta del Bue marino"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/308354506" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Grotta del Bue marino" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1410,9 +1383,9 @@ osm2lod:node_3096058666 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Kataleh Khor Cave"@en,
         "katle khor mağara"@tr ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3096058666" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "غار کتله خور" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1428,9 +1401,9 @@ osm2lod:node_320120939 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Lake Shasta Caverns"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/320120939" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Lake Shasta Caverns" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1442,9 +1415,9 @@ osm2lod:node_3269827185 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Arco"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3269827185" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Arco" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1456,9 +1429,9 @@ osm2lod:node_3292745497 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Barbers Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3292745497" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "CP14" ;
     osm2lod:osmtag__name "Barbers Cave" ;
@@ -1471,9 +1444,9 @@ osm2lod:node_3294134845 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Pha Tok Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3294134845" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Tham Phatok" ;
     osm2lod:osmtag__name "Pha Tok Cave" ;
@@ -1486,9 +1459,9 @@ osm2lod:node_340386100 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Banzenloch"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/340386100" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Banzenloch" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1500,9 +1473,9 @@ osm2lod:node_3420452460 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotte di Montevicoli"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3420452460" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Grotte di Montevicoli" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1517,9 +1490,9 @@ osm2lod:node_3427512355 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 3427512355"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3427512355" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:3427512355_geom ;
@@ -1530,9 +1503,9 @@ osm2lod:node_3440813505 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Trió-barlang"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3440813505" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__alt_name "Szuadó-völgyi 3. sz. barlang" ;
@@ -1549,9 +1522,9 @@ osm2lod:node_3544073316 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Ngilgi Cave Entrance"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3544073316" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Ngilgi Cave Entrance" ;
@@ -1564,9 +1537,9 @@ osm2lod:node_354842709 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Katerloch"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/354842709" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Katerloch" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1582,9 +1555,9 @@ osm2lod:node_3570423898 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Malaza Manga"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3570423898" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Malaza Manga" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1596,9 +1569,9 @@ osm2lod:node_3570423899 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Mitoho"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3570423899" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Mitoho" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1610,9 +1583,9 @@ osm2lod:node_3657259352 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Pinnacle Point 13B"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3657259352" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Point of Human Origins" ;
     osm2lod:osmtag__ele "18" ;
@@ -1632,9 +1605,9 @@ osm2lod:node_3658668205 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Yonderup Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3658668205" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Yonderup Cave" ;
@@ -1648,9 +1621,9 @@ osm2lod:node_370538351 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Calgardup Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/370538351" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Calgardup Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1663,9 +1636,9 @@ osm2lod:node_3783268558 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Chantoir de la Laide Fosse"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3783268558" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "private" ;
     osm2lod:osmtag__ele "267" ;
@@ -1680,9 +1653,9 @@ osm2lod:node_3835819480 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Drill Hole"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3835819480" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Drill Hole" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1694,9 +1667,9 @@ osm2lod:node_3887334792 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Harrison's Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3887334792" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Harrison's Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1708,9 +1681,9 @@ osm2lod:node_3905429443 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva Victoria"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3905429443" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__historic__civilization "prehistoric" ;
@@ -1731,9 +1704,9 @@ osm2lod:node_4018446140 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 4018446140"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4018446140" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:4018446140_geom ;
@@ -1744,9 +1717,9 @@ osm2lod:node_4086768866 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Caverna ToroToro"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4086768866" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Caverna ToroToro" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1759,9 +1732,9 @@ osm2lod:node_4100771303 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Elephant Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4100771303" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Elephant Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1774,9 +1747,9 @@ osm2lod:node_4153268605 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gruta Lapa Doce Exit"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4153268605" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gruta Lapa Doce Exit" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1789,9 +1762,9 @@ osm2lod:node_4153268606 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gruta Lapa Doce Entrance"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4153268606" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gruta Lapa Doce Entrance" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1804,9 +1777,9 @@ osm2lod:node_4153384278 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cathedral Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4153384278" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "private" ;
     osm2lod:osmtag__name "Cathedral Cave" ;
@@ -1819,9 +1792,9 @@ osm2lod:node_418784261 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva de La Garma"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/418784261" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__historic__civilization "prehistoric" ;
@@ -1839,9 +1812,9 @@ osm2lod:node_4209573222 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Geßhardthöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4209573222" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Geßhardthöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1853,9 +1826,9 @@ osm2lod:node_4285191320 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Liang Bua"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4285191320" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Liang Bua" ;
@@ -1871,9 +1844,9 @@ osm2lod:node_4306709100 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Hügeliloch"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4306709100" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Hügeliloch" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1886,9 +1859,9 @@ osm2lod:node_4358968290 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "كهف الهوتة"@ar,
         "Al Hoota Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4358968290" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__int_name "Al Hoota Cave" ;
     osm2lod:osmtag__name "كهف الهوتة" ;
@@ -1905,9 +1878,9 @@ osm2lod:node_4376800615 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Goa Jomblang"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4376800615" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Goa Jomblang" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1919,9 +1892,9 @@ osm2lod:node_4388840122 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta della Bigonda"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4388840122" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Grotta della Bigonda" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1936,9 +1909,9 @@ osm2lod:node_440011392 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Caverne Patate"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/440011392" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Caverne Patate" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -1951,9 +1924,9 @@ osm2lod:node_4480576512 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Metro Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4480576512" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permissive" ;
     osm2lod:osmtag__name "Metro Cave" ;
@@ -1969,9 +1942,9 @@ osm2lod:node_4503846516 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Furong Cave"@en,
         "Фужун"@ru ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4503846516" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     osm2lod:osmtag__wikidata "Q5509697" ;
@@ -1985,9 +1958,9 @@ osm2lod:node_4523782074 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Belum Caves"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4523782074" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Belum Caves" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2003,9 +1976,9 @@ osm2lod:node_4557134896 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta Grande del Vento"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4557134896" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__ele "383" ;
     osm2lod:osmtag__name "Grotta Grande del Vento" ;
@@ -2018,9 +1991,9 @@ osm2lod:node_4705261283 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Dos Anas"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4705261283" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Dos Anas" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2032,9 +2005,9 @@ osm2lod:node_475710521 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Crag Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/475710521" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Crag Cave" ;
@@ -2051,9 +2024,9 @@ osm2lod:node_4771754221 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gardner's Gut"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4771754221" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gardner's Gut" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2067,9 +2040,9 @@ osm2lod:node_4848050737 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Salitre"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4848050737" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Salitre" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2083,9 +2056,9 @@ osm2lod:node_4874702122 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Karaca Cave"@en,
         "Cueva de Karaca"@es ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4874702122" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Karaca Mağarası" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2102,9 +2075,9 @@ osm2lod:node_4917192240 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gruta dos Bolhos - Gruta Casal da Lebre"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4917192240" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__name "Gruta dos Bolhos - Gruta Casal da Lebre" ;
@@ -2118,9 +2091,9 @@ osm2lod:node_4935677369 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Buca della goccia"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4935677369" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Buca della goccia" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2135,9 +2108,9 @@ osm2lod:node_495996579 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Te Ana-au Glow-Worm Caves"@en,
         "Te Ana-au Glow-Worm"@mi ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/495996579" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__alt_name "Te Anau Glowworm Caves" ;
     osm2lod:osmtag__name "Te Ana-au Glow-Worm Caves" ;
@@ -2153,9 +2126,9 @@ osm2lod:node_496887249 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Bierkeller Theophil Roniger"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/496887249" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Bierkeller Theophil Roniger" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2167,9 +2140,9 @@ osm2lod:node_4998330664 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Bjurälvsgrottan"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/4998330664" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Bjurälvsgrottan" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2182,9 +2155,9 @@ osm2lod:node_503858812 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Kangogrotte"@af,
         "Cango Caves"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/503858812" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permissive" ;
     osm2lod:osmtag__name "Cango Caves" ;
@@ -2203,9 +2176,9 @@ osm2lod:node_5048285229 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5048285229" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     osm2lod:osmtag__tourism "attraction" ;
@@ -2217,9 +2190,9 @@ osm2lod:node_5058896537 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 5058896537"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5058896537" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:5058896537_geom ;
@@ -2230,9 +2203,9 @@ osm2lod:node_5097880046 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Σπήλαιο Λιμνών"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5097880046" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Σπήλαιο Λιμνών" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2249,9 +2222,9 @@ osm2lod:node_516610283 a osm2lod:OSMEntity,
     rdfs:label "وينتيمدوين"@ar,
         "Wintindouine وينتيمدوين"@en,
         "Wintindouine"@fr ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/516610283" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Wintindouine وينتيمدوين" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2263,9 +2236,9 @@ osm2lod:node_5204252292 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotte de Lavaud"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5204252292" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Grotte de Lavaud" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2277,9 +2250,9 @@ osm2lod:node_5228393368 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 5228393368"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5228393368" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:5228393368_geom ;
@@ -2290,9 +2263,9 @@ osm2lod:node_5382854703 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Upper cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5382854703" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Upper Grotto" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2304,9 +2277,9 @@ osm2lod:node_5438822822 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 5438822822"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5438822822" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:5438822822_geom ;
@@ -2317,9 +2290,9 @@ osm2lod:node_5459800715 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotte du Père Noël"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5459800715" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "private" ;
     osm2lod:osmtag__name "Grotte du Père Noël" ;
@@ -2332,9 +2305,9 @@ osm2lod:node_5501815824 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 5501815824"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5501815824" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:5501815824_geom ;
@@ -2346,9 +2319,9 @@ osm2lod:node_5503469510 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Coves de Campanet"@ca,
         "Coves de Campanet"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5503469510" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Coves de Campanet" ;
@@ -2364,9 +2337,9 @@ osm2lod:node_554858725 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Lancaster Hole"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/554858725" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__name "Lancaster Hole" ;
@@ -2380,9 +2353,9 @@ osm2lod:node_556748045 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Zoolithenhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/556748045" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "no" ;
     osm2lod:osmtag__name "Zoolithenhöhle" ;
@@ -2400,9 +2373,9 @@ osm2lod:node_558629070 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva el Pindal"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/558629070" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__name "Cueva el Pindal" ;
@@ -2419,9 +2392,9 @@ osm2lod:node_5677995348 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Кек-Таш"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5677995348" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Кек-Таш" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2433,9 +2406,9 @@ osm2lod:node_5894264165 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "غار گل زرد"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5894264165" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "غار گل زرد" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2448,9 +2421,9 @@ osm2lod:node_5905508413 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 5905508413"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5905508413" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:5905508413_geom ;
@@ -2461,9 +2434,9 @@ osm2lod:node_5909253343 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Lubang Tambang Mbah Soero"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5909253343" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__name "Lubang Tambang Mbah Soero" ;
@@ -2476,9 +2449,9 @@ osm2lod:node_5949505815 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "La Vallina"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/5949505815" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "La Vallina" ;
@@ -2491,9 +2464,9 @@ osm2lod:node_6050984397 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cenote Monkey Dust"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6050984397" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     osm2lod:osmtag__tourism "attraction" ;
@@ -2505,9 +2478,9 @@ osm2lod:node_6176987555 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Gruta da Fumaça"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6176987555" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Gruta da Fumaça" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2519,9 +2492,9 @@ osm2lod:node_644792344 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Herbstlabyrinth-Adventhöhle-System"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/644792344" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Herbstlabyrinth-Adventhöhle-System" ;
@@ -2539,9 +2512,9 @@ osm2lod:node_6632690571 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "La Grande Caverne"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6632690571" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "La Grande Caverne" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2554,9 +2527,9 @@ osm2lod:node_6640740634 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Miniere del Fursil /Ru"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6640740634" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Miniere del Fursil /Ru" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2568,9 +2541,9 @@ osm2lod:node_686817231 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotte de Clamouse"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/686817231" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Grotte de Clamouse" ;
@@ -2588,9 +2561,9 @@ osm2lod:node_6957595702 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "White Scar Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6957595702" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "White Scar Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2602,9 +2575,9 @@ osm2lod:node_696792182 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Crystal Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/696792182" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Crystal Cave" ;
@@ -2621,9 +2594,9 @@ osm2lod:node_6975770077 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 6975770077"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6975770077" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:6975770077_geom ;
@@ -2634,9 +2607,9 @@ osm2lod:node_6986158611 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Terra Ronca"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6986158611" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__name "Terra Ronca" ;
@@ -2649,9 +2622,9 @@ osm2lod:node_6989696617 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 6989696617"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6989696617" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:6989696617_geom ;
@@ -2666,9 +2639,9 @@ osm2lod:node_7008567688 a osm2lod:OSMEntity,
         "Grotte Modrič"@fr,
         "Špilja Modrič"@hr,
         "Grotta Modrič"@it ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7008567688" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__ele "29" ;
@@ -2688,9 +2661,9 @@ osm2lod:node_7016608685 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "كهف سركلو"@ar,
         "Bahayi's Pilgrim cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7016608685" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "كهف سركلو" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2702,9 +2675,9 @@ osm2lod:node_707254947 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Abaligeti-cseppkőbarlang"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/707254947" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Abaligeti-cseppkőbarlang" ;
@@ -2723,9 +2696,9 @@ osm2lod:node_715290197 a osm2lod:OSMEntity,
     rdfs:label "Dim Höhle"@de,
         "Dim Cave"@en,
         "Пещера Дим"@ru ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/715290197" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__alt_name "Gavurini Mağarası" ;
@@ -2744,9 +2717,9 @@ osm2lod:node_7161046616 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Klang cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7161046616" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Tham Klang" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2761,9 +2734,9 @@ osm2lod:node_7192265387 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 7192265387"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7192265387" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:7192265387_geom ;
@@ -2774,9 +2747,9 @@ osm2lod:node_7206231475 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 7206231475"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7206231475" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:7206231475_geom ;
@@ -2787,9 +2760,9 @@ osm2lod:node_7315412515 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Schrattenhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7315412515" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Schrattenhöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2803,9 +2776,9 @@ osm2lod:node_7318685910 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Toca da Boa Vista"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7318685910" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Toca da Boa Vista" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2820,9 +2793,9 @@ osm2lod:node_7327265062 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 7327265062"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7327265062" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__description "hole, warm air coming out, very deep" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2834,9 +2807,9 @@ osm2lod:node_7412451779 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Cobre"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7412451779" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Cobre" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2851,9 +2824,9 @@ osm2lod:node_7415334685 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Blaubeerhöhle"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7415334685" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Blaubeerhöhle" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2865,9 +2838,9 @@ osm2lod:node_745919883 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "St.Beatus-Höhlen"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/745919883" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "St.Beatus-Höhlen" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2882,9 +2855,9 @@ osm2lod:node_7713740998 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva de Palestina"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7713740998" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva de Palestina" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2896,9 +2869,9 @@ osm2lod:node_7713840588 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Diamante"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7713840588" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Diamante" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2910,9 +2883,9 @@ osm2lod:node_7713923814 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Viento"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7713923814" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Viento" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2925,9 +2898,9 @@ osm2lod:node_7743122549 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Ruakuri Cave"@en,
         "Ruakurī"@mi ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7743122549" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Ruakuri Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2942,9 +2915,9 @@ osm2lod:node_7746558018 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Peștera Lenuța"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7746558018" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Peștera Lenuța" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2956,9 +2929,9 @@ osm2lod:node_776040430 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Bodhidharma Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/776040430" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Bodhidharma Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2970,9 +2943,9 @@ osm2lod:node_7807817048 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Cueva del Rio Shatuca"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7807817048" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Cueva del Rio Shatuca" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -2984,9 +2957,9 @@ osm2lod:node_7885338123 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Fort Stanton Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7885338123" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__name "Fort Stanton Cave" ;
@@ -3001,9 +2974,9 @@ osm2lod:node_8177727382 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Pintwater Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8177727382" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Pintwater Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3015,9 +2988,9 @@ osm2lod:node_8349784316 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Miller Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8349784316" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Miller Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3029,9 +3002,9 @@ osm2lod:node_8354378120 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Wanxiang Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8354378120" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "万象洞" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3043,9 +3016,9 @@ osm2lod:node_8358838507 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Matupi"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8358838507" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__ele "1200" ;
     osm2lod:osmtag__name "Matupi" ;
@@ -3058,9 +3031,9 @@ osm2lod:node_8422630011 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta di Carburangeli"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8422630011" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__ele "23 slm" ;
@@ -3077,9 +3050,9 @@ osm2lod:node_8755803759 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta Santa Barbara"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8755803759" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Grotta Santa Barbara" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3091,9 +3064,9 @@ osm2lod:node_8944365518 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 8944365518"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8944365518" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:8944365518_geom ;
@@ -3104,9 +3077,9 @@ osm2lod:node_8972797679 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grutas de Juxtlahuaca"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/8972797679" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "guided" ;
     osm2lod:osmtag__description "Visita sólo permitida con guía, puede contratarse en el pueblo de Colotlipa." ;
@@ -3124,9 +3097,9 @@ osm2lod:node_9006583904 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 9006583904"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9006583904" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:9006583904_geom ;
@@ -3137,9 +3110,9 @@ osm2lod:node_9007272454 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Peștera Măgura"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9007272454" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Peștera Măgura" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3152,9 +3125,9 @@ osm2lod:node_903676829 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Caverna Santana"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/903676829" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Caverna Santana" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3170,9 +3143,9 @@ osm2lod:node_9054470052 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "PESTERA CURECEA"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9054470052" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "PESTERA CURECEA" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3184,9 +3157,9 @@ osm2lod:node_9098145258 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 9098145258"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9098145258" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__natural "cave_entrance" ;
     geosparql:hasGeometry osm2lod:9098145258_geom ;
@@ -3198,9 +3171,9 @@ osm2lod:node_9186866184 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "пещера Вьюнок"@en,
         "пещера Вьюнок"@ru ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9186866184" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__description """Длина, м: 470
 Амплитуда, м: 35
@@ -3220,9 +3193,9 @@ osm2lod:node_923447187 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Hölloch"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/923447187" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__ele "1438" ;
     osm2lod:osmtag__name "Hölloch" ;
@@ -3238,9 +3211,9 @@ osm2lod:node_9247925660 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "藏兵洞（西洞口）"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9247925660" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "藏兵洞（西洞口）" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3252,9 +3225,9 @@ osm2lod:node_9249065418 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Sofular Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9249065418" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Sofular Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3269,9 +3242,9 @@ osm2lod:node_942519597 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Sannur Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/942519597" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Sannur Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3286,9 +3259,9 @@ osm2lod:node_9693174633 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Kabal Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9693174633" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Kabal Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3304,9 +3277,9 @@ osm2lod:node_9753722102 a osm2lod:OSMEntity,
         "Cueva de Hoq"@es,
         "Grotte de Hoq"@fr,
         "Grotta di Hoq"@it ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9753722102" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -3324,9 +3297,9 @@ osm2lod:node_977664869 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Unteres Wetterloch"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/977664869" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__ele "1440" ;
     osm2lod:osmtag__name "Unteres Wetterloch" ;
@@ -3340,9 +3313,9 @@ osm2lod:node_9801979591 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Zarautsay Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9801979591" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__ele "1260" ;
@@ -3357,9 +3330,9 @@ osm2lod:node_981440188 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Baradla-barlang bejárat"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/981440188" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "Baradla-barlang bejárat" ;
@@ -3376,9 +3349,9 @@ osm2lod:node_9858176658 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Minnetonka Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9858176658" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "permit" ;
     osm2lod:osmtag__description "A large limestone cave through which guided tours are offered. Lighting, walkways, and many stairs have been installed in the cave." ;
@@ -3392,9 +3365,9 @@ osm2lod:node_9887908804 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Wild Men Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9887908804" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "野人洞" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3406,9 +3379,9 @@ osm2lod:node_9908902505 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "虎穴探险"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9908902505" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__access "customers" ;
     osm2lod:osmtag__name "虎穴探险" ;
@@ -3421,9 +3394,9 @@ osm2lod:node_9913438479 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Organ Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9913438479" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Organ Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3438,9 +3411,9 @@ osm2lod:node_992092588 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Moaning Cave"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/992092588" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Moaning Cave" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3452,9 +3425,9 @@ osm2lod:node_9927050233 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "泄水洞"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9927050233" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "泄水洞" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3466,9 +3439,9 @@ osm2lod:node_9958994170 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Grotta Cesare Battisti"@en ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/9958994170" ;
-    dcterms:isPartOf osm2lod:sisal__2026-03-21_162234Z ;
+    dcterms:isPartOf osm2lod:sisal__2026-03-22_115449Z ;
     osm2lod:exportType "sisal" ;
     osm2lod:osmtag__name "Grotta Cesare Battisti" ;
     osm2lod:osmtag__natural "cave_entrance" ;
@@ -3648,12 +3621,6 @@ osm2lod:13556252331_geom a sf:Point ;
 
 osm2lod:13566719139_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(107.1898891 29.0355676)"^^geosparql:wktLiteral .
-
-osm2lod:13581390702_geom a sf:Point ;
-    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(107.1867149 30.3028596)"^^geosparql:wktLiteral .
-
-osm2lod:13586189099_geom a sf:Point ;
-    geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(110.9597868 24.4893667)"^^geosparql:wktLiteral .
 
 osm2lod:1389940709_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(13.8427464 47.8231298)"^^geosparql:wktLiteral .
@@ -4138,10 +4105,10 @@ osm2lod:9927050233_geom a sf:Point ;
 osm2lod:9958994170_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(11.0482688 46.1470523)"^^geosparql:wktLiteral .
 
-osm2lod:sisal__2026-03-21_162234Z a osm2lod:Dataset,
+osm2lod:sisal__2026-03-22_115449Z a osm2lod:Dataset,
         dcat:Dataset ;
-    dcterms:created "2026-03-21T16:22:34.175179+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:sisal:2026-03-21_162234Z" ;
+    dcterms:created "2026-03-22T11:54:49.282577+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:sisal:2026-03-22_115449Z" ;
     dcterms:provenance """[out:json][timeout:25];
 (
   node(194177073);

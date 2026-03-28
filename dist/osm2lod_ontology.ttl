@@ -1,0 +1,385 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix osm2lod: <http://research-squirrel-engineers.github.io/osm2lod/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:isPartOf a owl:ObjectProperty ;
+    rdfs:label "is part of"@en ;
+    rdfs:comment "Links an OSM entity record to the osm2lod Dataset it was exported in."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range osm2lod:Dataset .
+
+osm2lod:Benchmark a owl:Class ;
+    rdfs:label "Benchmark"@en ;
+    rdfs:comment "An Ordnance Survey benchmark / geodetic survey point with a Wikimedia Commons photograph."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E22_Human_Made_Object ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object .
+
+osm2lod:CI_Findspot a owl:Class ;
+    rdfs:label "CI Findspot"@en ;
+    rdfs:comment "A Palaeolithic cave or rock-shelter site yielding Continuum of Innovation (CI) artefacts."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E55_Place ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E55_Place .
+
+osm2lod:CoreProfile a owl:Class ;
+    rdfs:label "Core Profile"@en ;
+    rdfs:comment "A drill-core borehole profile associated with a volcanic maar site."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E55_Place ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E55_Place .
+
+osm2lod:HolyWell a owl:Class ;
+    rdfs:label "Holy Well"@en ;
+    rdfs:comment "A sacred water site, typically a natural spring venerated in folk or religious tradition."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E26_Physical_Feature ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E26_Physical_Feature .
+
+osm2lod:Maar a owl:Class ;
+    rdfs:label "Maar"@en ;
+    rdfs:comment "A low-relief volcanic crater formed by a phreatomagmatic eruption."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E55_Place ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E55_Place .
+
+osm2lod:OghamStone a owl:Class ;
+    rdfs:label "Ogham Stone"@en ;
+    rdfs:comment "An early medieval inscribed standing stone bearing Ogham script."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E22_Human_Made_Object ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E22_Human_Made_Object .
+
+osm2lod:RomanSite a owl:Class ;
+    rdfs:label "Roman Site"@en ;
+    rdfs:comment "A Roman-period archaeological site."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E26_Physical_Feature ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E26_Physical_Feature .
+
+osm2lod:SisalSite a owl:Class ;
+    rdfs:label "SISAL Site"@en ;
+    rdfs:comment "A speleothem cave site included in the SISAL (Speleothem Isotopes Synthesis and Analysis) database."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso crm:E26_Physical_Feature ;
+    rdfs:subClassOf osm2lod:OSMEntity,
+        crm:E26_Physical_Feature .
+
+osm2lod:exportType a owl:DatatypeProperty ;
+    rdfs:label "export type"@en ;
+    rdfs:comment "Identifies the osm2lod export category this entity belongs to (e.g. 'ogham', 'holywells', 'sisal')."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__access a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: access restriction"@en ;
+    rdfs:comment "OSM tag 'access' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__alt_name a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: alternative name"@en ;
+    rdfs:comment "OSM tag 'alt_name' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__archaeological_site a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: archaeological site type"@en ;
+    rdfs:comment "OSM tag 'archaeological_site' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__benchmark a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: benchmark type"@en ;
+    rdfs:comment "OSM tag 'benchmark' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__denomination a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: denomination"@en ;
+    rdfs:comment "OSM tag 'denomination' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__description a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: description"@en ;
+    rdfs:comment "OSM tag 'description' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__ele a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: elevation"@en ;
+    rdfs:comment "OSM tag 'ele' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:decimal .
+
+osm2lod:osmtag__historic a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: historic feature type"@en ;
+    rdfs:comment "OSM tag 'historic' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__historic__civilization a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: historic civilisation"@en ;
+    rdfs:comment "OSM tag 'historic:civilization' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__image a owl:ObjectProperty ;
+    rdfs:label "OSM tag: image URL"@en ;
+    rdfs:comment "OSM tag 'image' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range owl:Thing .
+
+osm2lod:osmtag__int_name a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: international name"@en ;
+    rdfs:comment "OSM tag 'int_name' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__loc_name a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: local name"@en ;
+    rdfs:comment "OSM tag 'loc_name' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__man_made a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: man-made feature type"@en ;
+    rdfs:comment "OSM tag 'man_made' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__name a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: name"@en ;
+    rdfs:comment "OSM tag 'name' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__natural a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: natural feature type"@en ;
+    rdfs:comment "OSM tag 'natural' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__note a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: note"@en ;
+    rdfs:comment "OSM tag 'note' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__operator a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: operator"@en ;
+    rdfs:comment "OSM tag 'operator' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__place_of_worship a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: place of worship type"@en ;
+    rdfs:comment "OSM tag 'place_of_worship' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__ref a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: reference identifier"@en ;
+    rdfs:comment "OSM tag 'ref' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__religion a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: religion"@en ;
+    rdfs:comment "OSM tag 'religion' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__source a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: source"@en ;
+    rdfs:comment "OSM tag 'source' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__source__ref a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: source reference"@en ;
+    rdfs:comment "OSM tag 'source:ref' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__source__url a owl:ObjectProperty ;
+    rdfs:label "OSM tag: source URL"@en ;
+    rdfs:comment "OSM tag 'source:url' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range owl:Thing .
+
+osm2lod:osmtag__survey__date a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: survey date"@en ;
+    rdfs:comment "OSM tag 'survey:date' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:date .
+
+osm2lod:osmtag__survey_point__structure a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: survey point structure"@en ;
+    rdfs:comment "OSM tag 'survey_point:structure' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__tourism a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: tourism type"@en ;
+    rdfs:comment "OSM tag 'tourism' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__url a owl:ObjectProperty ;
+    rdfs:label "OSM tag: URL"@en ;
+    rdfs:comment "OSM tag 'url' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range owl:Thing .
+
+osm2lod:osmtag__volcano__status a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: volcano status"@en ;
+    rdfs:comment "OSM tag 'volcano:status' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__volcano__type a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: volcano type"@en ;
+    rdfs:comment "OSM tag 'volcano:type' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__water a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: water feature type"@en ;
+    rdfs:comment "OSM tag 'water' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__water_source a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: water source"@en ;
+    rdfs:comment "OSM tag 'water_source' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__website a owl:ObjectProperty ;
+    rdfs:label "OSM tag: website URL"@en ;
+    rdfs:comment "OSM tag 'website' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range owl:Thing .
+
+osm2lod:osmtag__wikidata a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: Wikidata QID (tag)"@en ;
+    rdfs:comment "OSM tag 'wikidata' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+osm2lod:osmtag__wikimedia_commons a owl:ObjectProperty ;
+    rdfs:label "OSM tag: Wikimedia Commons file (tag)"@en ;
+    rdfs:comment "OSM tag 'wikimedia_commons' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range owl:Thing .
+
+osm2lod:osmtag__wikipedia a owl:DatatypeProperty ;
+    rdfs:label "OSM tag: Wikipedia article (tag)"@en ;
+    rdfs:comment "OSM tag 'wikipedia' mapped as an osm2lod datatype property."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range xsd:string .
+
+geosparql:asWKT a owl:DatatypeProperty ;
+    rdfs:label "as WKT"@en ;
+    rdfs:comment "GeoSPARQL WKT literal representing the geometry of an OSM entity (CRS: EPSG:4326, format: POINT(lon lat))."@en ;
+    rdfs:domain geosparql:Geometry ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range geosparql:wktLiteral .
+
+geosparql:hasGeometry a owl:ObjectProperty ;
+    rdfs:label "has geometry"@en ;
+    rdfs:comment "Links an OSM entity to its GeoSPARQL geometry node."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range geosparql:Geometry .
+
+owl:sameAs a owl:ObjectProperty ;
+    rdfs:label "same as (Wikidata)"@en ;
+    rdfs:comment "owl:sameAs link to the corresponding Wikidata entity (Q-item)."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range <http://www.wikidata.org/entity/Q35120> .
+
+foaf:primaryTopic a owl:ObjectProperty ;
+    rdfs:label "primary topic"@en ;
+    rdfs:comment "Links an osm2lod record to the canonical OpenStreetMap URI of the original element."@en ;
+    rdfs:domain osm2lod:OSMEntity ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:range owl:Thing .
+
+osm2lod:Dataset a owl:Class ;
+    rdfs:label "osm2lod Dataset"@en ;
+    rdfs:comment "A DCAT dataset produced by an osm2lod export run."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso dcat:Dataset ;
+    rdfs:subClassOf dcat:Dataset .
+
+osm2lod:OSMEntity a owl:Class ;
+    rdfs:label "OSM Entity"@en ;
+    rdfs:comment "Abstract superclass for all OpenStreetMap features represented as Linked Data."@en ;
+    rdfs:isDefinedBy osm2lod:ontology ;
+    rdfs:seeAlso dcat:Dataset ;
+    rdfs:subClassOf dcat:Dataset .
+
+osm2lod:ontology a owl:Ontology ;
+    rdfs:label "osm2lod Ontology"@en ;
+    dcterms:created "2026-03-22T11:54:52.779865+00:00"^^xsd:dateTime ;
+    dcterms:creator "Research Squirrel Engineers" ;
+    dcterms:description "Vocabulary for representing OpenStreetMap features as Linked Data, aligned to CIDOC-CRM, GeoSPARQL, DCAT and Dublin Core."@en ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:title "osm2lod – OSM to Linked Open Data Vocabulary"@en ;
+    owl:imports <http://www.opengis.net/ont/geosparql> ;
+    owl:versionInfo "2026-03-22T11:54:52.779865+00:00" .
+

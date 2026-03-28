@@ -8,9 +8,9 @@
     "wd": "http://wikidata.org/entity/"
   },
   "exportType": "sisal",
-  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/sisal__2026-03-21_162234Z",
+  "datasetUri": "http://research-squirrel-engineers.github.io/osm2lod/sisal__2026-03-22_115449Z",
   "dcterms:title": "OSM Overpass Export",
-  "dcterms:created": "2026-03-21T16:22:34.175179+00:00",
+  "dcterms:created": "2026-03-22T11:54:49.282577+00:00",
   "dcterms:license": "https://opendatacommons.org/licenses/odbl/",
   "overpassEndpointCandidates": [
     "https://overpass-api.de/api/interpreter",
@@ -59,7 +59,7 @@
     "url"
   ],
   "extraTagKeys": [],
-  "recordCount": 221,
+  "recordCount": 219,
   "columns": [
     "type",
     "id",
@@ -186,17 +186,17 @@
   "dcat:distribution": [
     {
       "dcat:mediaType": "text/csv",
-      "dcat:downloadURL": "osm_export_sisal_2026-03-21_162234Z.csv",
-      "dcat:byteSize": 61612
+      "dcat:downloadURL": "osm_export_sisal_2026-03-22_115449Z.csv",
+      "dcat:byteSize": 61173
     },
     {
       "dcat:mediaType": "text/turtle",
-      "dcat:downloadURL": "osm_export_sisal_2026-03-21_162234Z.ttl",
-      "dcat:byteSize": 188465
+      "dcat:downloadURL": "osm_export_sisal_2026-03-22_115449Z.ttl",
+      "dcat:byteSize": 187001
     }
   ],
   "output": {
-    "csv": "osm_export_sisal_2026-03-21_162234Z.csv",
-    "ttl": "osm_export_sisal_2026-03-21_162234Z.ttl"
+    "csv": "osm_export_sisal_2026-03-22_115449Z.csv",
+    "ttl": "osm_export_sisal_2026-03-22_115449Z.ttl"
   }
 }

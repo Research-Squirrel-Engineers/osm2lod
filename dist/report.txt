@@ -1,43 +1,50 @@
 ▶ Running exports: ogham, holywells, ci, drillcores, benchmarks, sisal, romansites
-✔ ogham: 107 records
-  → osm_export_ogham_2026-03-21_161402Z.csv
-  → osm_export_ogham_2026-03-21_161402Z.ttl
-  → metadata_ogham_2026-03-21_161402Z.json
+✔ ogham: 109 records
+  → osm_export_ogham_2026-03-22_115013Z.csv
+  → osm_export_ogham_2026-03-22_115013Z.ttl
+  → metadata_ogham_2026-03-22_115013Z.json
   → URL expansion cache size: 0
-✔ holywells: 734 records
-  → osm_export_holywells_2026-03-21_161412Z.csv
-  → osm_export_holywells_2026-03-21_161412Z.ttl
-  → metadata_holywells_2026-03-21_161412Z.json
+✔ holywells: 736 records
+  → osm_export_holywells_2026-03-22_115020Z.csv
+  → osm_export_holywells_2026-03-22_115020Z.ttl
+  → metadata_holywells_2026-03-22_115020Z.json
   → URL expansion cache size: 0
 ✔ ci: 11 records
-  → osm_export_ci_2026-03-21_162128Z.csv
-  → osm_export_ci_2026-03-21_162128Z.ttl
-  → metadata_ci_2026-03-21_162128Z.json
+  → osm_export_ci_2026-03-22_115314Z.csv
+  → osm_export_ci_2026-03-22_115314Z.ttl
+  → metadata_ci_2026-03-22_115314Z.json
   → URL expansion cache size: 0
 ✔ drillcores: 8 records
-  → osm_export_drillcores_2026-03-21_162134Z.csv
-  → osm_export_drillcores_2026-03-21_162134Z.ttl
-  → metadata_drillcores_2026-03-21_162134Z.json
+  → osm_export_drillcores_2026-03-22_115316Z.csv
+  → osm_export_drillcores_2026-03-22_115316Z.ttl
+  → metadata_drillcores_2026-03-22_115316Z.json
   → URL expansion cache size: 0
 ✔ benchmarks: 21 records
-  → osm_export_benchmarks_2026-03-21_162224Z.csv
-  → osm_export_benchmarks_2026-03-21_162224Z.ttl
-  → metadata_benchmarks_2026-03-21_162224Z.json
+  → osm_export_benchmarks_2026-03-22_115320Z.csv
+  → osm_export_benchmarks_2026-03-22_115320Z.ttl
+  → metadata_benchmarks_2026-03-22_115320Z.json
   → URL expansion cache size: 0
-✔ sisal: 221 records
-  → osm_export_sisal_2026-03-21_162234Z.csv
-  → osm_export_sisal_2026-03-21_162234Z.ttl
-  → metadata_sisal_2026-03-21_162234Z.json
+✔ sisal: 219 records
+  → osm_export_sisal_2026-03-22_115449Z.csv
+  → osm_export_sisal_2026-03-22_115449Z.ttl
+  → metadata_sisal_2026-03-22_115449Z.json
   → URL expansion cache size: 0
 ✔ romansites: 15 records
-  → osm_export_romansites_2026-03-21_162415Z.csv
-  → osm_export_romansites_2026-03-21_162415Z.ttl
-  → metadata_romansites_2026-03-21_162415Z.json
+  → osm_export_romansites_2026-03-22_115452Z.csv
+  → osm_export_romansites_2026-03-22_115452Z.ttl
+  → metadata_romansites_2026-03-22_115452Z.json
   → URL expansion cache size: 0
 
 ============================================================
+🦉 OWL ontology written: dist\osm2lod_ontology.ttl
+   Classes   : 10
+   Obj props : 9
+   Data props: 32
+   Triples   : 323
+
+============================================================
 📊 Generating complete changelog history (4 runs)
-   Date range: 2025-12-21 → 2026-03-21
+   Date range: 2025-12-21 → 2026-03-22
 
    Comparing: 2025-12-21 → 2026-03-09
      ✔ ogham: 1 changes (0 added, 1 modified, 0 deleted)
@@ -53,13 +60,13 @@
      ✔ drillcores: 0 changes (0 added, 0 modified, 0 deleted)
      ✔ benchmarks: 1 changes (0 added, 0 modified, 1 deleted)
 
-   Comparing: 2026-03-15 → 2026-03-21
-     ✔ ogham: 1 changes (1 added, 0 modified, 0 deleted)
-     ✔ holywells: 0 changes (0 added, 0 modified, 0 deleted)
+   Comparing: 2026-03-15 → 2026-03-22
+     ✔ ogham: 3 changes (3 added, 0 modified, 0 deleted)
+     ✔ holywells: 3 changes (2 added, 1 modified, 0 deleted)
      ✔ ci: 1 changes (1 added, 0 modified, 0 deleted)
      ✔ drillcores: 0 changes (0 added, 0 modified, 0 deleted)
      ✔ benchmarks: 0 changes (0 added, 0 modified, 0 deleted)
-     ✔ sisal: 221 changes (221 added, 0 modified, 0 deleted)
+     ✔ sisal: 219 changes (219 added, 0 modified, 0 deleted)
      ✔ romansites: 15 changes (15 added, 0 modified, 0 deleted)
 
 📄 Complete changelog history saved: dist\changelog.html

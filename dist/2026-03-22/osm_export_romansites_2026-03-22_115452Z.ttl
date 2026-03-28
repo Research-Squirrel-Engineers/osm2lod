@@ -15,9 +15,9 @@ osm2lod:node_1796082995 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Römische Umfassungmauer"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1796082995" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__access "permissive" ;
     osm2lod:osmtag__archaeological_site "fortification" ;
@@ -35,9 +35,9 @@ osm2lod:node_1930543644 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "OSM node 1930543644"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/1930543644" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__access "yes" ;
     osm2lod:osmtag__archaeological_site "fortification" ;
@@ -55,9 +55,9 @@ osm2lod:node_333175552 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "UNESCO-Weltkulturebe Römischer Wachturm"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/333175552" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__historic__civilization "roman" ;
@@ -73,9 +73,9 @@ osm2lod:node_3483897061 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Lindenhof-Keller"@en,
         "Линденхоф- Липовый двор"@ru ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/3483897061" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__description "Der Lindenhof war einst Brennpunkt und Machtzentrum der städtischen Siedlung. Im Lindenhof-Keller mit seinen imposanten, historischen Mauern können heute die Reste des römischen Kastells und der mittelalterlichen Königspfalz besichtigt werden." ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -92,9 +92,9 @@ osm2lod:node_6358516450 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Tuffsteine aus dem Römerlager"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6358516450" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__description "Römisches Lager Novaesium" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -108,9 +108,9 @@ osm2lod:node_6654634631 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Amphitheater Augusta Raurica"@de,
         "Augst Amphitheatre"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/6654634631" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__archaeological_site "amphitheatre" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -128,9 +128,9 @@ osm2lod:node_7878861331 a osm2lod:OSMEntity,
     rdfs:label "Forum"@en,
         "Foro"@es,
         "Forum"@fr ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:node/7878861331" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__archaeological_site "roman_forum" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -144,9 +144,9 @@ osm2lod:way_104871217 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Franzensknüppchen"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/104871217" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__archaeological_site "tumulus" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -164,12 +164,12 @@ osm2lod:way_1054468269 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Römisches Kastell Tenedo"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/1054468269" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__access "yes" ;
-    osm2lod:osmtag__historic "castle" ;
+    osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__historic__civilization "ancient_roman" ;
     osm2lod:osmtag__name "Römisches Kastell Tenedo" ;
     osm2lod:osmtag__wikidata "Q25388900" ;
@@ -183,9 +183,9 @@ osm2lod:way_157929084 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Römerpark"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/157929084" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__archaeological_site "fortification" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -202,9 +202,9 @@ osm2lod:way_168318389 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Keltische Befestigung «Murus Gallicus»"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/168318389" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__historic "archaeological_site" ;
     osm2lod:osmtag__name "Keltische Befestigung «Murus Gallicus»" ;
@@ -218,9 +218,9 @@ osm2lod:way_32545380 a osm2lod:OSMEntity,
         dcat:Dataset ;
     rdfs:label "Titelberg"@en,
         "Tëtelbierg"@lb ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/32545380" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__archaeological_site "settlement" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -235,9 +235,9 @@ osm2lod:way_346290310 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Romeinse Tempelsite"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/346290310" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__access "permissive" ;
     osm2lod:osmtag__archaeological_site "temple" ;
@@ -259,9 +259,9 @@ osm2lod:way_435021824 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Römerbaustelle Aliso"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/435021824" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__description "LWL-Ausgrabung Aliso (Westtor)" ;
     osm2lod:osmtag__historic "archaeological_site" ;
@@ -274,9 +274,9 @@ osm2lod:way_699387398 a osm2lod:OSMEntity,
         crm:E26_Physical_Feature,
         dcat:Dataset ;
     rdfs:label "Lousonna"@en ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
     dcterms:identifier "osm:way/699387398" ;
-    dcterms:isPartOf osm2lod:romansites__2026-03-21_162415Z ;
+    dcterms:isPartOf osm2lod:romansites__2026-03-22_115452Z ;
     osm2lod:exportType "romansites" ;
     osm2lod:osmtag__access "private" ;
     osm2lod:osmtag__archaeological_site "settlement" ;
@@ -332,10 +332,10 @@ osm2lod:699387398_geom a sf:Point ;
 osm2lod:7878861331_geom a sf:Point ;
     geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-8.4949195 40.0992523)"^^geosparql:wktLiteral .
 
-osm2lod:romansites__2026-03-21_162415Z a osm2lod:Dataset,
+osm2lod:romansites__2026-03-22_115452Z a osm2lod:Dataset,
         dcat:Dataset ;
-    dcterms:created "2026-03-21T16:24:15.181426+00:00"^^xsd:dateTime ;
-    dcterms:identifier "osm2lod:romansites:2026-03-21_162415Z" ;
+    dcterms:created "2026-03-22T11:54:52.714104+00:00"^^xsd:dateTime ;
+    dcterms:identifier "osm2lod:romansites:2026-03-22_115452Z" ;
     dcterms:provenance """[out:json][timeout:25];
 (
   way(104871217);

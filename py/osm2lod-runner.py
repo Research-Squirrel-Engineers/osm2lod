@@ -2113,6 +2113,391 @@ def generate_diff_quickstatements_for_run(
     return report_path
 
 
+# =================================================
+# OWL Ontology Export
+# =================================================
+
+
+def export_owl_ontology(dist_dir: Path) -> Path:
+    """
+    Generates a full OWL ontology for the osm2lod vocabulary and writes it
+    to dist/osm2lod_ontology.ttl.
+
+    Covers:
+    - Ontology metadata (owl:Ontology)
+    - All osm2lod domain classes with rdfs:subClassOf alignments to CRM / GeoSPARQL / DCAT
+    - All object and datatype properties (osmtag__*, exportType, etc.)
+    - Alignment axioms to external ontologies (CRM, GeoSPARQL, DCAT, DCTERMS, FOAF, OWL)
+    """
+    from rdflib.namespace import SKOS
+
+    g = Graph()
+
+    # ── Namespaces ────────────────────────────────────────────────────────────
+    g.bind("osm2lod", OSM2LOD)
+    g.bind("owl", OWL)
+    g.bind("rdf", RDF)
+    g.bind("rdfs", RDFS)
+    g.bind("xsd", XSD)
+    g.bind("dcterms", DCTERMS)
+    g.bind("dcat", DCAT)
+    g.bind("crm", CRM)
+    g.bind("geosparql", GEOSPARQL)
+    g.bind("foaf", FOAF)
+    g.bind("skos", SKOS)
+    g.bind("prov", PROV)
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+
+    # ── owl:Ontology ──────────────────────────────────────────────────────────
+    ONT = URIRef(f"{OSM2LOD}ontology")
+    g.add((ONT, RDF.type, OWL.Ontology))
+    g.add((ONT, RDFS.label, Literal("osm2lod Ontology", lang="en")))
+    g.add(
+        (
+            ONT,
+            DCTERMS.title,
+            Literal("osm2lod – OSM to Linked Open Data Vocabulary", lang="en"),
+        )
+    )
+    g.add(
+        (
+            ONT,
+            DCTERMS.description,
+            Literal(
+                "Vocabulary for representing OpenStreetMap features as Linked Data, "
+                "aligned to CIDOC-CRM, GeoSPARQL, DCAT and Dublin Core.",
+                lang="en",
+            ),
+        )
+    )
+    g.add((ONT, DCTERMS.creator, Literal("Research Squirrel Engineers")))
+    g.add((ONT, DCTERMS.created, Literal(now_iso, datatype=XSD.dateTime)))
+    g.add(
+        (ONT, DCTERMS.license, URIRef("https://creativecommons.org/licenses/by/4.0/"))
+    )
+    g.add((ONT, OWL.versionInfo, Literal(now_iso)))
+    g.add(
+        (ONT, URIRef(f"{OWL}imports"), URIRef("http://www.opengis.net/ont/geosparql"))
+    )
+
+    # ── Helper lambdas ────────────────────────────────────────────────────────
+    def add_class(
+        uri: URIRef,
+        label: str,
+        comment: str,
+        parent: URIRef = None,
+        equiv: URIRef = None,
+        subclass_of: list = None,
+    ) -> None:
+        g.add((uri, RDF.type, OWL.Class))
+        g.add((uri, RDFS.label, Literal(label, lang="en")))
+        g.add((uri, RDFS.comment, Literal(comment, lang="en")))
+        g.add((uri, RDFS.isDefinedBy, ONT))
+        if parent:
+            g.add((uri, RDFS.subClassOf, parent))
+        if equiv:
+            g.add((uri, OWL.equivalentClass, equiv))
+        for sc in subclass_of or []:
+            g.add((uri, RDFS.subClassOf, sc))
+
+    def add_obj_prop(
+        uri: URIRef,
+        label: str,
+        comment: str,
+        domain: URIRef = None,
+        range_: URIRef = None,
+        subprop: URIRef = None,
+        equiv: URIRef = None,
+    ) -> None:
+        g.add((uri, RDF.type, OWL.ObjectProperty))
+        g.add((uri, RDFS.label, Literal(label, lang="en")))
+        g.add((uri, RDFS.comment, Literal(comment, lang="en")))
+        g.add((uri, RDFS.isDefinedBy, ONT))
+        if domain:
+            g.add((uri, RDFS.domain, domain))
+        if range_:
+            g.add((uri, RDFS.range, range_))
+        if subprop:
+            g.add((uri, RDFS.subPropertyOf, subprop))
+        if equiv:
+            g.add((uri, OWL.equivalentProperty, equiv))
+
+    def add_data_prop(
+        uri: URIRef,
+        label: str,
+        comment: str,
+        domain: URIRef = None,
+        range_: URIRef = None,
+        subprop: URIRef = None,
+    ) -> None:
+        g.add((uri, RDF.type, OWL.DatatypeProperty))
+        g.add((uri, RDFS.label, Literal(label, lang="en")))
+        g.add((uri, RDFS.comment, Literal(comment, lang="en")))
+        g.add((uri, RDFS.isDefinedBy, ONT))
+        if domain:
+            g.add((uri, RDFS.domain, domain))
+        if range_:
+            g.add((uri, RDFS.range, range_))
+        if subprop:
+            g.add((uri, RDFS.subPropertyOf, subprop))
+
+    # ── Core abstract classes ─────────────────────────────────────────────────
+    OSM_ENTITY = URIRef(f"{OSM2LOD}OSMEntity")
+    OSM_DATASET = URIRef(f"{OSM2LOD}Dataset")
+
+    add_class(
+        OSM_ENTITY,
+        label="OSM Entity",
+        comment="Abstract superclass for all OpenStreetMap features represented as Linked Data.",
+        subclass_of=[DCAT.Dataset],
+    )
+    add_class(
+        OSM_DATASET,
+        label="osm2lod Dataset",
+        comment="A DCAT dataset produced by an osm2lod export run.",
+        subclass_of=[DCAT.Dataset],
+    )
+
+    # ── Domain classes (one per export type + internal subtypes) ─────────────
+    CLASS_DEFS = [
+        (
+            URIRef(f"{OSM2LOD}OghamStone"),
+            "Ogham Stone",
+            "An early medieval inscribed standing stone bearing Ogham script.",
+            OSM_ENTITY,
+            [CRM.E22_Human_Made_Object],
+        ),
+        (
+            URIRef(f"{OSM2LOD}HolyWell"),
+            "Holy Well",
+            "A sacred water site, typically a natural spring venerated in folk or religious tradition.",
+            OSM_ENTITY,
+            [CRM.E26_Physical_Feature],
+        ),
+        (
+            URIRef(f"{OSM2LOD}CI_Findspot"),
+            "CI Findspot",
+            "A Palaeolithic cave or rock-shelter site yielding Continuum of Innovation (CI) artefacts.",
+            OSM_ENTITY,
+            [CRM.E55_Place],
+        ),
+        (
+            URIRef(f"{OSM2LOD}Maar"),
+            "Maar",
+            "A low-relief volcanic crater formed by a phreatomagmatic eruption.",
+            OSM_ENTITY,
+            [CRM.E55_Place],
+        ),
+        (
+            URIRef(f"{OSM2LOD}CoreProfile"),
+            "Core Profile",
+            "A drill-core borehole profile associated with a volcanic maar site.",
+            OSM_ENTITY,
+            [CRM.E55_Place],
+        ),
+        (
+            URIRef(f"{OSM2LOD}Benchmark"),
+            "Benchmark",
+            "An Ordnance Survey benchmark / geodetic survey point with a Wikimedia Commons photograph.",
+            OSM_ENTITY,
+            [CRM.E22_Human_Made_Object],
+        ),
+        (
+            URIRef(f"{OSM2LOD}SisalSite"),
+            "SISAL Site",
+            "A speleothem cave site included in the SISAL (Speleothem Isotopes Synthesis and Analysis) database.",
+            OSM_ENTITY,
+            [CRM.E26_Physical_Feature],
+        ),
+        (
+            URIRef(f"{OSM2LOD}RomanSite"),
+            "Roman Site",
+            "A Roman-period archaeological site.",
+            OSM_ENTITY,
+            [CRM.E26_Physical_Feature],
+        ),
+    ]
+
+    for uri, label, comment, parent, subclass_of in CLASS_DEFS:
+        add_class(
+            uri, label=label, comment=comment, parent=parent, subclass_of=subclass_of
+        )
+
+    # ── Object properties ─────────────────────────────────────────────────────
+
+    # geospatial
+    add_obj_prop(
+        GEOSPARQL.hasGeometry,
+        label="has geometry",
+        comment="Links an OSM entity to its GeoSPARQL geometry node.",
+        domain=OSM_ENTITY,
+        range_=URIRef("http://www.opengis.net/ont/geosparql#Geometry"),
+    )
+
+    # provenance / OSM reference
+    add_obj_prop(
+        FOAF.primaryTopic,
+        label="primary topic",
+        comment="Links an osm2lod record to the canonical OpenStreetMap URI of the original element.",
+        domain=OSM_ENTITY,
+        range_=URIRef("http://www.w3.org/2002/07/owl#Thing"),
+    )
+
+    # dataset membership
+    add_obj_prop(
+        DCTERMS.isPartOf,
+        label="is part of",
+        comment="Links an OSM entity record to the osm2lod Dataset it was exported in.",
+        domain=OSM_ENTITY,
+        range_=OSM_DATASET,
+    )
+
+    # Wikidata alignment
+    add_obj_prop(
+        OWL.sameAs,
+        label="same as (Wikidata)",
+        comment="owl:sameAs link to the corresponding Wikidata entity (Q-item).",
+        domain=OSM_ENTITY,
+        range_=URIRef("http://www.wikidata.org/entity/Q35120"),  # wd:Q35120 = entity
+    )
+
+    # ── Datatype properties ───────────────────────────────────────────────────
+
+    # exportType
+    add_data_prop(
+        URIRef(f"{OSM2LOD}exportType"),
+        label="export type",
+        comment="Identifies the osm2lod export category this entity belongs to "
+        "(e.g. 'ogham', 'holywells', 'sisal').",
+        domain=OSM_ENTITY,
+        range_=XSD.string,
+    )
+
+    # OSM tag properties — one DatatypeProperty per CORE_TAG_KEY + extra keys
+    all_tag_keys: List[str] = sorted(
+        set(
+            CORE_TAG_KEYS + [k for keys in EXPORT_EXTRA_TAG_KEYS.values() for k in keys]
+        )
+    )
+
+    TAG_PROP_LABELS: Dict[str, str] = {
+        "name": "name",
+        "alt_name": "alternative name",
+        "int_name": "international name",
+        "loc_name": "local name",
+        "description": "description",
+        "note": "note",
+        "source": "source",
+        "source:ref": "source reference",
+        "source:url": "source URL",
+        "ref": "reference identifier",
+        "access": "access restriction",
+        "operator": "operator",
+        "historic": "historic feature type",
+        "historic:civilization": "historic civilisation",
+        "place_of_worship": "place of worship type",
+        "religion": "religion",
+        "denomination": "denomination",
+        "natural": "natural feature type",
+        "man_made": "man-made feature type",
+        "water": "water feature type",
+        "water_source": "water source",
+        "tourism": "tourism type",
+        "archaeological_site": "archaeological site type",
+        "ele": "elevation",
+        "wikidata": "Wikidata QID (tag)",
+        "wikipedia": "Wikipedia article (tag)",
+        "wikimedia_commons": "Wikimedia Commons file (tag)",
+        "image": "image URL",
+        "website": "website URL",
+        "url": "URL",
+        "volcano:status": "volcano status",
+        "volcano:type": "volcano type",
+        "benchmark": "benchmark type",
+        "survey:date": "survey date",
+        "survey_point:structure": "survey point structure",
+    }
+
+    TAG_PROP_RANGES: Dict[str, URIRef] = {
+        "source:url": XSD.anyURI,
+        "website": XSD.anyURI,
+        "url": XSD.anyURI,
+        "image": XSD.anyURI,
+        "wikimedia_commons": XSD.anyURI,
+        "ele": XSD.decimal,
+        "survey:date": XSD.date,
+    }
+
+    for key in all_tag_keys:
+        safe = key.replace(":", "__")
+        prop = URIRef(f"{OSM2LOD}osmtag__{safe}")
+        label = TAG_PROP_LABELS.get(key, key.replace(":", " ").replace("_", " "))
+        comment = f"OSM tag '{key}' mapped as an osm2lod datatype property."
+        range_ = TAG_PROP_RANGES.get(key, XSD.string)
+
+        # URL-valued tags become object properties
+        if range_ == XSD.anyURI:
+            add_obj_prop(
+                prop,
+                label=f"OSM tag: {label}",
+                comment=comment,
+                domain=OSM_ENTITY,
+                range_=URIRef("http://www.w3.org/2002/07/owl#Thing"),
+            )
+        else:
+            add_data_prop(
+                prop,
+                label=f"OSM tag: {label}",
+                comment=comment,
+                domain=OSM_ENTITY,
+                range_=range_,
+            )
+
+    # ── Geometry datatype property ────────────────────────────────────────────
+    add_data_prop(
+        GEOSPARQL.asWKT,
+        label="as WKT",
+        comment="GeoSPARQL WKT literal representing the geometry of an OSM entity "
+        "(CRS: EPSG:4326, format: POINT(lon lat)).",
+        domain=URIRef("http://www.opengis.net/ont/geosparql#Geometry"),
+        range_=GEOSPARQL.wktLiteral,
+    )
+
+    # ── Alignment axioms (rdfs:subClassOf to external ontologies) ─────────────
+    # These are already expressed via subclass_of in CLASS_DEFS above.
+    # Add explicit cross-ontology notes as rdfs:seeAlso
+    alignments = [
+        (URIRef(f"{OSM2LOD}OghamStone"), CRM.E22_Human_Made_Object),
+        (URIRef(f"{OSM2LOD}HolyWell"), CRM.E26_Physical_Feature),
+        (URIRef(f"{OSM2LOD}CI_Findspot"), CRM.E55_Place),
+        (URIRef(f"{OSM2LOD}Maar"), CRM.E55_Place),
+        (URIRef(f"{OSM2LOD}CoreProfile"), CRM.E55_Place),
+        (URIRef(f"{OSM2LOD}Benchmark"), CRM.E22_Human_Made_Object),
+        (URIRef(f"{OSM2LOD}SisalSite"), CRM.E26_Physical_Feature),
+        (URIRef(f"{OSM2LOD}RomanSite"), CRM.E26_Physical_Feature),
+        (OSM_ENTITY, DCAT.Dataset),
+        (OSM_DATASET, DCAT.Dataset),
+    ]
+    for cls, ext in alignments:
+        g.add((cls, RDFS.seeAlso, ext))
+
+    # ── Serialize ─────────────────────────────────────────────────────────────
+    owl_path = dist_dir / "osm2lod_ontology.ttl"
+    g.serialize(owl_path, format="turtle")
+
+    triple_count = len(g)
+    print(f"🦉 OWL ontology written: {owl_path}")
+    print(f"   Classes   : {sum(1 for s in g.subjects(RDF.type, OWL.Class))}")
+    print(f"   Obj props : {sum(1 for s in g.subjects(RDF.type, OWL.ObjectProperty))}")
+    print(
+        f"   Data props: {sum(1 for s in g.subjects(RDF.type, OWL.DatatypeProperty))}"
+    )
+    print(f"   Triples   : {triple_count}")
+
+    return owl_path
+
+
 def main() -> None:
     DIST_BASE_DIR.mkdir(exist_ok=True)
 
@@ -2141,6 +2526,12 @@ def main() -> None:
                 dist_dir=run_dir,  # Verwende den datumsspezifischen Unterordner
                 overpass_query=cfg["query"],
             )
+
+        print()
+        print("=" * 60)
+
+        # Generiere OWL Ontologie (einmalig in dist/)
+        export_owl_ontology(DIST_BASE_DIR)
 
         print()
         print("=" * 60)
