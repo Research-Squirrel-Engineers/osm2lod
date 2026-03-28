@@ -498,6 +498,14 @@ out meta geom;
 """,
         "entity_base_class": CRM.E26_Physical_Feature,
     },
+    "hogbacks": {
+        "query": """
+[out:json][timeout:25];
+node["historic"="hogback"];
+out meta geom;
+""",
+        "entity_base_class": CRM.E22_Human_Made_Object,
+    },
 }
 
 SELECTED_EXPORTS: List[str] = [
@@ -564,6 +572,7 @@ P10_QUERY_ITEM = {
     "benchmarks": "Q890",
     "sisal": "Q894",
     "romansites": "Q895",
+    "hogbacks": "Q897",
 }
 
 P1_FIXED = {
@@ -572,6 +581,7 @@ P1_FIXED = {
     "ci": ["Q21", "Q22"],
     "sisal": ["Q892"],
     "romansites": ["Q893"],
+    "hogbacks": ["Q896"],
 }
 
 P4_TYPE_ITEM = {"node": "Q5", "way": "Q6", "relation": "Q7"}
@@ -593,6 +603,7 @@ EXPORT_RDFTYPE: Dict[str, URIRef] = {
     "benchmarks": URIRef(f"{OSM2LOD}Benchmark"),
     "sisal": URIRef(f"{OSM2LOD}SisalSite"),
     "romansites": URIRef(f"{OSM2LOD}RomanSite"),
+    "hogbacks": URIRef(f"{OSM2LOD}HogbackStone"),
 }
 
 
@@ -2317,6 +2328,13 @@ def export_owl_ontology(dist_dir: Path) -> Path:
             OSM_ENTITY,
             [CRM.E26_Physical_Feature],
         ),
+        (
+            URIRef(f"{OSM2LOD}HogbackStone"),
+            "Hogback Stone",
+            "A Viking-Age carved recumbent monument, typically found in northern England and Scotland.",
+            OSM_ENTITY,
+            [CRM.E22_Human_Made_Object],
+        ),
     ]
 
     for uri, label, comment, parent, subclass_of in CLASS_DEFS:
@@ -2476,6 +2494,7 @@ def export_owl_ontology(dist_dir: Path) -> Path:
         (URIRef(f"{OSM2LOD}Benchmark"), CRM.E22_Human_Made_Object),
         (URIRef(f"{OSM2LOD}SisalSite"), CRM.E26_Physical_Feature),
         (URIRef(f"{OSM2LOD}RomanSite"), CRM.E26_Physical_Feature),
+        (URIRef(f"{OSM2LOD}HogbackStone"), CRM.E22_Human_Made_Object),
         (OSM_ENTITY, DCAT.Dataset),
         (OSM_DATASET, DCAT.Dataset),
     ]

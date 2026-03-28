@@ -71,6 +71,7 @@ TEST_EXPORTS = {
     "benchmarks": "Q890",
     "sisal": "Q894",
     "romansites": "Q895",
+    "hogbacks": "Q897",
 }
 
 # Gleiche Konstante für CREATE statements
@@ -434,6 +435,8 @@ def generate_diff_quickstatements(
                 lines.append("LAST|P1|Q892")
             elif export_type == "romansites":
                 lines.append("LAST|P1|Q893")
+            elif export_type == "hogbacks":
+                lines.append("LAST|P1|Q896")
 
             # P3 (OSM numeric ID)
             lines.append(f"LAST|P3|{item['osm_id']}")
