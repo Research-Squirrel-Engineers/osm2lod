@@ -628,7 +628,7 @@ dcat: a voaf:Vocabulary ;
     vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-03-28T12:15:21"^^xsd:dateTime ;
+    dcterms:modified "2026-03-28T12:23:17"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
